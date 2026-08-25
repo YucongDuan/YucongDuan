@@ -7,6 +7,13 @@
 Professor and Doctoral Supervisor, Hainan University  
 President, World Academy for Artificial Consciousness (WAAC)
 
+<a href="https://www.researchgate.net/profile/Yucong-Duan">
+  <img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Yucong Duan on ResearchGate">
+</a>
+<a href="https://waac.ac/">
+  <img src="https://img.shields.io/badge/WAAC-Academy_Portal-4B32C3?style=for-the-badge" alt="World Academy for Artificial Consciousness">
+</a>
+
 [Research map](#research-map) · [Start with code](#start-with-code) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official academic profile](https://cs.hainanu.edu.cn/info/1104/1858.htm) · [中文简介](#中文简介)
 
 </div>
@@ -22,6 +29,13 @@ This GitHub account is a public research workshop. It connects foundational work
 > **Working loop:** D → I → K → W → P → action → evidence → revision
 
 The aim is not to turn a framework into an unquestionable authority. The aim is to expose assumptions, provenance, translation loss, competing models, decision boundaries, and contact with reality.
+
+## External research portals
+
+| Portal | Primary entry | What visitors can explore |
+|---|---|---|
+| **ResearchGate** | [Open Yucong Duan's research profile →](https://www.researchgate.net/profile/Yucong-Duan) | Publications, research questions, project updates, citations, and academic exchange. |
+| **WAAC** | [Enter the World Academy for Artificial Consciousness →](https://waac.ac/) | Artificial-consciousness research, academicians, conferences, collaborations, news, and institutional initiatives. |
 
 ## Research map
 
@@ -46,6 +60,19 @@ If you are new to this ecosystem, begin with one concrete need:
 6. **Compile mathematical problems into auditable research objects** — [DIKWP-CITM Forge](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) generates deterministic, hash-linked, machine-readable problem-to-certificate packages.
 
 [Browse all repositories →](https://github.com/YucongDuan?tab=repositories)
+
+## Discover, run, cite, and support
+
+If a project is useful to your research or practice:
+
+1. **Run it** — open the repository, follow its quick start, and inspect the generated evidence rather than relying on the description alone.
+2. **Star it** — a GitHub star helps other researchers and builders discover the project.
+3. **Test it** — open an issue with a reproducible case, counterexample, missing boundary, or proposed extension.
+4. **Build on it** — fork the repository, preserve attribution and provenance, and make improvements reviewable.
+5. **Cite it** — use the repository's `CITATION.cff`, `NOTICE`, references, or canonical repository URL where available.
+6. **Share the canonical link** — direct readers to the original repository so downloads, issues, citations, and updates remain connected.
+
+The fastest way to help this ecosystem grow is not passive praise; it is a reproducible run, a precise issue, a documented extension, an independent evaluation, or a proper citation.
 
 ## A shared engineering grammar
 
@@ -88,6 +115,8 @@ For an efficient first contact, please send a written note that identifies the *
 本账号不是若干孤立原型的堆叠，而是一个公开研究工场：把理论命题转化为可运行系统，把系统输出转化为证据链，把证据链置于多模型竞争、边界审查、现实反馈和持续修订之中。
 
 建议首次访问者从上方 **Research map** 选择一条研究主线，再从 **Start with code** 进入一个可运行项目。针对具体仓库的技术讨论优先使用 GitHub Issues；学术交流可通过 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 发起。
+
+外部入口：[段玉聪 ResearchGate 学术主页 →](https://www.researchgate.net/profile/Yucong-Duan) · [世界人工意识科学院（WAAC）官网 →](https://waac.ac/)
 
 ## Citation and provenance
 
