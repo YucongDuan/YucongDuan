@@ -24,8 +24,14 @@ President, World Academy for Artificial Consciousness (WAAC)
 <a href="https://www.yucongduan.org/">
   <img src="https://img.shields.io/badge/WCAC-Conference_Series-B8860B?style=for-the-badge" alt="World Conference on Artificial Consciousness">
 </a>
+<a href="https://www.iso.org/standard/86195.html">
+  <img src="https://img.shields.io/badge/ISO%2FIEC_TR_25005--2%3A2025-DIKWPA_Framework-00629B?style=for-the-badge" alt="ISO IEC TR 25005-2:2025 DIKWPA framework">
+</a>
+<a href="https://patents.google.com/?q=(DIKWP)&amp;oq=DIKWP">
+  <img src="https://img.shields.io/badge/DIKWP-Independent_Patent_Diffusion-7A1FA2?style=for-the-badge" alt="Independent DIKWP patent diffusion on Google Patents">
+</a>
 
-[Academic impact](#academic-impact--学术影响) · [Conference leadership](#institution-building--conference-leadership) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
+[ISO/IEC standardization](#isoiec-standardization--国际标准化) · [Independent patents](#independent-patent-diffusion--非段玉聪参与的外部专利扩散) · [Academic impact](#academic-impact--学术影响) · [Conference leadership](#institution-building--conference-leadership) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
 
 </div>
 
@@ -53,9 +59,23 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 | **Official website** | [Visit yucongduan.org →](https://www.yucongduan.org/) | Full bilingual profile, research-team news, awards, conference history, and current initiatives. |
 | **Hainan University** | [Open the university profile →](https://cs.hainanu.edu.cn/info/1104/1858.htm) | Institutional appointment, research directions, teaching, and contact information. |
 
+## ISO/IEC standardization / 国际标准化
+
+**DIKWP has progressed from an originating research framework into the methodological body of an international technical report.** [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html), published in October 2025, defines **DIKWPA** as Data–Information–Knowledge–Wisdom–Purpose–Action and explicitly connects its core structure to the DIKWP model.
+
+| Verified layer | Public evidence | What it establishes |
+|---|---|---|
+| **Official publication** | [ISO: ISO/IEC TR 25005-2:2025 →](https://www.iso.org/standard/86195.html) | The ISO/IEC technical report on smart-city data-use case analysis is published as Edition 1 (2025). |
+| **Methodological adoption in the standard body** | [Public standards preview: §6.2 and §7.1 →](https://standards.iteh.ai/catalog/standards/iso/31c3610b-9085-481b-8081-6f8850ec1dbb/iso-iec-tr-25005-2-2025) | §6.2 adopts DIKWPA as the framework for analysing smart-city data-use cases; §7.1 selects it as the theoretical foundation for constructing the smart-city data value chain. This is stronger than a bibliography-only citation. |
+| **Downstream practice connected to the report** | [数梦工场 / 数美科技 implementation report →](https://www.dtsphere.com/newsCenter/detail-modern?page=1&uuid=cf5d670cedf342278ddd5d3f504e2923) | The company report states that seven Zhejiang smart-city practices supported by 数梦工场 and 数美科技 were included among the report's 23 selected cases, connecting the standard framework to concrete data-governance settings. |
+
+> **Precise impact statement:** DIKWP's Purpose-centred semantic structure is carried forward into DIKWPA through the addition of Action. ISO/IEC TR 25005-2:2025 uses that extended structure as both an analysis framework and a data-value-chain foundation. This establishes methodological uptake in an ISO/IEC publication; it does not imply ISO endorsement of every DIKWP-related product, patent, organization, or claim.
+
+**中文概括：** DIKWP 的“目的（Purpose）”层及其语义结构进一步扩展为加入“行动（Action）”的 DIKWPA。ISO/IEC TR 25005-2:2025 不只是提及该结构，而是在第 6.2 节将 DIKWPA 用作智慧城市数据利用案例的分析框架，并在第 7.1 节将其选为数据价值链的理论基础。这构成了可公开核验的方法论采用证据。
+
 ## Academic impact / 学术影响
 
-Yucong Duan's work connects **DIKWP theory**, **artificial consciousness**, **semantic mathematics**, **auditable AI**, and executable open research systems. Rather than presenting a static impact number, the links above expose the underlying scholarly and invention records so that readers can inspect publications, citation trails, patent families, collaborators, and technical continuity directly.
+Yucong Duan's work connects **DIKWP theory**, **artificial consciousness**, **semantic mathematics**, **auditable AI**, and executable open research systems. Its influence can now be inspected across four mutually reinforcing layers: scholarly publication and citation, an extensive source-team patent portfolio, DIKWP/DIKWPA methodological adoption inside **ISO/IEC TR 25005-2:2025**, and independent patent filings by external applicants in multiple industries. Rather than relying on a static impact number, the links on this page expose the underlying records so that readers can inspect publications, patent families, standard text, applicants, domains, and technical continuity directly.
 
 > The official profile published for the 3rd World Conference on Artificial Consciousness reports **300+ papers**, **11 monographs**, **400+ first-inventor patent applications**, **120+ granted Chinese and international invention patents**, and inclusion in the Stanford/Elsevier global top-2% scientist lists for four consecutive years. [Read the source profile and conference record →](https://www.waac.ac/news/News260314)
 
@@ -70,8 +90,30 @@ DIKWP is increasingly visible beyond academic papers: in product claims, applied
 | **Public application signal** | **秒响应网络科技** | Public materials describe using a DIKWP knowledge-distillation framework for GEO / AI SEO, turning enterprise content into structures that AI systems can understand and cite. | [Applied DIKWP article on Tencent Cloud Developer Community →](https://developer.cloud.tencent.com/article/2602389) · [秒响应网络 public content →](https://www.mxiangying.com/article_90439.html). These pages evidence public use/reference; formal collaboration or licensing should be verified separately. |
 | **Direct product claim** | **InsuredAI.ca** | The public site describes an AI-risk underwriting platform built on a **patent-pending DIKWP framework**, showing DIKWP terminology in an insurance and regulatory-risk product context. | [Open InsuredAI.ca →](https://insuredai.ca/). The currently discoverable site copy does not identify Yucong Duan or disclose an authorization chain, so provenance and licensing remain marked **pending clarification**. |
 | **Public dissemination channel** | **Tencent Cloud Developer Community** | Hosts an original contributor article that calls DIKWP the technical core of an applied GEO system. | [Read the published article →](https://developer.cloud.tencent.com/article/2602389). This is evidence of public dissemination on the platform, **not** a claim that Tencent Cloud officially adopted or endorsed DIKWP. |
+| **ISO-linked implementation ecosystem** | **数梦工场 / 数美科技** | Publicly report technical support for seven Zhejiang smart-city practices included among the 23 cases analysed in ISO/IEC TR 25005-2:2025, whose analysis framework and data-value-chain foundation use DIKWPA. | [Read the implementation report →](https://www.dtsphere.com/newsCenter/detail-modern?page=1&uuid=cf5d670cedf342278ddd5d3f504e2923). This connects DIKWP/DIKWPA standardization to implementation settings; it does not by itself establish a direct licence or partnership with Yucong Duan. |
 | **Source institution & patent implementation** | **Hainan University / DIKWP team** | Public patent records connect DIKWP to executable methods including blockchain consensus, software-lifecycle evaluation, semantic resource recognition, intention computation, and multimodal transfer. | [Example: DIKWP blockchain-consensus patent →](https://patents.google.com/patent/CN114363354B/zh) · [DIKW resource-recognition patent →](https://patents.google.com/patent/CN112925921A/zh). Consult each record for inventors, assignees, legal status, and scope. |
 | **Integration ecosystem — not verified adoption** | **Alibaba Cloud Bailian / Qwen / DataWorks / PAI** | Alibaba Cloud's model, agent, RAG, data-governance, and deployment stack is technically compatible with DIKWP-style purpose, evidence, knowledge, and workflow layers. | [Alibaba Cloud Data + AI platform →](https://www.aliyun.com/activity/bigdata/discount). No public evidence was located that Alibaba Cloud officially adopted, licensed, or attributed DIKWP; this row records an **integration and validation opportunity**, not an adopter claim. |
+
+### Independent patent diffusion / 非段玉聪参与的外部专利扩散
+
+The records below were screened using two inclusion rules: **(1)** the published inventor list does not include Yucong Duan / 段玉聪; and **(2)** the patent text uses DIKWP as a model, graph, structured resource, semantic method, or functional module—not merely as a search hit. Together, they provide a publicly inspectable signal that DIKWP methods are diffusing beyond the originating inventor team.
+
+| Application domain | Independent applicant / assignee | Public DIKWP implementation signal |
+|---|---|---|
+| **Power-grid network security and user modelling** | Guangdong Power Grid and Dongguan Power Supply Bureau; Hainan Power Grid Wenchang Bureau | [CN116582360A](https://patents.google.com/patent/CN116582360A/zh) builds device models that can be DIKWP/DIKW graph or database models for network-security assessment; [CN116881772B](https://patents.google.com/patent/CN116881772B/zh) establishes DIKWP models for power-user classification. |
+| **Supply-chain finance** | Shanghai Pudong Development Bank | [CN119917594A](https://patents.google.com/patent/CN119917594A/zh) converts message content into a DIKWP resource body and generates a DIKWP graph for supply-chain finance data processing. |
+| **Financial documents and investment** | Ping An International Financial Leasing; Hainan Gangao Information Industry | [CN120688465A](https://patents.google.com/patent/CN120688465A/zh) applies DIKWP semantic-mathematical analysis to text auto-filling; [CN118134640A](https://patents.google.com/patent/CN118134640A/zh) constructs a user DIKWP model for stock recommendation. |
+| **Nutrition and health consultation** | Guangzhou Jiefeng Network Technology Co., Ltd. | [CN117198465B](https://patents.google.com/patent/CN117198465B/zh), a granted invention patent, constructs a user DIKWP model for quantified Chinese-and-Western-medicine nutrition consultation. |
+| **Trusted AI and semantic safety** | Anhui Zhuoyue Yijia Information Technology Co., Ltd. | [CN121615796A](https://patents.google.com/patent/CN121615796A/zh) centres its method on a DIKWP artificial-consciousness semantic-security framework, four-space model, 3-No handling, and semantic-toxicity detection. |
+| **Digital rule-of-law services** | China Southern Power Grid Digital Enterprise Technology (Guangdong) Co., Ltd. | [CN118887054A](https://patents.google.com/patent/CN118887054A/zh) matches user-demand and organizational DIKWP graphs in an intelligent legal-service system. |
+| **Talent recommendation** | Yancheng Polytechnic College | [CN119477240A](https://patents.google.com/patent/CN119477240A/zh) calculates cognitive deviation between job and talent intentions using DIKWP models. |
+| **IoT and blockchain resource allocation** | Sanya Nanhong Technology Development; Hainan Zhouzhen Sifang Technology | [CN116170472A](https://patents.google.com/patent/CN116170472A/zh) includes a DIKWP module in an information-management IoT system; [CN116187699A](https://patents.google.com/patent/CN116187699A/zh) builds company-node DIKWP models for blockchain-based virtual-resource allocation. |
+| **Satellite semantic communication** | Shanghai Xiaoyuan Innovation Center | [CN121585225A](https://patents.google.com/patent/CN121585225A/zh) uses a DIKWP model to evaluate semantic entropy and adapt task granularity in inter-satellite natural-language communication. |
+| **Multi-agent inventive problem solving** | Guangdong Polytechnic Normal University | [CN121981217A](https://patents.google.com/patent/CN121981217A/zh) integrates DIKWP with a multi-agent TRIZ contradiction-matrix construction pipeline. |
+
+[Explore the full live Google Patents query for DIKWP →](https://patents.google.com/?q=(DIKWP)&oq=DIKWP)
+
+These records evidence independent technical uptake or implementation language in public patent documents. They do **not** by themselves prove commercialization, product deployment, licensing, collaboration, endorsement, patent validity, or non-infringement. Patent status and assignee data should always be checked on the live record.
 
 ### Attribution and collaboration invitation
 
