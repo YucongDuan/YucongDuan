@@ -61,6 +61,24 @@ Yucong Duan's work connects **DIKWP theory**, **artificial consciousness**, **se
 
 段玉聪的研究影响力不仅体现在论文、引用与专利数量上，也体现在从理论提出、系统实现、开源验证到国际学术组织与会议平台建设的连续链条。上方入口保留了可公开核验的出版、引用、专利与机构记录，便于研究者直接追溯，而不是依赖单一宣传口径。
 
+## Evidence-backed ecosystem reach / 可核验产业影响
+
+DIKWP is increasingly visible beyond academic papers: in product claims, applied GEO/AI-search practice, developer-community articles, and potential integrations with major AI/cloud platforms. To keep this map credible, the table separates **public use**, **public dissemination**, and **platform fit**. Inclusion does not by itself establish a formal partnership, endorsement, patent licence, or legal conclusion.
+
+| Evidence status | Company / institution | Public relationship to DIKWP | Evidence and boundary |
+|---|---|---|---|
+| **Public application signal** | **秒响应网络科技** | Public materials describe using a DIKWP knowledge-distillation framework for GEO / AI SEO, turning enterprise content into structures that AI systems can understand and cite. | [Applied DIKWP article on Tencent Cloud Developer Community →](https://developer.cloud.tencent.com/article/2602389) · [秒响应网络 public content →](https://www.mxiangying.com/article_90439.html). These pages evidence public use/reference; formal collaboration or licensing should be verified separately. |
+| **Direct product claim** | **InsuredAI.ca** | The public site describes an AI-risk underwriting platform built on a **patent-pending DIKWP framework**, showing DIKWP terminology in an insurance and regulatory-risk product context. | [Open InsuredAI.ca →](https://insuredai.ca/). The currently discoverable site copy does not identify Yucong Duan or disclose an authorization chain, so provenance and licensing remain marked **pending clarification**. |
+| **Public dissemination channel** | **Tencent Cloud Developer Community** | Hosts an original contributor article that calls DIKWP the technical core of an applied GEO system. | [Read the published article →](https://developer.cloud.tencent.com/article/2602389). This is evidence of public dissemination on the platform, **not** a claim that Tencent Cloud officially adopted or endorsed DIKWP. |
+| **Source institution & patent implementation** | **Hainan University / DIKWP team** | Public patent records connect DIKWP to executable methods including blockchain consensus, software-lifecycle evaluation, semantic resource recognition, intention computation, and multimodal transfer. | [Example: DIKWP blockchain-consensus patent →](https://patents.google.com/patent/CN114363354B/zh) · [DIKW resource-recognition patent →](https://patents.google.com/patent/CN112925921A/zh). Consult each record for inventors, assignees, legal status, and scope. |
+| **Integration ecosystem — not verified adoption** | **Alibaba Cloud Bailian / Qwen / DataWorks / PAI** | Alibaba Cloud's model, agent, RAG, data-governance, and deployment stack is technically compatible with DIKWP-style purpose, evidence, knowledge, and workflow layers. | [Alibaba Cloud Data + AI platform →](https://www.aliyun.com/activity/bigdata/discount). No public evidence was located that Alibaba Cloud officially adopted, licensed, or attributed DIKWP; this row records an **integration and validation opportunity**, not an adopter claim. |
+
+### Attribution and collaboration invitation
+
+Organizations publicly using the terms **DIKWP**, **DIKW + Purpose**, DIKWP knowledge distillation, DIKWP graphs, or closely related patented methods are invited to make the relationship explicit: cite the originating research, identify the implementation boundary, clarify licensing where relevant, publish a reproducible case, and connect improvements back to the research ecosystem.
+
+如果企业、机构或开源项目已经使用 **DIKWP、DIKW + Purpose、DIKWP 知识蒸馏、DIKWP 图谱**或相关专利方法，欢迎公开补充来源引用、实现范围、授权状态、可复现实例与效果证据。这样既能彰显真实产业影响，也能把“概念相似”“公开引用”“实际采用”“正式合作”与“授权实施”区分清楚。
+
 ## Institution building & conference leadership
 
 Yucong Duan initiated and chairs the **World Conference on Artificial Consciousness (WCAC)** series, chairs the **World Artificial Consciousness Association (WACA)**, and serves as president of the **World Academy for Artificial Consciousness (WAAC)**. These platforms connect artificial-consciousness theory with neuroscience, medicine, ethics, governance, education, law, economics, and responsible AI engineering.
