@@ -17,6 +17,7 @@ DIKWP 的影响已经出现在国际标准、商业产品表述、产业实践�
 | Code | Evidence class | What it can establish | What it does not establish by itself |
 |---|---|---|---|
 | **S4** | Standard-body methodological adoption | A published standard or technical report uses DIKWP/DIKWPA as part of its method or theoretical foundation. | Endorsement of every DIKWP product, patent, organization, or claim. |
+| **I3** | Professional-society white-paper publication | A recognized professional society publishes a white paper that gives DIKWP and artificial consciousness substantive chapter-level treatment. | Independent replication, peer-reviewed consensus, a national standard, or endorsement of every source-team claim. |
 | **U3** | Direct named public use | A product, company page, patent, project, or application publicly names DIKWP as a framework, model, graph, or technical component. | Proven authorization, licence, derivation, production scale, or commercial success. |
 | **U2** | Independent scholarly uptake | Researchers outside the originating author team cite, adapt, evaluate, or apply Purpose-DIKWP. | Product deployment or institutional adoption by the authors' affiliations. |
 | **O2** | Source-team open or peer-reviewed implementation | DIKWP is converted into runnable software, evaluated engineering architecture, or institutionally recorded project work. | Independent replication, production deployment, or external adoption. |
@@ -34,6 +35,7 @@ DIKWP 的影响已经出现在国际标准、商业产品表述、产业实践�
 As of the audit date, the map contains:
 
 - **1 ISO/IEC technical report** with DIKWPA used in the report body as an analysis framework and data-value-chain foundation;
+- **1 China Association for Artificial Intelligence series white paper** with DIKWP as the foundation of Chapter 1 and artificial consciousness plus its DIKWP relationship as the focus of Chapter 2, coordinated by Duan and his team;
 - **13 external patent records** whose published inventor lists do not include Yucong Duan and whose text substantively uses DIKWP;
 - **2 direct public commercial/application signals** naming DIKWP: InsuredAI and 秒响应网络-related GEO practice;
 - **3 strong non-naming convergence clusters** led by Alibaba Cloud, AWS, and the TM Forum / China Mobile autonomous-network ecosystem;
@@ -65,6 +67,7 @@ These are minimum audited counts, not claims of completeness. Live search result
 
 | Grade | Research / institution | Verified evidence | Why it matters |
 |---|---|---|---|
+| **I3 / O2** | **China Association for Artificial Intelligence · 2024 white-paper series** | CAAI published [*2024 China Artificial Intelligence Series White Paper — Artificial Intelligence Foundations: Selected Topics /《人工智能基础选编》*](https://www.caai.cn/index.php?s=/home/article/detail/id/4375.html). [Hainan University's official record](https://cs.hainanu.edu.cn/info/1035/9040.htm) identifies the writing group and states that Yucong Duan led team members in coordinating the first two chapters: Chapter 1 covers DIKWP foundations, definitions, conceptual/semantic/cognitive spaces and DIKWP graphs; Chapter 2 addresses AI, artificial consciousness, theoretical foundations and the DIKWP relationship. | Authoritative professional-society publication and institutional dissemination of DIKWP/artificial-consciousness foundations. Because Duan's source team coordinated the relevant chapters, this is source-team contribution carried by CAAI—not independent replication, a national standard, or proof of society-wide consensus. |
 | **U2** | **Margarita V. Medvedeva · Saint Petersburg Electrotechnical University “LETI”** | The 2026 paper [*DIKWP Model as a Tool for Cognitive Maturity of Quality Management System*](https://s-lib.com/en/issues/eiu_2026_04_v14_a6/) develops a cognitive-goal metamodel integrating Quality 4.0 and DIKWP, maps it to GOST R ISO 9001-2015 and GOST R ISO 9004-2019, and cites both Duan-team DIKWP work and *Modeling and Resolving Uncertainty in the DIKWP Model*. | Direct, independently authored international reuse of Purpose-DIKWP in quality management and human oversight of AI-generated decisions. |
 | **U2** | **Robert Lawrence Kuhn · *A Landscape of Consciousness*** | In §9.4.8, “Mathematical theories,” of the peer-reviewed [*A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications*](https://doi.org/10.1016/j.pbiomolbio.2023.12.003), Kuhn explicitly presents Yucong Duan's mathematically based “BUG” theory and discusses the view of mathematics as a language for examining the structure, dynamics, information flow, and regularities of consciousness. [Inspect the accessible full-text section →](https://channelmcgilchrist.com/a-landscape-of-consciousness-toward-a-taxonomy-of-explanations-and-implications-by-robert-lawrence-kuhn-doi-org-10-1016-j.pbiomolbio.2023.12.003/#:~:text=Mathematician%20Yucong%20Duan) | Independent inclusion in a broad international taxonomy of consciousness theories. It establishes scholarly visibility and contextual discussion, not endorsement, empirical validation, or consensus. |
 | **U3 / O2** | **Hainan University “Challenge Cup” project** | The university's [official 2025 competition notice](https://www.hainanu.edu.cn/info/1043/645671.htm) lists “主动医学——基于DIKWP图谱化的AI智能养康,” a multi-university student team project supervised by Yucong Duan. | Institutionally recorded project-level application of DIKWP graphs to proactive medicine and AI-supported health. It is source-ecosystem implementation, not independent external adoption. |
@@ -73,7 +76,7 @@ These are minimum audited counts, not claims of completeness. Live search result
 
 ## 4. Media visibility and public discourse / 中英文媒体与公共传播
 
-Media visibility is treated as a distinct impact layer. A report can establish that DIKWP has entered public technological or policy discourse, but it does not automatically validate every technical claim or prove adoption by the outlet. Republications and translations of the same original story are grouped as one reporting cluster.
+Media visibility is treated as a distinct impact layer. A report can establish that DIKWP has entered public technological or policy discourse, but it does not automatically validate every technical claim or prove adoption by the outlet. Republications and translations of the same original story are grouped as one reporting cluster. The CAAI white paper is graded separately as **I3 professional-society publication**, not counted as a media cluster.
 
 | Grade | Reporting cluster | Verified public signal | Boundary |
 |---|---|---|---|
