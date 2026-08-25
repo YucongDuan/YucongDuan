@@ -5,7 +5,15 @@
 ### DIKWP · Artificial Consciousness · Semantic Mathematics · Auditable AI
 
 Professor and Doctoral Supervisor, Hainan University  
+Chair, World Artificial Consciousness Association (WACA)  
 President, World Academy for Artificial Consciousness (WAAC)
+
+<a href="https://scholar.google.com/citations?user=Px89gSoAAAAJ&amp;hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-Publications_%26_Citations-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Yucong Duan on Google Scholar">
+</a>
+<a href="https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&amp;oq=%E6%AE%B5%E7%8E%89%E8%81%AA">
+  <img src="https://img.shields.io/badge/Google_Patents-Invention_Portfolio-5F6368?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Yucong Duan patents on Google Patents">
+</a>
 
 <a href="https://www.researchgate.net/profile/Yucong-Duan">
   <img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Yucong Duan on ResearchGate">
@@ -13,8 +21,11 @@ President, World Academy for Artificial Consciousness (WAAC)
 <a href="https://waac.ac/">
   <img src="https://img.shields.io/badge/WAAC-Academy_Portal-4B32C3?style=for-the-badge" alt="World Academy for Artificial Consciousness">
 </a>
+<a href="https://www.yucongduan.org/">
+  <img src="https://img.shields.io/badge/WCAC-Conference_Series-B8860B?style=for-the-badge" alt="World Conference on Artificial Consciousness">
+</a>
 
-[Research map](#research-map) · [Start with code](#start-with-code) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official academic profile](https://cs.hainanu.edu.cn/info/1104/1858.htm) · [中文简介](#中文简介)
+[Academic impact](#academic-impact--学术影响) · [Conference leadership](#institution-building--conference-leadership) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
 
 </div>
 
@@ -34,8 +45,35 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 
 | Portal | Primary entry | What visitors can explore |
 |---|---|---|
+| **Google Scholar** | [View publications and citation trails →](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) | A public, continuously updated view of publications, citations, co-authors, and related scholarship. |
+| **Google Patents** | [Explore the inventor-search portfolio →](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) | Patent documents associated with the inventor name 段玉聪, including families, legal events, classifications, and cited prior art. |
 | **ResearchGate** | [Open Yucong Duan's research profile →](https://www.researchgate.net/profile/Yucong-Duan) | Publications, research questions, project updates, citations, and academic exchange. |
 | **WAAC** | [Enter the World Academy for Artificial Consciousness →](https://waac.ac/) | Artificial-consciousness research, academicians, conferences, collaborations, news, and institutional initiatives. |
+| **WACA** | [Enter the World Artificial Consciousness Association →](https://www.yucongduan.org/WACA/WACA.html) | Association mission, committees, activities, and international initiatives around artificial consciousness. |
+| **Official website** | [Visit yucongduan.org →](https://www.yucongduan.org/) | Full bilingual profile, research-team news, awards, conference history, and current initiatives. |
+| **Hainan University** | [Open the university profile →](https://cs.hainanu.edu.cn/info/1104/1858.htm) | Institutional appointment, research directions, teaching, and contact information. |
+
+## Academic impact / 学术影响
+
+Yucong Duan's work connects **DIKWP theory**, **artificial consciousness**, **semantic mathematics**, **auditable AI**, and executable open research systems. Rather than presenting a static impact number, the links above expose the underlying scholarly and invention records so that readers can inspect publications, citation trails, patent families, collaborators, and technical continuity directly.
+
+> The official profile published for the 3rd World Conference on Artificial Consciousness reports **300+ papers**, **11 monographs**, **400+ first-inventor patent applications**, **120+ granted Chinese and international invention patents**, and inclusion in the Stanford/Elsevier global top-2% scientist lists for four consecutive years. [Read the source profile and conference record →](https://www.waac.ac/news/News260314)
+
+段玉聪的研究影响力不仅体现在论文、引用与专利数量上，也体现在从理论提出、系统实现、开源验证到国际学术组织与会议平台建设的连续链条。上方入口保留了可公开核验的出版、引用、专利与机构记录，便于研究者直接追溯，而不是依赖单一宣传口径。
+
+## Institution building & conference leadership
+
+Yucong Duan initiated and chairs the **World Conference on Artificial Consciousness (WCAC)** series, chairs the **World Artificial Consciousness Association (WACA)**, and serves as president of the **World Academy for Artificial Consciousness (WAAC)**. These platforms connect artificial-consciousness theory with neuroscience, medicine, ethics, governance, education, law, economics, and responsible AI engineering.
+
+| Conference / platform | Public record | Focus |
+|---|---|---|
+| **Inaugural WCAC · 2023** | [Official conference page →](https://www.yucongduan.org/DIKWP-AC/2023/) | Establishing artificial consciousness as an interdisciplinary research and governance field. |
+| **2nd WCAC · 2024** | [Official conference page →](https://www.yucongduan.org/DIKWP-AC/2024/) | Artificial consciousness, proactive medicine, and the integration of traditional and modern medicine with AI. |
+| **3rd WCAC · 2026** | [Official conference record →](https://www.waac.ac/news/News260314) | Fundamental theory, practical exploration, AI-enabled proactive health, ethics, law, economics, and governance. |
+| **4th WCAC · 2026** | [Conference hub and current announcement →](https://www.yucongduan.org/) | From artificial consciousness to trustworthy and auditable AI; the official site lists the forthcoming program and updates. |
+| **WACA & WAAC** | [Association →](https://www.yucongduan.org/WACA/WACA.html) · [Academy →](https://waac.ac/) | International collaboration, academic exchange, evaluation, ethics, and institutional development. |
+
+The conference links above are presented as a public record of institution-building and convening activity. Program details, dates, titles, and participation should be read from the linked official pages because future-event information may change.
 
 ## Research map
 
