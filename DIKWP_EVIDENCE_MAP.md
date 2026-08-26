@@ -27,6 +27,10 @@ DIKWP 的影响已经出现在国际标准、商业产品表述、产业实践�
 | **M1** | Institutional adaptation or syndication | An institution translates, republishes, or distributes a DIKWP-related report with traceable provenance. | A second independent report when it derives from the same original story. |
 | **C2** | Strong structural convergence | Public architecture combines DIKW with Purpose/intention, resource integration, execution planning, or comparable DIKWP-adjacent structure. | Proof that the structure was derived from, licensed from, or formally named DIKWP. |
 | **C1** | Adjacent DIKW extension | Public work extends DIKW toward goals, action, agents, conversational intent, or ethical decision-making, but the full DIKWP fingerprint is incomplete. | DIKWP adoption, derivation, avoidance, or infringement. |
+| **D2** | Official corporate DIKW material | A company-owned or official research/solution channel substantively explains or applies DIKW. | Company-wide architecture, Purpose-DIKWP adoption, licensing, or derivation. |
+| **P2** | Corporate patent-context DIKW use | A company-owned patent specification substantively uses DIKW/S-DIKW or a data–information–knowledge–wisdom chain in its technical description. | That DIKW is the novelty of every claim, a DIKWP licence, or a relationship with Yucong Duan. |
+| **P1** | Follow-on patent reuse or technical response | An external patent expressly reuses, cites, compares against, or answers a DIKW/DIKWP graph or model in its technical narrative. | Direct DIKWP implementation in the new claims, derivation of the whole invention, licensing, or infringement. |
+| **H1** | Attribution watchlist hypothesis | A public system matches multiple DIKWP-adjacent fingerprints and warrants source comparison, citation outreach, or interoperability research. | A factual allegation of concealment, copying, avoidance, infringement, or uncredited derivation. |
 | **D1** | Public dissemination | A third-party platform, media outlet, or developer community carries DIKWP-related material. | Platform-level adoption or endorsement. |
 | **F0** | Platform or collaboration fit | A technology or organization has a plausible use case for DIKWP but no direct public implementation evidence has been found. | Any claim of present use. |
 
@@ -37,8 +41,11 @@ As of the audit date, the map contains:
 - **1 ISO/IEC technical report** with DIKWPA used in the report body as an analysis framework and data-value-chain foundation;
 - **1 China Association for Artificial Intelligence series white paper** with DIKWP as the foundation of Chapter 1 and artificial consciousness plus its DIKWP relationship as the focus of Chapter 2, coordinated by Duan and his team;
 - **13 external patent records** whose published inventor lists do not include Yucong Duan and whose text substantively uses DIKWP;
+- **2 additional follow-on patent records** that expressly reuse or respond to a DIKW/DIKWP graph record, preserved separately from direct implementation;
 - **2 direct public commercial/application signals** naming DIKWP: InsuredAI and 秒响应网络-related GEO practice;
 - **3 strong non-naming convergence clusters** led by Alibaba Cloud, AWS, and the TM Forum / China Mobile autonomous-network ecosystem;
+- **12 audited company DIKW records** across official reference architecture, corporate technical material, patent context, granted-patent use, and follow-on reuse;
+- **7 verified IEEE convening records from 2019–2024**, tracing Yucong Duan's chair roles from Knowledge Graph as a Service through Knowledge Networks, DIKW Networks, and the IEEE DIKW conference series;
 - **3 additional adjacent DIKW extensions** in corporate and academic work linking DIKW to goals, action, digital twins, or conversational intent;
 - **1 independently authored international quality-management adaptation** that cites Duan's Purpose-DIKWP work;
 - **1 independent peer-reviewed consciousness-taxonomy inclusion** that explicitly discusses Duan's mathematical “BUG” theory;
@@ -72,6 +79,7 @@ These are minimum audited counts, not claims of completeness. Live search result
 | **U2** | **Robert Lawrence Kuhn · *A Landscape of Consciousness*** | In §9.4.8, “Mathematical theories,” of the peer-reviewed [*A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications*](https://doi.org/10.1016/j.pbiomolbio.2023.12.003), Kuhn explicitly presents Yucong Duan's mathematically based “BUG” theory and discusses the view of mathematics as a language for examining the structure, dynamics, information flow, and regularities of consciousness. [Inspect the accessible full-text section →](https://channelmcgilchrist.com/a-landscape-of-consciousness-toward-a-taxonomy-of-explanations-and-implications-by-robert-lawrence-kuhn-doi-org-10-1016-j.pbiomolbio.2023.12.003/#:~:text=Mathematician%20Yucong%20Duan) | Independent inclusion in a broad international taxonomy of consciousness theories. It establishes scholarly visibility and contextual discussion, not endorsement, empirical validation, or consensus. |
 | **U3 / O2** | **Hainan University “Challenge Cup” project** | The university's [official 2025 competition notice](https://www.hainanu.edu.cn/info/1043/645671.htm) lists “主动医学——基于DIKWP图谱化的AI智能养康,” a multi-university student team project supervised by Yucong Duan. | Institutionally recorded project-level application of DIKWP graphs to proactive medicine and AI-supported health. It is source-ecosystem implementation, not independent external adoption. |
 | **O2** | **Peer-reviewed white-box edge AI** | The [Emerald-published DIKWP-WISE study](https://www.emerald.com/ijwis/article-abstract/22/1/17/1317917/A-DIKWP-white-box-semantic-distributed-learning) embeds semantic probes and a DIKWP×DIKWP transformation matrix in distributed learning, reporting evaluation on CMMLU, Math23K, and MMLU. | Peer-reviewed engineering evidence that converts DIKWP into an evaluable white-box architecture for resource-constrained devices. Yucong Duan is a corresponding author, so this is source-team validation rather than independent uptake. |
+| **O2** | **Open-source systems white paper for Chinese scenarios / 面向中国场景的DIKWP开源系统白皮书** | The [ResearchGate technical-report record](https://www.researchgate.net/publication/404815311_mianxiangzhongguochangjingdeDIKWPkaiyuanxitongbaipishu) lists Yucong Duan and Shuaishuai Huang, both affiliated there with Hainan University. The report organizes the GitHub system family around trustworthy agents, semantic evidence chains, memory sovereignty, intent gates, standards, education, health, transport, finance and public governance, while stating explicit non-overclaim boundaries. | Source-team strategy and engineering-portfolio synthesis with a DOI and public full text. The linked record does **not** identify the Shanghai Institute of Scientific and Technical Information as author or publisher, so it is not classified as an independent Shanghai-institute report. |
 | **D1 / O2** | **China Economic Net / Hainan University media record** | A [2026 China Economic Net feature](https://web.cmc.ce.cn/cms/rmt0014_html/0/0rmhlm/qy/hnsrmtbyjt/187996.shtml), also indexed by Hainan University, presents DIKWP-AC 2.0 as a control-plane runtime for identity continuity, governed memory, role boundaries, audit, replay, and multi-agent management, while explicitly recording remaining validation work. | National-media visibility for a research-to-industry pathway. Media coverage is not equivalent to independent product benchmarking or deployment certification. |
 
 ## 4. Media visibility and public discourse / 中英文媒体与公共传播
@@ -98,6 +106,39 @@ Media visibility is treated as a distinct impact layer. A report can establish t
 This section records public architectures that do not directly use the name **Purpose-DIKWP** but expose unusually close structural fingerprints. It does **not** infer that an organization intentionally avoided a name, derived its work from Yucong Duan, or implemented a DIKWP patent. Motivation requires direct evidence; structural similarity can be documented independently.
 
 本节记录未直接使用 **Purpose-DIKWP** 名称、但公开呈现高度相近技术指纹的架构。这里可以核验“结构相似度”，不能在缺少内部材料、引用链或授权记录时推断某机构“故意避名”、来源于段玉聪研究或实施了某项 DIKWP 专利。
+
+### 5.0 Corporate DIKW use and patent landscape / 企业 DIKW 使用与专利版图
+
+The corporate landscape is audited by record type. **Official technical material** proves that DIKW was used in a company-owned research, solution or education channel. **Patent-context use** proves that DIKW appears substantively inside a company-owned patent specification. **Structural convergence** compares public technical fingerprints. None of those categories is silently upgraded into Purpose-DIKWP adoption.
+
+企业版图按记录类型核验：**官方技术材料**证明 DIKW 出现在企业自有研究、解决方案或教育渠道；**专利语境使用**证明 DIKW 实质性出现在企业名下的专利说明书；**结构趋同**用于比较公开技术指纹。三类证据均不被偷换为 Purpose-DIKWP 正式采用。
+
+**Originating graph-formalization claim / 原创图谱化主张：** the generic DIKW hierarchy predates Yucong Duan's research. The attributable contribution documented here is the team's **systematic extension of knowledge graphs into typed, computable DIKW and DIKWP graphs**: separate Data, Information, Knowledge and Purpose resource graphs, explicit transformations, derivation paths, graph traversal and intent-driven computation. [Hainan University's official profile](https://en.hainanu.edu.cn/info/1151/2981.htm) records the team's 2020 Wu Wenjun AI Award for “graphic extension and modeling” of DIKW. The public patent lineage includes [CN106997399A](https://patents.google.com/patent/CN106997399A/en) (2017 filing; linked data/information/knowledge/wisdom graphs), [CN108804950A](https://patents.google.com/patent/CN108804950A/en) (2018 publication; typed data/information/knowledge graphs), [CN112925921A/B](https://patents.google.com/patent/CN112925921A/en) (intent-driven traversal and derivation), and [CN114168746A/B](https://patents.google.com/patent/CN114168746B/en) (DIKWP graphs with Purpose resources). The evidence supports **pioneering and systematic graph formalization**; an absolute worldwide “first” claim would require a separate exhaustive prior-art determination.
+
+通用 DIKW 层级早于段玉聪的研究。这里可归属、可核验的原创贡献是：团队**较早并系统性地把知识图谱扩展为类型化、可计算的 DIKW 与 DIKWP 图谱**，分别表达数据、信息、知识、目的资源，并定义转换、推理路径、图遍历和意图驱动计算。海南大学官方记录了团队因“DIKW 图谱化扩展及建模处理”获得 2020 年吴文俊人工智能技术发明奖；2017 年起的公开专利构成连续技术谱系。该表述强于泛称“使用 DIKW”，同时避免在未完成全球穷尽式现有技术检索前作绝对优先权判断。
+
+| Grade | Company | Verified public record | Strategic interpretation and boundary |
+|---|---|---|---|
+| **D2 / C2** | **AWS** | [AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/semantic-layer-agentic-ai-ontology-reasoning-virtual-knowledge-graph/introduction.html) says DIKW inspired its Semantic Layer for Agentic AI, then adds Intelligence, inferred user intent, intent-driven orchestration, execution planning, action, provenance and human review. | Highest audited corporate fingerprint coverage: DIKW + knowledge/semantic graphs + intent + action + feedback/provenance. AWS names Intelligence, not Purpose-DIKWP; no derivation is claimed. |
+| **D2 / C2** | **Alibaba Cloud / 阿里云** | Official [DMS Data Agent material](https://developer.aliyun.com/article/1686127) maps the platform to DIKW, clarifies intention and generates an adjustable intention-execution plan; the [ApsaraDB record](https://developer.aliyun.com/article/1363914) connects DIKW to understanding data, user intention and resource integration. | Strong DIKW + intention + execution structure. No verified attribution, licence, derivation or formal Alibaba statement of DIKWP adoption. |
+| **P2 / C2** | **Huawei / 华为** | Huawei-owned patent specifications [EP4163831A1](https://patents.google.com/patent/EP4163831A1/en), [CN115731530A](https://patents.google.com/patent/CN115731530A/en), [WO2024012360A1](https://patents.google.com/patent/WO2024012360A1/en), and [WO2024239983A1](https://patents.google.com/patent/WO2024239983A1/en) explicitly describe an AI “intelligent information chain” in which data condenses through data–information–knowledge–wisdom, then moves through inference, decision-making, execution and output. | Confirms repeated DIKW-chain language in Huawei patent specifications. The passage provides AI-framework context; it is not represented as the novel claim of every family or as evidence of a DIKWP licence. |
+| **D2** | **Cisco** | [Cisco Outshift](https://outshift.cisco.com/blog/insights/the-tacit-knowledge-blog-series-1) directly analyses the DIKW knowledge pyramid. A [Cisco-hosted industrial-IoT presentation](https://www.cisco.com/c/dam/global/en_sg/assets/iotforum/pdf/jonas_berge_emerson_cisco_iot_asean_2015.pdf) displays the DIKW pyramid from sensor readings toward operational judgment. | Official/company-hosted DIKW use. The audited Cisco patent pages surfaced by broad search mention DIKW only through later citations or indexed literature, so no Cisco-owned patent is classified here as substantively DIKW-based. |
+| **D2** | **NEC** | NEC's official [dotData solution explainer](https://jpn.nec.com/solution/dotdata/tips/data-mining/index.html) explicitly names the DIKW model and distinguishes data, information, knowledge and wisdom in the route from data mining to business judgment. | Official solution/education use. No NEC-owned patent has yet passed the substantive-text screen for DIKW; search-result association alone is excluded. |
+| **D2 / C1** | **Fujitsu / 富士通** | A [Fujitsu corporate article](https://corporate-blog.global.fujitsu.com/fgb/2020-01-29/data-ai-accelerates-dx-realization-part-1-what-is-a-goal-oriented-business-and-how-does-it-maximize-data-value/) uses the DIKW Pyramid inside an explicitly goal-oriented business method. | Strong DIKW + goal linkage; no fifth Purpose layer or DIKWP attribution is shown. |
+| **D2** | **IBM** | [IBM Developer](https://developer.ibm.com/articles/ba-data-becomes-knowledge-1/) frames its public data-to-knowledge learning path as preparation for applying DIKW to data science. | Verified official developer use. The broad Google Patents DIKW query can show IBM-related records through cited prior art or indexed literature; no IBM-owned patent has yet passed this audit's substantive DIKW-text screen. |
+| **D2** | **Microsoft Research** | A [Microsoft Research discussion](https://www.microsoft.com/en-us/research/podcast/designing-the-future-with-the-help-of-the-past-with-bill-buxton/) explicitly examines the DIKW pyramid and the assumption that data, machine learning and computation culminate in wisdom and good decisions. | Official research discussion, not a product or enterprise-wide adoption statement. |
+| **D1** | **SAP** | An [SAP-hosted technical article](https://community.sap.com/t5/technology-blog-posts-by-sap/data-management-concepts-and-techniques-in-sap-hana-cloud/ba-p/13523597) uses the DIKW/data-science pyramid to organize SAP HANA Cloud data-management capabilities. | Company-hosted technical use; author/channel status is retained rather than inflated into company-wide policy. |
+| **P2** | **InvenSense** | Granted patent [US10652354B2](https://patents.google.com/patent/US10652354B2/en) expressly uses a sensor–data–information–knowledge–wisdom (**S-DIKW**) pyramid in a system that converts sensor data into user-profile information, knowledge and exchangeable value. | Substantive DIKW use inside an assignee-owned patent description. It does not establish any connection to Yucong Duan or Purpose-DIKWP. |
+| **P1** | **World Window Information / 世窗信息** | [CN121148586A](https://patents.google.com/patent/CN121148586A/en) expressly names Duan and Hu's [CN113643785A](https://patents.google.com/patent/CN113643785A/en) DIKW vaccination graph as one source for a multi-graph immunization-query system, and frames its multi-hop completion as an improvement beyond a single-source DIKW graph. | Strong downstream reuse and technical-response evidence. The new patent's main method uses multiple domain knowledge graphs; it is not relabelled here as a direct DIKWP implementation. |
+| **P1** | **Beijing Liangxue Weiye / 北京量学伟业** | [CN120407920A](https://patents.google.com/patent/CN120407920A/en) explicitly identifies [CN118134640A](https://patents.google.com/patent/CN118134640A/en)—user DIKWP model plus stock DIKW graph—as prior art, then proposes an alternative stock-screening method that still adjusts weights from user intent. | Shows that DIKWP-linked prior art entered competitive problem framing. Citation and response are not silently upgraded into direct DIKWP use by the later claims. |
+
+#### Attribution watchlist / 归因观察名单
+
+The watchlist searches for six fingerprints: **(1) explicit DIKW layers; (2) data–knowledge dual drive; (3) intention or goal drive; (4) concept-space ↔ semantic-space mapping; (5) reasoning–decision–action; and (6) feedback, provenance or revision**. AWS, Alibaba Cloud, Huawei and the TM Forum/China Mobile ecosystem currently have the densest audited public fingerprints. This supports prominent technical comparison, citation outreach and interoperability research—not an accusation that any company concealed, copied or deliberately avoided DIKWP.
+
+观察名单追踪六类指纹：**（1）显式 DIKW 分层；（2）数据—知识双驱动；（3）意图或目标驱动；（4）概念空间—语义空间映射；（5）推理—决策—行动；（6）反馈、来源追踪或修订**。AWS、阿里云、华为及 TM Forum／中国移动生态目前拥有最密集的已核验公开指纹，足以支持醒目的技术比较、引用沟通与互操作研究，但不构成对任何企业遮掩、复制或故意避名的指控。
+
+**Patent-search control / 专利检索控制：** the broad [Google Patents DIKW query](https://patents.google.com/?q=(DIKW)&oq=DIKW) mixes assignees, cited patent families, non-patent literature and “cited by” relationships on the same page. A company name appearing in a hit is therefore not sufficient. Inclusion as **P2** requires DIKW/S-DIKW or the data–information–knowledge–wisdom chain in the company-owned specification itself. **P1** is used when the new specification expressly reuses, cites, compares against or answers a DIKW/DIKWP record but does not itself meet the direct-use test. / Google Patents 的 DIKW 宽检索会在同一页面混合申请人、被引专利族、非专利文献与“被引用”关系，因此“检索结果出现公司名”本身不足。企业名下说明书正文实质出现 DIKW/S-DIKW 或数据—信息—知识—智慧链才纳入 **P2**；后续专利明确复用、引用、比较或回应 DIKW／DIKWP 记录但未达到直接使用标准时，单列为 **P1**。
 
 ### 5.1 Alibaba Cloud: DIKW + user intention + execution
 
@@ -179,16 +220,43 @@ Inclusion requires both:
 
 These records evidence independent patent-document uptake. They do not by themselves prove commercialization, product deployment, licensing, collaboration, endorsement, patent validity, enforceability, infringement, or non-infringement.
 
+### 6.1 Follow-on reuse and competitive response / 后续复用与竞争性技术响应
+
+| Grade | Later external patent | Traceable DIKW/DIKWP dependency | What the record establishes |
+|---|---|---|---|
+| **P1** | **World Window Information · [CN121148586A](https://patents.google.com/patent/CN121148586A/en)** | The description expressly says the DIKW graph from [CN113643785A](https://patents.google.com/patent/CN113643785A/en)—inventors Yucong Duan and Ting Hu, assignee Hainan University—can be one source of the new system's multiple immunization-planning knowledge graphs. It then identifies the single-source DIKW graph's limitations and proposes multi-source, multi-hop query completion. | Direct downstream reuse and an explicit improvement relationship to a Duan-team DIKW graph patent; not proof that every new claim implements DIKWP. |
+| **P1** | **Beijing Liangxue Weiye · [CN120407920A](https://patents.google.com/patent/CN120407920A/en)** | The background expressly identifies [CN118134640A](https://patents.google.com/patent/CN118134640A/en)—an external-applicant patent that builds a user DIKWP model and stock DIKW graph—as the prior-art baseline. The later method answers it with user classification, goal checks and user-intent-adjusted weighting. | A second-order diffusion signal: DIKWP-linked prior art has become a named competitive reference point in the stock-recommendation patent field. |
+
+This subsection is strategically important because it captures influence even when the later applicant changes terminology. It remains evidentially disciplined: **reuse, citation and technical response are visible facts; motive, concealment, copying, licence and infringement are not inferred.**
+
 ## 7. Source-team research and open implementation / 源头研究与开源实现
 
-Four linked research programs organize the source team's theory-to-publication-to-implementation path:
+Five linked research programs organize the source team's theory-to-publication-to-implementation path:
 
 | Research program | Inspectable publication and implementation trail |
 |---|---|
+| **DIKW / DIKWP Graph Formalization / DIKW／DIKWP 图谱化** | [2017 linked DIKW graph patent](https://patents.google.com/patent/CN106997399A/en) · [typed-resource DIKW graph and intent-driven derivation](https://patents.google.com/patent/CN112925921A/en) · [DIKWP graph with Purpose resources](https://patents.google.com/patent/CN114168746B/en) · [Hainan University award and research record](https://en.hainanu.edu.cn/info/1151/2981.htm) |
 | **Active Medicine / 主动医学** | [*Fundamentals of Active Medicine*](https://www.foyles.co.uk/book/fundamentals-of-active-medicine/9781917143530) · [DIKWP Active AI whitepaper](https://www.researchgate.net/publication/392764876_DIKWPzhudongAIfunengzhudongyixue_--_jishubaipishu) · [national application-scenario competition report](https://zw.china.com.cn/2023-12/06/content_116861966.shtml) |
 | **Semantic Sovereignty / 语义主权** | [national-strategy proposal](https://blog.sciencenet.cn/blog-3429562-1492536.html) · [peer-reviewed Purpose-lifecycle and semantic-governance paper](https://www.ecice06.com/EN/10.19678/j.issn.1000-3428.0253161) · [CCF conference record](https://www.ccf.org.cn/Chapters/Governance/Vocational_Education/Updates/2025-11-04/851185.shtml) |
 | **Semantic Mathematics / 语义数学** | [*Introduction to Semantic Mathematics* publication report](https://www.cbbr.com.cn/contents/533/108502.html) · [peer-reviewed creative-AI and semantic-mathematics paper](https://www.mdpi.com/2079-9292/15/5/963) · [international consciousness-taxonomy recognition](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) |
 | **DIKWP White-box Evaluation / DIKWP 白盒测评** | [100-question LLM evaluation report](https://www.stdaily.com/web/gdxw/2025-02/19/content_298792.html) · [peer-reviewed DIKWP-WISE architecture](https://www.emerald.com/ijwis/article-abstract/22/1/17/1317917/A-DIKWP-white-box-semantic-distributed-learning) · [open EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
+
+### Representative monographs / 代表性著作
+
+The official conference profile reports 11 monographs. The following ten public-facing records make the breadth of the book program directly visible; publisher, bookseller, library or author links are used according to current public availability.
+
+| Year | Monograph | Public record and research connection |
+|---|---|---|
+| **2026** | **《语义数学概论》 / *Introduction to Semantic Mathematics*** | [Publication report](https://www.cbbr.com.cn/contents/533/108502.html); formalizes the path from symbols and concepts toward inspectable semantic construction. |
+| **2026** | **《人工意识的数学：语义数学》 / *The Mathematics of Artificial Consciousness: Semantic Mathematics*** | [Author research portal](https://www.yucongduan.org/); connects semantic mathematics, cognitive spaces and DIKWP transformations to the formal study of artificial consciousness. |
+| **2026** | **《AI重塑经济与需求逻辑：从注意力到意图的智能革命》** | [Bookseller record](https://www.sanmin.com.tw/product/index/015559299) · [Peking University Press announcement](https://www.sina.cn/media/1844297217); develops the shift from attention economics to intent recognition, intent engines, semantic sovereignty and Purpose-aware governance. |
+| **2026** | **《意识简史》 / *A Brief History of Consciousness*** | [Bibliographic record](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3); traces consciousness across biological, human, collective and post-human forms. |
+| **2025** | **《人工意识概论》 / *Introduction to Artificial Consciousness*** | [Library record](https://jp.tfswufe.edu.cn/opac/book/ac48eaebe954b0800a3172713f624704); presents DIKWP evaluation, the consciousness BUG theory and artificial-consciousness architecture. |
+| **2025** | **《人工意识与人类意识》 / *Artificial Consciousness and Human Consciousness*** | [Library record](https://jp.tfswufe.edu.cn/opac/book/0ed03b58ef3f3c511ea4a8e448026592); connects DIKWP with major consciousness theories, neural systems, co-evolution, ethics, medicine and education. |
+| **2025** | **《玩透 DeepSeek：认知解构＋技术解析＋实践落地》** | [Publication record](https://www.96192.com/product/detail/1171668); introduces DIKWP white-box evaluation as a practical model-analysis and optimization framework. |
+| **2025** | **《主动医学概论：初级版》 / *Fundamentals of Active Medicine*** | [International bookseller record](https://www.foyles.co.uk/book/fundamentals-of-active-medicine/9781917143530); establishes the introductory foundation for proactive, preventive, Purpose-aware medicine. |
+| **2025** | **《主动医学：人工智能赋能人类健康》 / *Active Medicine: AI Empowering Human Health*** | [Bookseller record](https://www.sanmin.com.tw/product/index/014968228); expands proactive medicine into a systematic AI-enabled health framework. |
+| **2025** | **《智驾新纪元：AI标准引领未来交通》** | [Bibliographic record](https://yuntaigo.com/book.action?recordid=bm1tYWZhbWM5Nzg3NTIzNjE3ODQ3); connects intelligent standardization with autonomous driving and future mobility. |
 
 The GitHub account turns these and adjacent DIKWP claims into inspectable artifacts across:
 
@@ -201,7 +269,23 @@ The GitHub account turns these and adjacent DIKWP claims into inspectable artifa
 
 These repositories evidence public implementation effort and reproducibility paths. Their presence does not automatically establish independent validation; users should run the code, inspect outputs, report reproducible cases, and cite the canonical source.
 
-## 8. Exclusions and ambiguity controls / 排除项与歧义控制
+## 8. IEEE DIKW conference lineage and institution building / IEEE DIKW 会议谱系与组织建设
+
+This map presents the sequence as a Yucong Duan-initiated or co-initiated field-building program: the public record shows him in a chair-level role at every stage, from knowledge graphs to DIKW networks and the recurring IEEE DIKW conference. Organizational ownership remained collaborative, and the table preserves each published role.
+
+| Year | Conference / workshop | Yucong Duan's verified public role | Research-line significance |
+|---|---|---|---|
+| **2019** | [First IEEE SERVICES Workshop on Knowledge Graph as a Service (KGaaS)](https://conferences.computer.org/services/2019/workshops/kgaas_workshop.html) | **Workshop Chair** | The official scope explicitly links knowledge graphs with Data, Information, Knowledge and Wisdom layers, DIKW transformations and semantic-rich graph formalization. |
+| **2020** | [2nd IEEE SERVICES Workshop on Knowledge Networks (KN)](https://conferences.computer.org/services/2020/workshops/knworkshop.html) | **Workshop Chair** | Extends the 2019 line from Knowledge Graph as a Service toward knowledge networks and DIKW architecture. |
+| **2021** | [3rd IEEE International Workshop on Data, Information, Knowledge and Wisdom Networks (DIKWN)](https://conferences.computer.org/services/2021/workshops/dikwn_workshop.html) | **Program Chair** | Makes the DIKW Networks identity explicit; the scope covers creation, search, reasoning, modification, cross-modal integration and DIKW Networks as a Service. |
+| **2021** | [Inaugural IEEE International Conference on Data, Information, Knowledge and Wisdom (DIKW 2021)](https://www.ieee-cybermatics.org/2021/dikw/) | **General Chair** | Co-organized by Hainan Association for Science and Technology and Hainan University's DIKW research group; establishes the recurring conference series. |
+| **2022** | [IEEE DIKW 2022](https://www.ieee-cybermatics.org/2022/dikw/) | **Steering Committee Chair** | Adds Goal/Purpose models, data–knowledge mixed processing, explainable AI and AI governance to the published scope. |
+| **2023** | [IEEE DIKW 2023](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys60770.2023.00009) | **Conference Chair** | The published Chair Message lists Yucong Duan among the chairs of the Melbourne edition. |
+| **2024** | [IEEE DIKW 2024](https://www.ieee-hust-ncc.org/2024/DIKW/index.html) | **Conference Chair** | Continues the series in Wuhan around DIKW transformation, explainable AI, governance and cross-domain modelling. |
+
+Parallel to the IEEE DIKW line, Duan initiated the **World Conference on Artificial Consciousness (WCAC)** series in 2023 and developed the **World Artificial Consciousness Association (WACA)** and **World Academy for Artificial Consciousness (WAAC)** as platforms linking artificial-consciousness theory, engineering, medicine, neuroscience, ethics, law, economics and governance. [Inspect the conference and academy hub →](https://waac.ac/)
+
+## 9. Exclusions and ambiguity controls / 排除项与歧义控制
 
 The map deliberately excludes or reclassifies:
 
@@ -213,7 +297,7 @@ The map deliberately excludes or reclassifies:
 - future collaboration fit presented as current use;
 - unverified claims of licence, partnership, endorsement, commercialization, or infringement.
 
-## 9. How to add or correct evidence / 如何补充或纠正证据
+## 10. How to add or correct evidence / 如何补充或纠正证据
 
 Please open a GitHub issue or submit a pull request with:
 
