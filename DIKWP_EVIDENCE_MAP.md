@@ -4,7 +4,7 @@
 **Maintainer:** Yucong Duan / 段玉聪  
 **Scope:** public, traceable evidence of DIKWP research, standardization, implementation, diffusion, and adjacent structural convergence
 
-[Profile home / GitHub 主页](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [Inventor patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Live DIKWP patent query](https://patents.google.com/?q=(DIKWP)&oq=DIKWP) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official website](https://www.yucongduan.org/)
+[Seven-language research homepage / 七语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Profile home / GitHub 主页](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [Inventor patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Live DIKWP patent query](https://patents.google.com/?q=(DIKWP)&oq=DIKWP) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official website](https://www.yucongduan.org/)
 
 ## Why this map exists / 为什么建立这张地图
 
