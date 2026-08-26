@@ -14,6 +14,9 @@ President, World Academy for Artificial Consciousness (WAAC)
 <a href="https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&amp;oq=%E6%AE%B5%E7%8E%89%E8%81%AA">
   <img src="https://img.shields.io/badge/Google_Patents-Invention_Portfolio-5F6368?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Yucong Duan patents on Google Patents">
 </a>
+<a href="https://yucong-duan-research.dikwp407.chatgpt.site">
+  <img src="https://img.shields.io/badge/Research_Homepage-7_Languages-0F766E?style=for-the-badge" alt="Yucong Duan seven-language research homepage">
+</a>
 
 <a href="https://www.researchgate.net/profile/Yucong-Duan">
   <img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Yucong Duan on ResearchGate">
@@ -59,6 +62,7 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 
 | Portal | Primary entry | What visitors can explore |
 |---|---|---|
+| **Seven-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, and हिन्दी navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
 | **Google Scholar** | [View publications and citation trails →](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) | A public, continuously updated view of publications, citations, co-authors, and related scholarship. |
 | **Google Patents** | [Explore the inventor-search portfolio →](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) | Patent documents associated with the inventor name 段玉聪, including families, legal events, classifications, and cited prior art. |
 | **ResearchGate** | [Open Yucong Duan's research profile →](https://www.researchgate.net/profile/Yucong-Duan) | Publications, research questions, project updates, citations, and academic exchange. |
