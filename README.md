@@ -1,5 +1,7 @@
 <div align="center">
 
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+
 # Yucong Duan · 段玉聪
 
 ### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
@@ -10,6 +12,9 @@ President, World Academy for Artificial Consciousness (WAAC)
 
 <a href="https://scholar.google.com/citations?user=Px89gSoAAAAJ&amp;hl=en">
   <img src="https://img.shields.io/badge/Google_Scholar-Publications_%26_Citations-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Yucong Duan on Google Scholar">
+</a>
+<a href="https://dblp.org/pid/10/2092.html">
+  <img src="https://img.shields.io/badge/DBLP-62_Journals_%C2%B7_128_Conference_%C2%B7_10_Other-004F9F?style=for-the-badge" alt="Yucong Duan bibliography on DBLP">
 </a>
 <a href="https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&amp;oq=%E6%AE%B5%E7%8E%89%E8%81%AA">
   <img src="https://img.shields.io/badge/Google_Patents-Invention_Portfolio-5F6368?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Yucong Duan patents on Google Patents">
@@ -33,6 +38,9 @@ President, World Academy for Artificial Consciousness (WAAC)
 <a href="https://patents.google.com/?q=(DIKWP)&amp;oq=DIKWP">
   <img src="https://img.shields.io/badge/DIKWP-Independent_Patent_Diffusion-7A1FA2?style=for-the-badge" alt="Independent DIKWP patent diffusion on Google Patents">
 </a>
+<a href="https://github.com/YucongDuan/YucongDuan/blob/main/PATENT_PORTFOLIO_MAP.md">
+  <img src="https://img.shields.io/badge/Patent_Portfolio-7_Research_Clusters-E6B957?style=for-the-badge" alt="Yucong Duan patent portfolio map">
+</a>
 <a href="https://www.youtube.com/@yucongduan">
   <img src="https://img.shields.io/badge/YouTube-Research_Videos-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Yucong Duan on YouTube">
 </a>
@@ -40,11 +48,24 @@ President, World Academy for Artificial Consciousness (WAAC)
   <img src="https://img.shields.io/badge/LinkedIn-Research_Network-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Yucong Duan on LinkedIn">
 </a>
 
-[Evidence map](https://github.com/YucongDuan/YucongDuan/blob/main/DIKWP_EVIDENCE_MAP.md) · [ISO/IEC standardization](#isoiec-standardization--国际标准化) · [CAAI white paper](#caai-white-paper-on-dikwp-and-artificial-consciousness--中国人工智能学会-dikwp与人工意识白皮书) · [Media coverage](#media-and-public-discourse--中英文媒体与公共传播) · [Independent patents](#independent-patent-diffusion--非段玉聪参与的外部专利扩散) · [Academic impact](#academic-impact--学术影响) · [Conference leadership](#institution-building--conference-leadership) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
+[DIKW/DIKWP Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Patent portfolio map](PATENT_PORTFOLIO_MAP.md) · [Evidence map](DIKWP_EVIDENCE_MAP.md) · [ISO/IEC standardization](#isoiec-standardization--国际标准化) · [CAAI white paper](#caai-white-paper-on-dikwp-and-artificial-consciousness--中国人工智能学会-dikwp与人工意识白皮书) · [Media coverage](#media-and-public-discourse--中英文媒体与公共传播) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
 
 </div>
 
 ---
+
+## Institutional and publication network / 机构与出版网络
+
+<p align="center">
+  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University" title="Hainan University"></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO" title="ISO"></a>&nbsp;&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE" title="IEEE"></a>&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier" title="Elsevier"></a>&nbsp;&nbsp;
+  <a href="https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/shanghai-library.ico" width="54" height="54" alt="Shanghai Library" title="Shanghai Library"></a>&nbsp;&nbsp;
+  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="World Academy for Artificial Consciousness" title="WAAC"></a>
+</p>
+
+<p align="center"><sub>Logo links lead to the corresponding institutional or primary evidence pages. Appearance here identifies the source or publication network; it does not imply blanket institutional endorsement.</sub></p>
 
 ## From semantic resources to systems that can be inspected
 
@@ -53,6 +74,8 @@ I study how **Data, Information, Knowledge, Wisdom, and Purpose (DIKWP)** can be
 My originating research line systematically extends knowledge graphs into **typed, computable DIKW and DIKWP graphs**. Public patents from 2017 onward expose the path from linked Data/Information/Knowledge/Wisdom graphs to intent-driven typed-resource derivation and Purpose-resource graphs; Hainan University records the team's 2020 Wu Wenjun AI Award for “DIKW graphical extension and modelling.” [Inspect the institutional record →](https://en.hainanu.edu.cn/info/1151/2981.htm)
 
 This GitHub account is a public research workshop. It connects foundational work on DIKWP with executable systems for artificial-consciousness research, trustworthy AI agents, reconstructive memory, semantic mathematics, education, and long-horizon human–AI futures.
+
+**Public GitHub snapshot · 1 September 2026:** **432 public repositories** · 663 stars · 712 followers. Counts are time-stamped rather than presented as permanent totals. This authenticated-profile snapshot replaces the 30 August checkpoint (415 repositories) and makes the +17-repository expansion visible without treating repository count as a quality score. The interactive homepage and GitHub Profile intentionally repeat their strongest material so visitors can enter through either the evidence-first website or the code-first repository network.
 
 > **Working loop:** D → I → K → W → P → action → evidence → revision
 
@@ -64,6 +87,7 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 |---|---|---|
 | **Seven-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, and हिन्दी navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
 | **Google Scholar** | [View publications and citation trails →](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) | A public, continuously updated view of publications, citations, co-authors, and related scholarship. |
+| **DBLP** | [Inspect the computer-science bibliography →](https://dblp.org/pid/10/2092.html) | A stable indexed route across 62 journal, 128 conference/workshop, and 10 informal/other labels as visible on 30 August 2026. These labels indicate bibliographic coverage, not citation impact. |
 | **Google Patents** | [Explore the inventor-search portfolio →](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) | Patent documents associated with the inventor name 段玉聪, including families, legal events, classifications, and cited prior art. |
 | **ResearchGate** | [Open Yucong Duan's research profile →](https://www.researchgate.net/profile/Yucong-Duan) | Publications, research questions, project updates, citations, and academic exchange. |
 | **YouTube** | [Open the Yucong Duan channel →](https://www.youtube.com/@yucongduan) · [DIKWP-AC video archive →](https://www.youtube.com/@DIKWP-AC/videos) · [research-group playlist →](https://www.youtube.com/playlist?list=PLTCg3qfESSm7oCb7D7TY9_htxpeCR1iiv) | World Artificial Consciousness Conferences, DIKWP talks, artificial-consciousness demonstrations, semantic research, white-box evaluation, and teaching records. |
@@ -72,6 +96,59 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 | **WACA** | [Enter the World Artificial Consciousness Association →](https://www.yucongduan.org/WACA/WACA.html) | Association mission, committees, activities, and international initiatives around artificial consciousness. |
 | **Official website** | [Visit yucongduan.org →](https://www.yucongduan.org/) | Full bilingual profile, research-team news, awards, conference history, and current initiatives. |
 | **Hainan University** | [Open the university profile →](https://cs.hainanu.edu.cn/info/1104/1858.htm) | Institutional appointment, research directions, teaching, and contact information. |
+
+## Two research-and-practice Ports
+
+| Port | Routes | Start here |
+|---|---|---|
+| **DIKW/DIKWP Public Academic & Practice Port** | Typed-resource foundations and DIKWP graphs → standards and evidence → patents and strategic applications → open engineering → cross-domain practice. | [Enter the public DIKW/DIKWP Port →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) |
+| **Artificial Consciousness Public Research & Experiment Port** | Theory and international taxonomy → DIKWP white-box evaluation → open experiments and agents → medicine, ethics, law and institutions. | [Enter the public Artificial Consciousness Port →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) |
+
+The Ports connect different kinds of evidence without treating them as interchangeable. A theory, benchmark, prototype, patent, product statement, standard, or conference record supports a different claim level.
+
+## August–September 2026 research frontier / 2026年8—9月研究前沿
+
+| Research release | Public route | Inspectable contribution and evidence boundary |
+|---|---|---|
+| **DIKWP Public Impact Update** | [ResearchGate report →](https://www.researchgate.net/publication/413600489_DIKWP_Public_Impact_Update_ISOIEC_Media_Visibility_Independent_Diffusion_and_Structural_Convergence) | Source-team audit of standards use, media visibility, independent diffusion and structural convergence. It is evidence synthesis—not independent validation. |
+| **DIKWP-MESH 8.0 × DIKWP-SAIL** | [Semantic-responsibility infrastructure report →](https://www.researchgate.net/publication/412255419_weilai_AI_yuyizerenjichusheshi--DIKWP-MESH80_yu_DIKWP-SAIL_guanjianlujingbaogao) | Semantic passports, W/P gates, replay, receipts, provenance, adapters and conformance obligations. The public record supports specification and internal consistency, not claimed industry deployment. |
+| **DIKWP-MESH 8.0 · BASSK** | [Binary Autopoietic Semantic Subject Kernel →](https://www.researchgate.net/publication/412174167_DIKWP-MESH_80_Binary_Autopoietic_Semantic_Subject_Kernel) | Deterministic relation-first functional subject-genesis experiments with observable packets and runs; no claim of subjective experience. |
+| **DIKWP-Ω 共成** | [Co-becoming artificial-consciousness system →](https://www.researchgate.net/publication/412368065_DIKWP-O_gongchengwuzhongjufoudingyugongtongkechengweixingrengongyishixitong) | Non-terminal denial, revisable personhood judgments and common co-becoming under explicit minimal axioms; not a consciousness certification or metaphysical proof. |
+| **OPENBECOMING84** | [Identity-free trajectory system →](https://www.researchgate.net/publication/412716308_From_Human-AI_Categories_to_Identity-Free_Trajectory_Generation_-_Identity-Free_DIKWP_Trajectory_Generation_and_Closed-Loop_Release_System) | Identity-free DIKWP trajectory generation and closed-loop release beyond fixed human–AI categories; social implications remain testable hypotheses. |
+
+### New executable systems / 最新可运行系统
+
+- [DIKWP-EXPERION 9.3](https://github.com/YucongDuan/Artificial-Consciousness-Beyond-the-Consciousness-Concept) — closed-world, auditable artificial-consciousness research without a permanent consciousness module or single inner theatre.
+- [DIKWP-METALIFE 9.3](https://github.com/YucongDuan/Complete-Digital-Metabolism-and-Autopoietic-Life-System) — deterministic offline artificial life through digital metabolism and autopoietic continuity.
+- [DIKWP-ORBIT 92](https://github.com/YucongDuan/Open-Research-Benchmark-Impact-and-Translation-OS) — converts a large research portfolio into independently testable, reusable and cumulative benchmark objects.
+- [OmniMemory OS](https://github.com/YucongDuan/OmniMemory-OS) — local-first memory outside any single LLM, preserving evidence and reviewable long-term memories.
+- [OMEGA-ACOS](https://github.com/YucongDuan/Evidence-bound-operational-artificial-consciousness-candidate-system) — evidence-bound operational artificial-consciousness candidate runtime.
+
+### 1 September 2026 · nine-repository frontier / 2026年9月1日九仓库前沿
+
+The newest layer is best read as four connected engineering axes rather than nine isolated releases: **human sovereignty and bounded protection** (SOVEREIGN-GATE, STRATAGEM, WORLD-OMEGA), **semantic/cognitive capital** (Semantic Capital Foundry, PRAXIS95), **cognitive equity and outcome assurance** (Cognitive Bridge Ω, OutcomeForge), and **trans-semantic/civilizational plurality** (APEIRON, SAMSARA). Across all four, the shared grammar is source/evidence → plural worlds → Purpose → guarded action → outcome/revision.
+
+| System | Inspectable contribution | Claim boundary |
+|---|---|---|
+| [DIKWP-SAMSARA 9.5](https://github.com/YucongDuan/Reincarnation-Continuity-Cognitive-Closure-Interconnection-and-Human-Civilization-Gateway) | Compares 11 non-isomorphic continuity models across 16 dimensions while preserving source-bound religious/civilizational mappings and native concepts. | Structured comparison does not establish reincarnation, first-person continuity, legal identity, consciousness, doctrinal equivalence or representative authority. |
+| [DIKWP-PRAXIS95](https://github.com/YucongDuan/Cognitive-Capital-Commercialization-and-Governed-Expert-Agent-OS) | Compiles owner-controlled documents, decision experience and service rules into rights-aware expert-agent products, capability tokens, evidence packets and outcome calibration. | The reference runtime has zero external-action, payment, identity-simulation or official-representation authority. |
+| [Cognitive Bridge Ω Commons](https://github.com/YucongDuan/Cognitive-Bridge-Commons) | Links participant-owned Purpose, provenance, plural worlds, semantic-loss seams, learning receipts, structural constraints, support and reversible action tickets. | No general intelligence/human-worth score or automated admissions, employment or credit authority; CBEP-1000 is a draft. |
+| [OutcomeForge OS](https://github.com/YucongDuan/OutcomeForge-OS-v1.0.0) | Connects named AI systems and roles to human-reviewed work samples, appealable receipts, privacy-thresholded aggregate coverage and bounded outcome observation. | Synthetic demonstrations are not client performance; KOAP-1000 and pilot pricing are author-side market-validation hypotheses. |
+| [Semantic Capital Foundry 13.0.0](https://github.com/YucongDuan/Semantic-Capital-Foundry-13.0.0) | Compiles organisational knowledge into signed Cognitive Asset Capsules with rights, provenance, D/I/K/W/P + Experience + Boundary cards, hidden tests and decision receipts. | Alpha status does not prove corpus truth, captured tacit expertise, production accuracy, compliance, adoption or ROI. |
+| [WORLD-OMEGA v1.0.0](https://github.com/YucongDuan/Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel) | Joins local worlds, plural hypotheses, provenance, power asymmetry, explicit authority, non-aggregated true value, restitution, appeal and correction. | TVWS-1000:2026-DRAFT is not standards certification; execution does not prove physical law, consciousness or legal guilt. |
+| [JusticeShield STRATAGEM 11.0.0 / TIANLUO](https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0) | Uses six competing attribution worlds, true-value hard gates, bounded synthetic deception, moving defence, restitution and reality-contact revision inside controlled assets. | External automatic action authority is zero; no hack-back, third-party intrusion, malware, exfiltration, destructive action or public accusation. |
+| [SOVEREIGN-GATE 12.0.0 / TIANHENG](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) | Governs model + harness + tools + memory + communication graph + evaluator + authority as one deployed system through Purpose Passports, leases and local containment. | Alpha reference implementation—not production certification, measured real-world detection accuracy, legal judgment or autonomous external enforcement. |
+| [DIKWP-APEIRON 9.5](https://github.com/YucongDuan/APEIRON-9.5) | Builds a language-optional ontic core with opaque operational concepts, competing world models and a DIKWP responsibility bridge that preserves projection loss. | Its 118 deterministic tests validate software contracts and reproducibility—not final cosmic truth, consciousness, divinity, personhood or causal proof. |
+
+> **Repository evidence rule:** repository pages support source availability, declared scope, reproducible tests and self-described implementation status. They do not by themselves establish independent validation, production adoption, standards certification, clinical or commercial effectiveness, metaphysical truth, legal authority, or phenomenal consciousness.
+
+## Patent portfolio architecture / 专利布局
+
+The supplied research materials expose **115 structured records in a 2017–2023 foundational cohort** and **139 listed invention items in a 2025 cohort**. The 2025 titles form seven connected clusters: law/IP/Semantic Sovereignty and governance (29), Active Medicine/health/neurotechnology (27), artificial consciousness/cognitive systems (21), DIKWP core/graphs/Semantic Mathematics (21), education/talent/creativity/cross-cultural semantics (17), white-box/trustworthy AI/safety (12), and multi-agent/enterprise/digital infrastructure (12).
+
+[Open the audited Patent Portfolio Map →](PATENT_PORTFOLIO_MAP.md)
+
+> **Counting boundary:** 115 + 139 = 254 source rows across two supplied cohorts. It is not presented as an official total, a grant count, a unique legal-family count, or a current legal-status assertion. The primary 2025 summary contains 122 application numbers, while a companion filing sheet supplies identifiers for the remaining 17 items.
 
 ## ISO/IEC standardization / 国际标准化
 
@@ -103,6 +180,21 @@ Yucong Duan's work connects **DIKWP theory**, **artificial consciousness**, **se
 
 > **Recognition in the international landscape of consciousness theories:** In §9.4.8, “Mathematical theories,” of Robert Lawrence Kuhn's peer-reviewed [*A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications*](https://doi.org/10.1016/j.pbiomolbio.2023.12.003), the author explicitly presents **Yucong Duan's mathematically based “BUG” theory of consciousness**, discusses the view of mathematics as a language for identifying the structure, dynamics, information flow, and regularities of consciousness, and notes Duan's recognition of mathematics' limits. [Inspect the accessible full-text section →](https://channelmcgilchrist.com/a-landscape-of-consciousness-toward-a-taxonomy-of-explanations-and-implications-by-robert-lawrence-kuhn-doi-org-10-1016-j.pbiomolbio.2023.12.003/#:~:text=Mathematician%20Yucong%20Duan)
 
+## DBLP bibliographic spine and selected CNKI trajectory / DBLP书目主轴与CNKI精选脉络
+
+DBLP exposes a traceable computer-science progression from typed D/I/K/W graphs to Purpose-driven DIKWP, white-box artificial-consciousness evaluation, semantic justice, and edge-deployable semantic control. Its visible labels currently span **62 journal records, 128 conference/workshop records, and 10 informal/other records**. These figures describe bibliographic coverage—not citation impact, novelty, independent validation, or adoption—and may include related versions. [Inspect the live DBLP profile →](https://dblp.org/pid/10/2092.html)
+
+| Year | Indexed milestone | Why it matters |
+|---|---|---|
+| **2017–2018** | [DIKW graph architecture](https://dblp.org/rec/conf/sera/DuanSHZZL17) → [journal formalization](https://dblp.org/rec/journals/ijsinnov/DuanSH18) | Extends knowledge graphs into typed Data, Information, Knowledge, and Wisdom graph layers. |
+| **2021–2022** | [Trusted service-provider discovery](https://dblp.org/rec/journals/ijseke/LeiD21) → [Purpose-driven dispute modelling with DIKWP graphs](https://dblp.org/rec/conf/hpcc/MeiDCFYG22) | Connects layered semantic resources to trust, Purpose, analysis, and resolution. |
+| **2023–2025** | [DIKWP artificial-consciousness white-box framework](https://dblp.org/rec/conf/hpcc/TangDWCW23) → [semantic judicial reasoning](https://dblp.org/rec/journals/information/MeiD25) | Moves from graph formalization into inspectable capabilities, governance, law, and semantic justice. |
+| **2026** | [DIKWP white-box semantic distributed learning](https://dblp.org/rec/journals/ijwis/MeiDWL26) | Reports semantic probes, System-2-style reasoning and federated learning for resource-constrained edge environments. |
+
+Selected CNKI records add a twenty-year Chinese-language trajectory: [model-driven process design in *Journal of Software* (2006)](https://kns.cnki.net/kcms2/article/abstract?v=tPTW3hFh4gcqQY_bdJrswB6Nna9iGeN-X5985Nc0DKE1gKtnmsmI18_IdGir9jKWFMum4dHo4tGzTukTafQfsNqIjBHCu18v3hg2TmAQcob_Z8aajlEDil4ypncEMWluU_V-344_bzGkR-LfpF8qT9pcM5jPnNaMs4iXMsrRNGXc9s05BANsQQ==&uniplatform=NZKPT&language=CHS), [cross-modal privacy and legal-technical AI governance (2021)](https://kns.cnki.net/kcms2/article/abstract?v=tPTW3hFh4geUvcnfWU_5iHX5-LuS4R8UkNbOAaA3j6WTpDaCSdvFghjtqM9SBA7mGs89pFpuzqZxYlShgBqUaKPT3Nc1zJxwPyoHsfdO2ZT_BBYbMxxkAthewqKLkSb9G7qU8l3iDBP1MQOq46aY4x7H11t1TDVbUN6s2wi8vVaK10hxRwi4lA==&uniplatform=NZKPT&language=CHS), [DIKWP for human–machine integration (2024)](https://kns.cnki.net/kcms2/article/abstract?v=tPTW3hFh4gdn1GO2J6T5pKnAPyt2VAhKcNWLgKxjlgdbg3zDmMLkh9xTDo8Ke8eFSPgpLog4PneQN1xo7OLufNngnNo76n4crRIhjB5l9NKFz9JYeVX0bcrNHCXBqW4pqo1IWsDGP2nA89g3cujEodG0NGAcRiQatcZy9N_8ZnmHAvF1BT58ew==&uniplatform=NZKPT&language=CHS), [ethnic-medicine modernization (2025)](https://kns.cnki.net/kcms2/article/abstract?v=tPTW3hFh4gf1hDZKJbMQpXJXWfddIhzqh2cpH85EMNutXYkNN3caRDx_NdvFX6-oEurkXKgbfg8YukljekADTC-wRJGh1h8XY1QnTBoYLvLtVfNmTgyZRaNEbfXodfwWhnxRSoTj5yVGtw0I7HizTN3fUMAgF1tZrFSsVBRHb8Zu122y6s7xCQ==&uniplatform=NZKPT&language=CHS), and [intent-lifecycle modelling (2026)](https://kns.cnki.net/kcms2/article/abstract?v=tPTW3hFh4gfCuGjm06e7GMokfl9R0HiwkO6eI1X_K6EMpTkQCahYYh4smoRgBg3fmzGxP3F8aBw2dSZ3Rd41m_UQDhI56BzT_e4Yy3wVp3ePZh3DsPMZ0QzyKlxNkFtwM96voAX9suibtYyYe5doE01Eb7qTHN78awy69MjUgOdHTnpHMcpnJA==&uniplatform=NZKPT&language=CHS).
+
+> **Source boundary / 来源边界：** These CNKI items are source-team or co-authored extensions, not independent citations. CNKI and Google Scholar counts remain dynamic discovery signals and are not frozen as permanent quality rankings. / 这些 CNKI 条目属于源头团队或合作作者成果，不列为独立引用；CNKI 与 Google Scholar 动态数字不固化为永久质量排名。
+
 ## CAAI white paper on DIKWP and Artificial Consciousness / 中国人工智能学会 DIKWP与人工意识白皮书
 
 The **China Association for Artificial Intelligence (CAAI)** released *2024 China Artificial Intelligence Series White Paper — Artificial Intelligence Foundations: Selected Topics /《人工智能基础选编》* at the CAAI white-paper launch held during **CCAI 2024** in Beijing. It provides a rare institutional bridge from DIKWP source research to a professional-society public knowledge resource.
@@ -127,7 +219,31 @@ The **China Association for Artificial Intelligence (CAAI)** released *2024 Chin
 | **Semantic Mathematics / 语义数学** | Builds formal, inspectable mappings among conceptual, semantic, cognitive, and expression spaces so that meaning transformations can be represented, constrained, traced, challenged, and revised—not left implicit inside symbols or model parameters. | [*Introduction to Semantic Mathematics / 语义数学概论* publication report →](https://www.cbbr.com.cn/contents/533/108502.html) · [peer-reviewed creative-AI and semantic-mathematics paper →](https://www.mdpi.com/2079-9292/15/5/963) · [recognition in *A Landscape of Consciousness* →](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) |
 | **DIKWP White-box Evaluation / DIKWP 白盒测评** | Evaluates AI not only by final answers but by inspectable D/I/K/W/P semantic capabilities and transformations, exposing where perception, information extraction, knowledge construction, wisdom, Purpose recognition, or alignment succeeds or fails. | [Science and Technology Daily report on the 100-question LLM evaluation →](https://www.stdaily.com/web/gdxw/2025-02/19/content_298792.html) · [peer-reviewed DIKWP-WISE architecture →](https://www.emerald.com/ijwis/article-abstract/22/1/17/1317917/A-DIKWP-white-box-semantic-distributed-learning) · [open white-box EvalLab →](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
 
-### Selected books / 代表性图书
+### Latest bilingual research-book editions / 最新中英双语研究著作
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://www.researchgate.net/publication/413548692_yuzhoudezhongjibenzhi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="132" alt="宇宙的终极本质 research-edition thumbnail"><br><b>《宇宙的终极本质》</b></a><br><a href="https://www.researchgate.net/publication/413539416_The_Ultimate_Essence_of_the_Universe_Revised_Expanded"><sub>The Ultimate Essence of the Universe</sub></a></td>
+    <td align="center" width="33%"><a href="https://www.researchgate.net/publication/413546708_zhongjishijiemoxing"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="132" alt="终极世界模型 research-edition thumbnail"><br><b>《终极世界模型》</b></a><br><a href="https://www.researchgate.net/publication/413537280_THE_ULTIMATE_WORLD_MODEL"><sub>The Ultimate World Model</sub></a></td>
+    <td align="center" width="33%"><a href="https://www.researchgate.net/publication/413537185_yuzhoudezhexuexinshi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="132" alt="宇宙的哲学新史 research-edition thumbnail"><br><b>《宇宙的哲学新史》</b></a><br><a href="https://www.researchgate.net/publication/413485317_A_New_History_of_Cosmic_Philosophy_Native_Semantic_Continuity_in_the_Outside-Less_Whole"><sub>A New History of Cosmic Philosophy</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.researchgate.net/publication/413484529_yuzhoudeshuxuexinshi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="132" alt="宇宙的数学新史 research-edition thumbnail"><br><b>《宇宙的数学新史》</b></a><br><a href="https://www.researchgate.net/publication/413484528_A_New_Mathematical_History_of_the_Universe_A_New_Mathematical_History_of_the_Universe_Native_Semantic_Continuity_Concept_Regeneration_and_the_Self-Revising_Cosmos_Title_A_New_Mathematical_History_of_t"><sub>A New Mathematical History of the Universe</sub></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/413484530_yuzhoudewulixinshi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-physics.svg" width="132" alt="宇宙的物理新史 research-edition thumbnail"><br><b>《宇宙的物理新史》</b></a><br><a href="https://www.researchgate.net/publication/413458856_A_New_Physical_History_of_the_Universe-_Semantic_Continuity_Deluxe_Illustrated_and_Expanded_Final_English_Edition"><sub>A New Physical History of the Universe</sub></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/412069621_rengongyishiwulixue"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="132" alt="人工意识物理学 research-edition thumbnail"><br><b>《人工意识物理学》</b></a><br><a href="https://www.researchgate.net/publication/412070117_Physics_of_Artificial_Consciousness"><sub>Physics of Artificial Consciousness</sub></a></td>
+  </tr>
+</table>
+
+> **Record boundary:** these thumbnails are clearly marked editorial previews for author-prepared ResearchGate research editions. They are not represented as official publisher covers, ISBN editions or independently peer-reviewed monographs unless a separate bibliographic record exists.
+
+### Selected formally published books / 正式出版代表性图书
+
+<p align="center">
+  <a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="48" alt="西安电子科技大学出版社" title="西安电子科技大学出版社"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="48" alt="北京大学出版社" title="北京大学出版社"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="48" alt="中国人民大学出版社" title="中国人民大学出版社"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sanmin.com.tw/product/index/014968228"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/cst-press.png" height="48" alt="中国科学技术出版社" title="中国科学技术出版社"></a>
+</p>
 
 | Year | Book | Publication record and contribution |
 |---|---|---|

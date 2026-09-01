@@ -1,0 +1,53 @@
+<div align="center">
+
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+
+# युकोंग दुआन · 段玉聪
+
+### DIKW/DIKWP ग्राफ़ · कृत्रिम चेतना · अर्थगत गणित · लेखापरीक्षण योग्य AI
+
+प्रोफेसर और डॉक्टोरल सुपरवाइज़र, हैनान विश्वविद्यालय · WACA अध्यक्ष · WAAC संस्थापक अध्यक्ष
+
+[7-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
+
+</div>
+
+## अर्थगत संसाधनों से जाँचयोग्य प्रणालियों तक
+
+युकोंग दुआन का शोध Data, Information, Knowledge, Wisdom और Purpose (DIKWP) को अलग लेकिन रूपांतरण योग्य अर्थगत संसाधनों के रूप में प्रस्तुत करता है। यह ज्ञान-ग्राफ़ को प्रकारित और गणनीय DIKW/DIKWP ग्राफ़ में व्यवस्थित रूप से विस्तारित करता है तथा उन्हें कृत्रिम चेतना, सक्रिय चिकित्सा, अर्थगत संप्रभुता, अर्थगत गणित और DIKWP व्हाइट-बॉक्स मूल्यांकन से जोड़ता है।
+
+> कार्य चक्र: D → I → K → W → P → क्रिया → साक्ष्य → संशोधन
+
+**सार्वजनिक GitHub स्नैपशॉट · 1 सितम्बर 2026:** 432 सार्वजनिक रिपॉज़िटरी, 663 स्टार और 712 फ़ॉलोअर। आँकड़े समय-मुद्रित हैं; 30 अगस्त के 415 रिपॉज़िटरी बिंदु से वृद्धि खुले शोध-कोष का विस्तार है, गुणवत्ता-स्कोर नहीं।
+
+## शोध और अभ्यास के दो पोर्ट
+
+| पोर्ट | मार्ग |
+|---|---|
+| [**DIKW/DIKWP सार्वजनिक अकादमिक और अभ्यास पोर्ट**](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | आधार व ग्राफ़ → मानक व साक्ष्य → पेटेंट व रणनीतिक आवेदन → मुक्त अभियांत्रिकी → बहु-क्षेत्रीय अभ्यास। |
+| [**कृत्रिम चेतना सार्वजनिक शोध और प्रयोग पोर्ट**](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | सिद्धांत व वर्गीकरण → व्हाइट-बॉक्स मूल्यांकन → खुले प्रयोग व एजेंट → चिकित्सा, नैतिकता, कानून और संस्थान। |
+
+## अगस्त 2026 के नए जोड़
+
+- LETI शोधकर्ता द्वारा Quality 4.0 में DIKWP का स्वतंत्र अकादमिक उपयोग, जिसे संस्थान-व्यापी अंगीकरण से अलग रखा गया है।
+- DIKWP-MESH 8.0, DIKWP-SAIL, BASSK, DIKWP-Ω और OPENBECOMING84 शोध रिलीज़।
+- DIKWP-EXPERION 9.3, DIKWP-METALIFE 9.3, DIKWP-ORBIT 92, OmniMemory OS और OMEGA-ACOS सहित नए चलने योग्य सिस्टम।
+- ResearchGate पर छह चीनी–अंग्रेज़ी शोध-पुस्तक युग्म, जिनकी थंबनेल स्पष्ट रूप से शोध-संस्करण के रूप में चिह्नित हैं।
+
+## सत्यापन योग्य प्रभाव संकेत
+
+- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) स्मार्ट-सिटी डेटा उपयोग-प्रकरण और डेटा मूल्य-श्रृंखला के आधार के लिए DIKWPA का उपयोग करता है।
+- [CAAI श्वेतपत्र](https://www.caai.cn/index.php?s=/home/article/detail/id/4375.html) DIKWP और कृत्रिम चेतना से उसके संबंध पर विस्तृत अध्याय देता है।
+- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en), [WAAC](https://waac.ac/), [आधिकारिक वेबसाइट](https://www.yucongduan.org/), [YouTube](https://www.youtube.com/@yucongduan) और [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) प्रकाशनों, संस्थानों, सम्मेलनों और सार्वजनिक संवाद को जोड़ते हैं।
+
+## पेटेंट पोर्टफोलियो संरचना
+
+दिए गए स्रोतों में **2017–2023 के 115 संरचित अभिलेख** और **2025 की 139 आविष्कार मदें** हैं। 2025 समूह सात क्षेत्रों में संगठित है: कानून/IP/अर्थगत संप्रभुता (29), सक्रिय चिकित्सा व स्वास्थ्य (27), कृत्रिम चेतना (21), DIKWP मूल/ग्राफ़/अर्थगत गणित (21), शिक्षा व सृजनशीलता (17), व्हाइट-बॉक्स विश्वसनीय AI (12), और बहु-एजेंट व डिजिटल अवसंरचना (12)।
+
+[पूरा पेटेंट पोर्टफोलियो मानचित्र खोलें →](PATENT_PORTFOLIO_MAP.md)
+
+> 254 दो समूहों में स्रोत-पंक्तियों की सूची है; यह आधिकारिक कुल, अनुदान संख्या, विशिष्ट कानूनी परिवार या वर्तमान कानूनी स्थिति नहीं है।
+
+## कोड से शुरू करें
+
+[AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [सभी रिपॉज़िटरी](https://github.com/YucongDuan?tab=repositories)
