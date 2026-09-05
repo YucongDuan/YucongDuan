@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # يوكونغ دوان · 段玉聪
 
@@ -8,7 +8,7 @@
 
 أستاذ ومشرف دكتوراه في جامعة هاينان · رئيس WACA · الرئيس المؤسس لـ WAAC
 
-[موقع البحث بسبع لغات](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [خريطة البراءات](PATENT_PORTFOLIO_MAP.md) · [خريطة الأدلة](DIKWP_EVIDENCE_MAP.md)
+[موقع البحث باثنتي عشرة لغة](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [خريطة البراءات](PATENT_PORTFOLIO_MAP.md) · [خريطة الأدلة](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
@@ -20,7 +20,13 @@
 
 > دورة العمل: D → I → K → W → P → فعل → دليل → مراجعة
 
-**لقطة GitHub العامة في 1 سبتمبر 2026:** 432 مستودعاً عاماً و663 نجمة و712 متابعاً. الأرقام مؤرخة؛ والزيادة من 415 مستودعاً في 30 أغسطس توثّق توسع المتن المفتوح ولا تمثل تقييماً للجودة.
+**لقطة GitHub العامة في 4 سبتمبر 2026:** 449 مستودعاً عاماً و694 نجمة و737 متابعاً. توثّق الزيادة من 435 إلى 449 مستودعاً منذ 2 سبتمبر اتساع المتن المفتوح، لا تقييماً للجودة.
+
+### جبهة من 14 مستودعاً · 4 سبتمبر
+
+تنتظم الأنظمة الجديدة في ستة محاور: النية البشرية والتحول الاقتصادي؛ التعليم والعمل واستمرارية سبل العيش؛ الصحة العامة والرعاية؛ تداول قيمة الحياة؛ استمرارية المؤسسات والوكلاء المحكومون؛ واستشراف الحضارة. [استكشف 449 مستودعاً و1,843 علاقة متبادلة ←](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> حدود الدليل: تثبت الصفحات إتاحة المصدر والنطاق المعلن، ولا تثبت وحدها التحقق الخارجي أو النشر أو الفاعلية أو التقييس الرسمي أو التأييد أو سلطة تمثيل الآخرين.
 
 ## بوابتان للبحث والممارسة
 

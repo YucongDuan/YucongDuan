@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -8,7 +8,7 @@
 
 Professeur et directeur de doctorat à l’Université de Hainan · Président de WACA · Président fondateur de WAAC
 
-[Site de recherche en 7 langues](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Carte des brevets](PATENT_PORTFOLIO_MAP.md) · [Carte des preuves](DIKWP_EVIDENCE_MAP.md)
+[Site de recherche en 12 langues](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Carte des brevets](PATENT_PORTFOLIO_MAP.md) · [Carte des preuves](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
@@ -18,7 +18,13 @@ Les travaux de Yucong Duan modélisent Données, Information, Connaissance, Sage
 
 > Boucle de travail : D → I → K → W → P → action → preuve → révision
 
-**Instantané GitHub public · 01-09-2026 :** 432 dépôts publics, 663 étoiles et 712 abonnés. Les chiffres sont datés ; la hausse depuis les 415 dépôts du 30 août documente l’expansion du corpus, non un score de qualité.
+**Instantané GitHub public · 04-09-2026 :** 449 dépôts publics, 694 étoiles et 737 abonnés. Le passage de 435 à 449 dépôts depuis le jalon du 2 septembre documente une expansion, non un score de qualité.
+
+### Frontière de 14 dépôts · 4 septembre
+
+Les nouveaux systèmes forment six axes : intention humaine et transition économique ; éducation, carrière et moyens de subsistance ; santé publique et soins ; circulation de la valeur de vie ; continuité institutionnelle et agents gouvernés ; prospective civilisationnelle. [Explorer les 449 dépôts et 1 843 relations réciproques →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> Limite : les pages établissent la disponibilité publique et la portée déclarée, non la validation externe, le déploiement, l’efficacité, la normalisation formelle, l’approbation ou un mandat de représentation.
 
 ## Deux ports de recherche et de pratique
 

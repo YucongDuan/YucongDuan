@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -8,7 +8,7 @@
 
 Profesor y director doctoral en la Universidad de Hainan · Presidente de WACA · Presidente fundador de WAAC
 
-[Página de investigación en 7 idiomas](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Mapa de patentes](PATENT_PORTFOLIO_MAP.md) · [Mapa de evidencias](DIKWP_EVIDENCE_MAP.md)
+[Página de investigación en 12 idiomas](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Mapa de patentes](PATENT_PORTFOLIO_MAP.md) · [Mapa de evidencias](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
@@ -18,7 +18,13 @@ La investigación de Yucong Duan representa Datos, Información, Conocimiento, S
 
 > Ciclo de trabajo: D → I → K → W → P → acción → evidencia → revisión
 
-**Instantánea pública de GitHub · 01-09-2026:** 432 repositorios públicos, 663 estrellas y 712 seguidores. Las cifras llevan fecha; el aumento desde los 415 repositorios del 30 de agosto se registra como expansión del corpus, no como puntuación de calidad.
+**Instantánea pública de GitHub · 04-09-2026:** 449 repositorios públicos, 694 estrellas y 737 seguidores. La expansión de 435 a 449 repositorios desde el corte del 2 de septiembre documenta crecimiento, no una puntuación de calidad.
+
+### Frontera de 14 repositorios · 4 de septiembre
+
+Los nuevos sistemas forman seis ejes: intención y transición económica; educación, carrera y medios de vida; salud pública y cuidados; circulación del valor de vida; continuidad institucional y agentes gobernados; y prospectiva civilizatoria. [Explorar los 449 repositorios y 1.843 relaciones recíprocas →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> Límite: las páginas demuestran disponibilidad pública y alcance declarado; no validación externa, despliegue, eficacia, normalización formal, respaldo ni autoridad representativa.
 
 ## Dos puertos de investigación y práctica
 

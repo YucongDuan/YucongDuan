@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # युकोंग दुआन · 段玉聪
 
@@ -8,7 +8,7 @@
 
 प्रोफेसर और डॉक्टोरल सुपरवाइज़र, हैनान विश्वविद्यालय · WACA अध्यक्ष · WAAC संस्थापक अध्यक्ष
 
-[7-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
+[12-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
@@ -18,7 +18,13 @@
 
 > कार्य चक्र: D → I → K → W → P → क्रिया → साक्ष्य → संशोधन
 
-**सार्वजनिक GitHub स्नैपशॉट · 1 सितम्बर 2026:** 432 सार्वजनिक रिपॉज़िटरी, 663 स्टार और 712 फ़ॉलोअर। आँकड़े समय-मुद्रित हैं; 30 अगस्त के 415 रिपॉज़िटरी बिंदु से वृद्धि खुले शोध-कोष का विस्तार है, गुणवत्ता-स्कोर नहीं।
+**सार्वजनिक GitHub स्नैपशॉट · 4 सितम्बर 2026:** 449 सार्वजनिक रिपॉज़िटरी, 694 स्टार और 737 फ़ॉलोअर। 2 सितम्बर के 435 रिपॉज़िटरी बिंदु से वृद्धि खुले शोध-कोष का विस्तार है, गुणवत्ता-स्कोर नहीं।
+
+### 14-रिपॉज़िटरी अग्रिम परत · 4 सितम्बर
+
+नए तंत्र छह अक्ष बनाते हैं: मानव अभिप्राय और आर्थिक संक्रमण; शिक्षा, करियर व आजीविका; सार्वजनिक स्वास्थ्य व देखभाल; जीवन-मूल्य संचरण; संस्थागत निरंतरता व शासित एजेंट; और सभ्यता पूर्वानुमान। [449 रिपॉज़िटरी और 1,843 पारस्परिक संबंध देखें →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> साक्ष्य सीमा: पृष्ठ सार्वजनिक स्रोत और घोषित दायरा दिखाते हैं; वे अकेले बाहरी सत्यापन, परिनियोजन, प्रभावशीलता, औपचारिक मानकीकरण, समर्थन या प्रतिनिधि अधिकार सिद्ध नहीं करते।
 
 ## शोध और अभ्यास के दो पोर्ट
 

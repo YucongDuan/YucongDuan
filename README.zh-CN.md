@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # 段玉聪 · Yucong Duan
 
@@ -8,7 +8,7 @@
 
 海南大学教授、博士生导师 · 世界人工意识协会（WACA）主席 · 世界人工意识科学院（WAAC）首任院长
 
-[进入七语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [专利布局图](PATENT_PORTFOLIO_MAP.md) · [证据地图](DIKWP_EVIDENCE_MAP.md)
+[进入十二语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [专利布局图](PATENT_PORTFOLIO_MAP.md) · [证据地图](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
@@ -18,7 +18,13 @@
 
 > 工作闭环：D → I → K → W → P → 行动 → 证据 → 修订
 
-**GitHub 公开快照（2026-09-01）：432 个公开仓库、663 Stars、712 位关注者。** 数字带时间戳；这是登录状态下的实时公开主页快照。相较 8 月 30 日的 415 仓库检查点新增 17 个，但仓库总量不被当作质量评分。
+**GitHub 公开快照（2026-09-04）：449 个公开仓库、694 Stars、737 位关注者。** 数字带时间戳；相较 9 月 2 日的 435 仓库生态检查点新增 14 个，但仓库总量不被当作质量评分。
+
+### 9 月 4 日 · 十四仓库前沿
+
+新增层形成六条工程轴线：人的意图、价值与经济转型；教育、职业与生计韧性；公共健康与照护 Commons；跨阶层生命价值流通；制度连续性与受治理智能体；文明前瞻与作者侧标准。代表项目包括 [AXIOFORGE](https://github.com/YucongDuan/AXIOFORGE)、[CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER)、[EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS)、[RecoveryWeave](https://github.com/YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0)、[DIABETESCOMMONS95](https://github.com/YucongDuan/DIABETESCOMMONS95)、[MYOPIACOMMONS95](https://github.com/YucongDuan/MYOPIACOMMONS95)、[ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) 与 [YIYUAN 19.0.0](https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0)。[浏览 449 仓库与 1,843 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> 证据边界：仓库页面证明源码公开与项目自述范围，不单独证明外部验证、现实部署、临床或金融有效性、正式标准化、背书或代理他人行动的权限。
 
 ## 两个研究与实践端口
 

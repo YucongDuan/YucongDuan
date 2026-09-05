@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -20,7 +20,7 @@ President, World Academy for Artificial Consciousness (WAAC)
   <img src="https://img.shields.io/badge/Google_Patents-Invention_Portfolio-5F6368?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Yucong Duan patents on Google Patents">
 </a>
 <a href="https://yucong-duan-research.dikwp407.chatgpt.site">
-  <img src="https://img.shields.io/badge/Research_Homepage-7_Languages-0F766E?style=for-the-badge" alt="Yucong Duan seven-language research homepage">
+  <img src="https://img.shields.io/badge/Research_Homepage-12_Languages-0F766E?style=for-the-badge" alt="Yucong Duan twelve-language research homepage">
 </a>
 
 <a href="https://www.researchgate.net/profile/Yucong-Duan">
@@ -75,7 +75,24 @@ My originating research line systematically extends knowledge graphs into **type
 
 This GitHub account is a public research workshop. It connects foundational work on DIKWP with executable systems for artificial-consciousness research, trustworthy AI agents, reconstructive memory, semantic mathematics, education, and long-horizon human–AI futures.
 
-**Public GitHub snapshot · 1 September 2026:** **432 public repositories** · 663 stars · 712 followers. Counts are time-stamped rather than presented as permanent totals. This authenticated-profile snapshot replaces the 30 August checkpoint (415 repositories) and makes the +17-repository expansion visible without treating repository count as a quality score. The interactive homepage and GitHub Profile intentionally repeat their strongest material so visitors can enter through either the evidence-first website or the code-first repository network.
+**Public GitHub snapshot · 4 September 2026:** **449 public repositories** · 694 stars · 737 followers. Counts are time-stamped rather than presented as permanent totals. This live profile snapshot adds 14 repositories to the 2 September 435-repository ecosystem checkpoint and documents expansion without treating repository count as a quality score. The interactive homepage and GitHub Profile intentionally repeat their strongest material so visitors can enter through either the evidence-first website or the code-first repository network.
+
+### 4 September 2026 · fourteen-repository frontier / 2026年9月4日十四仓库前沿
+
+The newest layer extends DIKWP’s evidence → plural worlds → Purpose → guarded action → outcome/revision grammar into six practical axes:
+
+| Axis | New public systems | What the connection exposes |
+|---|---|---|
+| **Human intent, value and economic transition** | [AXIOFORGE](https://github.com/YucongDuan/AXIOFORGE) · [CiviReserve](https://github.com/YucongDuan/CiviReserve-Global-Investor-OS-v1.0.0) · [PROACTIVE ESSENCE ECONOMY](https://github.com/YucongDuan/PROACTIVE-ESSENCE-ECONOMY) · [YIYUAN 19.0.0](https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0) | Purpose, value plurality, capital resilience, public-benefit attribution and bounded action during AI and labour transition. |
+| **Education, career and livelihood resilience** | [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) · [EduWeave Global](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [FUTURECRAFT XINGZHOU](https://github.com/YucongDuan/FUTURECRAFT-XINGZHOU-16.0.0) · [GLOBAL YOUTH COMPASS](https://github.com/YucongDuan/GLOBAL-YOUTH-COMPASS-HORIZON-18.0.0) | Learner-owned Purpose, protected floors, plural futures, evidence and revisable education-to-work pathways. |
+| **Public health and care commons** | [RecoveryWeave](https://github.com/YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0) · [DIABETESCOMMONS95](https://github.com/YucongDuan/DIABETESCOMMONS95) · [MYOPIACOMMONS95](https://github.com/YucongDuan/MYOPIACOMMONS95) | Person-led recovery, prevention, family and caregiver participation, clinical review, access equity and accountable technology governance. |
+| **Cross-class life-value circulation** | [LifeValue Confluence OS](https://github.com/YucongDuan/LifeValue-Confluence-OS-v1.0.0) | Anti-involution allocation, selective disclosure and capability-bounded agents without reducing life value to one scalar. |
+| **Institutional continuity and governed agents** | [Individual-run Institution OS](https://github.com/YucongDuan/Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system) | A path from owner-dependent expert labour to codified institutions, bounded products, governed agents and diversified value flows. |
+| **Civilization foresight and author-side standards** | [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) | Runnable 2026–2100 foresight, interactive inspection and ACEO-1000 author-side standardization assets. |
+
+[Explore all 449 repositories and 1,843 reciprocal relationships →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+> **Frontier evidence rule:** these pages establish public source availability and declared project scope. They do not alone establish external validation, deployment, clinical or financial effectiveness, formal standardization, endorsement, or authority to act for another person.
 
 > **Working loop:** D → I → K → W → P → action → evidence → revision
 
@@ -85,7 +102,7 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 
 | Portal | Primary entry | What visitors can explore |
 |---|---|---|
-| **Seven-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, and हिन्दी navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
+| **Twelve-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, हिन्दी, Italiano, Deutsch, Ελληνικά, 한국어, and Čeština navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
 | **Google Scholar** | [View publications and citation trails →](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) | A public, continuously updated view of publications, citations, co-authors, and related scholarship. |
 | **DBLP** | [Inspect the computer-science bibliography →](https://dblp.org/pid/10/2092.html) | A stable indexed route across 62 journal, 128 conference/workshop, and 10 informal/other labels as visible on 30 August 2026. These labels indicate bibliographic coverage, not citation impact. |
 | **Google Patents** | [Explore the inventor-search portfolio →](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) | Patent documents associated with the inventor name 段玉聪, including families, legal events, classifications, and cited prior art. |
