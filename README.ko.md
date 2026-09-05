@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -8,9 +8,15 @@
 
 하이난대학교 교수·박사과정 지도교수 · WACA 회장 · WAAC 원장
 
-[12개 언어 연구 홈페이지](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [특허 포트폴리오](PATENT_PORTFOLIO_MAP.md) · [근거 지도](DIKWP_EVIDENCE_MAP.md)
+[13개 언어 연구 홈페이지](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [특허 포트폴리오](PATENT_PORTFOLIO_MAP.md) · [근거 지도](DIKWP_EVIDENCE_MAP.md)
 
 </div>
+
+## GPT-6 Astra 이후
+
+OpenAI는 [2026년 9월 3일 GPT-6 Astra를 발표](https://openai.com/index/gpt-6-astra/)하며 코딩, 연구, 컴퓨터 사용, 복잡한 다단계 작업의 향상을 제시했습니다. 이 단계에서 DIKWP가 보는 지속 가능한 가치는 모델의 원시 능력만이 아니라 명시적 Purpose, 출처, 권한, 현실 접촉 평가, 가역성, 인간의 연속성에 있습니다. [공식 시스템 카드 →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> 근거 경계: OpenAI 자료는 발표와 안전 기록을 확인할 뿐, DIKWP와의 제휴·도입·지지를 입증하지 않습니다.
 
 ## 기관 및 출판 네트워크
 

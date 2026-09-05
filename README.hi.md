@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # युकोंग दुआन · 段玉聪
 
@@ -8,9 +8,15 @@
 
 प्रोफेसर और डॉक्टोरल सुपरवाइज़र, हैनान विश्वविद्यालय · WACA अध्यक्ष · WAAC संस्थापक अध्यक्ष
 
-[12-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
+[13-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
 
 </div>
+
+## GPT-6 Astra के बाद
+
+OpenAI ने [3 सितम्बर 2026 को GPT-6 Astra प्रस्तुत किया](https://openai.com/index/gpt-6-astra/), जिसमें कोडिंग, शोध, कंप्यूटर उपयोग और जटिल बहु-चरणीय कार्य में उन्नति बताई गई। इस चरण में DIKWP स्थायी मूल्य को केवल मॉडल क्षमता में नहीं, बल्कि स्पष्ट Purpose, स्रोत-श्रृंखला, अधिकार, वास्तविकता-संपर्क मूल्यांकन, प्रतिवर्तनीयता और मानवीय निरंतरता में रखता है। [आधिकारिक सिस्टम कार्ड →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> साक्ष्य सीमा: OpenAI स्रोत घोषणा और सुरक्षा अभिलेख सिद्ध करते हैं; वे DIKWP के साथ साझेदारी, अंगीकरण या समर्थन सिद्ध नहीं करते।
 
 ## अर्थगत संसाधनों से जाँचयोग्य प्रणालियों तक
 

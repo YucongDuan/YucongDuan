@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -8,9 +8,15 @@
 
 Profesor a školitel doktorandů, Hainan University · Předseda WACA · Prezident WAAC
 
-[Výzkumná stránka ve 12 jazycích](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Patentová mapa](PATENT_PORTFOLIO_MAP.md) · [Mapa důkazů](DIKWP_EVIDENCE_MAP.md)
+[Výzkumná stránka ve 13 jazycích](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Patentová mapa](PATENT_PORTFOLIO_MAP.md) · [Mapa důkazů](DIKWP_EVIDENCE_MAP.md)
 
 </div>
+
+## Po GPT-6 Astra
+
+OpenAI představila [GPT-6 Astra dne 3. září 2026](https://openai.com/index/gpt-6-astra/) s pokrokem v programování, výzkumu, používání počítače a složité vícekrokové práci. V této fázi DIKWP umisťuje trvalou hodnotu do explicitního Účelu, provenience, oprávnění, hodnocení v kontaktu s realitou, vratnosti a lidské kontinuity — nikoli pouze do hrubé schopnosti modelu. [Oficiální systémová karta →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> Hranice důkazů: zdroje OpenAI potvrzují oznámení a bezpečnostní záznam; nedokládají partnerství, přijetí ani podporu DIKWP.
 
 ## Institucionální a publikační síť
 

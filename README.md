@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -20,7 +20,7 @@ President, World Academy for Artificial Consciousness (WAAC)
   <img src="https://img.shields.io/badge/Google_Patents-Invention_Portfolio-5F6368?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Yucong Duan patents on Google Patents">
 </a>
 <a href="https://yucong-duan-research.dikwp407.chatgpt.site">
-  <img src="https://img.shields.io/badge/Research_Homepage-12_Languages-0F766E?style=for-the-badge" alt="Yucong Duan twelve-language research homepage">
+<img src="https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge" alt="Yucong Duan thirteen-language research homepage">
 </a>
 
 <a href="https://www.researchgate.net/profile/Yucong-Duan">
@@ -67,6 +67,21 @@ President, World Academy for Artificial Consciousness (WAAC)
 
 <p align="center"><sub>Logo links lead to the corresponding institutional or primary evidence pages. Appearance here identifies the source or publication network; it does not imply blanket institutional endorsement.</sub></p>
 
+## After GPT-6 Astra: the research problem moves beyond model capability
+
+OpenAI introduced [GPT-6 Astra on 3 September 2026](https://openai.com/index/gpt-6-astra/), emphasizing advances in coding, research, computer use and complex multi-step work. As frontier models become stronger and more agentic, the differentiating problem is no longer only “Can the model do it?” It is also:
+
+| Post-GPT-6 requirement | DIKWP research response |
+|---|---|
+| **Governed agency** | Expose whose Purpose is served, what authority exists, which gates apply and how action can be paused or reversed. |
+| **Evidence-bearing trajectories** | Preserve Data, Information, Knowledge, value judgment, Purpose, provenance and transformation loss instead of returning one opaque answer. |
+| **Reality-contact evaluation** | Inspect intent recognition, tool use, uncertainty, outcomes, correction and model revision—not only a leaderboard score. |
+| **Shared support infrastructure** | Use public Ports, evidence maps, patent architecture and the connected repository ecosystem so research can be challenged, maintained, translated and carried forward by more than one person. |
+
+[Read the official GPT-6 Astra announcement →](https://openai.com/index/gpt-6-astra/) · [Inspect the official system card →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> **Evidence boundary:** OpenAI's pages establish the GPT-6 Astra announcement and deployment-safety record. They do not establish an OpenAI partnership with, adoption of, or endorsement of DIKWP. The mapping above is this research programme's strategic interpretation of the post-GPT-6 environment.
+
 ## From semantic resources to systems that can be inspected
 
 I study how **Data, Information, Knowledge, Wisdom, and Purpose (DIKWP)** can be represented as distinct but transformable semantic resources—and how those transformations can be made visible, testable, revisable, and accountable.
@@ -102,7 +117,7 @@ The aim is not to turn a framework into an unquestionable authority. The aim is 
 
 | Portal | Primary entry | What visitors can explore |
 |---|---|---|
-| **Twelve-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, हिन्दी, Italiano, Deutsch, Ελληνικά, 한국어, and Čeština navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
+| **Thirteen-language research homepage** | [Open the interactive research homepage →](https://yucong-duan-research.dikwp407.chatgpt.site) | English, 中文, Español, Français, العربية, 日本語, हिन्दी, Italiano, Deutsch, Ελληνικά, 한국어, Čeština, and Tiếng Việt navigation across DIKWP research, standards, publications, institutions, conferences, evidence, and open systems. |
 | **Google Scholar** | [View publications and citation trails →](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) | A public, continuously updated view of publications, citations, co-authors, and related scholarship. |
 | **DBLP** | [Inspect the computer-science bibliography →](https://dblp.org/pid/10/2092.html) | A stable indexed route across 62 journal, 128 conference/workshop, and 10 informal/other labels as visible on 30 August 2026. These labels indicate bibliographic coverage, not citation impact. |
 | **Google Patents** | [Explore the inventor-search portfolio →](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) | Patent documents associated with the inventor name 段玉聪, including families, legal events, classifications, and cited prior art. |

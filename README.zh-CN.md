@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # 段玉聪 · Yucong Duan
 
@@ -8,9 +8,24 @@
 
 海南大学教授、博士生导师 · 世界人工意识协会（WACA）主席 · 世界人工意识科学院（WAAC）首任院长
 
-[进入十二语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [专利布局图](PATENT_PORTFOLIO_MAP.md) · [证据地图](DIKWP_EVIDENCE_MAP.md)
+[进入十三语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [专利布局图](PATENT_PORTFOLIO_MAP.md) · [证据地图](DIKWP_EVIDENCE_MAP.md)
 
 </div>
+
+## GPT-6 Astra 发布后：研究问题已超越“模型够不够强”
+
+OpenAI 于 [2026 年 9 月 3 日发布 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，强调其在编程、研究、计算机操作与复杂多步任务上的提升。当前沿模型变得更强、更具智能体能力时，真正有区分度的问题不再只是“模型能否完成任务”，还包括：
+
+| GPT-6 时代的关键要求 | DIKWP 研究回应 |
+|---|---|
+| **受治理智能体** | 说明服务谁的目的、具有什么权限、经过哪些门禁，以及如何暂停或撤回行动。 |
+| **携带证据的轨迹** | 保留数据、信息、知识、价值判断、目的、来源与转换损失，而不是只输出一个不透明答案。 |
+| **现实接触测评** | 检查意图识别、工具使用、不确定性、结果、纠错与模型修订，而非只看单一排行榜分数。 |
+| **共同支持基础设施** | 通过公共 Port、证据地图、专利架构与互联仓库生态，让研究能由更多人质疑、维护、翻译并继续推进。 |
+
+[查看 OpenAI 官方发布页 →](https://openai.com/index/gpt-6-astra/) · [查看官方系统卡 →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> **证据边界：** OpenAI 页面能够证明 GPT-6 Astra 的发布及部署安全记录；不能据此推出 OpenAI 与 DIKWP 存在合作、采用或背书关系。上表属于本研究体系对 GPT-6 后时代的战略解释。
 
 ## 从语义资源走向可检查系统
 

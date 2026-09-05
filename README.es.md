@@ -1,6 +1,6 @@
 <div align="center">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # Yucong Duan · 段玉聪
 
@@ -8,9 +8,15 @@
 
 Profesor y director doctoral en la Universidad de Hainan · Presidente de WACA · Presidente fundador de WAAC
 
-[Página de investigación en 12 idiomas](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Mapa de patentes](PATENT_PORTFOLIO_MAP.md) · [Mapa de evidencias](DIKWP_EVIDENCE_MAP.md)
+[Página de investigación en 13 idiomas](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Mapa de patentes](PATENT_PORTFOLIO_MAP.md) · [Mapa de evidencias](DIKWP_EVIDENCE_MAP.md)
 
 </div>
+
+## Después de GPT-6 Astra
+
+OpenAI presentó [GPT-6 Astra el 3 de septiembre de 2026](https://openai.com/index/gpt-6-astra/), con avances en programación, investigación, uso del ordenador y trabajo complejo de varios pasos. En esta etapa, DIKWP sitúa el valor duradero en el Propósito explícito, la procedencia, la autoridad, la evaluación de contacto con la realidad, la reversibilidad y la continuidad humana, no solo en la capacidad bruta del modelo. [Ficha oficial del sistema →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> Límite: las fuentes de OpenAI verifican el anuncio y el registro de seguridad; no prueban asociación, adopción ni respaldo de DIKWP.
 
 ## De recursos semánticos a sistemas inspeccionables
 

@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md)**
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
 # يوكونغ دوان · 段玉聪
 
@@ -8,11 +8,17 @@
 
 أستاذ ومشرف دكتوراه في جامعة هاينان · رئيس WACA · الرئيس المؤسس لـ WAAC
 
-[موقع البحث باثنتي عشرة لغة](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [خريطة البراءات](PATENT_PORTFOLIO_MAP.md) · [خريطة الأدلة](DIKWP_EVIDENCE_MAP.md)
+[موقع البحث بثلاث عشرة لغة](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [خريطة البراءات](PATENT_PORTFOLIO_MAP.md) · [خريطة الأدلة](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
 <div dir="rtl">
+
+## بعد GPT-6 Astra
+
+قدّمت OpenAI نموذج [GPT-6 Astra في 3 سبتمبر 2026](https://openai.com/index/gpt-6-astra/)، مع تقدم في البرمجة والبحث واستخدام الحاسوب والعمل المعقد متعدد الخطوات. في هذه المرحلة يضع DIKWP القيمة المستدامة في الغاية الصريحة والمصدر والسلطة والتقييم المتصل بالواقع وقابلية الرجوع والاستمرارية البشرية، لا في قدرة النموذج الخام وحدها. [بطاقة النظام الرسمية ←](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> حد الدليل: تثبت مصادر OpenAI الإعلان وسجل السلامة، ولا تثبت شراكة أو تبنيًا أو تأييدًا لـ DIKWP.
 
 ## من الموارد الدلالية إلى أنظمة قابلة للفحص
 
