@@ -2,64 +2,88 @@
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# युकोंग दुआन · 段玉聪
+# Yucong Duan · DIKW/DIKWP शोध पारिस्थितिकी
 
-### DIKW/DIKWP ग्राफ़ · कृत्रिम चेतना · अर्थगत गणित · लेखापरीक्षण योग्य AI
+### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
 
-प्रोफेसर और डॉक्टोरल सुपरवाइज़र, हैनान विश्वविद्यालय · WACA अध्यक्ष · WAAC संस्थापक अध्यक्ष
+[![468 repositories](https://img.shields.io/badge/Public_Repositories-468-111827?style=for-the-badge&logo=github)](https://github.com/YucongDuan?tab=repositories) [![13 languages](https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge)](https://yucong-duan-research.dikwp407.chatgpt.site)
 
-[13-भाषी शोध वेबसाइट](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [पेटेंट पोर्टफोलियो](PATENT_PORTFOLIO_MAP.md) · [साक्ष्य मानचित्र](DIKWP_EVIDENCE_MAP.md)
+[DIKWP Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Repository map](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Alliance Port](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
 
 </div>
 
-## GPT-6 Astra के बाद
+## हिन्दी
 
-OpenAI ने [3 सितम्बर 2026 को GPT-6 Astra प्रस्तुत किया](https://openai.com/index/gpt-6-astra/), जिसमें कोडिंग, शोध, कंप्यूटर उपयोग और जटिल बहु-चरणीय कार्य में उन्नति बताई गई। इस चरण में DIKWP स्थायी मूल्य को केवल मॉडल क्षमता में नहीं, बल्कि स्पष्ट Purpose, स्रोत-श्रृंखला, अधिकार, वास्तविकता-संपर्क मूल्यांकन, प्रतिवर्तनीयता और मानवीय निरंतरता में रखता है। [आधिकारिक सिस्टम कार्ड →](https://deploymentsafety.openai.com/gpt-6-astra)
+डेटा, सूचना, ज्ञान, विवेक और उद्देश्य को रूपांतरणयोग्य अर्थगत संसाधनों के रूप में प्रस्तुत करने तथा रूपांतरणों को दृश्य, परीक्षणयोग्य, संशोध्य और उत्तरदायी बनाने का शोध।
 
-> साक्ष्य सीमा: OpenAI स्रोत घोषणा और सुरक्षा अभिलेख सिद्ध करते हैं; वे DIKWP के साथ साझेदारी, अंगीकरण या समर्थन सिद्ध नहीं करते।
+**D → I → K → W → P → authorized action → evidence → revision**
 
-## अर्थगत संसाधनों से जाँचयोग्य प्रणालियों तक
+## 468 रिपॉज़िटरी × बारह शोध-नक्षत्र
 
-युकोंग दुआन का शोध Data, Information, Knowledge, Wisdom और Purpose (DIKWP) को अलग लेकिन रूपांतरण योग्य अर्थगत संसाधनों के रूप में प्रस्तुत करता है। यह ज्ञान-ग्राफ़ को प्रकारित और गणनीय DIKW/DIKWP ग्राफ़ में व्यवस्थित रूप से विस्तारित करता है तथा उन्हें कृत्रिम चेतना, सक्रिय चिकित्सा, अर्थगत संप्रभुता, अर्थगत गणित और DIKWP व्हाइट-बॉक्स मूल्यांकन से जोड़ता है।
+6 सितम्बर 2026 स्नैपशॉट: 468 सार्वजनिक रिपॉज़िटरी, 1,306 दृश्य स्टार और 738 फ़ॉलोअर। हर रिपॉज़िटरी को एक प्राथमिक वर्ग और कम-से-कम पाँच पारस्परिक कड़ियाँ मिली हैं; मानचित्र में 1,516 संबंध हैं।
 
-> कार्य चक्र: D → I → K → W → P → क्रिया → साक्ष्य → संशोधन
+| English primary constellation | Repositories | Entry points |
+|---|---:|---|
+| DIKWP Foundations & Semantic Architecture | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
+| Artificial Consciousness & Digital Life | 74 | [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [AUTONOMOUS PERSONA NOESIS](https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0) |
+| Evidence, Evaluation & AI Governance | 71 | [RepoProof OS](https://github.com/YucongDuan/RepoProof-OS) · [White-Box EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
+| Education, Work & Human Capability | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
+| Semantic Mathematics & Formal Proof | 33 | [OPEN MATH GENESIS](https://github.com/YucongDuan/OPEN-MATH-GENESIS) · [Semantic Closure Atlas](https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas) |
+| Medicine, Health & Care | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
+| Economy, Value & Investment | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
+| Memory, Identity & Personal Systems | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
+| Society, Civilization & Public Infrastructure | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
+| Standards, Interoperability & Research Translation | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
+| Security, Justice & Resilience | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
+| Physics, Cosmos & Fundamental Inquiry | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
 
-**सार्वजनिक GitHub स्नैपशॉट · 4 सितम्बर 2026:** 449 सार्वजनिक रिपॉज़िटरी, 694 स्टार और 737 फ़ॉलोअर। 2 सितम्बर के 435 रिपॉज़िटरी बिंदु से वृद्धि खुले शोध-कोष का विस्तार है, गुणवत्ता-स्कोर नहीं।
+[Complete interactive map →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### 14-रिपॉज़िटरी अग्रिम परत · 4 सितम्बर
+## 19 रिपॉज़िटरी विस्तार और 13-तंत्र समूह
 
-नए तंत्र छह अक्ष बनाते हैं: मानव अभिप्राय और आर्थिक संक्रमण; शिक्षा, करियर व आजीविका; सार्वजनिक स्वास्थ्य व देखभाल; जीवन-मूल्य संचरण; संस्थागत निरंतरता व शासित एजेंट; और सभ्यता पूर्वानुमान। [449 रिपॉज़िटरी और 1,843 पारस्परिक संबंध देखें →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+नया समूह दृष्टि व हृदय देखभाल, TrueValue व सक्रिय अर्थव्यवस्था, नागरिक संक्रमण व वास्तविकता समाशोधन, तथा सह-उत्पत्ति व मॉडल-निवासी डिजिटल जीवन को जोड़ता है।
 
-> साक्ष्य सीमा: पृष्ठ सार्वजनिक स्रोत और घोषित दायरा दिखाते हैं; वे अकेले बाहरी सत्यापन, परिनियोजन, प्रभावशीलता, औपचारिक मानकीकरण, समर्थन या प्रतिनिधि अधिकार सिद्ध नहीं करते।
+[Care commons](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) · [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB)
 
-## शोध और अभ्यास के दो पोर्ट
+## सार्वजनिक शोध और अभ्यास पोर्ट
 
-| पोर्ट | मार्ग |
-|---|---|
-| [**DIKW/DIKWP सार्वजनिक अकादमिक और अभ्यास पोर्ट**](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | आधार व ग्राफ़ → मानक व साक्ष्य → पेटेंट व रणनीतिक आवेदन → मुक्त अभियांत्रिकी → बहु-क्षेत्रीय अभ्यास। |
-| [**कृत्रिम चेतना सार्वजनिक शोध और प्रयोग पोर्ट**](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | सिद्धांत व वर्गीकरण → व्हाइट-बॉक्स मूल्यांकन → खुले प्रयोग व एजेंट → चिकित्सा, नैतिकता, कानून और संस्थान। |
+- **DIKW/DIKWP Public Port:** foundations, graphs, standards, patents, education and practice. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port)
+- **Artificial Consciousness Public Port:** theory, experiments, white-box evaluation, safety and institutions. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port)
 
-## अगस्त 2026 के नए जोड़
+## साक्ष्य सीमा
 
-- LETI शोधकर्ता द्वारा Quality 4.0 में DIKWP का स्वतंत्र अकादमिक उपयोग, जिसे संस्थान-व्यापी अंगीकरण से अलग रखा गया है।
-- DIKWP-MESH 8.0, DIKWP-SAIL, BASSK, DIKWP-Ω और OPENBECOMING84 शोध रिलीज़।
-- DIKWP-EXPERION 9.3, DIKWP-METALIFE 9.3, DIKWP-ORBIT 92, OmniMemory OS और OMEGA-ACOS सहित नए चलने योग्य सिस्टम।
-- ResearchGate पर छह चीनी–अंग्रेज़ी शोध-पुस्तक युग्म, जिनकी थंबनेल स्पष्ट रूप से शोध-संस्करण के रूप में चिह्नित हैं।
+<p align="center"><a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" height="48" alt="ISO"></a>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" height="48" alt="IEEE"></a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" height="48" alt="Elsevier"></a>&nbsp;&nbsp;<a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" height="48" alt="WAAC"></a></p>
 
-## सत्यापन योग्य प्रभाव संकेत
+मानक-अपनाव, स्वतंत्र उद्धरण, स्रोत-टीम विस्तार, पेटेंट प्रसार और स्वतंत्र समानता अलग श्रेणियाँ हैं। कोड और परीक्षण अकेले बाहरी सत्यापन, नैदानिक या वित्तीय प्रभाव, प्रतीयमान चेतना, संस्थागत समर्थन या प्रतिनिधि अधिकार सिद्ध नहीं करते।
 
-- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) स्मार्ट-सिटी डेटा उपयोग-प्रकरण और डेटा मूल्य-श्रृंखला के आधार के लिए DIKWPA का उपयोग करता है।
-- [CAAI श्वेतपत्र](https://www.caai.cn/index.php?s=/home/article/detail/id/4375.html) DIKWP और कृत्रिम चेतना से उसके संबंध पर विस्तृत अध्याय देता है।
-- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en), [WAAC](https://waac.ac/), [आधिकारिक वेबसाइट](https://www.yucongduan.org/), [YouTube](https://www.youtube.com/@yucongduan) और [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) प्रकाशनों, संस्थानों, सम्मेलनों और सार्वजनिक संवाद को जोड़ते हैं।
+[ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) · [Independent digital-humanities adoption](https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3) · [Kuhn consciousness taxonomy](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) · [IEEE white-box evaluation](https://ieeexplore.ieee.org/document/10466892/) · [Evidence map](DIKWP_EVIDENCE_MAP.md)
 
-## पेटेंट पोर्टफोलियो संरचना
+## पुस्तकें और शोध संस्करण
 
-दिए गए स्रोतों में **2017–2023 के 115 संरचित अभिलेख** और **2025 की 139 आविष्कार मदें** हैं। 2025 समूह सात क्षेत्रों में संगठित है: कानून/IP/अर्थगत संप्रभुता (29), सक्रिय चिकित्सा व स्वास्थ्य (27), कृत्रिम चेतना (21), DIKWP मूल/ग्राफ़/अर्थगत गणित (21), शिक्षा व सृजनशीलता (17), व्हाइट-बॉक्स विश्वसनीय AI (12), और बहु-एजेंट व डिजिटल अवसंरचना (12)।
+<p align="center"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="70" alt="Artificial Consciousness Physics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="70" alt="Ultimate World Model">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="70" alt="Cosmic Philosophy">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="70" alt="Cosmic Mathematics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="70" alt="Ultimate Essence"></p>
 
-[पूरा पेटेंट पोर्टफोलियो मानचित्र खोलें →](PATENT_PORTFOLIO_MAP.md)
+<p align="center"><a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="40" alt="Xidian University Press"></a>&nbsp;&nbsp;<a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="40" alt="Peking University Press"></a>&nbsp;&nbsp;<a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="40" alt="China Renmin University Press"></a></p>
 
-> 254 दो समूहों में स्रोत-पंक्तियों की सूची है; यह आधिकारिक कुल, अनुदान संख्या, विशिष्ट कानूनी परिवार या वर्तमान कानूनी स्थिति नहीं है।
+[Introduction to Semantic Mathematics](https://www.cbbr.com.cn/contents/533/108502.html) · [The Mathematics of Artificial Consciousness](https://www.yucongduan.org/) · [AI Reshaping Economics and Demand Logic](https://www.sanmin.com.tw/product/index/015559299) · [A Brief History of Consciousness](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3) · [ResearchGate editions](https://www.researchgate.net/profile/Yucong-Duan)
 
-## कोड से शुरू करें
+## Patent architecture
 
-[AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [सभी रिपॉज़िटरी](https://github.com/YucongDuan?tab=repositories)
+पेटेंट पोर्टफोलियो सात समूहों में है। 2017–2023 के 115 और 2025 के 139 अभिलेख कुल 254 स्रोत पंक्तियाँ हैं, 254 कानूनी परिवार, प्रकाशन या अनुदान नहीं।
+
+[Google Patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Patent map](PATENT_PORTFOLIO_MAP.md)
+
+## Strategic alliance & mutual support
+
+गठबंधन पोर्ट अनुरक्षकों, समीक्षकों, विश्वविद्यालयों, मानक निकायों, प्रकाशकों और जनहित संगठनों को प्रवेश देता है; उम्मीदवार सूची साझेदारी या समर्थन सिद्ध नहीं करती। [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+
+## After GPT-6 Astra
+
+GPT-6 Astra के बाद शक्तिशाली मॉडलों को स्पष्ट उद्देश्य, साक्ष्य पथ, अधिकार नियंत्रण, स्वतंत्र मूल्यांकन और मानव निरंतरता से जोड़ना चाहिए। यह शोध-व्याख्या है, OpenAI का अंगीकरण या समर्थन नहीं। [Official announcement →](https://openai.com/index/gpt-6-astra/)
+
+## Public channels
+
+[GitHub](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [YouTube](https://www.youtube.com/@yucongduan) · [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) · [WAAC](https://waac.ac/) · [YucongDuan.org](https://www.yucongduan.org/)
+
+---
+
+चयनित शोध और जनहित परियोजनाएँ दुआन दिकवेइपु (段迪克维普) को समर्पित हैं; समर्पण लेखकत्व, योगदान, लाइसेंस, स्वामित्व या रखरखाव नहीं बदलता।
