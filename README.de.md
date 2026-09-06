@@ -2,69 +2,88 @@
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# Yucong Duan · 段玉聪
+# Yucong Duan · DIKW/DIKWP-Forschungsökosystem
 
-### DIKW/DIKWP-Graphformalisierung · Künstliches Bewusstsein · Semantische Mathematik · Überprüfbare KI
+### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
 
-Professor und Doktorandenbetreuer, Hainan University · Vorsitzender WACA · Präsident WAAC
+[![468 repositories](https://img.shields.io/badge/Public_Repositories-468-111827?style=for-the-badge&logo=github)](https://github.com/YucongDuan?tab=repositories) [![13 languages](https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge)](https://yucong-duan-research.dikwp407.chatgpt.site)
 
-[Forschungsseite in 13 Sprachen](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Patentkarte](PATENT_PORTFOLIO_MAP.md) · [Evidenzkarte](DIKWP_EVIDENCE_MAP.md)
+[DIKWP Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Repository map](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Alliance Port](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
 
 </div>
 
-## Nach GPT-6 Astra
+## Deutsch
 
-OpenAI stellte [GPT-6 Astra am 3. September 2026 vor](https://openai.com/index/gpt-6-astra/) und hob Fortschritte bei Programmierung, Forschung, Computernutzung und komplexer mehrstufiger Arbeit hervor. In dieser Phase verortet DIKWP dauerhaften Wert in explizitem Zweck, Herkunft, Autorität, Realitätskontakt-Evaluation, Reversibilität und menschlicher Kontinuität — nicht allein in der Rohleistung des Modells. [Offizielle System Card →](https://deploymentsafety.openai.com/gpt-6-astra)
+Forschung zur Darstellung von Daten, Information, Wissen, Weisheit und Zweck als transformierbare semantische Ressourcen, deren Übergänge sichtbar, prüfbar, revidierbar und verantwortlich bleiben.
 
-> Evidenzgrenze: Die OpenAI-Quellen belegen Ankündigung und Sicherheitsdokumentation; sie belegen keine Partnerschaft, Übernahme oder Unterstützung von DIKWP.
+**D → I → K → W → P → authorized action → evidence → revision**
 
-## Institutionelles und publizistisches Netzwerk
+## 468 Repositorien × zwölf Forschungskonstellationen
 
-<p align="center">
-  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
-  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
-</p>
+Snapshot vom 6. September 2026: 468 öffentliche Repositorien, 1.306 sichtbare Sterne und 738 Follower. Jedes Repository besitzt eine Hauptklassifikation und mindestens fünf wechselseitige Verbindungen; die Karte enthält 1.516 Beziehungen.
 
-Die Logos kennzeichnen dokumentierte Quellen, Verlage oder institutionelle Netzwerke; sie bedeuten keine pauschale Unterstützung.
+| English primary constellation | Repositories | Entry points |
+|---|---:|---|
+| DIKWP Foundations & Semantic Architecture | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
+| Artificial Consciousness & Digital Life | 74 | [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [AUTONOMOUS PERSONA NOESIS](https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0) |
+| Evidence, Evaluation & AI Governance | 71 | [RepoProof OS](https://github.com/YucongDuan/RepoProof-OS) · [White-Box EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
+| Education, Work & Human Capability | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
+| Semantic Mathematics & Formal Proof | 33 | [OPEN MATH GENESIS](https://github.com/YucongDuan/OPEN-MATH-GENESIS) · [Semantic Closure Atlas](https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas) |
+| Medicine, Health & Care | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
+| Economy, Value & Investment | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
+| Memory, Identity & Personal Systems | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
+| Society, Civilization & Public Infrastructure | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
+| Standards, Interoperability & Research Translation | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
+| Security, Justice & Resilience | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
+| Physics, Cosmos & Fundamental Inquiry | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
 
-## Von semantischen Ressourcen zu überprüfbaren Systemen
+[Complete interactive map →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-Yucong Duans Forschung modelliert **Daten, Information, Wissen, Weisheit und Purpose (DIKWP)** als unterscheidbare, aber transformierbare semantische Ressourcen. Die originäre Forschungslinie erweitert Wissensgraphen systematisch zu typisierten, berechenbaren DIKW/DIKWP-Graphen und verbindet sie mit künstlichem Bewusstsein, aktiver Medizin, semantischer Souveränität, semantischer Mathematik und White-Box-Evaluation.
+## 19-Repository-Erweiterung und 13-System-Suite
 
-> Arbeitszyklus: D → I → K → W → P → Handlung → Evidenz → Revision
+Die Suite verbindet Seh- und Herz-Kreislauf-Versorgung, TrueValue und aktive Ökonomie, zivilgesellschaftlichen Wandel und Realitätsklärung sowie Ko-Genese und modellresidentes digitales Leben.
 
-**Öffentlicher GitHub-Snapshot · 4. September 2026:** **449 öffentliche Repositorien · 694 Sterne · 737 Follower**. Die Zahlen sind datiert und kein automatisches Qualitätsmaß.
+[Care commons](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) · [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB)
 
-### Front der 14 neuesten Repositorien
+## Öffentliche Forschungs- und Praxis-Portale
 
-Die neue Schicht verbindet sechs Achsen: menschliche Intention und wirtschaftlicher Wandel; Bildung und berufliche Resilienz; öffentliche Gesundheit und Fürsorge; Zirkulation von Lebenswert; institutionelle Kontinuität und gesteuerte Agenten; Zivilisationsvorausschau und autorenseitige Standards. [Alle 449 Repositorien und 1.843 wechselseitigen Beziehungen erkunden →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+- **DIKW/DIKWP Public Port:** foundations, graphs, standards, patents, education and practice. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port)
+- **Artificial Consciousness Public Port:** theory, experiments, white-box evaluation, safety and institutions. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port)
 
-## Zwei öffentliche Forschungsports
+## Evidenzgrenze
 
-| Port | Route |
-|---|---|
-| [DIKW/DIKWP Wissenschaft und Praxis](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | Grundlagen und Graphen → Standards und Evidenz → Patente → offene Technik → fachübergreifende Praxis. |
-| [Forschung und Experimente zu künstlichem Bewusstsein](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | Theorie → White-Box-Evaluation → offene Experimente und Agenten → Medizin, Ethik, Recht und Institutionen. |
+<p align="center"><a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" height="48" alt="ISO"></a>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" height="48" alt="IEEE"></a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" height="48" alt="Elsevier"></a>&nbsp;&nbsp;<a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" height="48" alt="WAAC"></a></p>
 
-## Nachprüfbare Wirkung
+Normative Nutzung, unabhängige Zitation, Erweiterung durch das Ursprungsteam, Patentdiffusion und unabhängige Konvergenz bleiben getrennt. Code und Tests belegen allein keine externe Validierung, klinische oder finanzielle Wirkung, phänomenales Bewusstsein, institutionelle Unterstützung oder Vertretungsmacht.
 
-- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) verwendet DIKWPA für die Analyse von Datennutzungsfällen in Smart Cities.
-- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) und [DBLP](https://dblp.org/pid/10/2092.html) sind bibliografische und zitationsbezogene Zugänge.
-- [WAAC](https://waac.ac/), [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) und [yucongduan.org](https://www.yucongduan.org/) verbinden Institutionen, Bücher, Konferenzen und Aktualisierungen.
+[ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) · [Independent digital-humanities adoption](https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3) · [Kuhn consciousness taxonomy](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) · [IEEE white-box evaluation](https://ieeexplore.ieee.org/document/10466892/) · [Evidence map](DIKWP_EVIDENCE_MAP.md)
 
-## Patentarchitektur
+## Bücher und Forschungsausgaben
 
-Die bereitgestellten Materialien enthalten **115 strukturierte Datensätze aus 2017–2023** und **139 Erfindungseinträge aus 2025**, geordnet in sieben Cluster: Recht und semantische Souveränität; aktive Medizin; künstliches Bewusstsein; DIKWP-Graphen und semantische Mathematik; Bildung und Kreativität; vertrauenswürdige KI; Multi-Agenten- und digitale Infrastruktur. [Vollständige Patentkarte →](PATENT_PORTFOLIO_MAP.md)
+<p align="center"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="70" alt="Artificial Consciousness Physics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="70" alt="Ultimate World Model">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="70" alt="Cosmic Philosophy">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="70" alt="Cosmic Mathematics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="70" alt="Ultimate Essence"></p>
 
-> Evidenzgrenze: 254 bezeichnet die Zeilen zweier Dokumentkohorten, nicht die offizielle Zahl von Patenten, Erteilungen, Rechtsfamilien oder Einsätzen. Repositorien, Paper, Patente, Standards und institutionelle Beziehungen stützen unterschiedliche Aussageebenen.
+<p align="center"><a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="40" alt="Xidian University Press"></a>&nbsp;&nbsp;<a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="40" alt="Peking University Press"></a>&nbsp;&nbsp;<a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="40" alt="China Renmin University Press"></a></p>
 
-## Mit Code beginnen
+[Introduction to Semantic Mathematics](https://www.cbbr.com.cn/contents/533/108502.html) · [The Mathematics of Artificial Consciousness](https://www.yucongduan.org/) · [AI Reshaping Economics and Demand Logic](https://www.sanmin.com.tw/product/index/015559299) · [A Brief History of Consciousness](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3) · [ResearchGate editions](https://www.researchgate.net/profile/Yucong-Duan)
 
-[AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Alle Repositorien](https://github.com/YucongDuan?tab=repositories)
+## Patent architecture
+
+Das Patentportfolio wird in sieben Gruppen gezeigt. 115 Einträge 2017–2023 und 139 Positionen 2025 sind 254 Quellenzeilen, nicht 254 Rechtsfamilien, Veröffentlichungen oder Erteilungen.
+
+[Google Patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Patent map](PATENT_PORTFOLIO_MAP.md)
+
+## Strategic alliance & mutual support
+
+Das Allianz-Portal öffnet Wege für Maintainer, Reviewer, Universitäten, Normungsorganisationen, Verlage und gemeinnützige Akteure; eine Kandidatenliste beweist keine Partnerschaft oder Unterstützung. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+
+## After GPT-6 Astra
+
+Nach GPT-6 Astra müssen leistungsfähige Modelle mit explizitem Zweck, Evidenzpfaden, Berechtigungsgrenzen, unabhängiger Bewertung und menschlicher Kontinuität verbunden werden. Das ist eine Forschungsinterpretation, keine Übernahme oder Unterstützung durch OpenAI. [Official announcement →](https://openai.com/index/gpt-6-astra/)
+
+## Public channels
+
+[GitHub](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [YouTube](https://www.youtube.com/@yucongduan) · [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) · [WAAC](https://waac.ac/) · [YucongDuan.org](https://www.yucongduan.org/)
 
 ---
 
-Ausgewählte Forschungs- und Gemeinwohlprojekte sind **Duan Dikweipu (段迪克维普)**, Yucong Duans Tochter, gewidmet. Die Widmung ändert weder Urheberschaft, Beiträge, Lizenzen noch Eigentum.
+Ausgewählte Forschungs- und Gemeinwohlprojekte sind Duan Dikweipu (段迪克维普) gewidmet; die Widmung ändert keine Urheber-, Beitrags-, Lizenz-, Eigentums- oder Wartungsdaten.
