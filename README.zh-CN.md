@@ -2,77 +2,88 @@
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# 段玉聪 · Yucong Duan
+# 段玉聪 · DIKW/DIKWP 研究生态
 
-### DIKW／DIKWP 图谱化 · 人工意识 · 语义数学 · 可审计人工智能
+### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
 
-海南大学教授、博士生导师 · 世界人工意识协会（WACA）主席 · 世界人工意识科学院（WAAC）首任院长
+[![468 repositories](https://img.shields.io/badge/Public_Repositories-468-111827?style=for-the-badge&logo=github)](https://github.com/YucongDuan?tab=repositories) [![13 languages](https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge)](https://yucong-duan-research.dikwp407.chatgpt.site)
 
-[进入十三语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [专利布局图](PATENT_PORTFOLIO_MAP.md) · [证据地图](DIKWP_EVIDENCE_MAP.md)
+[DIKWP Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Repository map](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Alliance Port](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
 
 </div>
 
-## GPT-6 Astra 发布后：研究问题已超越“模型够不够强”
+## 中文
 
-OpenAI 于 [2026 年 9 月 3 日发布 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，强调其在编程、研究、计算机操作与复杂多步任务上的提升。当前沿模型变得更强、更具智能体能力时，真正有区分度的问题不再只是“模型能否完成任务”，还包括：
+研究如何把数据、信息、知识、智慧与目的表示为可转换的语义资源，并让转换过程可见、可测试、可修订、可问责。
 
-| GPT-6 时代的关键要求 | DIKWP 研究回应 |
-|---|---|
-| **受治理智能体** | 说明服务谁的目的、具有什么权限、经过哪些门禁，以及如何暂停或撤回行动。 |
-| **携带证据的轨迹** | 保留数据、信息、知识、价值判断、目的、来源与转换损失，而不是只输出一个不透明答案。 |
-| **现实接触测评** | 检查意图识别、工具使用、不确定性、结果、纠错与模型修订，而非只看单一排行榜分数。 |
-| **共同支持基础设施** | 通过公共 Port、证据地图、专利架构与互联仓库生态，让研究能由更多人质疑、维护、翻译并继续推进。 |
+**D → I → K → W → P → authorized action → evidence → revision**
 
-[查看 OpenAI 官方发布页 →](https://openai.com/index/gpt-6-astra/) · [查看官方系统卡 →](https://deploymentsafety.openai.com/gpt-6-astra)
+## 468 仓库 × 十二研究星座
 
-> **证据边界：** OpenAI 页面能够证明 GPT-6 Astra 的发布及部署安全记录；不能据此推出 OpenAI 与 DIKWP 存在合作、采用或背书关系。上表属于本研究体系对 GPT-6 后时代的战略解释。
+2026年9月6日快照：468个公开仓库、1,306个可见Stars、738位关注者。每个仓库获得一个主分类与至少5条双向关联；全图包含1,516条语义内核、同域节点、研究连续性和跨域桥接关系。
 
-## 从语义资源走向可检查系统
+| English primary constellation | Repositories | Entry points |
+|---|---:|---|
+| DIKWP Foundations & Semantic Architecture | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
+| Artificial Consciousness & Digital Life | 74 | [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [AUTONOMOUS PERSONA NOESIS](https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0) |
+| Evidence, Evaluation & AI Governance | 71 | [RepoProof OS](https://github.com/YucongDuan/RepoProof-OS) · [White-Box EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
+| Education, Work & Human Capability | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
+| Semantic Mathematics & Formal Proof | 33 | [OPEN MATH GENESIS](https://github.com/YucongDuan/OPEN-MATH-GENESIS) · [Semantic Closure Atlas](https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas) |
+| Medicine, Health & Care | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
+| Economy, Value & Investment | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
+| Memory, Identity & Personal Systems | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
+| Society, Civilization & Public Infrastructure | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
+| Standards, Interoperability & Research Translation | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
+| Security, Justice & Resilience | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
+| Physics, Cosmos & Fundamental Inquiry | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
 
-段玉聪的研究把数据、信息、知识、智慧与目的（DIKWP）建模为相互区别、可以转换的语义资源，并致力于让这些转换可见、可检验、可修订、可问责。其原创研究主线较早并系统性地把知识图谱扩展为类型化、可计算的 DIKW／DIKWP 图谱，并进一步连接人工意识、主动医学、语义主权、语义数学与 DIKWP 白盒测评。
+[Complete interactive map →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-> 工作闭环：D → I → K → W → P → 行动 → 证据 → 修订
+## 十九项增量与十三系统套件
 
-**GitHub 公开快照（2026-09-04）：449 个公开仓库、694 Stars、737 位关注者。** 数字带时间戳；相较 9 月 2 日的 435 仓库生态检查点新增 14 个，但仓库总量不被当作质量评分。
+新增套件覆盖视觉与心血管照护、TrueValue与主动经济、公共转型与现实清算、共生成与模型内驻数字生命；另六项强化语义动力学、持久人格、贡献入口与证据链。
 
-### 9 月 4 日 · 十四仓库前沿
+[Care commons](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) · [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB)
 
-新增层形成六条工程轴线：人的意图、价值与经济转型；教育、职业与生计韧性；公共健康与照护 Commons；跨阶层生命价值流通；制度连续性与受治理智能体；文明前瞻与作者侧标准。代表项目包括 [AXIOFORGE](https://github.com/YucongDuan/AXIOFORGE)、[CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER)、[EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS)、[RecoveryWeave](https://github.com/YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0)、[DIABETESCOMMONS95](https://github.com/YucongDuan/DIABETESCOMMONS95)、[MYOPIACOMMONS95](https://github.com/YucongDuan/MYOPIACOMMONS95)、[ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) 与 [YIYUAN 19.0.0](https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0)。[浏览 449 仓库与 1,843 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+## 公共研究与实践 Port
 
-> 证据边界：仓库页面证明源码公开与项目自述范围，不单独证明外部验证、现实部署、临床或金融有效性、正式标准化、背书或代理他人行动的权限。
+- **DIKW/DIKWP Public Port:** foundations, graphs, standards, patents, education and practice. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port)
+- **Artificial Consciousness Public Port:** theory, experiments, white-box evaluation, safety and institutions. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port)
 
-## 两个研究与实践端口
+## 证据边界
 
-| 端口 | 主要路径 |
-|---|---|
-| [**DIKW／DIKWP 公共学术与实践 Port**](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | 理论与图谱 → 标准与证据 → 专利与战略申请 → 开放工程 → 跨领域实践。 |
-| [**人工意识研究与试验公共 Port**](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | 理论与国际分类 → 白盒测评 → 开放试验与智能体 → 医学、伦理、法律及机构协作。 |
+<p align="center"><a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" height="48" alt="ISO"></a>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" height="48" alt="IEEE"></a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" height="48" alt="Elsevier"></a>&nbsp;&nbsp;<a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" height="48" alt="WAAC"></a></p>
 
-## 2026 年 8 月新增
+国际标准采用、独立学术引用、源头团队延展、专利扩散和同名独立趋同必须分开表述。仓库存在与测试不等同于外部验证、临床或金融有效性、现象意识、机构背书或代表他人行动的权限。
 
-- 新增 LETI 的独立 Quality 4.0 学术应用，明确区分学术复用与机构整体采用。
-- 新增 DIKWP-MESH 8.0、DIKWP-SAIL、BASSK、DIKWP-Ω 与 OPENBECOMING84 等研究发布。
-- 新增 DIKWP-EXPERION 9.3、DIKWP-METALIFE 9.3、DIKWP-ORBIT 92、OmniMemory OS 与 OMEGA-ACOS 等可运行系统。
-- 新增 6 组中英文 ResearchGate 研究著作缩略图；缩略图明确标为研究版，不冒充出版社正式封面。
-- 新增 [DBLP 十年书目主轴](https://dblp.org/pid/10/2092.html)：可见标签覆盖 62 条期刊、128 条会议／工作坊及 10 条非正式／其他记录；这些是书目覆盖，不等同于引用影响力。
-- 新增 CNKI 精选脉络：从《软件学报》模型驱动方法，到跨模态隐私治理、DIKWP 人机融合、民族医学与意图生命周期；均标明“源头团队成果”边界。
+[ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) · [Independent digital-humanities adoption](https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3) · [Kuhn consciousness taxonomy](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) · [IEEE white-box evaluation](https://ieeexplore.ieee.org/document/10466892/) · [Evidence map](DIKWP_EVIDENCE_MAP.md)
 
-## 关键影响力入口
+## 代表性著作与研究版本
 
-- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html)：DIKWPA 被用于智慧城市数据利用案例分析与数据价值链基础。
-- [中国人工智能学会《人工智能基础选编》](https://www.caai.cn/index.php?s=/home/article/detail/id/4375.html)：第一章系统展开 DIKWP，第二章讨论人工智能、人工意识及其与 DIKWP 的关系。
-- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en)：论文、引用与合作网络。
-- [WAAC](https://waac.ac/) 与 [yucongduan.org](https://www.yucongduan.org/)：人工意识机构、院士网络、历届大会与研究动态。
-- [YouTube](https://www.youtube.com/@yucongduan)、[DIKWP-AC](https://www.youtube.com/@DIKWP-AC/videos) 与 [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/)：视频档案与国际交流。
+<p align="center"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="70" alt="Artificial Consciousness Physics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="70" alt="Ultimate World Model">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="70" alt="Cosmic Philosophy">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="70" alt="Cosmic Mathematics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="70" alt="Ultimate Essence"></p>
 
-## 专利布局
+<p align="center"><a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="40" alt="Xidian University Press"></a>&nbsp;&nbsp;<a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="40" alt="Peking University Press"></a>&nbsp;&nbsp;<a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="40" alt="China Renmin University Press"></a></p>
 
-经所提供材料核验：2017—2023 基础批次可解析为 **115 条结构化记录**；2025 批次包含 **139 项发明条目**，覆盖法律与语义主权（29）、主动医学与健康（27）、人工意识（21）、DIKWP 核心图谱与语义数学（21）、教育与创造力（17）、白盒可信 AI（12）、多智能体与数字基础设施（12）。
+[Introduction to Semantic Mathematics](https://www.cbbr.com.cn/contents/533/108502.html) · [The Mathematics of Artificial Consciousness](https://www.yucongduan.org/) · [AI Reshaping Economics and Demand Logic](https://www.sanmin.com.tw/product/index/015559299) · [A Brief History of Consciousness](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3) · [ResearchGate editions](https://www.researchgate.net/profile/Yucong-Duan)
 
-[查看完整专利布局、代表性标题与统计边界 →](PATENT_PORTFOLIO_MAP.md)
+## Patent architecture
 
-> 115 + 139 = 254 是两批材料的源记录数，不等同于官方专利总数、授权数、去重法律同族数或当前法律状态。
+专利布局按七个技术簇展示。115条2017—2023结构化记录与139项2025清单合计为254条源材料记录，不等同于254个法律同族、公开件或授权件。
 
-## 从代码开始
+[Google Patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Patent map](PATENT_PORTFOLIO_MAP.md)
 
-[DIKWP AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [DIKWP ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [全部仓库](https://github.com/YucongDuan?tab=repositories)
+## Strategic alliance & mutual support
+
+战略联盟与互助 Port 为维护者、审稿人、大学、标准组织、出版社、公益机构和负责任采用者提供合作入口；候选资源并不自动构成合作或背书。 [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+
+## After GPT-6 Astra
+
+GPT-6 Astra 后时代需要把强模型能力连接到显式目的、证据轨迹、权限门控、独立测评与人的连续性；这是一种研究判断，不代表 OpenAI 采用或背书 DIKWP。 [Official announcement →](https://openai.com/index/gpt-6-astra/)
+
+## Public channels
+
+[GitHub](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [YouTube](https://www.youtube.com/@yucongduan) · [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) · [WAAC](https://waac.ac/) · [YucongDuan.org](https://www.yucongduan.org/)
+
+---
+
+相关研究与公益项目谨献给段玉聪之女段迪克维普；献辞不改变作者、贡献、许可证、权属或维护记录。
