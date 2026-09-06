@@ -2,88 +2,79 @@
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# Yucong Duan · Výzkumný ekosystém DIKW/DIKWP
+# Yucong Duan · 段玉聪
 
-### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
+### Formalizace grafů DIKW/DIKWP · Umělé vědomí · Sémantická matematika · Kontrolovatelná AI
 
-[![468 repositories](https://img.shields.io/badge/Public_Repositories-468-111827?style=for-the-badge&logo=github)](https://github.com/YucongDuan?tab=repositories) [![13 languages](https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge)](https://yucong-duan-research.dikwp407.chatgpt.site)
+Profesor a školitel doktorandů, Hainan University · Předseda WACA · Prezident WAAC
 
-[DIKWP Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Repository map](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Alliance Port](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+[Výzkumná stránka ve 13 jazycích](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [Patentová mapa](PATENT_PORTFOLIO_MAP.md) · [Mapa důkazů](DIKWP_EVIDENCE_MAP.md)
 
 </div>
 
-## Čeština
+## Po GPT-6 Astra
 
-Výzkum reprezentace Dat, Informací, Znalostí, Moudrosti a Účelu jako transformovatelných sémantických zdrojů s viditelnými, testovatelnými, revidovatelnými a odpovědnými přechody.
+OpenAI představila [GPT-6 Astra dne 3. září 2026](https://openai.com/index/gpt-6-astra/) s pokrokem v programování, výzkumu, používání počítače a složité vícekrokové práci. V této fázi DIKWP umisťuje trvalou hodnotu do explicitního Účelu, provenience, oprávnění, hodnocení v kontaktu s realitou, vratnosti a lidské kontinuity — nikoli pouze do hrubé schopnosti modelu. [Oficiální systémová karta →](https://deploymentsafety.openai.com/gpt-6-astra)
 
-**D → I → K → W → P → authorized action → evidence → revision**
+> Hranice důkazů: zdroje OpenAI potvrzují oznámení a bezpečnostní záznam; nedokládají partnerství, přijetí ani podporu DIKWP.
 
-## 468 repozitářů × dvanáct výzkumných konstelací
+## Institucionální a publikační síť
 
-Snímek 6. září 2026: 468 veřejných repozitářů, 1 306 viditelných hvězdiček a 738 sledujících. Každý repozitář má hlavní klasifikaci a nejméně pět vzájemných spojení; mapa obsahuje 1 516 vztahů.
+<p align="center">
+  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
+  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
+</p>
 
-| English primary constellation | Repositories | Entry points |
-|---|---:|---|
-| DIKWP Foundations & Semantic Architecture | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
-| Artificial Consciousness & Digital Life | 74 | [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [AUTONOMOUS PERSONA NOESIS](https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0) |
-| Evidence, Evaluation & AI Governance | 71 | [RepoProof OS](https://github.com/YucongDuan/RepoProof-OS) · [White-Box EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
-| Education, Work & Human Capability | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
-| Semantic Mathematics & Formal Proof | 33 | [OPEN MATH GENESIS](https://github.com/YucongDuan/OPEN-MATH-GENESIS) · [Semantic Closure Atlas](https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas) |
-| Medicine, Health & Care | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
-| Economy, Value & Investment | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
-| Memory, Identity & Personal Systems | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
-| Society, Civilization & Public Infrastructure | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
-| Standards, Interoperability & Research Translation | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
-| Security, Justice & Resilience | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
-| Physics, Cosmos & Fundamental Inquiry | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
+Loga označují doložené zdroje, vydavatele nebo institucionální sítě; neznamenají obecnou podporu.
 
-[Complete interactive map →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+## Od sémantických zdrojů ke kontrolovatelným systémům
 
-## Rozšíření o 19 repozitářů a sada 13 systémů
+Výzkum Yuconga Duana modeluje **Data, Informace, Znalosti, Moudrost a Účel (DIKWP)** jako odlišné, ale transformovatelné sémantické zdroje. Původní výzkumná linie systematicky rozšiřuje znalostní grafy na typované a výpočetně zpracovatelné grafy DIKW/DIKWP a propojuje je s umělým vědomím, aktivní medicínou, sémantickou suverenitou, sémantickou matematikou a white-box hodnocením.
 
-Nová sada propojuje péči o zrak a srdce, TrueValue a aktivní ekonomiku, občanskou transformaci a vypořádání reality, spolu-genezi a digitální život uvnitř modelu.
+> Pracovní cyklus: D → I → K → W → P → akce → důkaz → revize
 
-[Care commons](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) · [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB)
+**Veřejný snímek GitHubu · 6. září 2026:** **476 veřejných repozitářů · 1 306 viditelných hvězdiček · 739 sledujících.** Jde o datované hodnoty, nikoli trvalé součty nebo skóre kvality.
 
-## Veřejné porty výzkumu a praxe
+### 476 repozitářů × dvanáct výzkumných konstelací
 
-- **DIKW/DIKWP Public Port:** foundations, graphs, standards, patents, education and practice. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port)
-- **Artificial Consciousness Public Port:** theory, experiments, white-box evaluation, safety and institutions. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port)
+Každý repozitář má hlavní klasifikaci a nejméně pět vzájemných propojení; mapa obsahuje **1 548 vztahů** sémantického jádra, oborových protějšků, kontinuity a mezioborových mostů. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
 
-## Hranice důkazů
+Rozšíření o 27 repozitářů zahrnuje třináct systémů pro zrakovou a kardiovaskulární péči, regenerativní hodnotu, občanskou transformaci a řízený digitální život spolu s infrastrukturou pro sémantickou dynamiku, persony, příspěvky a důkazy.
 
-<p align="center"><a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" height="48" alt="ISO"></a>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" height="48" alt="IEEE"></a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" height="48" alt="Elsevier"></a>&nbsp;&nbsp;<a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" height="48" alt="WAAC"></a></p>
+[Prozkoumat 476 repozitářů a 1 548 vzájemných vztahů →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-Použití ve standardech, nezávislá citace, rozšíření původním týmem, patentové šíření a nezávislá konvergence zůstávají odděleny. Kód a testy samy neprokazují externí validaci, klinickou či finanční účinnost, fenomenální vědomí, institucionální podporu ani právo zastupovat.
+### Latest eight repositories · English international summary
 
-[ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) · [Independent digital-humanities adoption](https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3) · [Kuhn consciousness taxonomy](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) · [IEEE white-box evaluation](https://ieeexplore.ieee.org/document/10466892/) · [Evidence map](DIKWP_EVIDENCE_MAP.md)
+[VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 
-## Knihy a výzkumná vydání
+The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
 
-<p align="center"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="70" alt="Artificial Consciousness Physics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="70" alt="Ultimate World Model">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="70" alt="Cosmic Philosophy">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="70" alt="Cosmic Mathematics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="70" alt="Ultimate Essence"></p>
+## Dva veřejné Porty
 
-<p align="center"><a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="40" alt="Xidian University Press"></a>&nbsp;&nbsp;<a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="40" alt="Peking University Press"></a>&nbsp;&nbsp;<a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="40" alt="China Renmin University Press"></a></p>
+| Port | Cesta |
+|---|---|
+| [Akademický a praktický Port DIKW/DIKWP](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | Základy a grafy → standardy a důkazy → patenty → otevřené inženýrství → mezioborová praxe. |
+| [Výzkumný a experimentální Port umělého vědomí](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | Teorie → white-box hodnocení → otevřené experimenty a agenti → medicína, etika, právo a instituce. |
 
-[Introduction to Semantic Mathematics](https://www.cbbr.com.cn/contents/533/108502.html) · [The Mathematics of Artificial Consciousness](https://www.yucongduan.org/) · [AI Reshaping Economics and Demand Logic](https://www.sanmin.com.tw/product/index/015559299) · [A Brief History of Consciousness](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3) · [ResearchGate editions](https://www.researchgate.net/profile/Yucong-Duan)
+## Ověřitelný dopad
 
-## Patent architecture
+- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) používá DIKWPA pro analýzu případů využití dat v chytrých městech.
+- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) a [DBLP](https://dblp.org/pid/10/2092.html) poskytují bibliografické a citační cesty.
+- [WAAC](https://waac.ac/), [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) a [yucongduan.org](https://www.yucongduan.org/) propojují instituce, knihy, konference a výzkumné aktualizace.
 
-Patentové portfolio je rozděleno do sedmi skupin. 115 záznamů 2017–2023 a 139 položek 2025 jsou 254 řádků zdrojů, nikoli 254 právních rodin, zveřejnění nebo udělení.
+## Patentová architektura
 
-[Google Patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Patent map](PATENT_PORTFOLIO_MAP.md)
+Dodané materiály obsahují **115 strukturovaných záznamů z let 2017–2023** a **139 položek vynálezů z roku 2025**, uspořádaných do sedmi klastrů: právo a sémantická suverenita; aktivní medicína; umělé vědomí; grafy DIKWP a sémantická matematika; vzdělávání a kreativita; důvěryhodná AI; multiagentní infrastruktura. [Otevřít úplnou mapu →](PATENT_PORTFOLIO_MAP.md)
 
-## Strategic alliance & mutual support
+> Hranice důkazu: 254 je počet řádků ve dvou dokumentových souborech, nikoli oficiální počet patentů, udělení, právních rodin nebo nasazení. Repozitáře, články, patenty, standardy a institucionální vztahy podporují různé úrovně tvrzení.
 
-Aliance Port otevírá cesty správcům, recenzentům, univerzitám, normalizačním orgánům, nakladatelům a veřejně prospěšným organizacím; seznam kandidátů nedokládá partnerství ani podporu. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+## Začněte kódem
 
-## After GPT-6 Astra
-
-Po GPT-6 Astra je třeba výkonné modely spojit s výslovným Účelem, stopami důkazů, řízením oprávnění, nezávislým hodnocením a lidskou kontinuitou. Jde o výzkumnou interpretaci, nikoli přijetí nebo podporu ze strany OpenAI. [Official announcement →](https://openai.com/index/gpt-6-astra/)
-
-## Public channels
-
-[GitHub](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [YouTube](https://www.youtube.com/@yucongduan) · [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) · [WAAC](https://waac.ac/) · [YucongDuan.org](https://www.yucongduan.org/)
+[AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Všechny repozitáře](https://github.com/YucongDuan?tab=repositories)
 
 ---
 
-Vybrané výzkumné a veřejně prospěšné projekty jsou věnovány Duan Dikweipu (段迪克维普); věnování nemění autorství, příspěvky, licenci, vlastnictví ani údržbu.
+Vybrané výzkumné a veřejně prospěšné projekty jsou věnovány **Duan Dikweipu (段迪克维普)**, dceři Yuconga Duana. Věnování nemění autorství, příspěvky, licence ani vlastnictví.
