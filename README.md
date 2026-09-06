@@ -103,6 +103,18 @@ The audited source set contains **115 structured 2017–2023 records** and **139
 
 ## Selected books and research editions
 
+<table>
+  <tr>
+    <td align="center"><a href="https://www.researchgate.net/publication/413548692_yuzhoudezhongjibenzhi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="120" alt="The Ultimate Essence of the Universe"><br><b>宇宙的终极本质</b></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/413546708_zhongjishijiemoxing"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="120" alt="The Ultimate World Model"><br><b>终极世界模型</b></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/413537185_yuzhoudezhexuexinshi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="120" alt="A New History of Cosmic Philosophy"><br><b>宇宙的哲学新史</b></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/413484529_yuzhoudeshuxuexinshi"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="120" alt="A New Mathematical History of the Universe"><br><b>宇宙的数学新史</b></a></td>
+    <td align="center"><a href="https://www.researchgate.net/publication/412069621_rengongyishiwulixue"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="120" alt="Physics of Artificial Consciousness"><br><b>人工意识物理学</b></a></td>
+  </tr>
+</table>
+
+> The images above are editorial thumbnails for author-prepared ResearchGate research editions; they are not presented as official publisher covers or peer-review indicators unless a separate bibliographic record is linked.
+
 <p align="center">
 <a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="46" alt="Xidian University Press"></a>&nbsp;&nbsp;
 <a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="46" alt="Peking University Press"></a>&nbsp;&nbsp;
