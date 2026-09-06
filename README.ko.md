@@ -2,69 +2,88 @@
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# Yucong Duan · 段玉聪
+# Yucong Duan · DIKW/DIKWP 연구 생태계
 
-### DIKW/DIKWP 그래프 형식화 · 인공의식 · 의미 수학 · 검증 가능한 AI
+### DIKW/DIKWP Graph Formalization · Artificial Consciousness · Semantic Mathematics · Auditable AI
 
-하이난대학교 교수·박사과정 지도교수 · WACA 회장 · WAAC 원장
+[![468 repositories](https://img.shields.io/badge/Public_Repositories-468-111827?style=for-the-badge&logo=github)](https://github.com/YucongDuan?tab=repositories) [![13 languages](https://img.shields.io/badge/Research_Homepage-13_Languages-0F766E?style=for-the-badge)](https://yucong-duan-research.dikwp407.chatgpt.site)
 
-[13개 언어 연구 홈페이지](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [특허 포트폴리오](PATENT_PORTFOLIO_MAP.md) · [근거 지도](DIKWP_EVIDENCE_MAP.md)
+[DIKWP Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [Repository map](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Alliance Port](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
 
 </div>
 
-## GPT-6 Astra 이후
+## 한국어
 
-OpenAI는 [2026년 9월 3일 GPT-6 Astra를 발표](https://openai.com/index/gpt-6-astra/)하며 코딩, 연구, 컴퓨터 사용, 복잡한 다단계 작업의 향상을 제시했습니다. 이 단계에서 DIKWP가 보는 지속 가능한 가치는 모델의 원시 능력만이 아니라 명시적 Purpose, 출처, 권한, 현실 접촉 평가, 가역성, 인간의 연속성에 있습니다. [공식 시스템 카드 →](https://deploymentsafety.openai.com/gpt-6-astra)
+데이터·정보·지식·지혜·목적을 변환 가능한 의미 자원으로 표현하고 그 변환을 가시적·검증 가능·수정 가능·책임 가능하게 만드는 연구입니다.
 
-> 근거 경계: OpenAI 자료는 발표와 안전 기록을 확인할 뿐, DIKWP와의 제휴·도입·지지를 입증하지 않습니다.
+**D → I → K → W → P → authorized action → evidence → revision**
 
-## 기관 및 출판 네트워크
+## 468개 저장소 × 12개 연구 성좌
 
-<p align="center">
-  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
-  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
-</p>
+2026년 9월 6일 스냅샷: 공개 저장소 468개, 표시된 별 1,306개, 팔로워 738명. 모든 저장소에 주 분류와 최소 5개의 상호 연결을 부여했으며 지도에는 1,516개 관계가 있습니다.
 
-로고는 문서로 확인되는 출처, 출판사 또는 기관 네트워크를 나타내며 포괄적 지지를 뜻하지 않습니다.
+| English primary constellation | Repositories | Entry points |
+|---|---:|---|
+| DIKWP Foundations & Semantic Architecture | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
+| Artificial Consciousness & Digital Life | 74 | [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [AUTONOMOUS PERSONA NOESIS](https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0) |
+| Evidence, Evaluation & AI Governance | 71 | [RepoProof OS](https://github.com/YucongDuan/RepoProof-OS) · [White-Box EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) |
+| Education, Work & Human Capability | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
+| Semantic Mathematics & Formal Proof | 33 | [OPEN MATH GENESIS](https://github.com/YucongDuan/OPEN-MATH-GENESIS) · [Semantic Closure Atlas](https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas) |
+| Medicine, Health & Care | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
+| Economy, Value & Investment | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
+| Memory, Identity & Personal Systems | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
+| Society, Civilization & Public Infrastructure | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
+| Standards, Interoperability & Research Translation | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
+| Security, Justice & Resilience | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
+| Physics, Cosmos & Fundamental Inquiry | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
 
-## 의미 자원에서 검증 가능한 시스템으로
+[Complete interactive map →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-단위총의 연구는 **데이터, 정보, 지식, 지혜, 목적(DIKWP)**을 서로 구별되지만 변환 가능한 의미 자원으로 모델링합니다. 이 독창적 연구 축은 지식 그래프를 유형화되고 계산 가능한 DIKW/DIKWP 그래프로 체계적으로 확장하고, 인공의식·능동 의학·의미 주권·의미 수학·화이트박스 평가와 연결합니다.
+## 19개 저장소 확장과 13개 시스템군
 
-> 연구 순환: D → I → K → W → P → 행동 → 근거 → 수정
+새 시스템군은 시각·심혈관 돌봄, TrueValue와 능동 경제, 시민 전환과 현실 정산, 공동 생성과 모델 내재 디지털 생명을 연결합니다.
 
-**GitHub 공개 스냅샷 · 2026년 9월 4일:** **공개 저장소 449개 · 별 694개 · 팔로워 737명**. 수치는 날짜가 명시된 현황이며 자동적인 품질 지표가 아닙니다.
+[Care commons](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) · [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) · [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB)
 
-### 최신 14개 저장소 전선
+## 공공 연구·실천 포트
 
-새 계층은 인간 의도와 경제 전환, 교육·직업 회복력, 공중보건과 돌봄, 생명가치 순환, 제도 연속성과 통제된 에이전트, 문명 전망과 저자 측 표준이라는 여섯 축을 연결합니다. [449개 저장소와 1,843개 상호 관계 탐색 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+- **DIKW/DIKWP Public Port:** foundations, graphs, standards, patents, education and practice. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port)
+- **Artificial Consciousness Public Port:** theory, experiments, white-box evaluation, safety and institutions. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port)
 
-## 두 개의 공공 연구 Port
+## 근거 경계
 
-| Port | 경로 |
-|---|---|
-| [DIKW/DIKWP 학술·실천 Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) | 기초와 그래프 → 표준과 근거 → 특허 → 오픈 엔지니어링 → 융합 실천. |
-| [인공의식 연구·실험 Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | 이론 → 화이트박스 평가 → 공개 실험과 에이전트 → 의학, 윤리, 법, 기관 협력. |
+<p align="center"><a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" height="48" alt="ISO"></a>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" height="48" alt="IEEE"></a>&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" height="48" alt="Elsevier"></a>&nbsp;&nbsp;<a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" height="48" alt="WAAC"></a></p>
 
-## 검증 가능한 영향
+표준 채택, 독립 인용, 원 연구팀 확장, 특허 확산, 독립 수렴을 구분합니다. 코드와 테스트만으로 외부 검증, 임상·재무 효과, 현상적 의식, 기관 지지 또는 대리 권한을 입증할 수 없습니다.
 
-- [ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html)는 스마트시티 데이터 활용 사례 분석에 DIKWPA를 사용합니다.
-- [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en)와 [DBLP](https://dblp.org/pid/10/2092.html)는 서지 및 인용 경로를 제공합니다.
-- [WAAC](https://waac.ac/), [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan), [yucongduan.org](https://www.yucongduan.org/)는 기관, 도서, 학회와 연구 업데이트를 연결합니다.
+[ISO/IEC TR 25005-2:2025](https://www.iso.org/standard/86195.html) · [Independent digital-humanities adoption](https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3) · [Kuhn consciousness taxonomy](https://doi.org/10.1016/j.pbiomolbio.2023.12.003) · [IEEE white-box evaluation](https://ieeexplore.ieee.org/document/10466892/) · [Evidence map](DIKWP_EVIDENCE_MAP.md)
 
-## 특허 포트폴리오 구조
+## 대표 도서와 연구판
 
-제공된 자료에는 **2017–2023년 구조화 기록 115건**과 **2025년 발명 항목 139건**이 있으며, 법과 의미 주권, 능동 의학, 인공의식, DIKWP 그래프와 의미 수학, 교육과 창의성, 신뢰 가능한 AI, 다중 에이전트 인프라의 일곱 군집으로 구성됩니다. [전체 지도 보기 →](PATENT_PORTFOLIO_MAP.md)
+<p align="center"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/artificial-consciousness-physics.svg" width="70" alt="Artificial Consciousness Physics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-world-model.svg" width="70" alt="Ultimate World Model">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-philosophy.svg" width="70" alt="Cosmic Philosophy">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/cosmic-mathematics.svg" width="70" alt="Cosmic Mathematics">&nbsp;<img src="https://yucong-duan-research.dikwp407.chatgpt.site/books/ultimate-essence.svg" width="70" alt="Ultimate Essence"></p>
 
-> 근거 경계: 254는 두 문서 집합의 행 수이며 공식 특허 총수, 등록 수, 법적 패밀리 수 또는 구현 수가 아닙니다. 저장소, 논문, 특허, 표준, 기관 관계는 서로 다른 수준의 주장을 뒷받침합니다.
+<p align="center"><a href="https://www.cbbr.com.cn/contents/533/108502.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/xdu-press.png" height="40" alt="Xidian University Press"></a>&nbsp;&nbsp;<a href="https://www.sanmin.com.tw/product/index/015559299"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/pup.jpeg" height="40" alt="Peking University Press"></a>&nbsp;&nbsp;<a href="https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/crup.png" height="40" alt="China Renmin University Press"></a></p>
 
-## 코드에서 시작하기
+[Introduction to Semantic Mathematics](https://www.cbbr.com.cn/contents/533/108502.html) · [The Mathematics of Artificial Consciousness](https://www.yucongduan.org/) · [AI Reshaping Economics and Demand Logic](https://www.sanmin.com.tw/product/index/015559299) · [A Brief History of Consciousness](https://yuntaigo.com/book.action?recordid=b2hhbnpia2M5Nzg3MzAwMzQ1NDM3) · [ResearchGate editions](https://www.researchgate.net/profile/Yucong-Duan)
 
-[AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [전체 저장소](https://github.com/YucongDuan?tab=repositories)
+## Patent architecture
+
+특허 포트폴리오는 7개 기술군으로 제시합니다. 2017–2023년 115건과 2025년 139항목은 254개 자료 행이며, 254개 법적 패밀리·공개·등록을 뜻하지 않습니다.
+
+[Google Patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Patent map](PATENT_PORTFOLIO_MAP.md)
+
+## Strategic alliance & mutual support
+
+연대 포트는 유지관리자, 검토자, 대학, 표준기관, 출판사, 공익조직의 참여 경로입니다. 후보 등록은 협력이나 지지의 증거가 아닙니다. [Enter →](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port)
+
+## After GPT-6 Astra
+
+GPT-6 Astra 이후 강력한 모델은 명시적 목적, 근거 경로, 권한 게이트, 독립 평가와 인간 연속성에 연결되어야 합니다. 이는 연구 해석이며 OpenAI의 DIKWP 채택이나 지지를 뜻하지 않습니다. [Official announcement →](https://openai.com/index/gpt-6-astra/)
+
+## Public channels
+
+[GitHub](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [YouTube](https://www.youtube.com/@yucongduan) · [LinkedIn](https://www.linkedin.com/in/yucong-duan-b63a4648/) · [WAAC](https://waac.ac/) · [YucongDuan.org](https://www.yucongduan.org/)
 
 ---
 
-일부 연구 및 공익 프로젝트를 Yucong Duan의 딸 **Duan Dikweipu(段迪克维普)**에게 바칩니다. 이 헌정은 저자, 기여, 라이선스 또는 소유권 기록을 변경하지 않습니다.
+선정된 연구·공익 프로젝트를 단위총의 딸 段迪克维普에게 바칩니다. 헌정은 저자·기여·라이선스·소유권·유지관리 기록을 바꾸지 않습니다.
