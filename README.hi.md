@@ -24,17 +24,51 @@ OpenAI ने [3 सितम्बर 2026 को GPT-6 Astra प्रस्�
 
 > कार्य चक्र: D → I → K → W → P → क्रिया → साक्ष्य → संशोधन
 
-**सार्वजनिक GitHub स्नैपशॉट · 6 सितम्बर 2026:** **476 सार्वजनिक रिपॉज़िटरी · 1,306 दृश्य स्टार · 739 फ़ॉलोअर।** ये समयांकित आँकड़े हैं, स्थायी कुल या गुणवत्ता-स्कोर नहीं।
+**सार्वजनिक GitHub स्नैपशॉट · 7 सितम्बर 2026:** **480 सार्वजनिक रिपॉज़िटरी · 1,318 दृश्य स्टार · 740 फ़ॉलोअर।** ये समयांकित आँकड़े हैं, स्थायी कुल या गुणवत्ता-स्कोर नहीं।
 
-### 476 रिपॉज़िटरी × बारह शोध-नक्षत्र
+### 480 रिपॉज़िटरी × बारह शोध-नक्षत्र
 
-हर रिपॉज़िटरी को एक प्राथमिक शोध-वर्ग और कम-से-कम पाँच पारस्परिक कड़ियाँ मिली हैं; मानचित्र में अर्थगत कर्नेल, क्षेत्रीय सहकर्मी, निरंतरता और बहु-क्षेत्रीय सेतु की **1,548 संबंध-कड़ियाँ** हैं। **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+हर रिपॉज़िटरी को एक प्राथमिक शोध-वर्ग और कम-से-कम पाँच पारस्परिक कड़ियाँ मिली हैं; मानचित्र में अर्थगत कर्नेल, क्षेत्रीय सहकर्मी, निरंतरता और बहु-क्षेत्रीय सेतु की **1,556 संबंध-कड़ियाँ** हैं। **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 27 रिपॉज़िटरी के विस्तार में दृष्टि व हृदय देखभाल, पुनर्योजी मूल्य, नागरिक संक्रमण और शासित डिजिटल जीवन के तेरह तंत्रों के साथ अर्थगत गतिकी, सतत पर्सोना, योगदान और साक्ष्य अवसंरचना शामिल है।
 
-[476 रिपॉज़िटरी और 1,548 पारस्परिक संबंध देखें →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[480 रिपॉज़िटरी और 1,556 पारस्परिक संबंध देखें →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## स्रोत, परीक्षण और पुनरुत्पादन
+
+स्रोत देखें, प्रयोग दोबारा चलाएँ और उसके साक्ष्य को प्रकाशित संशोधन तक खोजें। **सत्यापन तिथि: 2026-09-07 · पुनरुत्पादित प्राथमिक परियोजनाएँ: 3.**
+
+[इंजीनियरिंग सूची खोलें](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [माइग्रेशन रिकॉर्ड देखें](ENGINEERING_STATUS.md) · [सार्वजनिक रिपॉज़िटरी: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | साक्ष्य और सीमाएँ | प्रकाशित और जाँचा गया |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | बिना शर्त अपरिवर्तनीयता के दावों की जगह रनटाइम सत्यापन है। बदले हुए आउटपुट, कार्रवाई नियंत्रण और अनुपस्थित समीक्षा चैनल जाँचे जाते हैं; बाहरी प्रवर्तन अभी असत्यापित है। | [स्वचालित जाँच देखें](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [प्रकाशित संशोधन acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | स्रोत, परीक्षण और उदाहरण सीधे उपलब्ध हैं। नया रन 72 कृत्रिम परिदृश्यों और चार बेसलाइन की दर्ज परिणामों से तुलना करता है। | [स्वचालित जाँच देखें](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [प्रकाशित संशोधन 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | अर्थगत नेटवर्क प्रोटोटाइप में अनुपस्थित SciPy निर्भरता, पुनरुत्पाद्य विश्लेषण और दोबारा बने परिणाम शामिल हैं; संख्यात्मक तुलना और नकारात्मक पदानुक्रम उदाहरण भी जाँचे जाते हैं। | [स्वचालित जाँच देखें](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [प्रकाशित संशोधन c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+स्रोत की उपलब्धता, सफल परीक्षण और सीमित मॉडल जाँच के अलग दायरे हैं। ये स्वतंत्र अपनाने, प्रमाणन या वास्तविक प्रभावशीलता को सिद्ध नहीं करते।
+
+NOT_VERIFIED का अर्थ है कि मौजूदा परीक्षण ने दावे को स्थापित नहीं किया। इसे सफल नहीं दिखाया जाना चाहिए।
+
+पुनरुत्पादन रिपोर्ट, विफल उदाहरण या स्पष्ट दायरे वाला सुधार भेजें।
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## स्वतंत्र अकादमिक उद्धरण और नीतिगत उपयोग
+
+2026-09-07 को सत्यापित: अर्थगत संप्रभुता पर TechPolicy.Press का एक लेख और Springer के दो अध्याय DIKWP-संबंधित शोध उद्धृत करते हैं। उद्धरण, वैचारिक उपयोग और प्रायोगिक सत्यापन को अलग रखा गया है।
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[अंग्रेज़ी-चीनी साक्ष्य रिपोर्ट पढ़ें](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

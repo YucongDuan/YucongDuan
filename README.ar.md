@@ -26,17 +26,51 @@
 
 > دورة العمل: D → I → K → W → P → فعل → دليل → مراجعة
 
-**لقطة GitHub العامة في 6 سبتمبر 2026:** **476 مستودعاً عاماً · 1,306 نجمة ظاهرة · 739 متابعاً.** الأرقام مؤرخة وليست مجاميع دائمة أو مقياساً للجودة.
+**لقطة GitHub العامة في 7 سبتمبر 2026:** **480 مستودعاً عاماً · 1,318 نجمة ظاهرة · 740 متابعاً.** الأرقام مؤرخة وليست مجاميع دائمة أو مقياساً للجودة.
 
-### 476 مستودعاً × اثنتا عشرة كوكبة بحثية
+### 480 مستودعاً × اثنتا عشرة كوكبة بحثية
 
-لكل مستودع تصنيف بحثي أساسي وما لا يقل عن خمس روابط متبادلة؛ وتضم الخريطة **1,548 علاقة** من نوع النواة الدلالية ونظير المجال والاستمرارية والجسر متعدد المجالات. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+لكل مستودع تصنيف بحثي أساسي وما لا يقل عن خمس روابط متبادلة؛ وتضم الخريطة **1,556 علاقة** من نوع النواة الدلالية ونظير المجال والاستمرارية والجسر متعدد المجالات. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 يضم التوسع المؤلف من 27 مستودعاً حزمة من ثلاثة عشر نظاماً لصحة البصر والقلب، والقيمة التجديدية، والتحول المدني، والحياة الرقمية المحكومة، إلى جانب بنية للديناميات الدلالية والشخصيات المستمرة والمساهمة والأدلة.
 
-[استكشف 476 مستودعاً و1,548 علاقة متبادلة ←](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[استكشف 480 مستودعاً و1,556 علاقة متبادلة ←](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## المصدر والاختبارات وقابلية إعادة الإنتاج
+
+افحص المصدر وأعد تشغيل التجربة وتتبع أدلتها إلى المراجعة المنشورة. **تاريخ التحقق: 2026-09-07 · مشروعات أولوية أُعيد إنتاجها: 3.**
+
+[افتح الدليل الهندسي](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [راجع سجل الترحيل](ENGINEERING_STATUS.md) · [المستودعات العامة: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | الأدلة والحدود | منشور ومفحوص |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | يحل التحقق وقت التشغيل محل تصريحات الثوابت غير المشروطة. تُفحص المخرجات المعدلة وبوابات الإجراءات وقنوات المراجعة المفقودة؛ أما الإنفاذ الخارجي فما يزال غير متحقق منه. | [اعرض الفحوص الآلية](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [المراجعة المنشورة acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | المصدر والاختبارات والأمثلة متاحة مباشرة. يقارن تشغيل جديد 72 سيناريو اصطناعياً وأربعة خطوط أساس بالنتائج المسجلة. | [اعرض الفحوص الآلية](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [المراجعة المنشورة 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | يتضمن نموذج الشبكة الدلالية تبعية SciPy المفقودة وتحليلاً قابلاً لإعادة الإنتاج ومخرجات معاد توليدها، مع مقارنات عددية وحالة هرمية سلبية. | [اعرض الفحوص الآلية](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [المراجعة المنشورة c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+إتاحة المصدر ونجاح الاختبارات والفحص المحدود للنماذج لها نطاقات مختلفة. ولا تثبت التبني المستقل أو الاعتماد أو الفعالية الواقعية.
+
+تعني NOT_VERIFIED أن الاختبار الحالي لم يثبت الادعاء، ولا يجوز عرضها كنتيجة ناجحة.
+
+ساهم بتقرير إعادة إنتاج أو حالة فشل أو تحسين محدد النطاق.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## استشهادات أكاديمية واستخدام مستقل في نقاش السياسات
+
+تم التحقق في 2026-09-07 من مقال في TechPolicy.Press عن السيادة الدلالية وفصلين لدى Springer يستشهدان بأعمال مرتبطة بـ DIKWP. يُفصل بين الاستشهاد والاستخدام المفاهيمي والتحقق التجريبي.
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[قراءة تقرير الأدلة بالإنجليزية والصينية](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

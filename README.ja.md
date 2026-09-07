@@ -24,17 +24,51 @@ OpenAI は [2026年9月3日に GPT-6 Astra を発表](https://openai.com/index/g
 
 > 研究ループ：D → I → K → W → P → 行動 → 証拠 → 修正
 
-**GitHub公開スナップショット（2026年9月6日）：** **公開リポジトリ476 · 可視Stars 1,306 · フォロワー739。** 日付付きの観測値であり、恒久的総数や品質スコアではありません。
+**GitHub公開スナップショット（2026年9月7日）：** **公開リポジトリ480 · 可視Stars 1,318 · フォロワー740。** 日付付きの観測値であり、恒久的総数や品質スコアではありません。
 
-### 476リポジトリ × 12の研究星座
+### 480リポジトリ × 12の研究星座
 
-全リポジトリに主分類と少なくとも5つの双方向リンクを設定し、意味カーネル・同領域・研究継続性・領域横断ブリッジからなる **1,548関係** を構成しました。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+全リポジトリに主分類と少なくとも5つの双方向リンクを設定し、意味カーネル・同領域・研究継続性・領域横断ブリッジからなる **1,556関係** を構成しました。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 27リポジトリの増分には、視覚・心血管ケア、再生的価値、市民移行、統治されたデジタル生命を扱う13システム群と、意味動力学、持続的ペルソナ、貢献、証拠の基盤が含まれます。
 
-[476リポジトリと1,548の双方向関係を見る →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[480リポジトリと1,556の双方向関係を見る →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## ソース・テスト・再現性
+
+ソースを確認し、実験を再実行して、証拠を公開リビジョンまで辿れます。 **確認日: 2026-09-07 · 再現済み重点プロジェクト: 3.**
+
+[技術カタログを開く](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [移行記録を確認する](ENGINEERING_STATUS.md) · [公開リポジトリ: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | 証拠と限界 | 公開・確認済み |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | 無条件の不変条件宣言を実行時検証に置き換えました。改ざん出力、行動ゲート、欠落したレビュー経路を検査し、外部での強制適用は未検証とします。 | [自動チェックを見る](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [公開リビジョン acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | ソース、テスト、例を直接参照できます。72の合成シナリオと4つのベースラインを再実行し、記録済みの結果と比較します。 | [自動チェックを見る](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [公開リビジョン 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | 意味ネットワーク原型に不足していたSciPy依存を補い、分析と成果物を再生成し、数値比較と階層の反例を確認します。 | [自動チェックを見る](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [公開リビジョン c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+ソース公開、テスト成功、有界モデル検査はそれぞれ対象範囲が異なり、独立採用、認証、現実での有効性を証明するものではありません。
+
+NOT_VERIFIEDは今回のテストでは主張が確立されていないことを示します。合格として表示してはいけません。
+
+再現報告、失敗ケース、範囲を明確にした改善を歓迎します。
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## 独立した学術引用と政策議論
+
+2026-09-07に確認：意味主権を扱うTechPolicy.Pressの記事とSpringerの2章がDIKWP関連研究を引用しています。引用、概念的利用、実証検証を区別しています。
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[英中対訳の証拠報告を読む](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

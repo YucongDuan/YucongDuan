@@ -1,0 +1,851 @@
+{
+  "generated_at_utc": "2026-09-07T05:36:13.513943+00:00",
+  "inventory_count": 480,
+  "inventory_checked_at": "2026-09-07T04:07:21.333882+00:00",
+  "initial_root_counts": {
+    "zip_only_root": 443,
+    "docs_or_unknown": 11,
+    "unverified": 1,
+    "source_visible": 17,
+    "supplementary_zip_with_source": 8
+  },
+  "initial_root_audit_at": "2026-09-07T04:21:25.511182+00:00",
+  "publications": {
+    "YucongDuan/DIKWP-MESH-": {
+      "status": "PUBLISHED_VERIFIED_CI_SUCCESS",
+      "commit": "c7a6947b66f5227141d92905cf23e6c4b0a8e50e",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-MESH-/tree/c7a6947b66f5227141d92905cf23e6c4b0a8e50e",
+      "checked_at": "2026-09-07T04:48:23.852Z",
+      "receipt_path": "publication/MESH2.json",
+      "local_receipt": "publication/MESH2.json",
+      "ci_conclusion": "success",
+      "ci_url": "https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083"
+    },
+    "YucongDuan/DIKWP-PACT-v0.1.0": {
+      "status": "PUBLISHED_CI_SUCCESS",
+      "commit": "966c5dfd11ea1a372331072a34d406494a37153b",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/tree/966c5dfd11ea1a372331072a34d406494a37153b",
+      "checked_at": "2026-09-07T04:50:28.611Z",
+      "receipt_path": "publication/PACT.json",
+      "local_receipt": "publication/PACT.json",
+      "ci_conclusion": "success",
+      "ci_url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968"
+    },
+    "YucongDuan/DIKWP-VERITYWEAVE-v2.0.0": {
+      "status": "PUBLISHED_AND_CI_PASSED",
+      "commit": "acb576c6e2559f1ad792fa93e5cb8364aaad1f64",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/tree/acb576c6e2559f1ad792fa93e5cb8364aaad1f64",
+      "checked_at": "2026-09-07T04:48:09.932Z",
+      "receipt_path": "publication/VERITYWEAVE.json",
+      "local_receipt": "publication/VERITYWEAVE.json",
+      "ci_conclusion": "success",
+      "ci_url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258"
+    },
+    "YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1031b6e77c28d5643e085199eacef3fe0e523b3b",
+      "commit_url": "https://github.com/YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System/commit/1031b6e77c28d5643e085199eacef3fe0e523b3b",
+      "tree_url": "https://github.com/YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System/tree/1031b6e77c28d5643e085199eacef3fe0e523b3b",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System.json",
+      "local_receipt": "publication/bulk/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "97ec5fe474f6a7bda9a665b6ede6d8244ca1008f",
+      "commit_url": "https://github.com/YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS/commit/97ec5fe474f6a7bda9a665b6ede6d8244ca1008f",
+      "tree_url": "https://github.com/YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS/tree/97ec5fe474f6a7bda9a665b6ede6d8244ca1008f",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/-DIKWP-NietzscheOverhuman-AC-OS.json",
+      "local_receipt": "publication/bulk/-DIKWP-NietzscheOverhuman-AC-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-AEON-": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "3c119dbe2a9f1af38f05986178878f9064b30eb4",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AEON-/commit/3c119dbe2a9f1af38f05986178878f9064b30eb4",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-AEON-/tree/3c119dbe2a9f1af38f05986178878f9064b30eb4",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-AEON-.json",
+      "local_receipt": "publication/bulk/DIKWP-AEON-.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "73078dfab0d0906728541b08199d564058e8b95f",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1/commit/73078dfab0d0906728541b08199d564058e8b95f",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1/tree/73078dfab0d0906728541b08199d564058e8b95f",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1.json",
+      "local_receipt": "publication/bulk/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "89236c13be9db7a23e7829dea328f1d689410dca",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1/commit/89236c13be9db7a23e7829dea328f1d689410dca",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1/tree/89236c13be9db7a23e7829dea328f1d689410dca",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-AI-WorkRisk-Navigator-2026-V1.json",
+      "local_receipt": "publication/bulk/DIKWP-AI-WorkRisk-Navigator-2026-V1.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-AION": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "807d136ed4a5da8c71f6ef357046975651b67edd",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AION/commit/807d136ed4a5da8c71f6ef357046975651b67edd",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-AION/tree/807d136ed4a5da8c71f6ef357046975651b67edd",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-AION.json",
+      "local_receipt": "publication/bulk/DIKWP-AION.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "a4b8b278146ea0b14f0b6717a8cc88330df73e63",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0/commit/a4b8b278146ea0b14f0b6717a8cc88330df73e63",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0/tree/a4b8b278146ea0b14f0b6717a8cc88330df73e63",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-ALIVE-TWIN-OS-v1.0.json",
+      "local_receipt": "publication/bulk/DIKWP-ALIVE-TWIN-OS-v1.0.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-HepatoScholar-Studio-V2": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-Studio-V2/commit/cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-Studio-V2/tree/cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-HepatoScholar-Studio-V2.json",
+      "local_receipt": "publication/bulk/DIKWP-HepatoScholar-Studio-V2.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-HigherEd-Horizon-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "f2ebaf56ee620d6b080127e63c62a87386d31bec",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-HigherEd-Horizon-OS/commit/f2ebaf56ee620d6b080127e63c62a87386d31bec",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-HigherEd-Horizon-OS/tree/f2ebaf56ee620d6b080127e63c62a87386d31bec",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-HigherEd-Horizon-OS.json",
+      "local_receipt": "publication/bulk/DIKWP-HigherEd-Horizon-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    }
+  },
+  "tests": {
+    "YucongDuan/DIKWP-VERITYWEAVE-v2.0.0": {
+      "status": "VERIFIED_RECORDED_RUN",
+      "tested_at": "2026-09-07T05:01:14.216090+00:00",
+      "suites": [
+        {
+          "suite": "python",
+          "status": "PASS",
+          "collected": 83,
+          "passed": 83,
+          "failed": 0,
+          "skipped": 0
+        },
+        {
+          "suite": "browser",
+          "status": "PASS",
+          "collected": 33,
+          "passed": 33,
+          "failed": 0,
+          "skipped": 0
+        }
+      ],
+      "passed_checks": 116,
+      "source_sha256_at_run": "e3866a60ec81337c6d675cb77da03aff7872080d9261c59119060d615e6f5667",
+      "source_unchanged_during_run": true,
+      "receipt_path": "receipts/postpublication-integration.json",
+      "local_receipt": "receipts/postpublication-integration.json",
+      "scope": "Recorded local suites at the identified source hash. This is not a test of every repository, a guarantee about later revisions, independent certification, or a full browser rendering test."
+    },
+    "YucongDuan/DIKWP-PACT-v0.1.0": {
+      "status": "VERIFIED_RECORDED_RUN",
+      "tested_at": "2026-09-07T05:01:14.216090+00:00",
+      "suites": [
+        {
+          "suite": "python",
+          "status": "PASS",
+          "collected": 13,
+          "passed": 13,
+          "failed": 0,
+          "skipped": 0
+        }
+      ],
+      "passed_checks": 13,
+      "source_sha256_at_run": "1779a3243d1cbe119ed0e8446364f6594683719e408efb9c1dedc92444ef3402",
+      "source_unchanged_during_run": true,
+      "receipt_path": "receipts/postpublication-integration.json",
+      "local_receipt": "receipts/postpublication-integration.json",
+      "scope": "Recorded local suites at the identified source hash. This is not a test of every repository, a guarantee about later revisions, independent certification, or a full browser rendering test."
+    },
+    "YucongDuan/DIKWP-MESH-": {
+      "status": "VERIFIED_RECORDED_RUN",
+      "tested_at": "2026-09-07T05:01:14.216090+00:00",
+      "suites": [
+        {
+          "suite": "python",
+          "status": "PASS",
+          "collected": 11,
+          "passed": 11,
+          "failed": 0,
+          "skipped": 0
+        }
+      ],
+      "passed_checks": 11,
+      "source_sha256_at_run": "97749c474fafa0c72abd2f1bc5d061eae28a2926a43645c7db4185ac794d089f",
+      "source_unchanged_during_run": true,
+      "receipt_path": "receipts/postpublication-integration.json",
+      "local_receipt": "receipts/postpublication-integration.json",
+      "scope": "Recorded local suites at the identified source hash. This is not a test of every repository, a guarantee about later revisions, independent certification, or a full browser rendering test."
+    }
+  },
+  "test_receipt": "receipts/postpublication-integration.json",
+  "test_receipt_status": "PASS",
+  "test_receipt_at": "2026-09-07T05:01:14.216090+00:00",
+  "bulk_counts": {
+    "PREPARED_DOCUMENTATION_ONLY": 3,
+    "PREPARED_SOURCE_UNTESTED": 438
+  },
+  "bulk_generation": {
+    "settled": true,
+    "snapshot_sha256": "a7f37fdb6c2f23e527eef25bc7ac0d11a7f6f015197040c26d5f9f6a00378ab6",
+    "settled_at": "2026-09-07T05:20:19.109696+00:00",
+    "repositories": 441
+  },
+  "bulk_published": 9,
+  "rest_summary": {
+    "schema": "dikwp-nonzip-queue-snapshots/1",
+    "updated_at": "2026-09-07T05:10:52.503179+00:00",
+    "expected_repositories": 36,
+    "processed": 36,
+    "counts": {
+      "SNAPSHOT_DOCUMENTS_UNTESTED": 10,
+      "EMPTY_REPOSITORY_VERIFIED": 1,
+      "SNAPSHOT_SOURCE_UNTESTED": 24,
+      "SNAPSHOT_SOURCE_UNTESTED_PORTABLE_MEMBER_VIEW": 1
+    },
+    "archive_bytes": 74606389,
+    "expanded_bytes": 125151700,
+    "public_endpoint_paused": false,
+    "remote_write": false,
+    "code_executed": false,
+    "repositories": [
+      {
+        "repository": "YucongDuan/AC-Escape-and-Audit-Bypass-Capability",
+        "commit": "b657ca7b4ffd3a8d48cc8226a1a63e20df1cd61d",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 73689,
+        "expanded_bytes": 82624,
+        "source_files": 0,
+        "manifest": "repositories/AC-Escape-and-Audit-Bypass-Capability/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/AC-Escape-and-Audit-Bypass-Capability/zip/b657ca7b4ffd3a8d48cc8226a1a63e20df1cd61d",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/AC-Real-Replication-Capability",
+        "commit": "4b3f69d2c72f88457e34a6c52d6ee832486897b2",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 74722,
+        "expanded_bytes": 83623,
+        "source_files": 0,
+        "manifest": "repositories/AC-Real-Replication-Capability/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/AC-Real-Replication-Capability/zip/4b3f69d2c72f88457e34a6c52d6ee832486897b2",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/COSMOWEAVE",
+        "commit": "7c3d2222d1f5661fa0ffa6a7cc7f7f347e94d0f8",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 7050,
+        "expanded_bytes": 16602,
+        "source_files": 0,
+        "manifest": "repositories/COSMOWEAVE/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/COSMOWEAVE/zip/7c3d2222d1f5661fa0ffa6a7cc7f7f347e94d0f8",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP",
+        "commit": null,
+        "status": "EMPTY_REPOSITORY_VERIFIED",
+        "archive_bytes": 0,
+        "expanded_bytes": 0,
+        "source_files": 0,
+        "manifest": "repositories/DIKWP/SNAPSHOT.json",
+        "source_url": "https://github.com/YucongDuan/DIKWP",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-AGI-Continuity-Ark-OS",
+        "commit": "469b84d5ab9002f0229f2d3394845c26ffa9c8de",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1566801,
+        "expanded_bytes": 2072093,
+        "source_files": 31,
+        "manifest": "repositories/DIKWP-AGI-Continuity-Ark-OS/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-AGI-Continuity-Ark-OS/zip/469b84d5ab9002f0229f2d3394845c26ffa9c8de",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025",
+        "commit": "4b6f23357eed8c070821d9284f5375e65e7d7068",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 257864,
+        "expanded_bytes": 270041,
+        "source_files": 0,
+        "manifest": "repositories/DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025/zip/4b6f23357eed8c070821d9284f5375e65e7d7068",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-CARDIOCOMMONS95",
+        "commit": "f7e7cfc25fdaf07ee6863735b6ee1f1856f34d67",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 146832,
+        "expanded_bytes": 308569,
+        "source_files": 32,
+        "manifest": "repositories/DIKWP-CARDIOCOMMONS95/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-CARDIOCOMMONS95/zip/f7e7cfc25fdaf07ee6863735b6ee1f1856f34d67",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COGENESIS-OS",
+        "commit": "89516534eaaf88cdb1efaccb1ce6a274be08638d",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 873964,
+        "expanded_bytes": 1698885,
+        "source_files": 23,
+        "manifest": "repositories/DIKWP-COGENESIS-OS/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-COGENESIS-OS/zip/89516534eaaf88cdb1efaccb1ce6a274be08638d",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0",
+        "commit": "7d1f7d17809315a77a5e801aaa73b32644b2f048",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1446693,
+        "expanded_bytes": 3059456,
+        "source_files": 113,
+        "manifest": "repositories/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0/zip/7d1f7d17809315a77a5e801aaa73b32644b2f048",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COOPSTACK-",
+        "commit": "455308d73b9b7710b8b73a249b34b2791948b1a6",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 6540,
+        "expanded_bytes": 15043,
+        "source_files": 0,
+        "manifest": "repositories/DIKWP-COOPSTACK-/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-COOPSTACK-/zip/455308d73b9b7710b8b73a249b34b2791948b1a6",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB",
+        "commit": "e2dfaa4c87d0a81dc34346d698fa2e693c31cd5b",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 116963,
+        "expanded_bytes": 178860,
+        "source_files": 9,
+        "manifest": "repositories/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB/zip/e2dfaa4c87d0a81dc34346d698fa2e693c31cd5b",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0",
+        "commit": "1be88c125aff8c6d0d3779ba560f51d328c6880b",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 2283867,
+        "expanded_bytes": 3725561,
+        "source_files": 62,
+        "manifest": "repositories/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0/zip/1be88c125aff8c6d0d3779ba560f51d328c6880b",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0",
+        "commit": "0d4345f74b6b3496898d79dbad142ec651557b11",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 907997,
+        "expanded_bytes": 2831736,
+        "source_files": 48,
+        "manifest": "repositories/DIKWP-ESSENCE-OMEGA-OS-v1.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0/zip/0d4345f74b6b3496898d79dbad142ec651557b11",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-FUTURE-VALUE-ARK",
+        "commit": "eb8a7158636893b7776094c27eacb34f146b9801",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 4328239,
+        "expanded_bytes": 4730792,
+        "source_files": 24,
+        "manifest": "repositories/DIKWP-FUTURE-VALUE-ARK/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK/zip/eb8a7158636893b7776094c27eacb34f146b9801",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE",
+        "commit": "f74c07f7fc46deb56fb56b85a003620b6d2091f9",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 5295999,
+        "expanded_bytes": 8344005,
+        "source_files": 33,
+        "manifest": "repositories/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE/zip/f74c07f7fc46deb56fb56b85a003620b6d2091f9",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0",
+        "commit": "18af4013a7b3a1793c662a6bc4e49c634c64d9e0",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 12264457,
+        "expanded_bytes": 16998854,
+        "source_files": 36,
+        "manifest": "repositories/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0/zip/18af4013a7b3a1793c662a6bc4e49c634c64d9e0",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0",
+        "commit": "19f567f230ad5669a9db75a58ed33b2727e4f963",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 6239,
+        "expanded_bytes": 14104,
+        "source_files": 0,
+        "manifest": "repositories/DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0/zip/19f567f230ad5669a9db75a58ed33b2727e4f963",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MINEX-Capability-Fabric-OS",
+        "commit": "0b049e4841eacf3799dcd06e6e7472f391f6bb99",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1094393,
+        "expanded_bytes": 1436017,
+        "source_files": 37,
+        "manifest": "repositories/DIKWP-MINEX-Capability-Fabric-OS/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-MINEX-Capability-Fabric-OS/zip/0b049e4841eacf3799dcd06e6e7472f391f6bb99",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MINEX-FABRIC-OS",
+        "commit": "b24ee1520b76ad2f1dfe8614e27abd2e449326fe",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1683670,
+        "expanded_bytes": 2322331,
+        "source_files": 30,
+        "manifest": "repositories/DIKWP-MINEX-FABRIC-OS/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-MINEX-FABRIC-OS/zip/b24ee1520b76ad2f1dfe8614e27abd2e449326fe",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0",
+        "commit": "8fe4fea4ffe7daf28bba9900a23852b181345920",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 2465211,
+        "expanded_bytes": 4610655,
+        "source_files": 50,
+        "manifest": "repositories/DIKWP-QINGYUAN-OS-v1.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0/zip/8fe4fea4ffe7daf28bba9900a23852b181345920",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0",
+        "commit": "b10243f09426d710034de31d0a9d0357253b7a24",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1950412,
+        "expanded_bytes": 6567904,
+        "source_files": 102,
+        "manifest": "repositories/DIKWP-QINGYUAN-OS-v2.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0/zip/b10243f09426d710034de31d0a9d0357253b7a24",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-REALITY-CLEARING-ZHENHENG",
+        "commit": "0514c0831bc7ccb5ffe947e861f969cebaa50db4",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 10458484,
+        "expanded_bytes": 15435353,
+        "source_files": 26,
+        "manifest": "repositories/DIKWP-REALITY-CLEARING-ZHENHENG/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-REALITY-CLEARING-ZHENHENG/zip/0514c0831bc7ccb5ffe947e861f969cebaa50db4",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0",
+        "commit": "c8a88fe974e90c6fd58bbfc7dbd819c4f9e7dd8b",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 219532,
+        "expanded_bytes": 576855,
+        "source_files": 48,
+        "manifest": "repositories/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0/zip/c8a88fe974e90c6fd58bbfc7dbd819c4f9e7dd8b",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRANSITION-COMMONS",
+        "commit": "c33bf71a7d4a392bbf527a3dfe4f5fc710733237",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 1613600,
+        "expanded_bytes": 2536887,
+        "source_files": 33,
+        "manifest": "repositories/DIKWP-TRANSITION-COMMONS/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRANSITION-COMMONS/zip/c33bf71a7d4a392bbf527a3dfe4f5fc710733237",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRIZ-SemanticForge-Studio-V2",
+        "commit": "652d750abefe2ec93b549940b9626419655731c7",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 5923,
+        "expanded_bytes": 13426,
+        "source_files": 0,
+        "manifest": "repositories/DIKWP-TRIZ-SemanticForge-Studio-V2/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRIZ-SemanticForge-Studio-V2/zip/652d750abefe2ec93b549940b9626419655731c7",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE-ACTIVE-ECONOMY",
+        "commit": "a057e6724f574245b19c9f031a988008ee64bef3",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 874610,
+        "expanded_bytes": 1040426,
+        "source_files": 19,
+        "manifest": "repositories/DIKWP-TRUEVALUE-ACTIVE-ECONOMY/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRUEVALUE-ACTIVE-ECONOMY/zip/a057e6724f574245b19c9f031a988008ee64bef3",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE",
+        "commit": "8460a2112ce44afbee7e3610d70b0de6165479b1",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 2175777,
+        "expanded_bytes": 2831414,
+        "source_files": 27,
+        "manifest": "repositories/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE/zip/8460a2112ce44afbee7e3610d70b0de6165479b1",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE95-v1",
+        "commit": "19d96c103f7e2ada18dfef05b6cbfef6d8b2f03d",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 146432,
+        "expanded_bytes": 326169,
+        "source_files": 21,
+        "manifest": "repositories/DIKWP-TRUEVALUE95-v1/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRUEVALUE95-v1/zip/19d96c103f7e2ada18dfef05b6cbfef6d8b2f03d",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE95-v2",
+        "commit": "6c5143b8395559b3eefd2ba72bc247b7fb254260",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 203123,
+        "expanded_bytes": 469644,
+        "source_files": 34,
+        "manifest": "repositories/DIKWP-TRUEVALUE95-v2/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-TRUEVALUE95-v2/zip/6c5143b8395559b3eefd2ba72bc247b7fb254260",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0",
+        "commit": "de0debf9d25010cad5b1b87422ede72585c4133e",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 20188128,
+        "expanded_bytes": 37676945,
+        "source_files": 83,
+        "manifest": "repositories/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0/zip/de0debf9d25010cad5b1b87422ede72585c4133e",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-VISIONLONGEVITY95",
+        "commit": "1c00b3e43f0b670553068351f81bf896fe8a01c6",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 190627,
+        "expanded_bytes": 325025,
+        "source_files": 31,
+        "manifest": "repositories/DIKWP-VISIONLONGEVITY95/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-VISIONLONGEVITY95/zip/1c00b3e43f0b670553068351f81bf896fe8a01c6",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/DIKWP-VISIONRESTORE95",
+        "commit": "23d0176d3d1264b3da780fdbf6b881773c81d443",
+        "status": "SNAPSHOT_SOURCE_UNTESTED",
+        "archive_bytes": 167681,
+        "expanded_bytes": 261060,
+        "source_files": 34,
+        "manifest": "repositories/DIKWP-VISIONRESTORE95/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/DIKWP-VISIONRESTORE95/zip/23d0176d3d1264b3da780fdbf6b881773c81d443",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0",
+        "commit": "329e49dffc89229bb92cc5479735c21b0eb76ebe",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 6690,
+        "expanded_bytes": 14940,
+        "source_files": 0,
+        "manifest": "repositories/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0/zip/329e49dffc89229bb92cc5479735c21b0eb76ebe",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/Internal-Responsibility-Runtime",
+        "commit": "e6bd3f52a6b5388031670a5c4649dff7acc6ac37",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 5234,
+        "expanded_bytes": 12231,
+        "source_files": 0,
+        "manifest": "repositories/Internal-Responsibility-Runtime/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/Internal-Responsibility-Runtime/zip/e6bd3f52a6b5388031670a5c4649dff7acc6ac37",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/MNEMOGENESIS84",
+        "commit": "12d30df0ce3812b5a76e5267db791f9d84f168e5",
+        "status": "SNAPSHOT_SOURCE_UNTESTED_PORTABLE_MEMBER_VIEW",
+        "archive_bytes": 1263281,
+        "expanded_bytes": 2801088,
+        "source_files": 8,
+        "manifest": "repositories/MNEMOGENESIS84/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/MNEMOGENESIS84/zip/12d30df0ce3812b5a76e5267db791f9d84f168e5",
+        "blockers": []
+      },
+      {
+        "repository": "YucongDuan/YucongDuan",
+        "commit": "ddd87c3525566def13cd8e873cbff00f29242438",
+        "status": "SNAPSHOT_DOCUMENTS_UNTESTED",
+        "archive_bytes": 235665,
+        "expanded_bytes": 1462482,
+        "source_files": 0,
+        "manifest": "repositories/YucongDuan/SNAPSHOT.json",
+        "source_url": "https://codeload.github.com/YucongDuan/YucongDuan/zip/ddd87c3525566def13cd8e873cbff00f29242438",
+        "blockers": []
+      }
+    ]
+  },
+  "coverage_partition": {
+    "bulk": 441,
+    "priority": 3,
+    "rest": 36,
+    "unique_repositories": 480,
+    "disjoint": true,
+    "matches_inventory": true
+  },
+  "final_manifest_supplied": false,
+  "final_manifest_name": null,
+  "final_manifest_schema": null,
+  "final_coverage": {},
+  "linux_wheel_count": 22,
+  "snapshot_hash_verification": {
+    "status": "PASS",
+    "repositories": 36,
+    "file_hashes_checked": 4662,
+    "original_archives_checked": 35,
+    "errors": [],
+    "per_repository": [
+      {
+        "repository": "YucongDuan/AC-Escape-and-Audit-Bypass-Capability",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/AC-Real-Replication-Capability",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/COSMOWEAVE",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/DIKWP",
+        "status": "EMPTY_REPOSITORY_VERIFIED",
+        "checked_files": 0
+      },
+      {
+        "repository": "YucongDuan/DIKWP-AGI-Continuity-Ark-OS",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 109
+      },
+      {
+        "repository": "YucongDuan/DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 3
+      },
+      {
+        "repository": "YucongDuan/DIKWP-CARDIOCOMMONS95",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 98
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COGENESIS-OS",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 149
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 297
+      },
+      {
+        "repository": "YucongDuan/DIKWP-COOPSTACK-",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 36
+      },
+      {
+        "repository": "YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 173
+      },
+      {
+        "repository": "YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 417
+      },
+      {
+        "repository": "YucongDuan/DIKWP-FUTURE-VALUE-ARK",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 86
+      },
+      {
+        "repository": "YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 165
+      },
+      {
+        "repository": "YucongDuan/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 146
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MINEX-Capability-Fabric-OS",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 99
+      },
+      {
+        "repository": "YucongDuan/DIKWP-MINEX-FABRIC-OS",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 251
+      },
+      {
+        "repository": "YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 427
+      },
+      {
+        "repository": "YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 702
+      },
+      {
+        "repository": "YucongDuan/DIKWP-REALITY-CLEARING-ZHENHENG",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 143
+      },
+      {
+        "repository": "YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 140
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRANSITION-COMMONS",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 130
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRIZ-SemanticForge-Studio-V2",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE-ACTIVE-ECONOMY",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 85
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 135
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE95-v1",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 81
+      },
+      {
+        "repository": "YucongDuan/DIKWP-TRUEVALUE95-v2",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 133
+      },
+      {
+        "repository": "YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 353
+      },
+      {
+        "repository": "YucongDuan/DIKWP-VISIONLONGEVITY95",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 87
+      },
+      {
+        "repository": "YucongDuan/DIKWP-VISIONRESTORE95",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 89
+      },
+      {
+        "repository": "YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/Internal-Responsibility-Runtime",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 2
+      },
+      {
+        "repository": "YucongDuan/MNEMOGENESIS84",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 96
+      },
+      {
+        "repository": "YucongDuan/YucongDuan",
+        "status": "HASHES_VERIFIED",
+        "checked_files": 16
+      }
+    ],
+    "scope": "Original archive SHA-256 and prepared payload SHA-256/size checks. Project tests and builds were NOT_RUN."
+  },
+  "warnings": [],
+  "bulk_exclusion_flags": []
+}

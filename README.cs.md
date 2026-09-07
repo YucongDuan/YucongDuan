@@ -36,17 +36,51 @@ Výzkum Yuconga Duana modeluje **Data, Informace, Znalosti, Moudrost a Účel (D
 
 > Pracovní cyklus: D → I → K → W → P → akce → důkaz → revize
 
-**Veřejný snímek GitHubu · 6. září 2026:** **476 veřejných repozitářů · 1 306 viditelných hvězdiček · 739 sledujících.** Jde o datované hodnoty, nikoli trvalé součty nebo skóre kvality.
+**Veřejný snímek GitHubu · 7. září 2026:** **480 veřejných repozitářů · 1 318 viditelných hvězdiček · 740 sledujících.** Jde o datované hodnoty, nikoli trvalé součty nebo skóre kvality.
 
-### 476 repozitářů × dvanáct výzkumných konstelací
+### 480 repozitářů × dvanáct výzkumných konstelací
 
-Každý repozitář má hlavní klasifikaci a nejméně pět vzájemných propojení; mapa obsahuje **1 548 vztahů** sémantického jádra, oborových protějšků, kontinuity a mezioborových mostů. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+Každý repozitář má hlavní klasifikaci a nejméně pět vzájemných propojení; mapa obsahuje **1 556 vztahů** sémantického jádra, oborových protějšků, kontinuity a mezioborových mostů. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 Rozšíření o 27 repozitářů zahrnuje třináct systémů pro zrakovou a kardiovaskulární péči, regenerativní hodnotu, občanskou transformaci a řízený digitální život spolu s infrastrukturou pro sémantickou dynamiku, persony, příspěvky a důkazy.
 
-[Prozkoumat 476 repozitářů a 1 548 vzájemných vztahů →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[Prozkoumat 480 repozitářů a 1 556 vzájemných vztahů →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## Zdrojový kód, testy a reprodukovatelnost
+
+Prohlédněte si kód, zopakujte experiment a propojte jeho důkazy se zveřejněnou revizí. **Ověřeno dne: 2026-09-07 · Reprodukované prioritní projekty: 3.**
+
+[Otevřít technický katalog](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Prohlédnout záznam migrace](ENGINEERING_STATUS.md) · [Veřejné repozitáře: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | Důkazy a omezení | Zveřejněno a zkontrolováno |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | Ověřování za běhu nahrazuje bezpodmínečná tvrzení o invariantách. Kontroluje pozměněné výstupy, řízení akcí a chybějící přezkumné kanály; vnější vynucování zůstává neověřeno. | [Zobrazit automatické kontroly](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [Zveřejněná revize acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | Kód, testy a příklady jsou přímo dostupné. Nový běh porovnává 72 syntetických scénářů a čtyři základní metody s uloženými výsledky. | [Zobrazit automatické kontroly](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [Zveřejněná revize 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | Prototyp sémantické sítě zahrnuje chybějící závislost SciPy, reprodukovatelnou analýzu a nově vytvořené výsledky, s numerickým porovnáním a negativním případem hierarchie. | [Zobrazit automatické kontroly](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [Zveřejněná revize c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+Dostupnost kódu, úspěšné testy a omezená kontrola modelů mají různé rozsahy. Nedokládají nezávislé přijetí, certifikaci ani účinnost v praxi.
+
+NOT_VERIFIED znamená, že aktuální test tvrzení neprokázal. Nesmí být zobrazeno jako úspěch.
+
+Přispějte zprávou o reprodukci, případem selhání nebo jasně vymezeným zlepšením.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## Nezávislé akademické citace a veřejná diskuse
+
+Ověřeno 2026-09-07: článek TechPolicy.Press o sémantické suverenitě a dvě kapitoly Springer citují výzkum související s DIKWP. Citace, koncepční využití a empirické ověření zůstávají odlišeny.
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[Přečíst dvojjazyčnou zprávu o důkazech](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

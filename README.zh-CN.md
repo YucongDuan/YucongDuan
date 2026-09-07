@@ -33,17 +33,55 @@ OpenAI 于 [2026 年 9 月 3 日发布 GPT-6 Astra](https://openai.com/index/gpt
 
 > 工作闭环：D → I → K → W → P → 行动 → 证据 → 修订
 
-**GitHub 公开快照（2026-09-06）：476 个公开仓库、1,306 个可见 Stars、739 位关注者。** 全量索引记录 452 条 GitHub 公开描述；当公开元数据为空时，互联图采用有边界的仓库文档范围摘要。时间戳数据不是永久总数，也不是质量评分。
+**GitHub 公开快照（2026-09-07）：480 个公开仓库、1,318 个可见 Stars、740 位关注者。** 全量索引记录 456 条 GitHub 公开描述；当公开元数据为空时，互联图采用有边界的仓库文档范围摘要。时间戳数据不是永久总数，也不是质量评分。
 
-### 476 仓库 × 十二研究星座
+### 480 仓库 × 十二研究星座
 
-全部仓库现已按主要研究问题分类，并各自获得至少 5 条双向关联；全图共 **1,548 条**“语义内核、同域节点、研究连续性、跨域桥接”关系。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+全部仓库现已按主要研究问题分类，并各自获得至少 5 条双向关联；全图共 **1,556 条**“语义内核、同域节点、研究连续性、跨域桥接”关系。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 9 月 6 日新增套件聚焦四条轴线：视觉与心血管照护 Commons；TrueValue／主动经济；公共转型与现实清算；共生成与模型内驻数字生命。连同 Cognitive State Equation Lab、POLYMIND、AUTONOMOUS PERSONA NOESIS、OPENCONSTELLATION、RepoProof OS 与 PERSONA NOESIS CONTINUUM，共形成相较 449 仓库检查点的 27 项增量。
 
-[浏览全部 476 个仓库与 1,548 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[浏览全部 480 个仓库与 1,556 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## 源码、测试与复现
+
+检查源码，重跑实验，并把证据追溯到实际发布的版本。 **核验日期: 2026-09-07 · 已复现重点项目: 3.**
+
+[打开工程目录](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [查看迁移记录](ENGINEERING_STATUS.md) · [公开仓库: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | 证据与边界 | 已发布并检查 |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | 以运行时验证替代无条件不变量声明；检查篡改输出、行动门控和缺失的复核通道，外部执行保障仍标记为未核验。 | [查看自动检查](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [公开版本 acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | 源码、测试与示例可直接浏览；重新运行 72 个合成场景和 4 个基线，与记录结果比对。 | [查看自动检查](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [公开版本 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | 补齐语义网络原型缺失的 SciPy 依赖，重做分析与产物生成，核对数值并运行层级反例。 | [查看自动检查](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [公开版本 c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+源码可见、测试通过与有界模型检查各有范围，不能据此推定独立采用、认证或现实有效性。
+
+NOT_VERIFIED 表示本次测试尚未确立该主张，不能显示为通过。
+
+欢迎提交复现报告、失败案例或范围明确的改进。
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## 独立学术引用与政策采用
+
+本次于 2026-09-07 核验补入，保留各项真实发表日期；这里的“新增”指主页新收录，不表示文献刚刚发表。
+
+<img src="assets/logos/techpolicy-press.png" alt="TechPolicy.Press" width="28" height="28" />
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — Sujata Mukherjee; Sasha Maria Mathew; Upwork; Bumble; 2026-04-28. 独立作者政策文章直接链接段玉聪语义主权研究及 Fan—Duan 目的计算章节，将 DIKWP 用于语言平权和社群主导的 AI 安全治理讨论。 属于作者层面的政策理论采用。出版方所列 Upwork、Bumble 任职背景，不等同于这些公司的采用、背书或系统部署。
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — Rudi Schmidt; IHLAD Abu Dhabi; 2025-03-11. Schmidt 的精准医学章节在 AI 辅助患者分组与发明原理选择的展望中，直接引用 Wu 与 Duan 的 DIKWP-TRIZ 研究。 属于可核验的跨领域引用与概念讨论，不能据此推出 DIKWP 已进入临床部署、改善患者结局或得到医学验证。
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — Oroos Arshi; Aryan Chaudhary; University of Petroleum and Energy Studies; Bio-Tech Sphere Research; 2025 book; online 2024-08-31. 该 AGI 概述的出版社公开参考文献列入两项 Li—Duan 研究，分别涉及 DIKWP 伦理表现与 GPT-4 测评，显示其进入更广泛的 AGI 安全讨论。 已核验公开参考文献，章节全文需订阅；公开材料不足以证明方法实施或独立复现实验。
+
+ISO 官方参考文献第 22 项还直接引用 Wu—Duan 的 DIKWP 不确定性研究；负责委员会为 **ISO/IEC JTC 1**，文献类型为**技术报告（Technical Report）**。[官方参考文献](https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec:tr:25005:-2:ed-1:v1:en)。
+
+[阅读中英文证据报告](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

@@ -36,17 +36,51 @@ La ricerca di Yucong Duan modella **Dati, Informazione, Conoscenza, Saggezza e P
 
 > Ciclo operativo: D → I → K → W → P → azione → evidenza → revisione
 
-**Snapshot pubblico GitHub · 6 settembre 2026:** **476 repository pubblici · 1.306 stelle visibili · 739 follower.** I numeri sono datati, non totali permanenti né un punteggio di qualità.
+**Snapshot pubblico GitHub · 7 settembre 2026:** **480 repository pubblici · 1.318 stelle visibili · 740 follower.** I numeri sono datati, non totali permanenti né un punteggio di qualità.
 
-### 476 repository × dodici costellazioni di ricerca
+### 480 repository × dodici costellazioni di ricerca
 
-Ogni repository ha una classificazione primaria e almeno cinque collegamenti reciproci; la mappa contiene **1.548 relazioni** tra nucleo semantico, pari di dominio, continuità e ponti interdisciplinari. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+Ogni repository ha una classificazione primaria e almeno cinque collegamenti reciproci; la mappa contiene **1.556 relazioni** tra nucleo semantico, pari di dominio, continuità e ponti interdisciplinari. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 L’espansione di 27 repository comprende una suite di tredici sistemi per vista e cardiologia, valore rigenerativo, transizione civica e vita digitale governata, oltre a infrastrutture per dinamica semantica, persona, contributi ed evidenze.
 
-[Esplora 476 repository e 1.548 relazioni reciproche →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[Esplora 480 repository e 1.556 relazioni reciproche →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## Codice, test e riproducibilità
+
+Esamina il codice, ripeti un esperimento e risali dalle prove alla revisione pubblicata. **Verificato il: 2026-09-07 · Progetti prioritari riprodotti: 3.**
+
+[Apri il catalogo tecnico](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Consulta il registro di migrazione](ENGINEERING_STATUS.md) · [Repository pubblici: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | Prove e limiti | Pubblicato e verificato |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | La validazione durante l'esecuzione sostituisce le dichiarazioni incondizionate di invarianti. Controlla risultati alterati, vincoli sulle azioni e canali di revisione mancanti; l'applicazione esterna resta non verificata. | [Visualizza i controlli automatici](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [Revisione pubblicata acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | Codice, test ed esempi sono accessibili. Una nuova esecuzione confronta 72 scenari sintetici e quattro baseline con i risultati registrati. | [Visualizza i controlli automatici](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [Revisione pubblicata 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | Il prototipo di rete semantica include la dipendenza SciPy mancante, analisi riproducibile e risultati rigenerati, con confronti numerici e un caso gerarchico negativo. | [Visualizza i controlli automatici](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [Revisione pubblicata c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+Disponibilità del codice, test superati e verifica limitata dei modelli hanno ambiti distinti. Non dimostrano adozione indipendente, certificazione o efficacia reale.
+
+NOT_VERIFIED indica che il test corrente non ha dimostrato l'affermazione. Non va presentato come esito positivo.
+
+Contribuisci con un rapporto di riproduzione, un caso fallito o un miglioramento ben delimitato.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## Citazioni accademiche e uso indipendente nel dibattito pubblico
+
+Verificato il 2026-09-07: un saggio di TechPolicy.Press sulla sovranità semantica e due capitoli Springer citano studi su DIKWP. Citazione, uso concettuale e validazione restano distinti.
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[Leggi il rapporto bilingue sulle prove](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

@@ -1,0 +1,148 @@
+{
+  "verified_on": "2026-09-07",
+  "scope": "Primary-source homepage enrichment; newly verified or newly selected records, not claims of newly published research.",
+  "dedup_against": "/workspace/sites/yucong-duan-research/app/page.tsx",
+  "records": [
+    {
+      "id": "techpolicy-language-equity-2026",
+      "novelty": "new_to_current_homepage",
+      "priority": 1,
+      "title": "Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning",
+      "authors": ["Sujata Mukherjee", "Sasha Maria Mathew"],
+      "publication_date": "2026-04-28",
+      "source": "TechPolicy.Press — Perspective",
+      "doi": null,
+      "url": "https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/",
+      "author_affiliations": [
+        {"author": "Sujata Mukherjee", "organization": "Upwork", "role": "Senior Director of Trust & Safety Product Management", "source": "https://www.techpolicy.press/author/sujata-mukherjee/"},
+        {"author": "Sasha Maria Mathew", "organization": "Bumble", "role": "Global head of the platform policy team", "source": "https://www.techpolicy.press/author/sasha-maria-mathew/"}
+      ],
+      "classification": ["direct_linked_citation", "independent_policy_theory_uptake"],
+      "external_authorship": true,
+      "evidence_locators": ["Semantic-sovereignty definition links to Duan-related ResearchGate report.", "Section 'Semantic engineering, or governing Purpose' links to the Fan–Duan Springer chapter when introducing Purpose and DIKWP."],
+      "cited_primary_sources": [
+        {"doi": "10.13140/RG.2.2.12052.00646", "url": "https://www.researchgate.net/publication/392909737_Semantic_Sovereignty_In_Detail_A_New_Issue_In_Global_Digital_Governance"},
+        {"authors": ["Ke Fan", "Yucong Duan"], "title": "Purpose Computation-Oriented Modeling and Transformation on DIKW Architecture", "first_online": "2021-05-27", "citation_year": 2022, "doi": "10.1007/978-3-030-78303-7_3", "url": "https://link.springer.com/chapter/10.1007/978-3-030-78303-7_3"}
+      ],
+      "signal": {
+        "en": "An independently authored policy essay links Duan’s semantic-sovereignty work and the Fan–Duan Purpose-computation chapter, applying DIKWP to language equity and community-governed AI safety.",
+        "zh": "独立作者政策文章直接链接段玉聪语义主权研究及 Fan—Duan 目的计算章节，将 DIKWP 用于语言平权和社群主导的 AI 安全治理讨论。"
+      },
+      "boundary": {
+        "en": "Author-level policy uptake. The publisher lists Upwork and Bumble leadership roles; this does not establish adoption, endorsement or deployment by those companies.",
+        "zh": "属于作者层面的政策理论采用。出版方所列 Upwork、Bumble 任职背景，不等同于这些公司的采用、背书或系统部署。"
+      },
+      "placement": "Independent influence / semantic sovereignty; retain practitioner affiliations as attributed biography, not institutional endorsement."
+    },
+    {
+      "id": "schmidt-precision-medicine-2025",
+      "novelty": "new_to_current_homepage",
+      "priority": 2,
+      "title": "Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs",
+      "authors": ["Rudi Schmidt"],
+      "publication_date": "2025-03-11",
+      "source": "Springer, Innovations in Healthcare and Outcome Measurement, pp. 3–18",
+      "doi": "10.1007/978-3-031-77302-0_1",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1",
+      "author_affiliations": [{"author": "Rudi Schmidt", "organization": "IHLAD Abu Dhabi", "role": "COO", "note": "Publisher-listed affiliation; retain spelling without unverified expansion."}],
+      "classification": ["direct_citation", "independent_cross_domain_discussion"],
+      "external_authorship": true,
+      "evidence_locators": ["Section 1.2.2 outlook: the discussion of AI-assisted patient grouping and applicable TRIZ principles cites reference 76.", "Reference 76 identifies Wu and Duan’s 2024 DIKWP-TRIZ paper, Applied Sciences 14(23), 10865."],
+      "cited_primary_sources": [{"doi": "10.3390/app142310865", "url": "https://www.preprints.org/manuscript/202410.0751/v1"}],
+      "signal": {
+        "en": "Schmidt’s precision-medicine chapter cites Wu and Duan’s DIKWP-TRIZ study in its outlook on AI-assisted patient grouping and the selection of inventive principles.",
+        "zh": "Schmidt 的精准医学章节在 AI 辅助患者分组与发明原理选择的展望中，直接引用 Wu 与 Duan 的 DIKWP-TRIZ 研究。"
+      },
+      "boundary": {
+        "en": "A verified cross-domain citation and conceptual discussion; it does not establish clinical deployment, patient benefit or medical validation of DIKWP.",
+        "zh": "属于可核验的跨领域引用与概念讨论，不能据此推出 DIKWP 已进入临床部署、改善患者结局或得到医学验证。"
+      },
+      "placement": "Independent influence; cross-link to proactive medicine and invention / TRIZ themes."
+    },
+    {
+      "id": "arshi-chaudhary-agi-overview",
+      "novelty": "new_to_current_homepage",
+      "priority": 3,
+      "title": "Overview of Artificial General Intelligence (AGI)",
+      "authors": ["Oroos Arshi", "Aryan Chaudhary"],
+      "first_online": "2024-08-31",
+      "citation_year": 2025,
+      "date_display": "2025 book; online 2024-08-31",
+      "source": "Springer, Artificial General Intelligence (AGI) Security, pp. 1–26",
+      "doi": "10.1007/978-981-97-3222-7_1",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1",
+      "author_affiliations": [
+        {"author": "Oroos Arshi", "organization": "University of Petroleum and Energy Studies", "department": "Department of Cyber Security and Forensics, School of Computer Science", "location": "Dehradun, India"},
+        {"author": "Aryan Chaudhary", "organization": "Bio-Tech Sphere Research", "location": "Ghaziabad, India"}
+      ],
+      "classification": ["direct_bibliographic_citation"],
+      "external_authorship": true,
+      "evidence_locators": ["Public references 27 and 31 list two 2023 Li–Duan works on DIKWP-based AGI ethics and GPT-4 evaluation."],
+      "signal": {
+        "en": "The AGI overview’s publisher-visible bibliography cites two Li–Duan studies on DIKWP-based ethical performance and GPT-4 evaluation, linking the research to a broader AGI-security discussion.",
+        "zh": "该 AGI 概述的出版社公开参考文献列入两项 Li—Duan 研究，分别涉及 DIKWP 伦理表现与 GPT-4 测评，显示其进入更广泛的 AGI 安全讨论。"
+      },
+      "boundary": {
+        "en": "The bibliography is verified; the full chapter is subscription-only. No claim of implementation or independent replication is supported by the public material.",
+        "zh": "已核验公开参考文献，章节全文需订阅；公开材料不足以证明方法实施或独立复现实验。"
+      },
+      "placement": "Independent citation evidence / artificial-consciousness evaluation Port."
+    },
+    {
+      "id": "iso-tr-25005-2-bibliography",
+      "novelty": "existing_record_strengthened_and_corrected",
+      "priority": 1,
+      "title": "ISO/IEC TR 25005-2:2025 — Information technology — Data use in smart cities — Part 2: Use case analysis and common considerations",
+      "authors": ["ISO/IEC JTC 1"],
+      "publication_month": "2025-10",
+      "publication_stage_date": "2025-10-15",
+      "edition": 1,
+      "pages": 56,
+      "source": "ISO / IEC Technical Report",
+      "url": "https://www.iso.org/standard/86195.html",
+      "additional_primary_url": "https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec:tr:25005:-2:ed-1:v1:en",
+      "classification": ["standards_body_publication", "direct_bibliographic_citation"],
+      "evidence_locators": ["Official catalogue lists ISO/IEC JTC 1; public foreword confirms this committee.", "Public OBP bibliography reference 22 explicitly cites Wu and Duan’s 2024 DIKWP uncertainty-model paper.", "Catalogue publication month is 2025-10; the lifecycle separately records stage 60.60 on 2025-10-15."],
+      "cited_primary_sources": [{"title": "Modeling and Resolving Uncertainty in DIKWP Model", "authors": ["Kunguang Wu", "Yucong Duan"], "year": 2024, "doi": "10.3390/app14114776", "url": "https://www.mdpi.com/2076-3417/14/11/4776"}],
+      "signal": {
+        "en": "The official bibliography directly cites Wu and Duan’s DIKWP uncertainty-model paper as reference 22, making the research-to-standards trail explicit.",
+        "zh": "官方参考文献第 22 项直接引用 Wu 与 Duan 的 DIKWP 不确定性建模论文，使研究进入国际标准组织出版物的来源链更加明确。"
+      },
+      "boundary": {
+        "en": "This is a technical report and an informative bibliographic citation, not product certification or general endorsement. Public OBP access did not expose the full text of clauses 6–7 in this check.",
+        "zh": "这是技术报告中的资料性引用，不是产品认证或全面背书。本次公开 OBP 访问未展示第 6—7 章全文。"
+      },
+      "required_site_corrections": [
+        {"from": "ISO/IEC JTC 1/SC 7", "to": "ISO/IEC JTC 1", "reason": "Official catalogue and foreword specify JTC 1 without SC 7."},
+        {"from": "A1 · INTERNATIONAL STANDARD", "to": "A1 · INTERNATIONAL TECHNICAL REPORT", "reason": "Match the document’s TR type precisely."}
+      ],
+      "integration_note": "Append this bibliography evidence to the existing standard entry. Preserve previously verified clause-level uptake only if its earlier formal-document evidence is retained; do not describe the clauses as freshly reverified from the public OBP excerpt."
+    }
+  ],
+  "optional_existing_record_enrichment": {
+    "title": "A DIKWP white-box semantic distributed learning approach for resource-constrained edge devices in web environments",
+    "authors": ["Yingtian Mei", "Yucong Duan", "Kunguang Wu", "Yingbo Li"],
+    "first_online": "2025-11-26",
+    "issue_publication": "2026-02-11",
+    "source": "International Journal of Web Information Systems 22(1): 17–43",
+    "doi": "10.1108/IJWIS-06-2025-0142",
+    "url": "https://www.emerald.com/ijwis/article/22/1/17/1317917/A-DIKWP-white-box-semantic-distributed-learning",
+    "action": "Restore the full title in the existing bibliographic trajectory. Label source-team technical extension, not independent external adoption. The abstract describes semantic probes and tests; no unverified numerical improvement should be added."
+  },
+  "excluded_or_qualified_candidates": [
+    {
+      "id": "CN121981217A",
+      "title": "一种融合DIKWP模型的多智能体协同TRIZ矛盾矩阵构建方法",
+      "applicant": "Guangdong Polytechnic Normal University",
+      "inventors": ["雷方元", "梁敏靖", "戴青云", "庄楚鑫", "何振宇"],
+      "filed": "2025-12-05",
+      "published": "2026-05-05",
+      "url": "https://patents.google.com/patent/CN121981217A/zh",
+      "reason": "The implementation describes a DIKWP path ending in engineering Practice. No direct Duan citation was established. Keep outside Purpose-DIKWP patent-diffusion counts; at most classify as an acronym/technical convergence candidate. Publication does not establish grant or validity."
+    },
+    {"id": "sage-practice-dikwp", "reason": "Already present in the Site as independent acronym usage with P = Practice; do not duplicate as Duan Purpose adoption."},
+    {"id": "self-authored-rg-reports", "reason": "Self-authored ResearchGate reports provide source research, not independent adoption; the TechPolicy.Press external link is the independent evidence."},
+    {"id": "CN121278114A", "reason": "Search candidate lacked an accessible verified primary record in this pass; excluded."},
+    {"id": "scholar-metrics", "reason": "No newly verified Google Scholar metrics; do not update citation counts from search snippets."}
+  ]
+}

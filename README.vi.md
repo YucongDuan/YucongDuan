@@ -50,17 +50,51 @@ Một tuyến nghiên cứu cốt lõi mở rộng có hệ thống đồ thị 
 
 > Chu trình nghiên cứu: D → I → K → W → P → hành động → bằng chứng → sửa đổi
 
-**Ảnh chụp GitHub công khai ngày 6 tháng 9 năm 2026:** **476 kho mã nguồn công khai · 1.306 sao hiển thị · 739 người theo dõi.** Đây là số liệu có dấu thời gian, không phải tổng cố định hay điểm chất lượng.
+**Ảnh chụp GitHub công khai ngày 7 tháng 9 năm 2026:** **480 kho mã nguồn công khai · 1.318 sao hiển thị · 740 người theo dõi.** Đây là số liệu có dấu thời gian, không phải tổng cố định hay điểm chất lượng.
 
-### 476 kho mã nguồn × mười hai chòm nghiên cứu
+### 480 kho mã nguồn × mười hai chòm nghiên cứu
 
-Mỗi kho có một phân loại nghiên cứu chính và ít nhất năm liên kết hai chiều; bản đồ gồm **1.548 quan hệ** thuộc lõi ngữ nghĩa, nút cùng lĩnh vực, tính liên tục và cầu nối liên lĩnh vực. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+Mỗi kho có một phân loại nghiên cứu chính và ít nhất năm liên kết hai chiều; bản đồ gồm **1.556 quan hệ** thuộc lõi ngữ nghĩa, nút cùng lĩnh vực, tính liên tục và cầu nối liên lĩnh vực. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 Phần mở rộng 27 kho mã nguồn gồm mười ba hệ thống về chăm sóc thị lực và tim mạch, giá trị tái tạo, chuyển đổi công dân và đời sống số được quản trị, cùng hạ tầng cho động lực ngữ nghĩa, persona bền vững, đóng góp và bằng chứng.
 
-[Khám phá 476 kho mã nguồn và 1.548 liên kết hai chiều →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[Khám phá 480 kho mã nguồn và 1.556 liên kết hai chiều →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## Mã nguồn, kiểm thử và khả năng tái lập
+
+Kiểm tra mã nguồn, chạy lại thí nghiệm và truy ngược bằng chứng đến bản sửa đổi đã công bố. **Ngày xác minh: 2026-09-07 · Dự án ưu tiên đã tái lập: 3.**
+
+[Mở danh mục kỹ thuật](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Xem hồ sơ chuyển mã nguồn](ENGINEERING_STATUS.md) · [Kho mã nguồn công khai: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | Bằng chứng và giới hạn | Đã công bố và kiểm tra |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | Xác minh khi chạy thay thế các tuyên bố bất biến vô điều kiện. Hệ thống kiểm tra đầu ra bị sửa, cổng hành động và kênh rà soát bị thiếu; việc thực thi bên ngoài vẫn chưa được xác minh. | [Xem kiểm tra tự động](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [Bản sửa đổi đã công bố acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | Mã nguồn, kiểm thử và ví dụ có thể xem trực tiếp. Lần chạy mới so sánh 72 tình huống tổng hợp và bốn phương pháp cơ sở với kết quả đã ghi. | [Xem kiểm tra tự động](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [Bản sửa đổi đã công bố 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | Nguyên mẫu mạng ngữ nghĩa bổ sung phụ thuộc SciPy còn thiếu, phân tích có thể tái lập và kết quả được tạo lại, với so sánh số và trường hợp phân cấp phản ví dụ. | [Xem kiểm tra tự động](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [Bản sửa đổi đã công bố c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+Mã nguồn có sẵn, kiểm thử đạt và kiểm tra mô hình hữu hạn có phạm vi khác nhau. Chúng không chứng minh việc áp dụng độc lập, chứng nhận hoặc hiệu quả thực tế.
+
+NOT_VERIFIED nghĩa là kiểm thử hiện tại chưa xác lập tuyên bố. Không được hiển thị trạng thái này là đạt.
+
+Đóng góp báo cáo tái lập, trường hợp thất bại hoặc cải tiến có phạm vi rõ ràng.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## Trích dẫn học thuật độc lập và thảo luận chính sách
+
+Đã xác minh ngày 2026-09-07: một bài TechPolicy.Press về chủ quyền ngữ nghĩa và hai chương Springer trích dẫn nghiên cứu liên quan đến DIKWP. Trích dẫn, vận dụng khái niệm và kiểm chứng thực nghiệm được phân biệt rõ.
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[Đọc báo cáo bằng chứng song ngữ](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

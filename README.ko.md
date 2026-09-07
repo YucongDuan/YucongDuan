@@ -36,17 +36,51 @@ OpenAI는 [2026년 9월 3일 GPT-6 Astra를 발표](https://openai.com/index/gpt
 
 > 연구 순환: D → I → K → W → P → 행동 → 근거 → 수정
 
-**GitHub 공개 스냅샷 · 2026년 9월 6일:** **공개 저장소 476개 · 표시된 별 1,306개 · 팔로워 739명.** 날짜가 명시된 관측값이며 영구 총계나 품질 점수가 아닙니다.
+**GitHub 공개 스냅샷 · 2026년 9월 7일:** **공개 저장소 480개 · 표시된 별 1,318개 · 팔로워 740명.** 날짜가 명시된 관측값이며 영구 총계나 품질 점수가 아닙니다.
 
-### 476개 저장소 × 12개 연구 성좌
+### 480개 저장소 × 12개 연구 성좌
 
-모든 저장소에 주 연구 분류와 최소 5개의 상호 연결을 부여했으며, 지도에는 의미 커널·분야 동료·포트폴리오 연속성·융합 연결로 이루어진 **1,548개 관계**가 있습니다. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (136) · Artificial Consciousness & Digital Life (75) · Evidence, Evaluation & AI Governance (76) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (35) · Medicine, Health & Care (29) · Economy, Value & Investment (18) · Memory, Identity & Personal Systems (17) · Society, Civilization & Public Infrastructure (13) · Standards, Interoperability & Research Translation (13) · Security, Justice & Resilience (10) · Physics, Cosmos & Fundamental Inquiry (10).
+모든 저장소에 주 연구 분류와 최소 5개의 상호 연결을 부여했으며, 지도에는 의미 커널·분야 동료·포트폴리오 연속성·융합 연결로 이루어진 **1,556개 관계**가 있습니다. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
 
 27개 저장소 확장에는 시각·심혈관 돌봄, 재생 가치, 시민 전환, 통제된 디지털 생명을 위한 13개 시스템과 의미 동역학, 지속 페르소나, 기여 및 근거 인프라가 포함됩니다.
 
-[476개 저장소와 1,548개 상호 관계 탐색 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+[480개 저장소와 1,556개 상호 관계 탐색 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
 
-### Latest eight repositories · English international summary
+<!-- engineering-update-2026-09-07:start -->
+## 소스, 테스트 및 재현성
+
+소스를 확인하고 실험을 다시 실행하며 근거를 공개된 리비전까지 추적하세요. **확인 날짜: 2026-09-07 · 재현된 주요 프로젝트: 3.**
+
+[기술 목록 열기](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [이전 기록 보기](ENGINEERING_STATUS.md) · [공개 저장소: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | 근거와 한계 | 공개 및 확인 완료 |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | 무조건적인 불변 조건 선언을 실행 시 검증으로 바꿨습니다. 변조된 출력, 행동 제어 및 누락된 검토 경로를 확인하며 외부 강제 적용은 미검증으로 남깁니다. | [자동 검사 보기](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [공개 리비전 acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | 소스, 테스트와 예제를 직접 볼 수 있습니다. 72개 합성 시나리오와 4개 기준선을 새로 실행하여 기록된 결과와 비교합니다. | [자동 검사 보기](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [공개 리비전 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | 의미 네트워크 원형에 누락된 SciPy 의존성을 추가하고 분석과 산출물을 재생성하며 수치 비교와 계층 반례를 확인합니다. | [자동 검사 보기](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [공개 리비전 c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+소스 공개, 테스트 통과, 유계 모델 검사는 각각 적용 범위가 다릅니다. 독립적인 채택, 인증 또는 현실에서의 효과를 입증하지 않습니다.
+
+NOT_VERIFIED는 현재 테스트가 해당 주장을 입증하지 못했다는 뜻입니다. 통과로 표시해서는 안 됩니다.
+
+재현 보고서, 실패 사례 또는 범위가 명확한 개선을 기여해 주세요.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## 독립 학술 인용과 정책 논의
+
+2026-09-07 확인: 의미 주권을 다룬 TechPolicy.Press 글과 Springer의 두 장이 DIKWP 관련 연구를 인용합니다. 인용, 개념적 활용, 실증 검증을 구분합니다.
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — 2026-04-28.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — 2025-03-11.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — 2025 book; online 2024-08-31.
+
+[영어·중국어 근거 보고서 읽기](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
+
+### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 

@@ -48,7 +48,7 @@ President, World Academy for Artificial Consciousness (WAAC)
   <img src="https://img.shields.io/badge/LinkedIn-Research_Network-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Yucong Duan on LinkedIn">
 </a>
 
-[DIKW/DIKWP Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [476-repository directory](REPOSITORY_ECOSYSTEM_476.md) · [Machine-readable map](REPOSITORY_ECOSYSTEM_476.json) · [Patent portfolio map](PATENT_PORTFOLIO_MAP.md) · [Evidence map](DIKWP_EVIDENCE_MAP.md) · [ISO/IEC standardization](#isoiec-standardization--国际标准化) · [CAAI white paper](#caai-white-paper-on-dikwp-and-artificial-consciousness--中国人工智能学会-dikwp与人工意识白皮书) · [Media coverage](#media-and-public-discourse--中英文媒体与公共传播) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
+[DIKW/DIKWP Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [Artificial Consciousness Public Port](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) · [480-repository directory](REPOSITORY_ECOSYSTEM_480.md) · [Machine-readable map](REPOSITORY_ECOSYSTEM_480.json) · [Patent portfolio map](PATENT_PORTFOLIO_MAP.md) · [Evidence map](DIKWP_EVIDENCE_MAP.md) · [ISO/IEC standardization](#isoiec-standardization--国际标准化) · [CAAI white paper](#caai-white-paper-on-dikwp-and-artificial-consciousness--中国人工智能学会-dikwp与人工意识白皮书) · [Media coverage](#media-and-public-discourse--中英文媒体与公共传播) · [Research map](#research-map) · [Start with code](#start-with-code) · [中文简介](#中文简介)
 
 </div>
 
@@ -90,30 +90,68 @@ My originating research line systematically extends knowledge graphs into **type
 
 This GitHub account is a public research workshop. It connects foundational work on DIKWP with executable systems for artificial-consciousness research, trustworthy AI agents, reconstructive memory, semantic mathematics, education, and long-horizon human–AI futures.
 
-**Public GitHub snapshot · 6 September 2026:** **476 public repositories** · 1,306 visible stars · 739 followers. The complete snapshot records 452 public repository descriptions; the generated map provides bounded scope summaries where public metadata is absent. Counts are time-stamped, not permanent totals or quality scores.
+**Public GitHub snapshot · 7 September 2026:** **480 public repositories** · 1,318 visible stars · 740 followers. The complete snapshot records 456 public repository descriptions; the generated map provides bounded scope summaries where public metadata is absent. Counts are time-stamped, not permanent totals or quality scores.
 
 ### Complete portfolio architecture · 12 research constellations / 全量组合架构 · 十二研究星座
 
-Every repository now has a primary research classification and at least five reciprocal links. The map contains **1,548 undirected relationships**: shared semantic kernels, domain peers, portfolio continuity and cross-domain bridges.
+Every repository now has a primary research classification and at least five reciprocal links. The map contains **1,556 undirected relationships**: shared semantic kernels, domain peers, portfolio continuity and cross-domain bridges.
 
 | Research constellation | Repositories | Representative entry points |
 |---|---:|---|
-| **DIKWP foundations & semantic architecture** | 136 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
-| **Artificial consciousness & digital life** | 75 | [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) |
-| **Evidence, evaluation & AI governance** | 76 | [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) |
+| **DIKWP foundations & semantic architecture** | 139 | [DIKWP](https://github.com/YucongDuan/DIKWP) · [Cognitive State Equation Lab](https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory) |
+| **Artificial consciousness & digital life** | 71 | [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0) · [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) |
+| **Evidence, evaluation & AI governance** | 80 | [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) |
 | **Education, work & human capability** | 44 | [EduWeave](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) · [CAREER RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) |
-| **Semantic mathematics & formal proof** | 35 | [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) |
-| **Medicine, health & care** | 29 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
-| **Economy, value & investment** | 18 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
-| **Memory, identity & personal systems** | 17 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
-| **Society, civilization & public infrastructure** | 13 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
-| **Standards, interoperability & research translation** | 13 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
-| **Security, justice & resilience** | 10 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield STRATEGOS](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
-| **Physics, cosmos & fundamental inquiry** | 10 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
+| **Semantic mathematics & formal proof** | 36 | [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) |
+| **Medicine, health & care** | 31 | [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95) |
+| **Economy, value & investment** | 20 | [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2) · [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK) |
+| **Memory, identity & personal systems** | 21 | [DUANLIFE Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB) · [POLYMIND 13.6](https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6) |
+| **Society, civilization & public infrastructure** | 12 | [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO](https://github.com/YucongDuan/ACEVO-v1.0.0) |
+| **Standards, interoperability & research translation** | 11 | [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) · [StandardForge](https://github.com/YucongDuan/DIKWP-StandardForge-OS) |
+| **Security, justice & resilience** | 9 | [SOVEREIGN GATE](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [JusticeShield STRATEGOS](https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0) |
+| **Physics, cosmos & fundamental inquiry** | 6 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [COSMOWEAVE](https://github.com/YucongDuan/COSMOWEAVE) |
+
+<!-- engineering-update-2026-09-07:start -->
+## Source, tests and reproducibility
+
+Inspect the source, rerun an experiment and follow its evidence back to the published revision. **Verified on: 2026-09-07 · Priority projects reproduced: 3.**
+
+[Open the engineering catalog](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Review the migration record](ENGINEERING_STATUS.md) · [Public repositories: 480](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json)
+
+| Project | Evidence and limits | Published and checked |
+|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | Runtime validation replaces unconditional invariant claims. Tampered outputs, action gates and missing review channels are checked; external enforcement remains unverified. | [View automated checks](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · [Published revision acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | Source, tests and examples are directly accessible. A fresh run checks 72 synthetic scenarios across four baselines against the recorded results. | [View automated checks](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · [Published revision 966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | The semantic-network prototype includes its missing SciPy dependency, reproducible analysis and regenerated artifacts, with numerical comparisons and a negative hierarchy case. | [View automated checks](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · [Published revision c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) |
+
+Source availability, passing tests and bounded model checks have different scopes. They do not establish independent adoption, certification or real-world effectiveness.
+
+NOT_VERIFIED means the current test did not establish the claim. It must not be displayed as a pass.
+
+Contribute a reproduction report, a failing case or a narrowly scoped improvement.
+
+<!-- engineering-update-2026-09-07:end -->
+
+<!-- research-update-2026-09-07:start -->
+## Independent research and policy citations
+
+Newly verified on 2026-09-07; publication dates are retained. These are additions to this profile, not claims that the works have just been published.
+
+<img src="assets/logos/techpolicy-press.png" alt="TechPolicy.Press" width="28" height="28" />
+
+- [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) — Sujata Mukherjee; Sasha Maria Mathew; Upwork; Bumble; 2026-04-28. An independently authored policy essay links Duan’s semantic-sovereignty work and the Fan–Duan Purpose-computation chapter, applying DIKWP to language equity and community-governed AI safety. Author-level policy uptake. The publisher lists Upwork and Bumble leadership roles; this does not establish adoption, endorsement or deployment by those companies.
+- [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) — Rudi Schmidt; IHLAD Abu Dhabi; 2025-03-11. Schmidt’s precision-medicine chapter cites Wu and Duan’s DIKWP-TRIZ study in its outlook on AI-assisted patient grouping and the selection of inventive principles. A verified cross-domain citation and conceptual discussion; it does not establish clinical deployment, patient benefit or medical validation of DIKWP.
+- [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) — Oroos Arshi; Aryan Chaudhary; University of Petroleum and Energy Studies; Bio-Tech Sphere Research; 2025 book; online 2024-08-31. The AGI overview’s publisher-visible bibliography cites two Li–Duan studies on DIKWP-based ethical performance and GPT-4 evaluation, linking the research to a broader AGI-security discussion. The bibliography is verified; the full chapter is subscription-only. No claim of implementation or independent replication is supported by the public material.
+
+The official ISO bibliography also directly cites Wu–Duan’s DIKWP uncertainty study as reference 22. The publishing committee is **ISO/IEC JTC 1** and the document type is **Technical Report**. [Official bibliography](https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec:tr:25005:-2:ed-1:v1:en).
+
+[Read the bilingual evidence report](RESEARCH_ENRICHMENT_2026-09-07.md) · [DOI / metadata](RESEARCH_ENRICHMENT_2026-09-07.json)
+
+<!-- research-update-2026-09-07:end -->
 
 ### 6 September 2026 · eight-repository resilience and essence suite / 2026年9月6日八仓库韧性与本质套件
 
-The newest open-source release adds three connected engineering axes:
+The 6 September 2026 release added three connected engineering axes:
 
 - **Semantic resilience and cognitive immunity:** [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0), [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0), [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0), [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0), and [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0).
 - **Falsifiable essence and semantic closure:** [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) and [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0).
@@ -123,14 +161,14 @@ All eight repositories are public, their source-import workflows completed succe
 
 ### Earlier 6 September 2026 · thirteen-system imported suite / 2026年9月6日早期十三系统套件
 
-The newest suite connects four applied fronts:
+The earlier 6 September 2026 suite connects four applied fronts:
 
 - **Care commons:** [VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95), [VISIONLONGEVITY95](https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95), and [CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95).
 - **Regenerative value:** [TRUEVALUE95 v1](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v1), [TRUEVALUE95 v2](https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2), [TrueValue Active Economy](https://github.com/YucongDuan/DIKWP-TRUEVALUE-ACTIVE-ECONOMY), [Global Economy Bridge](https://github.com/YucongDuan/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE), and [FutureValue Ark](https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK).
 - **Civic transition:** [CivicWeave](https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE), [Reality Clearing / Zhenheng](https://github.com/YucongDuan/DIKWP-REALITY-CLEARING-ZHENHENG), and [Transition Commons](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS).
 - **Governed digital life:** [COGENESIS OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) and [DUANLIFE Model-Resident Axiom Lab](https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB).
 
-[Explore all 476 repositories and 1,548 reciprocal relationships →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Open the complete Markdown directory →](REPOSITORY_ECOSYSTEM_476.md) · [Download the JSON graph →](REPOSITORY_ECOSYSTEM_476.json)
+[Explore all 480 repositories and 1,556 reciprocal relationships →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem) · [Open the complete Markdown directory →](REPOSITORY_ECOSYSTEM_480.md) · [Download the JSON graph →](REPOSITORY_ECOSYSTEM_480.json)
 
 > **Frontier evidence rule:** these pages establish public source availability and declared project scope. They do not alone establish external validation, deployment, clinical or financial effectiveness, formal standardization, endorsement, or authority to act for another person.
 
@@ -214,7 +252,7 @@ The supplied research materials expose **115 structured records in a 2017–2023
 | Verified layer | Public evidence | What it establishes |
 |---|---|---|
 | **Official publication** | [ISO: ISO/IEC TR 25005-2:2025 →](https://www.iso.org/standard/86195.html) | The ISO/IEC technical report on smart-city data-use case analysis is published as Edition 1 (2025). |
-| **Methodological adoption in the standard body** | [Public standards preview: §6.2 and §7.1 →](https://standards.iteh.ai/catalog/standards/iso/31c3610b-9085-481b-8081-6f8850ec1dbb/iso-iec-tr-25005-2-2025) | §6.2 adopts DIKWPA as the framework for analysing smart-city data-use cases; §7.1 selects it as the theoretical foundation for constructing the smart-city data value chain. This is stronger than a bibliography-only citation. |
+| **Methodological adoption in the technical report** | [Public standards preview: §6.2 and §7.1 →](https://standards.iteh.ai/catalog/standards/iso/31c3610b-9085-481b-8081-6f8850ec1dbb/iso-iec-tr-25005-2-2025) | §6.2 adopts DIKWPA as the framework for analysing smart-city data-use cases; §7.1 selects it as the theoretical foundation for constructing the smart-city data value chain. This is stronger than a bibliography-only citation. |
 | **Downstream practice connected to the report** | [数梦工场 / 数美科技 implementation report →](https://www.dtsphere.com/newsCenter/detail-modern?page=1&uuid=cf5d670cedf342278ddd5d3f504e2923) | The company report states that seven Zhejiang smart-city practices supported by 数梦工场 and 数美科技 were included among the report's 23 selected cases, connecting the standard framework to concrete data-governance settings. |
 
 > **Precise impact statement:** DIKWP's Purpose-centred semantic structure is carried forward into DIKWPA through the addition of Action. ISO/IEC TR 25005-2:2025 uses that extended structure as both an analysis framework and a data-value-chain foundation. This establishes methodological uptake in an ISO/IEC publication; it does not imply ISO endorsement of every DIKWP-related product, patent, organization, or claim.

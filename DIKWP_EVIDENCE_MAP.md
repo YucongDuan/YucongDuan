@@ -1,10 +1,41 @@
 # DIKWP Impact Evidence Map / DIKWP 影响力证据地图
 
-**Public audit date / 公开核验日期:** 2026-08-25  
+**Original audit date / 原始核验日期:** 2026-08-25  
+**Selective update / 本次选择性更新:** 2026-09-07  
 **Maintainer:** Yucong Duan / 段玉聪  
 **Scope:** public, traceable evidence of DIKWP research, standardization, implementation, diffusion, and adjacent structural convergence
 
-[Seven-language research homepage / 七语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Profile home / GitHub 主页](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [Inventor patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Live DIKWP patent query](https://patents.google.com/?q=(DIKWP)&oq=DIKWP) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official website](https://www.yucongduan.org/)
+[Thirteen-language research homepage / 十三语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Profile home / GitHub 主页](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [Inventor patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Live DIKWP patent query](https://patents.google.com/?q=(DIKWP)&oq=DIKWP) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official website](https://www.yucongduan.org/)
+
+## 2026-09-07 selective update / 本次选择性更新
+
+The refreshed [480-repository directory](REPOSITORY_ECOSYSTEM_480.md) and [JSON graph](REPOSITORY_ECOSYSTEM_480.json) record **480 public repositories**, **456 GitHub descriptions**, **1,318 visible stars**, **740 followers**, and **1,556 reciprocal portfolio relationships** across 12 categories. Portfolio links express research proximity, not software dependencies or independent adoption.
+
+### Source and reproduction evidence / 源码与复现证据
+
+Three priority projects have published revisions and successful GitHub Actions runs. The links below identify those exact runs; no conclusion about the rest of the portfolio follows. 全量迁移状态以 [ENGINEERING_STATUS.md](ENGINEERING_STATUS.md) 的逐项记录为准。
+
+| Project | Published revision | Successful CI | Evidence boundary |
+|---|---|---|---|
+| [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | [acb576c](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/commit/acb576c6e2559f1ad792fa93e5cb8364aaad1f64) | [Run](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) | Runtime validation replaces unconditional invariant claims. Tampered outputs, action gates and missing review channels are checked; external enforcement remains unverified. |
+| [PACT v0.1](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | [966c5df](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/commit/966c5dfd11ea1a372331072a34d406494a37153b) | [Run](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) | Source, tests and examples are directly accessible. A fresh run checks 72 synthetic scenarios across four baselines against the recorded results. |
+| [MESH2](https://github.com/YucongDuan/DIKWP-MESH-) | [c7a6947](https://github.com/YucongDuan/DIKWP-MESH-/commit/c7a6947b66f5227141d92905cf23e6c4b0a8e50e) | [Run](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) | The semantic-network prototype includes its missing SciPy dependency, reproducible analysis and regenerated artifacts, with numerical comparisons and a negative hierarchy case. |
+
+Source availability, passing tests and bounded model checks have different scopes. They do not establish independent adoption, certification or real-world effectiveness.
+
+### Independent citations and policy uptake / 独立引用与政策采用
+
+The following records were newly verified for inclusion; their original publication dates are retained. [Full bilingual report](RESEARCH_ENRICHMENT_2026-09-07.md).
+
+| Grade | Record / authors / date | Verified use | Boundary |
+|---|---|---|---|
+| **M3 / U2** | [Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/) · Sujata Mukherjee; Sasha Maria Mathew · 2026-04-28 | An independently authored policy essay links Duan’s semantic-sovereignty work and the Fan–Duan Purpose-computation chapter, applying DIKWP to language equity and community-governed AI safety. | Author-level policy uptake. The publisher lists Upwork and Bumble leadership roles; this does not establish adoption, endorsement or deployment by those companies. |
+| **U2** | [Unlocking the Code of Innovation: TRIZ Theory’s Blueprint for Precision Medicine Breakthroughs](https://link.springer.com/chapter/10.1007/978-3-031-77302-0_1) · Rudi Schmidt · 2025-03-11 | Schmidt’s precision-medicine chapter cites Wu and Duan’s DIKWP-TRIZ study in its outlook on AI-assisted patient grouping and the selection of inventive principles. | A verified cross-domain citation and conceptual discussion; it does not establish clinical deployment, patient benefit or medical validation of DIKWP. |
+| **U2** | [Overview of Artificial General Intelligence (AGI)](https://link.springer.com/chapter/10.1007/978-981-97-3222-7_1) · Oroos Arshi; Aryan Chaudhary · 2025 book; online 2024-08-31 | The AGI overview’s publisher-visible bibliography cites two Li–Duan studies on DIKWP-based ethical performance and GPT-4 evaluation, linking the research to a broader AGI-security discussion. | The bibliography is verified; the full chapter is subscription-only. No claim of implementation or independent replication is supported by the public material. |
+
+**ISO correction and stronger traceability:** the official catalogue and foreword name **ISO/IEC JTC 1**; this is a **Technical Report**. Its public bibliography lists Wu–Duan’s 2024 DIKWP uncertainty paper as reference 22. [Official catalogue](https://www.iso.org/standard/86195.html) · [Official bibliography](https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec:tr:25005:-2:ed-1:v1:en). The previously verified clause-level preview is retained below; the public OBP excerpt alone does not expose all of clauses 6–7.
+
+**Exclusion:** [CN121981217A](https://patents.google.com/patent/CN121981217A/zh) describes a path ending in engineering Practice. No direct Duan citation was established; it is excluded from Purpose-DIKWP patent-diffusion counts. 专利公开也不能直接写成授权或商业应用。
 
 ## Why this map exists / 为什么建立这张地图
 
@@ -36,7 +67,9 @@ DIKWP 的影响已经出现在国际标准、商业产品表述、产业实践�
 
 ## Audited public signals / 已核验公开信号
 
-As of the audit date, the map contains:
+The original audit inventory below is retained for historical context. The 2026-09-07 additions are listed separately; this update does not imply every older record was re-audited.
+
+At the original audit date, the map contained:
 
 - **1 ISO/IEC technical report** with DIKWPA used in the report body as an analysis framework and data-value-chain foundation;
 - **1 China Association for Artificial Intelligence series white paper** with DIKWP as the foundation of Chapter 1 and artificial consciousness plus its DIKWP relationship as the focus of Chapter 2, coordinated by Duan and his team;
@@ -97,7 +130,7 @@ Media visibility is treated as a distinct impact layer. A report can establish t
 | **M2** | **China Publishing Media Business Paper · semantic mathematics** | The publishing-industry report [“《语义数学概论》：重构语义世界的数学逻辑”](https://www.cbbr.com.cn/contents/533/108502.html) records the 2026 publication of Yucong Duan's *Introduction to Semantic Mathematics* and introduces its DIKWP-based route from symbols and concepts toward formal semantic construction. | Independent trade-media visibility for the book and research program; not peer review of the book's mathematical claims. |
 | **O2 / D1** | **China Computer Federation · semantic sovereignty** | The [official CCF conference record](https://www.ccf.org.cn/Chapters/Governance/Vocational_Education/Updates/2025-11-04/851185.shtml) documents Duan's invited talk “语义主权与意图驱动：DIKWP模型重塑职业教育新生态,” connecting semantic sovereignty and Purpose-driven DIKWP with vocational-education governance and practice. | Verifies the talk and institutional dissemination through CCF; it is an official event record, not an independent evaluation or CCF-wide adoption statement. |
 
-**Assessment:** the Asia Times article is the strongest currently audited independent English-language media interpretation because it names both Yucong Duan and DIKWP and uses the framework as an explanatory concept rather than merely reproducing a release. The Chinese public-discourse clusters show breadth across science news, public policy, data governance, researcher profile, applied-system competition, semantic-mathematics publishing, and semantic sovereignty. Independent peer-reviewed inclusion in *A Landscape of Consciousness* is graded separately under scholarly uptake rather than counted as media coverage. These records establish public reach and traceability; they do not replace peer review, standards text, or deployment evidence.
+**Original assessment (retained; see the 2026-09-07 TechPolicy.Press addition):** the Asia Times article was identified as a particularly strong independent English-language media interpretation because it names both Yucong Duan and DIKWP and uses the framework as an explanatory concept rather than merely reproducing a release. The Chinese public-discourse clusters show breadth across science news, public policy, data governance, researcher profile, applied-system competition, semantic-mathematics publishing, and semantic sovereignty. Independent peer-reviewed inclusion in *A Landscape of Consciousness* is graded separately under scholarly uptake rather than counted as media coverage. These records establish public reach and traceability; they do not replace peer review, standards text, or deployment evidence.
 
 **中文判断：** Asia Times 的文章是目前已核验材料中较强的独立英文媒体解读：作者直接点名段玉聪及 DIKWP，并把“Purpose”作为理解动态、目标导向 AI 的关键概念。中文公共传播覆盖科技日报/新华社报道链、《人民周刊》主权 AI 引用、新华社数据要素论坛报道、《海南日报》中英文人物报道、中国网转引的应用竞赛报道、《中国出版传媒商报》的语义数学出版报道，以及 CCF 的语义主权会议记录。《A Landscape of Consciousness》中的理论收录单列为独立学术扩散。所有转载与翻译均按报道簇去重，不将传播次数偷换成独立验证次数。
 
