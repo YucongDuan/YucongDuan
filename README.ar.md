@@ -14,27 +14,20 @@
 
 <div dir="rtl">
 
-## بعد GPT-6 Astra
+<!-- profile-navigation-2026-09-07:start -->
+## ابدأ هنا
 
-قدّمت OpenAI نموذج [GPT-6 Astra في 3 سبتمبر 2026](https://openai.com/index/gpt-6-astra/)، مع تقدم في البرمجة والبحث واستخدام الحاسوب والعمل المعقد متعدد الخطوات. في هذه المرحلة يضع DIKWP القيمة المستدامة في الغاية الصريحة والمصدر والسلطة والتقييم المتصل بالواقع وقابلية الرجوع والاستمرارية البشرية، لا في قدرة النموذج الخام وحدها. [بطاقة النظام الرسمية ←](https://deploymentsafety.openai.com/gpt-6-astra)
+| هدفك | المدخل | ما يمكنك فحصه |
+|---|---|---|
+| فهم البحث | [بوابات البحث](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | نظرية DIKW/DIKWP وأسئلة البحث في الوعي الاصطناعي. |
+| تشغيل مشروع وفحصه | [كتالوج الهندسة](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [الحالة الحالية](CURRENT_STATUS.md) | مواقع الشفرة وأوامر إعادة الإنتاج والإصدارات المنشورة وأدلة الاختبار. |
+| التحقق من ادعاء أو استشهاد | [الأدلة والبراءات](DIKWP_EVIDENCE_MAP.md) · [البراءات](PATENT_PORTFOLIO_MAP.md) | المصادر الأصلية ونوع الاستشهاد وسجلات الطلبات ونطاق كل ادعاء. |
+| العثور على مشاريع ذات صلة | [دليل المستودعات](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 480 مستودعاً حسب مجال البحث وخريطة علاقات قابلة للقراءة آلياً. |
 
-> حد الدليل: تثبت مصادر OpenAI الإعلان وسجل السلامة، ولا تثبت شراكة أو تبنيًا أو تأييدًا لـ DIKWP.
+[دليل المساهمة](CONTRIBUTING.md) · ساهم في المستودع المعني بحالة قابلة لإعادة الإنتاج أو امتداد موثق أو تقييم مستقل؛ واستخدم [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) للتواصل الأكاديمي.
 
-## من الموارد الدلالية إلى أنظمة قابلة للفحص
-
-تمثّل أبحاث يوكونغ دوان البيانات والمعلومات والمعرفة والحكمة والغاية (DIKWP) كموارد دلالية مختلفة ولكن قابلة للتحويل. ويمد خط البحث رسوم المعرفة بصورة منهجية إلى رسوم DIKW/DIKWP نمطية وقابلة للحوسبة، ويربطها بالوعي الاصطناعي والطب الاستباقي والسيادة الدلالية والرياضيات الدلالية والتقييم ذي الصندوق الأبيض.
-
-> دورة العمل: D → I → K → W → P → فعل → دليل → مراجعة
-
-**لقطة GitHub العامة في 7 سبتمبر 2026:** **480 مستودعاً عاماً · 1,318 نجمة ظاهرة · 740 متابعاً.** الأرقام مؤرخة وليست مجاميع دائمة أو مقياساً للجودة.
-
-### 480 مستودعاً × اثنتا عشرة كوكبة بحثية
-
-لكل مستودع تصنيف بحثي أساسي وما لا يقل عن خمس روابط متبادلة؛ وتضم الخريطة **1,556 علاقة** من نوع النواة الدلالية ونظير المجال والاستمرارية والجسر متعدد المجالات. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-يضم التوسع المؤلف من 27 مستودعاً حزمة من ثلاثة عشر نظاماً لصحة البصر والقلب، والقيمة التجديدية، والتحول المدني، والحياة الرقمية المحكومة، إلى جانب بنية للديناميات الدلالية والشخصيات المستمرة والمساهمة والأدلة.
-
-[استكشف 480 مستودعاً و1,556 علاقة متبادلة ←](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+تاريخ الجرد: 7 سبتمبر 2026. علاقات الكتالوج روابط تنقل منتقاة؛ ولا تثبت تبعيات برمجية أو شراكات مؤسسية أو اكتمال الاختبارات. تحتفظ ملاحظات الإصدارات السابقة بتواريخها وأحجام دفعاتها الأصلية.
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## المصدر والاختبارات وقابلية إعادة الإنتاج
@@ -70,6 +63,40 @@
 
 <!-- research-update-2026-09-07:end -->
 
+<details>
+<summary><strong>بعد GPT-6 Astra</strong></summary>
+
+## بعد GPT-6 Astra
+
+قدّمت OpenAI نموذج [GPT-6 Astra في 3 سبتمبر 2026](https://openai.com/index/gpt-6-astra/)، مع تقدم في البرمجة والبحث واستخدام الحاسوب والعمل المعقد متعدد الخطوات. في هذه المرحلة يضع DIKWP القيمة المستدامة في الغاية الصريحة والمصدر والسلطة والتقييم المتصل بالواقع وقابلية الرجوع والاستمرارية البشرية، لا في قدرة النموذج الخام وحدها. [بطاقة النظام الرسمية ←](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> حد الدليل: تثبت مصادر OpenAI الإعلان وسجل السلامة، ولا تثبت شراكة أو تبنيًا أو تأييدًا لـ DIKWP.
+
+</details>
+
+## من الموارد الدلالية إلى أنظمة قابلة للفحص
+
+تمثّل أبحاث يوكونغ دوان البيانات والمعلومات والمعرفة والحكمة والغاية (DIKWP) كموارد دلالية مختلفة ولكن قابلة للتحويل. ويمد خط البحث رسوم المعرفة بصورة منهجية إلى رسوم DIKW/DIKWP نمطية وقابلة للحوسبة، ويربطها بالوعي الاصطناعي والطب الاستباقي والسيادة الدلالية والرياضيات الدلالية والتقييم ذي الصندوق الأبيض.
+
+> دورة العمل: D → I → K → W → P → فعل → دليل → مراجعة
+
+**لقطة GitHub العامة في 7 سبتمبر 2026:** **480 مستودعاً عاماً · 1,318 نجمة ظاهرة · 740 متابعاً.** الأرقام مؤرخة وليست مجاميع دائمة أو مقياساً للجودة.
+
+### 480 مستودعاً × اثنتا عشرة كوكبة بحثية
+
+لكل مستودع تصنيف بحثي أساسي وما لا يقل عن خمس روابط متبادلة؛ وتضم الخريطة **1,556 علاقة** من نوع النواة الدلالية ونظير المجال والاستمرارية والجسر متعدد المجالات. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+يضم التوسع المؤلف من 27 مستودعاً حزمة من ثلاثة عشر نظاماً لصحة البصر والقلب، والقيمة التجديدية، والتحول المدني، والحياة الرقمية المحكومة، إلى جانب بنية للديناميات الدلالية والشخصيات المستمرة والمساهمة والأدلة.
+
+[استكشف 480 مستودعاً و1,556 علاقة متبادلة ←](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>ملاحظات الإصدارات السابقة · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
@@ -77,6 +104,8 @@
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
 
 > حدود الدليل: تثبت الصفحات إتاحة المصدر والنطاق المعلن، ولا تثبت وحدها التحقق الخارجي أو النشر أو الفاعلية أو التقييس الرسمي أو التأييد أو سلطة تمثيل الآخرين.
+
+</details>
 
 ## بوابتان للبحث والممارسة
 
@@ -111,3 +140,4 @@ The public source-import workflows completed successfully, and the prepared sour
 [AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [جميع المستودعات](https://github.com/YucongDuan?tab=repositories)
 
 </div>
+

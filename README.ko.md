@@ -12,39 +12,20 @@
 
 </div>
 
-## GPT-6 Astra 이후
+<!-- profile-navigation-2026-09-07:start -->
+## 여기에서 시작하기
 
-OpenAI는 [2026년 9월 3일 GPT-6 Astra를 발표](https://openai.com/index/gpt-6-astra/)하며 코딩, 연구, 컴퓨터 사용, 복잡한 다단계 작업의 향상을 제시했습니다. 이 단계에서 DIKWP가 보는 지속 가능한 가치는 모델의 원시 능력만이 아니라 명시적 Purpose, 출처, 권한, 현실 접촉 평가, 가역성, 인간의 연속성에 있습니다. [공식 시스템 카드 →](https://deploymentsafety.openai.com/gpt-6-astra)
+| 목표 | 시작점 | 확인할 수 있는 내용 |
+|---|---|---|
+| 연구 이해하기 | [연구 포트](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | DIKW/DIKWP 이론과 인공의식 연구 질문. |
+| 프로젝트 실행 및 점검 | [엔지니어링 목록](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [현재 상태](CURRENT_STATUS.md) | 소스 위치, 재현 명령, 공개 커밋 및 테스트 근거. |
+| 주장과 인용 확인하기 | [근거 및 특허](DIKWP_EVIDENCE_MAP.md) · [특허](PATENT_PORTFOLIO_MAP.md) | 원문 출처, 인용 유형, 출원 기록 및 각 주장의 범위. |
+| 관련 프로젝트 찾기 | [저장소 목록](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 연구 분야별 480개 저장소와 기계가 읽을 수 있는 관계 지도. |
 
-> 근거 경계: OpenAI 자료는 발표와 안전 기록을 확인할 뿐, DIKWP와의 제휴·도입·지지를 입증하지 않습니다.
+[기여 안내](CONTRIBUTING.md) · 해당 저장소에 재현 가능한 문제, 문서화한 확장 또는 독립 평가를 기여해 주세요. 학술 교류에는 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan)를 이용할 수 있습니다.
 
-## 기관 및 출판 네트워크
-
-<p align="center">
-  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
-  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
-</p>
-
-로고는 문서로 확인되는 출처, 출판사 또는 기관 네트워크를 나타내며 포괄적 지지를 뜻하지 않습니다.
-
-## 의미 자원에서 검증 가능한 시스템으로
-
-단위총의 연구는 **데이터, 정보, 지식, 지혜, 목적(DIKWP)**을 서로 구별되지만 변환 가능한 의미 자원으로 모델링합니다. 이 독창적 연구 축은 지식 그래프를 유형화되고 계산 가능한 DIKW/DIKWP 그래프로 체계적으로 확장하고, 인공의식·능동 의학·의미 주권·의미 수학·화이트박스 평가와 연결합니다.
-
-> 연구 순환: D → I → K → W → P → 행동 → 근거 → 수정
-
-**GitHub 공개 스냅샷 · 2026년 9월 7일:** **공개 저장소 480개 · 표시된 별 1,318개 · 팔로워 740명.** 날짜가 명시된 관측값이며 영구 총계나 품질 점수가 아닙니다.
-
-### 480개 저장소 × 12개 연구 성좌
-
-모든 저장소에 주 연구 분류와 최소 5개의 상호 연결을 부여했으며, 지도에는 의미 커널·분야 동료·포트폴리오 연속성·융합 연결로 이루어진 **1,556개 관계**가 있습니다. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-27개 저장소 확장에는 시각·심혈관 돌봄, 재생 가치, 시민 전환, 통제된 디지털 생명을 위한 13개 시스템과 의미 동역학, 지속 페르소나, 기여 및 근거 인프라가 포함됩니다.
-
-[480개 저장소와 1,556개 상호 관계 탐색 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+목록 기준일: 2026년 9월 7일. 목록의 관계는 편집된 탐색 링크이며 소프트웨어 의존성, 기관 간 제휴 또는 테스트 완료를 입증하지 않습니다. 과거 릴리스 기록은 원래 날짜와 배포 규모를 유지합니다.
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## 소스, 테스트 및 재현성
@@ -80,11 +61,59 @@ NOT_VERIFIED는 현재 테스트가 해당 주장을 입증하지 못했다는 �
 
 <!-- research-update-2026-09-07:end -->
 
+<details>
+<summary><strong>GPT-6 Astra 이후</strong></summary>
+
+## GPT-6 Astra 이후
+
+OpenAI는 [2026년 9월 3일 GPT-6 Astra를 발표](https://openai.com/index/gpt-6-astra/)하며 코딩, 연구, 컴퓨터 사용, 복잡한 다단계 작업의 향상을 제시했습니다. 이 단계에서 DIKWP가 보는 지속 가능한 가치는 모델의 원시 능력만이 아니라 명시적 Purpose, 출처, 권한, 현실 접촉 평가, 가역성, 인간의 연속성에 있습니다. [공식 시스템 카드 →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> 근거 경계: OpenAI 자료는 발표와 안전 기록을 확인할 뿐, DIKWP와의 제휴·도입·지지를 입증하지 않습니다.
+
+</details>
+
+## 기관 및 출판 네트워크
+
+<p align="center">
+  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
+  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
+</p>
+
+로고는 문서로 확인되는 출처, 출판사 또는 기관 네트워크를 나타내며 포괄적 지지를 뜻하지 않습니다.
+
+## 의미 자원에서 검증 가능한 시스템으로
+
+단위총의 연구는 **데이터, 정보, 지식, 지혜, 목적(DIKWP)**을 서로 구별되지만 변환 가능한 의미 자원으로 모델링합니다. 이 독창적 연구 축은 지식 그래프를 유형화되고 계산 가능한 DIKW/DIKWP 그래프로 체계적으로 확장하고, 인공의식·능동 의학·의미 주권·의미 수학·화이트박스 평가와 연결합니다.
+
+> 연구 순환: D → I → K → W → P → 행동 → 근거 → 수정
+
+**GitHub 공개 스냅샷 · 2026년 9월 7일:** **공개 저장소 480개 · 표시된 별 1,318개 · 팔로워 740명.** 날짜가 명시된 관측값이며 영구 총계나 품질 점수가 아닙니다.
+
+### 480개 저장소 × 12개 연구 성좌
+
+모든 저장소에 주 연구 분류와 최소 5개의 상호 연결을 부여했으며, 지도에는 의미 커널·분야 동료·포트폴리오 연속성·융합 연결로 이루어진 **1,556개 관계**가 있습니다. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+27개 저장소 확장에는 시각·심혈관 돌봄, 재생 가치, 시민 전환, 통제된 디지털 생명을 위한 13개 시스템과 의미 동역학, 지속 페르소나, 기여 및 근거 인프라가 포함됩니다.
+
+[480개 저장소와 1,556개 상호 관계 탐색 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>과거 릴리스 기록 · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
+
+</details>
 
 ## 두 개의 공공 연구 Port
 
@@ -112,3 +141,4 @@ The public source-import workflows completed successfully, and the prepared sour
 ---
 
 일부 연구 및 공익 프로젝트를 Yucong Duan의 딸 **Duan Dikweipu(段迪克维普)**에게 바칩니다. 이 헌정은 저자, 기여, 라이선스 또는 소유권 기록을 변경하지 않습니다.
+

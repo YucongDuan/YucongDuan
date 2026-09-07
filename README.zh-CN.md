@@ -12,36 +12,20 @@
 
 </div>
 
-## GPT-6 Astra 发布后：研究问题已超越“模型够不够强”
+<!-- profile-navigation-2026-09-07:start -->
+## 从这里开始
 
-OpenAI 于 [2026 年 9 月 3 日发布 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，强调其在编程、研究、计算机操作与复杂多步任务上的提升。当前沿模型变得更强、更具智能体能力时，真正有区分度的问题不再只是“模型能否完成任务”，还包括：
+| 您的目标 | 入口 | 可以检查什么 |
+|---|---|---|
+| 了解研究 | [研究公共 Port](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | DIKW／DIKWP 理论与人工意识研究问题。 |
+| 运行与检查项目 | [工程目录](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [当前状态](CURRENT_STATUS.md) | 源码位置、复现命令、已发布提交及测试证据。 |
+| 核查主张与引用 | [证据与专利](DIKWP_EVIDENCE_MAP.md) · [专利](PATENT_PORTFOLIO_MAP.md) | 原始来源、引用性质、申请记录及各项主张的适用范围。 |
+| 寻找相关项目 | [仓库目录](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 按研究领域组织的 480 个仓库，以及机器可读的关联图谱。 |
 
-| GPT-6 时代的关键要求 | DIKWP 研究回应 |
-|---|---|
-| **受治理智能体** | 说明服务谁的目的、具有什么权限、经过哪些门禁，以及如何暂停或撤回行动。 |
-| **携带证据的轨迹** | 保留数据、信息、知识、价值判断、目的、来源与转换损失，而不是只输出一个不透明答案。 |
-| **现实接触测评** | 检查意图识别、工具使用、不确定性、结果、纠错与模型修订，而非只看单一排行榜分数。 |
-| **共同支持基础设施** | 通过公共 Port、证据地图、专利架构与互联仓库生态，让研究能由更多人质疑、维护、翻译并继续推进。 |
+[参与指南](CONTRIBUTING.md) · 欢迎在相应仓库提交可复现的问题、文档完整的扩展或独立评估；学术交流可通过 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 联系。
 
-[查看 OpenAI 官方发布页 →](https://openai.com/index/gpt-6-astra/) · [查看官方系统卡 →](https://deploymentsafety.openai.com/gpt-6-astra)
-
-> **证据边界：** OpenAI 页面能够证明 GPT-6 Astra 的发布及部署安全记录；不能据此推出 OpenAI 与 DIKWP 存在合作、采用或背书关系。上表属于本研究体系对 GPT-6 后时代的战略解释。
-
-## 从语义资源走向可检查系统
-
-段玉聪的研究把数据、信息、知识、智慧与目的（DIKWP）建模为相互区别、可以转换的语义资源，并致力于让这些转换可见、可检验、可修订、可问责。其原创研究主线较早并系统性地把知识图谱扩展为类型化、可计算的 DIKW／DIKWP 图谱，并进一步连接人工意识、主动医学、语义主权、语义数学与 DIKWP 白盒测评。
-
-> 工作闭环：D → I → K → W → P → 行动 → 证据 → 修订
-
-**GitHub 公开快照（2026-09-07）：480 个公开仓库、1,318 个可见 Stars、740 位关注者。** 全量索引记录 456 条 GitHub 公开描述；当公开元数据为空时，互联图采用有边界的仓库文档范围摘要。时间戳数据不是永久总数，也不是质量评分。
-
-### 480 仓库 × 十二研究星座
-
-全部仓库现已按主要研究问题分类，并各自获得至少 5 条双向关联；全图共 **1,556 条**“语义内核、同域节点、研究连续性、跨域桥接”关系。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-9 月 6 日新增套件聚焦四条轴线：视觉与心血管照护 Commons；TrueValue／主动经济；公共转型与现实清算；共生成与模型内驻数字生命。连同 Cognitive State Equation Lab、POLYMIND、AUTONOMOUS PERSONA NOESIS、OPENCONSTELLATION、RepoProof OS 与 PERSONA NOESIS CONTINUUM，共形成相较 449 仓库检查点的 27 项增量。
-
-[浏览全部 480 个仓库与 1,556 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+仓库快照日期：2026 年 9 月 7 日。目录中的关联是整理后的导航线索，不代表软件依赖、机构合作或已完成测试。历史发布说明保留原始日期与批次规模。
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## 源码、测试与复现
@@ -81,6 +65,49 @@ ISO 官方参考文献第 22 项还直接引用 Wu—Duan 的 DIKWP 不确定性
 
 <!-- research-update-2026-09-07:end -->
 
+<details>
+<summary><strong>GPT-6 Astra 发布后：研究问题已超越“模型够不够强”</strong></summary>
+
+## GPT-6 Astra 发布后：研究问题已超越“模型够不够强”
+
+OpenAI 于 [2026 年 9 月 3 日发布 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，强调其在编程、研究、计算机操作与复杂多步任务上的提升。当前沿模型变得更强、更具智能体能力时，真正有区分度的问题不再只是“模型能否完成任务”，还包括：
+
+| GPT-6 时代的关键要求 | DIKWP 研究回应 |
+|---|---|
+| **受治理智能体** | 说明服务谁的目的、具有什么权限、经过哪些门禁，以及如何暂停或撤回行动。 |
+| **携带证据的轨迹** | 保留数据、信息、知识、价值判断、目的、来源与转换损失，而不是只输出一个不透明答案。 |
+| **现实接触测评** | 检查意图识别、工具使用、不确定性、结果、纠错与模型修订，而非只看单一排行榜分数。 |
+| **共同支持基础设施** | 通过公共 Port、证据地图、专利架构与互联仓库生态，让研究能由更多人质疑、维护、翻译并继续推进。 |
+
+[查看 OpenAI 官方发布页 →](https://openai.com/index/gpt-6-astra/) · [查看官方系统卡 →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> **证据边界：** OpenAI 页面能够证明 GPT-6 Astra 的发布及部署安全记录；不能据此推出 OpenAI 与 DIKWP 存在合作、采用或背书关系。上表属于本研究体系对 GPT-6 后时代的战略解释。
+
+</details>
+
+## 从语义资源走向可检查系统
+
+段玉聪的研究把数据、信息、知识、智慧与目的（DIKWP）建模为相互区别、可以转换的语义资源，并致力于让这些转换可见、可检验、可修订、可问责。其原创研究主线较早并系统性地把知识图谱扩展为类型化、可计算的 DIKW／DIKWP 图谱，并进一步连接人工意识、主动医学、语义主权、语义数学与 DIKWP 白盒测评。
+
+> 工作闭环：D → I → K → W → P → 行动 → 证据 → 修订
+
+**GitHub 公开快照（2026-09-07）：480 个公开仓库、1,318 个可见 Stars、740 位关注者。** 全量索引记录 456 条 GitHub 公开描述；当公开元数据为空时，互联图采用有边界的仓库文档范围摘要。时间戳数据不是永久总数，也不是质量评分。
+
+### 480 仓库 × 十二研究星座
+
+全部仓库现已按主要研究问题分类，并各自获得至少 5 条双向关联；全图共 **1,556 条**“语义内核、同域节点、研究连续性、跨域桥接”关系。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+9 月 6 日新增套件聚焦四条轴线：视觉与心血管照护 Commons；TrueValue／主动经济；公共转型与现实清算；共生成与模型内驻数字生命。连同 Cognitive State Equation Lab、POLYMIND、AUTONOMOUS PERSONA NOESIS、OPENCONSTELLATION、RepoProof OS 与 PERSONA NOESIS CONTINUUM，共形成相较 449 仓库检查点的 27 项增量。
+
+[浏览全部 480 个仓库与 1,556 条双向关联 →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>历史发布说明 · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
@@ -88,6 +115,8 @@ ISO 官方参考文献第 22 项还直接引用 Wu—Duan 的 DIKWP 不确定性
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
 
 > 证据边界：仓库页面证明源码公开与项目自述范围，不单独证明外部验证、现实部署、临床或金融有效性、正式标准化、背书或代理他人行动的权限。
+
+</details>
 
 ## 两个研究与实践端口
 
@@ -124,3 +153,4 @@ The public source-import workflows completed successfully, and the prepared sour
 ## 从代码开始
 
 [DIKWP AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [DIKWP ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [全部仓库](https://github.com/YucongDuan?tab=repositories)
+

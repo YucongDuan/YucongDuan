@@ -12,39 +12,20 @@ Professore e supervisore di dottorato, Hainan University · Presidente WACA · P
 
 </div>
 
-## Dopo GPT-6 Astra
+<!-- profile-navigation-2026-09-07:start -->
+## Inizia qui
 
-OpenAI ha presentato [GPT-6 Astra il 3 settembre 2026](https://openai.com/index/gpt-6-astra/), indicando progressi nella programmazione, nella ricerca, nell’uso del computer e nel lavoro complesso in più fasi. In questa fase DIKWP colloca il valore durevole nello Scopo esplicito, nella provenienza, nell’autorità, nella valutazione a contatto con la realtà, nella reversibilità e nella continuità umana, non soltanto nella capacità grezza del modello. [System card ufficiale →](https://deploymentsafety.openai.com/gpt-6-astra)
+| Il tuo obiettivo | Accesso | Cosa puoi verificare |
+|---|---|---|
+| Conoscere la ricerca | [Port di ricerca](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | Teoria DIKW/DIKWP e domande di ricerca sulla coscienza artificiale. |
+| Eseguire e ispezionare un progetto | [Catalogo tecnico](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Stato attuale](CURRENT_STATUS.md) | Posizione del codice, comandi di riproduzione, revisioni pubblicate e prove dei test. |
+| Verificare affermazioni e citazioni | [Evidenze e brevetti](DIKWP_EVIDENCE_MAP.md) · [Brevetti](PATENT_PORTFOLIO_MAP.md) | Fonti originali, tipo di citazione, domande e limiti di ogni affermazione. |
+| Trovare progetti correlati | [Directory dei repository](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 480 repository per area di ricerca e una mappa delle relazioni leggibile da macchina. |
 
-> Limite: le fonti OpenAI verificano l’annuncio e il registro di sicurezza; non dimostrano partnership, adozione o approvazione di DIKWP.
+[Guida ai contributi](CONTRIBUTING.md) · Contribuisci al repository pertinente con un caso riproducibile, un’estensione documentata o una valutazione indipendente; usa [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) per lo scambio accademico.
 
-## Rete istituzionale e editoriale
-
-<p align="center">
-  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
-  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
-</p>
-
-I loghi indicano fonti, editori o reti istituzionali documentate; non implicano un sostegno generale.
-
-## Dalle risorse semantiche ai sistemi verificabili
-
-La ricerca di Yucong Duan modella **Dati, Informazione, Conoscenza, Saggezza e Purpose (DIKWP)** come risorse semantiche distinte ma trasformabili. La linea originaria estende sistematicamente i grafi di conoscenza in grafi DIKW/DIKWP tipizzati e computabili, collegandoli a coscienza artificiale, medicina attiva, sovranità semantica, matematica semantica e valutazione white-box.
-
-> Ciclo operativo: D → I → K → W → P → azione → evidenza → revisione
-
-**Snapshot pubblico GitHub · 7 settembre 2026:** **480 repository pubblici · 1.318 stelle visibili · 740 follower.** I numeri sono datati, non totali permanenti né un punteggio di qualità.
-
-### 480 repository × dodici costellazioni di ricerca
-
-Ogni repository ha una classificazione primaria e almeno cinque collegamenti reciproci; la mappa contiene **1.556 relazioni** tra nucleo semantico, pari di dominio, continuità e ponti interdisciplinari. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-L’espansione di 27 repository comprende una suite di tredici sistemi per vista e cardiologia, valore rigenerativo, transizione civica e vita digitale governata, oltre a infrastrutture per dinamica semantica, persona, contributi ed evidenze.
-
-[Esplora 480 repository e 1.556 relazioni reciproche →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+Inventario: 7 settembre 2026. Le relazioni del catalogo sono collegamenti di navigazione selezionati; non dimostrano dipendenze software, collaborazioni istituzionali o test completati. Le note storiche mantengono date e dimensioni dei lotti originali.
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## Codice, test e riproducibilità
@@ -80,11 +61,59 @@ Verificato il 2026-09-07: un saggio di TechPolicy.Press sulla sovranità semanti
 
 <!-- research-update-2026-09-07:end -->
 
+<details>
+<summary><strong>Dopo GPT-6 Astra</strong></summary>
+
+## Dopo GPT-6 Astra
+
+OpenAI ha presentato [GPT-6 Astra il 3 settembre 2026](https://openai.com/index/gpt-6-astra/), indicando progressi nella programmazione, nella ricerca, nell’uso del computer e nel lavoro complesso in più fasi. In questa fase DIKWP colloca il valore durevole nello Scopo esplicito, nella provenienza, nell’autorità, nella valutazione a contatto con la realtà, nella reversibilità e nella continuità umana, non soltanto nella capacità grezza del modello. [System card ufficiale →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> Limite: le fonti OpenAI verificano l’annuncio e il registro di sicurezza; non dimostrano partnership, adozione o approvazione di DIKWP.
+
+</details>
+
+## Rete istituzionale e editoriale
+
+<p align="center">
+  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Hainan University"></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO"></a>&nbsp;&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE"></a>&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier"></a>&nbsp;&nbsp;
+  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="WAAC"></a>
+</p>
+
+I loghi indicano fonti, editori o reti istituzionali documentate; non implicano un sostegno generale.
+
+## Dalle risorse semantiche ai sistemi verificabili
+
+La ricerca di Yucong Duan modella **Dati, Informazione, Conoscenza, Saggezza e Purpose (DIKWP)** come risorse semantiche distinte ma trasformabili. La linea originaria estende sistematicamente i grafi di conoscenza in grafi DIKW/DIKWP tipizzati e computabili, collegandoli a coscienza artificiale, medicina attiva, sovranità semantica, matematica semantica e valutazione white-box.
+
+> Ciclo operativo: D → I → K → W → P → azione → evidenza → revisione
+
+**Snapshot pubblico GitHub · 7 settembre 2026:** **480 repository pubblici · 1.318 stelle visibili · 740 follower.** I numeri sono datati, non totali permanenti né un punteggio di qualità.
+
+### 480 repository × dodici costellazioni di ricerca
+
+Ogni repository ha una classificazione primaria e almeno cinque collegamenti reciproci; la mappa contiene **1.556 relazioni** tra nucleo semantico, pari di dominio, continuità e ponti interdisciplinari. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+L’espansione di 27 repository comprende una suite di tredici sistemi per vista e cardiologia, valore rigenerativo, transizione civica e vita digitale governata, oltre a infrastrutture per dinamica semantica, persona, contributi ed evidenze.
+
+[Esplora 480 repository e 1.556 relazioni reciproche →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>Note delle versioni precedenti · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
 
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
+
+</details>
 
 ## Due Port pubblici
 
@@ -112,3 +141,4 @@ I materiali forniti contengono **115 record strutturati del 2017–2023** e **13
 ---
 
 Una selezione di ricerche e progetti di interesse pubblico è dedicata a **Duan Dikweipu (段迪克维普)**, figlia di Yucong Duan. La dedica non modifica paternità, contributi, licenze o proprietà.
+

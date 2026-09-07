@@ -12,27 +12,20 @@
 
 </div>
 
-## GPT-6 Astra 以後
+<!-- profile-navigation-2026-09-07:start -->
+## ここから始める
 
-OpenAI は [2026年9月3日に GPT-6 Astra を発表](https://openai.com/index/gpt-6-astra/)し、コーディング、研究、コンピュータ利用、複雑な多段階作業の進歩を示しました。この段階で DIKWP が重視する持続的価値は、モデル能力だけでなく、明示された Purpose、来歴、権限、現実接触評価、可逆性、人間の連続性です。[公式システムカード →](https://deploymentsafety.openai.com/gpt-6-astra)
+| 目的 | 入口 | 確認できる内容 |
+|---|---|---|
+| 研究を知る | [研究ポート](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | DIKW／DIKWP 理論と人工意識の研究課題。 |
+| プロジェクトを実行・確認する | [エンジニアリングカタログ](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [現在の状況](CURRENT_STATUS.md) | ソースの場所、再現コマンド、公開コミット、テストの証拠。 |
+| 主張や引用を確かめる | [証拠と特許](DIKWP_EVIDENCE_MAP.md) · [特許](PATENT_PORTFOLIO_MAP.md) | 一次資料、引用の種類、出願記録、各主張が対象とする範囲。 |
+| 関連プロジェクトを探す | [リポジトリ一覧](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 研究分野別の 480 リポジトリと、機械可読の関連マップ。 |
 
-> 証拠境界：OpenAI の資料は発表と安全記録を確認するもので、DIKWP との提携、採用、支持を証明しません。
+[貢献ガイド](CONTRIBUTING.md) · 再現可能な問題、文書化した拡張、独立した評価を対象リポジトリにお寄せください。学術交流には [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) を利用できます。
 
-## 意味資源から検査可能なシステムへ
-
-段玉聡の研究は、Data、Information、Knowledge、Wisdom、Purpose（DIKWP）を、相互に区別されながら変換可能な意味資源として表現します。知識グラフを型付きで計算可能な DIKW／DIKWP グラフへ体系的に拡張し、人工意識、能動医学、意味主権、意味数学、DIKWP ホワイトボックス評価へ接続します。
-
-> 研究ループ：D → I → K → W → P → 行動 → 証拠 → 修正
-
-**GitHub公開スナップショット（2026年9月7日）：** **公開リポジトリ480 · 可視Stars 1,318 · フォロワー740。** 日付付きの観測値であり、恒久的総数や品質スコアではありません。
-
-### 480リポジトリ × 12の研究星座
-
-全リポジトリに主分類と少なくとも5つの双方向リンクを設定し、意味カーネル・同領域・研究継続性・領域横断ブリッジからなる **1,556関係** を構成しました。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-27リポジトリの増分には、視覚・心血管ケア、再生的価値、市民移行、統治されたデジタル生命を扱う13システム群と、意味動力学、持続的ペルソナ、貢献、証拠の基盤が含まれます。
-
-[480リポジトリと1,556の双方向関係を見る →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+一覧の基準日：2026年9月7日。カタログの関連は編集されたナビゲーションであり、ソフトウェア依存関係、機関提携、テスト完了を示すものではありません。過去のリリース説明には元の日付と件数を残しています。
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## ソース・テスト・再現性
@@ -68,6 +61,40 @@ NOT_VERIFIEDは今回のテストでは主張が確立されていないこと�
 
 <!-- research-update-2026-09-07:end -->
 
+<details>
+<summary><strong>GPT-6 Astra 以後</strong></summary>
+
+## GPT-6 Astra 以後
+
+OpenAI は [2026年9月3日に GPT-6 Astra を発表](https://openai.com/index/gpt-6-astra/)し、コーディング、研究、コンピュータ利用、複雑な多段階作業の進歩を示しました。この段階で DIKWP が重視する持続的価値は、モデル能力だけでなく、明示された Purpose、来歴、権限、現実接触評価、可逆性、人間の連続性です。[公式システムカード →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> 証拠境界：OpenAI の資料は発表と安全記録を確認するもので、DIKWP との提携、採用、支持を証明しません。
+
+</details>
+
+## 意味資源から検査可能なシステムへ
+
+段玉聡の研究は、Data、Information、Knowledge、Wisdom、Purpose（DIKWP）を、相互に区別されながら変換可能な意味資源として表現します。知識グラフを型付きで計算可能な DIKW／DIKWP グラフへ体系的に拡張し、人工意識、能動医学、意味主権、意味数学、DIKWP ホワイトボックス評価へ接続します。
+
+> 研究ループ：D → I → K → W → P → 行動 → 証拠 → 修正
+
+**GitHub公開スナップショット（2026年9月7日）：** **公開リポジトリ480 · 可視Stars 1,318 · フォロワー740。** 日付付きの観測値であり、恒久的総数や品質スコアではありません。
+
+### 480リポジトリ × 12の研究星座
+
+全リポジトリに主分類と少なくとも5つの双方向リンクを設定し、意味カーネル・同領域・研究継続性・領域横断ブリッジからなる **1,556関係** を構成しました。**Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+27リポジトリの増分には、視覚・心血管ケア、再生的価値、市民移行、統治されたデジタル生命を扱う13システム群と、意味動力学、持続的ペルソナ、貢献、証拠の基盤が含まれます。
+
+[480リポジトリと1,556の双方向関係を見る →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>過去のリリース記録 · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
@@ -75,6 +102,8 @@ NOT_VERIFIEDは今回のテストでは主張が確立されていないこと�
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
 
 > 証拠境界：各ページは公開ソースと自己申告の範囲を示しますが、外部検証、導入、有効性、正式標準化、支持、代理権を単独では証明しません。
+
+</details>
 
 ## 2つの研究・実践ポート
 
@@ -107,3 +136,4 @@ The public source-import workflows completed successfully, and the prepared sour
 ## コードから始める
 
 [AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [全リポジトリ](https://github.com/YucongDuan?tab=repositories)
+

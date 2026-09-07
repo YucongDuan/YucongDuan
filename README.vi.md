@@ -14,51 +14,20 @@ Viện trưởng sáng lập Học viện Ý thức Nhân tạo Thế giới (WA
 
 </div>
 
-## Mạng lưới tổ chức và xuất bản
+<!-- profile-navigation-2026-09-07:start -->
+## Bắt đầu tại đây
 
-<p align="center">
-  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Đại học Hải Nam" title="Đại học Hải Nam"></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO" title="ISO"></a>&nbsp;&nbsp;
-  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE" title="IEEE"></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier" title="Elsevier"></a>&nbsp;&nbsp;
-  <a href="https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/shanghai-library.ico" width="54" height="54" alt="Thư viện Thượng Hải" title="Thư viện Thượng Hải"></a>&nbsp;&nbsp;
-  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="Học viện Ý thức Nhân tạo Thế giới" title="WAAC"></a>
-</p>
+| Mục tiêu của bạn | Điểm truy cập | Nội dung có thể kiểm tra |
+|---|---|---|
+| Tìm hiểu nghiên cứu | [Các cổng nghiên cứu](https://yucong-duan-research.dikwp407.chatgpt.site/dikwp-port) · [AC](https://yucong-duan-research.dikwp407.chatgpt.site/consciousness-port) | Lý thuyết DIKW/DIKWP và câu hỏi nghiên cứu về ý thức nhân tạo. |
+| Chạy và kiểm tra dự án | [Danh mục kỹ thuật](https://yucong-duan-research.dikwp407.chatgpt.site/source-catalog/index.html) · [Trạng thái hiện tại](CURRENT_STATUS.md) | Vị trí mã nguồn, lệnh tái lập, bản sửa đổi đã công bố và bằng chứng kiểm thử. |
+| Kiểm tra luận điểm hoặc trích dẫn | [Bằng chứng và bằng sáng chế](DIKWP_EVIDENCE_MAP.md) · [Bằng sáng chế](PATENT_PORTFOLIO_MAP.md) | Nguồn gốc, loại trích dẫn, hồ sơ đơn và phạm vi của từng luận điểm. |
+| Tìm dự án liên quan | [Danh mục kho mã](REPOSITORY_ECOSYSTEM_480.md) · [JSON](REPOSITORY_ECOSYSTEM_480.json) | 480 kho mã theo lĩnh vực nghiên cứu cùng bản đồ quan hệ có thể đọc bằng máy. |
 
-<p align="center"><sub>Các logo liên kết đến trang tổ chức hoặc nguồn bằng chứng tương ứng. Việc xuất hiện tại đây chỉ nhận diện nguồn và mạng lưới xuất bản, không hàm ý sự xác nhận toàn diện của tổ chức.</sub></p>
+[Hướng dẫn đóng góp](CONTRIBUTING.md) · Hãy đóng góp trường hợp có thể tái lập, phần mở rộng có tài liệu hoặc đánh giá độc lập vào kho mã phù hợp; sử dụng [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) để trao đổi học thuật.
 
-## Sau GPT-6 Astra: bài toán nghiên cứu vượt ra ngoài năng lực mô hình
-
-OpenAI giới thiệu [GPT-6 Astra ngày 3 tháng 9 năm 2026](https://openai.com/index/gpt-6-astra/), nhấn mạnh tiến bộ trong lập trình, nghiên cứu, sử dụng máy tính và công việc nhiều bước phức tạp. Khi mô hình tiên phong trở nên mạnh hơn và có tính tác nhân cao hơn, câu hỏi phân biệt không còn chỉ là “Mô hình có làm được không?” mà còn là:
-
-| Yêu cầu của thời đại hậu GPT-6 | Phản hồi nghiên cứu DIKWP |
-|---|---|
-| **Tác nhân được quản trị** | Cho thấy Mục đích của ai được phục vụ, quyền hạn nào tồn tại, cổng kiểm soát nào áp dụng và cách tạm dừng hoặc đảo ngược hành động. |
-| **Quỹ đạo mang bằng chứng** | Giữ lại Dữ liệu, Thông tin, Tri thức, phán đoán giá trị, Mục đích, nguồn gốc và tổn thất chuyển đổi thay vì chỉ tạo một câu trả lời mờ đục. |
-| **Đánh giá tiếp xúc thực tế** | Kiểm tra nhận diện ý định, sử dụng công cụ, bất định, kết quả, sửa lỗi và sửa đổi mô hình, chứ không chỉ dựa vào điểm xếp hạng. |
-| **Hạ tầng hỗ trợ dùng chung** | Sử dụng các Cổng công cộng, bản đồ bằng chứng, kiến trúc bằng sáng chế và hệ sinh thái kho mã nguồn liên kết để nhiều người cùng phản biện, duy trì, dịch thuật và tiếp nối nghiên cứu. |
-
-[Đọc thông báo GPT-6 Astra chính thức →](https://openai.com/index/gpt-6-astra/) · [Xem thẻ hệ thống chính thức →](https://deploymentsafety.openai.com/gpt-6-astra)
-
-> **Ranh giới bằng chứng:** các trang của OpenAI xác nhận thông báo GPT-6 Astra và hồ sơ an toàn triển khai. Chúng không chứng minh quan hệ hợp tác, việc áp dụng hay sự chứng thực DIKWP của OpenAI. Bảng trên là cách chương trình nghiên cứu này diễn giải chiến lược môi trường hậu GPT-6.
-
-## Từ tài nguyên ngữ nghĩa đến hệ thống có thể kiểm tra
-
-Nghiên cứu của Yucong Duan mô hình hóa **Dữ liệu, Thông tin, Tri thức, Trí tuệ và Mục đích (DIKWP)** thành các tài nguyên ngữ nghĩa khác biệt nhưng có thể chuyển đổi. Mục tiêu là làm cho các phép chuyển đổi đó có thể quan sát, kiểm thử, sửa đổi và quy trách nhiệm.
-
-Một tuyến nghiên cứu cốt lõi mở rộng có hệ thống đồ thị tri thức thành **đồ thị DIKW/DIKWP có kiểu và có thể tính toán**. Các hồ sơ sáng chế công khai từ năm 2017 cho thấy tiến trình từ đồ thị Dữ liệu/Thông tin/Tri thức/Trí tuệ liên kết đến suy dẫn tài nguyên có kiểu theo ý định và đồ thị tài nguyên Mục đích. Đại học Hải Nam ghi nhận giải thưởng Wu Wenjun AI năm 2020 của nhóm cho “mở rộng và mô hình hóa đồ thị DIKW”. [Xem hồ sơ của trường →](https://en.hainanu.edu.cn/info/1151/2981.htm)
-
-> Chu trình nghiên cứu: D → I → K → W → P → hành động → bằng chứng → sửa đổi
-
-**Ảnh chụp GitHub công khai ngày 7 tháng 9 năm 2026:** **480 kho mã nguồn công khai · 1.318 sao hiển thị · 740 người theo dõi.** Đây là số liệu có dấu thời gian, không phải tổng cố định hay điểm chất lượng.
-
-### 480 kho mã nguồn × mười hai chòm nghiên cứu
-
-Mỗi kho có một phân loại nghiên cứu chính và ít nhất năm liên kết hai chiều; bản đồ gồm **1.556 quan hệ** thuộc lõi ngữ nghĩa, nút cùng lĩnh vực, tính liên tục và cầu nối liên lĩnh vực. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
-
-Phần mở rộng 27 kho mã nguồn gồm mười ba hệ thống về chăm sóc thị lực và tim mạch, giá trị tái tạo, chuyển đổi công dân và đời sống số được quản trị, cùng hạ tầng cho động lực ngữ nghĩa, persona bền vững, đóng góp và bằng chứng.
-
-[Khám phá 480 kho mã nguồn và 1.556 liên kết hai chiều →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+Ngày chụp danh mục: 7 tháng 9 năm 2026. Các quan hệ trong danh mục là liên kết điều hướng được biên tập; không chứng minh sự phụ thuộc phần mềm, quan hệ đối tác tổ chức hoặc việc hoàn tất kiểm thử. Ghi chú phát hành trước đây giữ nguyên ngày và quy mô từng đợt.
+<!-- profile-navigation-2026-09-07:end -->
 
 <!-- engineering-update-2026-09-07:start -->
 ## Mã nguồn, kiểm thử và khả năng tái lập
@@ -94,6 +63,64 @@ NOT_VERIFIED nghĩa là kiểm thử hiện tại chưa xác lập tuyên bố. 
 
 <!-- research-update-2026-09-07:end -->
 
+## Mạng lưới tổ chức và xuất bản
+
+<p align="center">
+  <a href="https://cs.hainanu.edu.cn/info/1104/1858.htm"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/hainan-university.ico" width="54" height="54" alt="Đại học Hải Nam" title="Đại học Hải Nam"></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/86195.html"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/iso.svg" width="78" height="54" alt="ISO" title="ISO"></a>&nbsp;&nbsp;
+  <a href="https://ieeexplore.ieee.org/document/10466892/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/ieee.svg" width="78" height="54" alt="IEEE" title="IEEE"></a>&nbsp;&nbsp;
+  <a href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/elsevier.svg" width="78" height="54" alt="Elsevier" title="Elsevier"></a>&nbsp;&nbsp;
+  <a href="https://dhr.ruc.edu.cn/CN/Y2025/V5/I4/3"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/shanghai-library.ico" width="54" height="54" alt="Thư viện Thượng Hải" title="Thư viện Thượng Hải"></a>&nbsp;&nbsp;
+  <a href="https://waac.ac/"><img src="https://yucong-duan-research.dikwp407.chatgpt.site/logos/waac.png" width="94" height="54" alt="Học viện Ý thức Nhân tạo Thế giới" title="WAAC"></a>
+</p>
+
+<p align="center"><sub>Các logo liên kết đến trang tổ chức hoặc nguồn bằng chứng tương ứng. Việc xuất hiện tại đây chỉ nhận diện nguồn và mạng lưới xuất bản, không hàm ý sự xác nhận toàn diện của tổ chức.</sub></p>
+
+<details>
+<summary><strong>Sau GPT-6 Astra: bài toán nghiên cứu vượt ra ngoài năng lực mô hình</strong></summary>
+
+## Sau GPT-6 Astra: bài toán nghiên cứu vượt ra ngoài năng lực mô hình
+
+OpenAI giới thiệu [GPT-6 Astra ngày 3 tháng 9 năm 2026](https://openai.com/index/gpt-6-astra/), nhấn mạnh tiến bộ trong lập trình, nghiên cứu, sử dụng máy tính và công việc nhiều bước phức tạp. Khi mô hình tiên phong trở nên mạnh hơn và có tính tác nhân cao hơn, câu hỏi phân biệt không còn chỉ là “Mô hình có làm được không?” mà còn là:
+
+| Yêu cầu của thời đại hậu GPT-6 | Phản hồi nghiên cứu DIKWP |
+|---|---|
+| **Tác nhân được quản trị** | Cho thấy Mục đích của ai được phục vụ, quyền hạn nào tồn tại, cổng kiểm soát nào áp dụng và cách tạm dừng hoặc đảo ngược hành động. |
+| **Quỹ đạo mang bằng chứng** | Giữ lại Dữ liệu, Thông tin, Tri thức, phán đoán giá trị, Mục đích, nguồn gốc và tổn thất chuyển đổi thay vì chỉ tạo một câu trả lời mờ đục. |
+| **Đánh giá tiếp xúc thực tế** | Kiểm tra nhận diện ý định, sử dụng công cụ, bất định, kết quả, sửa lỗi và sửa đổi mô hình, chứ không chỉ dựa vào điểm xếp hạng. |
+| **Hạ tầng hỗ trợ dùng chung** | Sử dụng các Cổng công cộng, bản đồ bằng chứng, kiến trúc bằng sáng chế và hệ sinh thái kho mã nguồn liên kết để nhiều người cùng phản biện, duy trì, dịch thuật và tiếp nối nghiên cứu. |
+
+[Đọc thông báo GPT-6 Astra chính thức →](https://openai.com/index/gpt-6-astra/) · [Xem thẻ hệ thống chính thức →](https://deploymentsafety.openai.com/gpt-6-astra)
+
+> **Ranh giới bằng chứng:** các trang của OpenAI xác nhận thông báo GPT-6 Astra và hồ sơ an toàn triển khai. Chúng không chứng minh quan hệ hợp tác, việc áp dụng hay sự chứng thực DIKWP của OpenAI. Bảng trên là cách chương trình nghiên cứu này diễn giải chiến lược môi trường hậu GPT-6.
+
+</details>
+
+## Từ tài nguyên ngữ nghĩa đến hệ thống có thể kiểm tra
+
+Nghiên cứu của Yucong Duan mô hình hóa **Dữ liệu, Thông tin, Tri thức, Trí tuệ và Mục đích (DIKWP)** thành các tài nguyên ngữ nghĩa khác biệt nhưng có thể chuyển đổi. Mục tiêu là làm cho các phép chuyển đổi đó có thể quan sát, kiểm thử, sửa đổi và quy trách nhiệm.
+
+Một tuyến nghiên cứu cốt lõi mở rộng có hệ thống đồ thị tri thức thành **đồ thị DIKW/DIKWP có kiểu và có thể tính toán**. Các hồ sơ sáng chế công khai từ năm 2017 cho thấy tiến trình từ đồ thị Dữ liệu/Thông tin/Tri thức/Trí tuệ liên kết đến suy dẫn tài nguyên có kiểu theo ý định và đồ thị tài nguyên Mục đích. Đại học Hải Nam ghi nhận giải thưởng Wu Wenjun AI năm 2020 của nhóm cho “mở rộng và mô hình hóa đồ thị DIKW”. [Xem hồ sơ của trường →](https://en.hainanu.edu.cn/info/1151/2981.htm)
+
+> Chu trình nghiên cứu: D → I → K → W → P → hành động → bằng chứng → sửa đổi
+
+**Ảnh chụp GitHub công khai ngày 7 tháng 9 năm 2026:** **480 kho mã nguồn công khai · 1.318 sao hiển thị · 740 người theo dõi.** Đây là số liệu có dấu thời gian, không phải tổng cố định hay điểm chất lượng.
+
+### 480 kho mã nguồn × mười hai chòm nghiên cứu
+
+Mỗi kho có một phân loại nghiên cứu chính và ít nhất năm liên kết hai chiều; bản đồ gồm **1.556 quan hệ** thuộc lõi ngữ nghĩa, nút cùng lĩnh vực, tính liên tục và cầu nối liên lĩnh vực. **Portfolio architecture:** DIKWP Foundations & Semantic Architecture (139) · Artificial Consciousness & Digital Life (71) · Evidence, Evaluation & AI Governance (80) · Education, Work & Human Capability (44) · Semantic Mathematics & Formal Proof (36) · Medicine, Health & Care (31) · Economy, Value & Investment (20) · Memory, Identity & Personal Systems (21) · Society, Civilization & Public Infrastructure (12) · Standards, Interoperability & Research Translation (11) · Security, Justice & Resilience (9) · Physics, Cosmos & Fundamental Inquiry (6).
+
+Phần mở rộng 27 kho mã nguồn gồm mười ba hệ thống về chăm sóc thị lực và tim mạch, giá trị tái tạo, chuyển đổi công dân và đời sống số được quản trị, cùng hạ tầng cho động lực ngữ nghĩa, persona bền vững, đóng góp và bằng chứng.
+
+[Khám phá 480 kho mã nguồn và 1.556 liên kết hai chiều →](https://yucong-duan-research.dikwp407.chatgpt.site/repository-ecosystem)
+
+
+
+
+
+<details>
+<summary><strong>Ghi chú các bản phát hành trước · English</strong></summary>
+
 ### 6 September 2026 · eight-repository suite · English international summary
 
 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [Qingyuan OS v1](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) · [Qingyuan OS v2](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0) · [Cognitive Immune Qingyuan 27](https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0) · [Semantic Immunity Repair](https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0) · [Essence Omega OS](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [Ultimate Essence BENYUAN](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) · [DuanLife Open Autonomy 15](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0)
@@ -101,6 +128,8 @@ NOT_VERIFIED nghĩa là kiểm thử hiện tại chưa xác lập tuyên bố. 
 The public source-import workflows completed successfully, and the prepared source trees passed **512 local tests** in aggregate. The suite connects semantic resilience, cognitive immunity, falsifiable essence, semantic closure and governed artificial life. This establishes source availability and local verification only—not independent validation, adoption, production fitness, consciousness, personhood or metaphysical truth.
 
 > Ranh giới bằng chứng: trang kho mã nguồn chứng minh mã nguồn công khai và phạm vi tự mô tả của dự án; bản thân nó không chứng minh xác nhận độc lập, triển khai thực tế, hiệu quả lâm sàng hoặc tài chính, tiêu chuẩn hóa chính thức hay quyền hành động thay mặt người khác.
+
+</details>
 
 ## Hai cổng nghiên cứu và thực hành công cộng
 
@@ -141,3 +170,4 @@ Các tài liệu nguồn được cung cấp cho thấy **115 bản ghi có cấ
 Hệ sinh thái nghiên cứu và mã nguồn mở này được dành tặng cho **Duan Dikweipu (段迪克维普)**, con gái của Yucong Duan, như một lời nhắn gửi về tri thức có trách nhiệm, lòng can đảm trí tuệ và một tương lai nơi con người không bị bỏ lại phía sau.
 
 Lời đề tặng thể hiện ý định của tác giả; quyền tác giả, giấy phép, tác giả đóng góp và nguồn gốc của từng kho mã nguồn vẫn được xác định theo hồ sơ riêng của kho đó.
+
