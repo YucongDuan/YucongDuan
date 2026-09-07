@@ -2,7 +2,7 @@
 
 [Open the offline catalog](index.html) · [中文说明](README.zh-CN.md) · [Structured records](CATALOG.json)
 
-This snapshot indexes **480 repositories**. It records **0 repositories with included local files**, **12 published updates**, and **3 projects with successful executed test suites (140 checks)**. These groups overlap. Generated: 2026-09-07T05:36:08.522616+00:00.
+This snapshot indexes **480 repositories**. It records **0 repositories with included local files**, **35 published updates**, and **3 projects with successful executed test suites (140 checks)**. These groups overlap. Generated: 2026-09-07T09:51:41.468540+00:00.
 
 Open `index.html` directly in a browser. No web server, account, network connection, package installation or external assets are needed for this catalog. Search by repository name, original description or primary programming language. Filter by source visibility, source preparation, publication, documents-only inspection, incomplete inspection, recorded tests or local availability. GitHub links require connectivity when followed.
 

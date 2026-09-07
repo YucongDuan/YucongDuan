@@ -10,7 +10,7 @@ Checked **7 September 2026, 09:35 UTC** against the public GitHub repository lis
 | Topics and homepage metadata | **7** repositories with topics; **1** with a homepage URL |
 | GitHub stars | **1,318**, an observation at the timestamp above |
 | Reproduction evidence | **3 selected projects**, **140 recorded checks**; their public CI runs were rechecked as successful |
-| Source expansion | See the timestamped [engineering status](ENGINEERING_STATUS.md) and [catalog](catalog/README.md) for exact published commits and remaining work |
+| Source expansion | **32 / 441** archive-queue repositories published; [all queue states](SOURCE_PUBLICATION_STATUS.md). The three priority projects are tracked separately in the [engineering status](ENGINEERING_STATUS.md) |
 | Historical release | [`impact-2026.08`](https://github.com/YucongDuan/YucongDuan/releases/tag/impact-2026.08) was last updated 26 August and still describes seven languages; it is not the current portfolio specification |
 
 ## Choose an entry
@@ -20,6 +20,8 @@ Checked **7 September 2026, 09:35 UTC** against the public GitHub repository lis
 - **Collaboration:** [contribution guide](CONTRIBUTING.md), [public collaboration resources](https://yucong-duan-research.dikwp407.chatgpt.site/alliance-port).
 
 The [full audit](GITHUB_AUDIT_2026-09-07.md) explains the observed metadata gaps and the priorities behind this reorganization.
+
+[Metadata proposals for all 480 repositories](METADATA_PROPOSALS.md) provide reviewable missing descriptions, topics and shared research-Port links. They are proposals: repository sidebar settings have not been changed.
 
 The repository named [`DIKWP`](https://github.com/YucongDuan/DIKWP) is an empty reserved entry in this snapshot. Start with one of the source-bearing projects above.
 

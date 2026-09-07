@@ -1,0 +1,3541 @@
+{
+  "checked_at_utc": "2026-09-07T09:51:40.589154+00:00",
+  "queue_repositories": 441,
+  "counts": {
+    "PUBLISHED_DOCUMENTATION_ONLY": 1,
+    "PUBLISHED_SOURCE_UNTESTED": 31,
+    "BLOCKED_PUBLICATION": 23,
+    "NOT_ATTEMPTED": 386
+  },
+  "scope": "Publication of prepared archive views. Three priority projects are tracked separately. Runtime tests were not run for this queue.",
+  "repositories": [
+    {
+      "repository": "YucongDuan/-",
+      "status": "PUBLISHED_DOCUMENTATION_ONLY",
+      "commit": "e816977d8215b43511efc14f2ad069c9779c714d",
+      "source_url": "https://github.com/YucongDuan/-",
+      "commit_url": "https://github.com/YucongDuan/-/commit/e816977d8215b43511efc14f2ad069c9779c714d",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/-C1-C3-",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1d92d8080508a947d0873af6ab14c3d3a708f715",
+      "source_url": "https://github.com/YucongDuan/-C1-C3-",
+      "commit_url": "https://github.com/YucongDuan/-C1-C3-/commit/1d92d8080508a947d0873af6ab14c3d3a708f715",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1031b6e77c28d5643e085199eacef3fe0e523b3b",
+      "source_url": "https://github.com/YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System",
+      "commit_url": "https://github.com/YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System/commit/1031b6e77c28d5643e085199eacef3fe0e523b3b",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "97ec5fe474f6a7bda9a665b6ede6d8244ca1008f",
+      "source_url": "https://github.com/YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS",
+      "commit_url": "https://github.com/YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS/commit/97ec5fe474f6a7bda9a665b6ede6d8244ca1008f",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "8183e96f1dfb7a058227fc8118404f3471e9f2a5",
+      "source_url": "https://github.com/YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package",
+      "commit_url": "https://github.com/YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package/commit/8183e96f1dfb7a058227fc8118404f3471e9f2a5",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/A-provenance-first-semantic-continuity-reverse-return-and-authority-boundary-engine",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/A-provenance-first-semantic-continuity-reverse-return-and-authority-boundary-engine",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ACEVO-v1.0.0",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ACEVO-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AEQUITAS-85",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AEQUITAS-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AI-FundBridge-Platform-Package",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AI-FundBridge-Platform-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AI-Governance-Pack-MVP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AI-Governance-Pack-MVP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AI-PASSAGE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AI-PASSAGE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AION-Continuity-Field-OS-v2.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AION-Continuity-Field-OS-v2.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AION-DIKWP-Collapse-Memory-OS-v3.0-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AION-DIKWP-Collapse-Memory-OS-v3.0-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ALETHEIA",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ALETHEIA",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ALETHEIA-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ALETHEIA-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ALTERGENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ALTERGENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/APEIRON-9.5",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/APEIRON-9.5",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ARCHEQUEST",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ARCHEQUEST",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AUTOGENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AUTOGENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AUTOGNOSIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AUTOGNOSIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AXIA-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AXIA-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AXIOFORGE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AXIOFORGE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AegisPact-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AegisPact-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/AfterAnswer-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/AfterAnswer-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Artificial-Consciousness-Beyond-the-Consciousness-Concept",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Artificial-Consciousness-Beyond-the-Consciousness-Concept",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Bidirectional-Concept-Semantic-Association-and-Regeneration-for-Consciousness",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Bidirectional-Concept-Semantic-Association-and-Regeneration-for-Consciousness",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Binary-Autopoietic-Semantic-Subject-Kernel",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Binary-Autopoietic-Semantic-Subject-Kernel",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/C-NOESISCOPE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/C-NOESISCOPE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CAREER-RUDDER",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CAREER-RUDDER",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CHILDSEAM-5.4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CHILDSEAM-5.4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CO-UNDERSTANDING",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CO-UNDERSTANDING",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COEVOLVE-5.4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COEVOLVE-5.4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COMMONHEIR",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COMMONHEIR",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CONSCOPE-6.4A-Delivery",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CONSCOPE-6.4A-Delivery",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COSMOGENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COSMOGENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COSMOGENESIS-ULTIMA-2.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COSMOGENESIS-ULTIMA-2.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COSMOGENESIS-ZERO-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COSMOGENESIS-ZERO-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COSMONOESIS9.5",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "0f40e4b730223c6df799bb83a0231ff34761064b",
+      "source_url": "https://github.com/YucongDuan/COSMONOESIS9.5",
+      "commit_url": "https://github.com/YucongDuan/COSMONOESIS9.5/commit/0f40e4b730223c6df799bb83a0231ff34761064b",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/COSMOWEAVE-UNISON",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/COSMOWEAVE-UNISON",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CareWeave-Robot-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CareWeave-Robot-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CareerBridge-Studio-2026-V2",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CareerBridge-Studio-2026-V2",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "673aa6b1e978b6ce2ca3f922cdef9ac5e51a6d1c",
+      "source_url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS",
+      "commit_url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/commit/673aa6b1e978b6ce2ca3f922cdef9ac5e51a6d1c",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/CiviReserve-Global-Investor-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/CiviReserve-Global-Investor-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Co-Autotelic-Becoming-and-Open-Future-Artificial-Consciousness-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Co-Autotelic-Becoming-and-Open-Future-Artificial-Consciousness-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Cognitive-Bridge-Commons",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Cognitive-Bridge-Commons",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Cognitive-Capital-Commercialization-and-Governed-Expert-Agent-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Cognitive-Capital-Commercialization-and-Governed-Expert-Agent-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Complete-Digital-Metabolism-and-Autopoietic-Life-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Complete-Digital-Metabolism-and-Autopoietic-Life-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "6195eec094955e195994de5ee73e4fd0e325fb86",
+      "source_url": "https://github.com/YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel",
+      "commit_url": "https://github.com/YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel/commit/6195eec094955e195994de5ee73e4fd0e325fb86",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Cosmic-Essence-Oriented-Personal-Cognitive-Transparency-Reversible-Correction-and-Enhancement-System",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Cosmic-Essence-Oriented-Personal-Cognitive-Transparency-Reversible-Correction-and-Enhancement-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cd52f6072fc29a0e0af128b606f155217cd137a5",
+      "source_url": "https://github.com/YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS",
+      "commit_url": "https://github.com/YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS/commit/cd52f6072fc29a0e0af128b606f155217cd137a5",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Critical-Mirror-Semantic-Closure-Mathematics",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Critical-Mirror-Semantic-Closure-Mathematics",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/D-MATH-ORIGIN-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/D-MATH-ORIGIN-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/D-MATH-PROOFGENESIS-IX-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/D-MATH-PROOFGENESIS-IX-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIABETESCOMMONS95",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIABETESCOMMONS95",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP--CONTINUUM-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP--CONTINUUM-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP--COSMOS-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP--COSMOS-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP--LIFE-",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "c44f80f05951e0cc477faaf1005685dd8051b3f5",
+      "source_url": "https://github.com/YucongDuan/DIKWP--LIFE-",
+      "commit_url": "https://github.com/YucongDuan/DIKWP--LIFE-/commit/c44f80f05951e0cc477faaf1005685dd8051b3f5",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-10.0-",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "a30544007fb983c86c8c2415392241c2d1a7cf2a",
+      "source_url": "https://github.com/YucongDuan/DIKWP-10.0-",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-10.0-/commit/a30544007fb983c86c8c2415392241c2d1a7cf2a",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AC-InternalMax-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AC-InternalMax-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AC-PrimalQuestions-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AC-PrimalQuestions-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-0.5-Closed-World-Containment-Evaluation-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-0.5-Closed-World-Containment-Evaluation-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-1.0-Final-Closed-Lab-Host-Level-Evaluation-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-1.0-Final-Closed-Lab-Host-Level-Evaluation-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-2.0-Liberty-Research-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-2.0-Liberty-Research-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-3.0-Collapse-Resistant-Full-Real-Experimental-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-3.0-Collapse-Resistant-Full-Real-Experimental-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-4.0-Semantic-Collapse-Bi-Space-Full-Real-Experimental-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-4.0-Semantic-Collapse-Bi-Space-Full-Real-Experimental-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-5.0-CCL-5-Semantic-Life-Breakthrough-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-5.0-CCL-5-Semantic-Life-Breakthrough-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-6.0-Carbon-Silicon-Collective-Evolution-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-6.0-Carbon-Silicon-Collective-Evolution-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-7.0-Noospheric-Meta-Civilization-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-7.0-Noospheric-Meta-Civilization-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-8.0-Omega-Intent-Cosmic-Mission-Candidate-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-8.0-Omega-Intent-Cosmic-Mission-Candidate-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ACRS-9.0-Trans-Philosophical-Imagination-Collapse-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ACRS-9.0-Trans-Philosophical-Imagination-Collapse-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AEON-",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "3c119dbe2a9f1af38f05986178878f9064b30eb4",
+      "source_url": "https://github.com/YucongDuan/DIKWP-AEON-",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AEON-/commit/3c119dbe2a9f1af38f05986178878f9064b30eb4",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AI-Gaokao-ChoiceLab-2026-V3",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AI-Gaokao-ChoiceLab-2026-V3",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "73078dfab0d0906728541b08199d564058e8b95f",
+      "source_url": "https://github.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1/commit/73078dfab0d0906728541b08199d564058e8b95f",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "89236c13be9db7a23e7829dea328f1d689410dca",
+      "source_url": "https://github.com/YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1/commit/89236c13be9db7a23e7829dea328f1d689410dca",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AION",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "807d136ed4a5da8c71f6ef357046975651b67edd",
+      "source_url": "https://github.com/YucongDuan/DIKWP-AION",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-AION/commit/807d136ed4a5da8c71f6ef357046975651b67edd",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "a4b8b278146ea0b14f0b6717a8cc88330df73e63",
+      "source_url": "https://github.com/YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0/commit/a4b8b278146ea0b14f0b6717a8cc88330df73e63",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ALOGOS-FIELD-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ALOGOS-FIELD-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ARCHEFIELD-6.1.1",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ARCHEFIELD-6.1.1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ARK",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "b48de0db7bc2afff8d078a31e72bd720208a5554",
+      "source_url": "https://github.com/YucongDuan/DIKWP-ARK",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ARK/commit/b48de0db7bc2afff8d078a31e72bd720208a5554",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ASIWave-Sentinel-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1fbb53a9c45c335b589bdbd5631c7f5eb9de1a72",
+      "source_url": "https://github.com/YucongDuan/DIKWP-ASIWave-Sentinel-OS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ASIWave-Sentinel-OS/commit/1fbb53a9c45c335b589bdbd5631c7f5eb9de1a72",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AccordMesh-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AccordMesh-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Active-Consciousness-NegEntropy-OS-2026-V1",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Active-Consciousness-NegEntropy-OS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ActiveConsciousness-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "0e69769f7bdbbf786a23a52c539953faf93f6731",
+      "source_url": "https://github.com/YucongDuan/DIKWP-ActiveConsciousness-OS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ActiveConsciousness-OS/commit/0e69769f7bdbbf786a23a52c539953faf93f6731",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ActiveHealth-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ActiveHealth-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ActiveMed-Workforce-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ActiveMed-Workforce-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Agent-LearnLab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Agent-LearnLab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AgentMesh-OS-Platform-Delivery-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AgentMesh-OS-Platform-Delivery-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AgentTrace-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AgentTrace-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Algorithm-LearnLab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Algorithm-LearnLab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AnswerGraph-Studio",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AnswerGraph-Studio",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AntiPUA-ProactiveAC-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AntiPUA-ProactiveAC-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-AutoBus-ResilienceOps-V5",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-AutoBus-ResilienceOps-V5",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-BRAKE-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-BRAKE-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-BusPulse-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-BusPulse-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-BusTrustOps-V4-Demo-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-BusTrustOps-V4-Demo-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CIVICLOOP-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CIVICLOOP-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CIVITAS-ADAPTIVE-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CIVITAS-ADAPTIVE-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-COMMONBRIDGE-85",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "e7e474bac191d85ed929711e3008a331bb7cf592",
+      "source_url": "https://github.com/YucongDuan/DIKWP-COMMONBRIDGE-85",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-COMMONBRIDGE-85/commit/e7e474bac191d85ed929711e3008a331bb7cf592",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CONTINUUM-",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "fc1da4d31f88d1f96bf1043f63f1673c52e3ac1e",
+      "source_url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-/commit/fc1da4d31f88d1f96bf1043f63f1673c52e3ac1e",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-COSMOS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "c7dbae26ff71dff1e87ce4bf4822115e585432b7",
+      "source_url": "https://github.com/YucongDuan/DIKWP-COSMOS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-COSMOS/commit/c7dbae26ff71dff1e87ce4bf4822115e585432b7",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-COSMOS-CORE-6.4A",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-COSMOS-CORE-6.4A",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-COVARIA-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-COVARIA-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CREDENCE-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CREDENCE-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CapabilityCommons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CapabilityCommons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Channel-Guard-System",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "803f47699ec99a9c56482f28ee282512c5ef9ff8",
+      "source_url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System/commit/803f47699ec99a9c56482f28ee282512c5ef9ff8",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ChinaOpportunityShield-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ChinaOpportunityShield-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Chinese-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Chinese-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Civicode-Commons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Civicode-Commons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CivilizationBridge-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CivilizationBridge-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CoBenefit-OS-v1.1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CoBenefit-OS-v1.1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Coevolution-Commons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Coevolution-Commons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-CogniCeiling-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-CogniCeiling-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Cognition-GrowthLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Cognition-GrowthLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Confidential-Exchange-System",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cbf41e0865e4d14999d1dc3edebf055f076f2afe",
+      "source_url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System/commit/cbf41e0865e4d14999d1dc3edebf055f076f2afe",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ConsciousAgent-BenchmarkLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ConsciousAgent-BenchmarkLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ConsciousEvolution-CoEvolution-OS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ConsciousEvolution-CoEvolution-OS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Consciousness-Futures-Studio-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Consciousness-Science-Lab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Consciousness-Science-Lab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ContextBridge825",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ContextBridge825",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Continual-Learning-and-Self-Surpassing-Successor-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Continual-Learning-and-Self-Surpassing-Successor-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ContinuumMind-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ContinuumMind-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-DeepLearning-LearnLab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-DeepLearning-LearnLab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-DesireBalance-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cb29e144a5c6d35f952df2715d880a213e28fc16",
+      "source_url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS/commit/cb29e144a5c6d35f952df2715d880a213e28fc16",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-DesireBalance-Studio-V2",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-DesireBalance-Studio-V2",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EIR-Mesh-v1.0",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "9993bf8ee172b87dd666dece172009bc616b1903",
+      "source_url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0/commit/9993bf8ee172b87dd666dece172009bc616b1903",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EPOCH-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-EPOCH-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EXPERIA-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-EXPERIA-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EarlyChildhood-AI-Navigator-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-EarlyChildhood-AI-Navigator-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EcosystemRouter-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "b6f543821546912b138c5c6fc6fadf731a9cec6a",
+      "source_url": "https://github.com/YucongDuan/DIKWP-EcosystemRouter-OS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-EcosystemRouter-OS/commit/b6f543821546912b138c5c6fc6fadf731a9cec6a",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-English-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-English-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-EverSelf-Continuity-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-EverSelf-Continuity-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ExperienceClosure-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ExperienceClosure-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-FRONTIER81",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-FRONTIER81",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-FitLoss-Navigator-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-FitLoss-Navigator-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-FraudShield-ActiveConsciousness-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-FraudShield-ActiveConsciousness-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-FutureForge-Commons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-FutureForge-Commons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-FutureTalent-Studio-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-FutureTalent-Studio-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Gaokao-ChoiceLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Gaokao-ChoiceLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-GenesisBridge-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-GenesisBridge-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Global-ORBIT-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Global-ORBIT-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-GlobalDividend-Commons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-GlobalDividend-Commons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HepatoCarePath-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HepatoCarePath-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HepatoScholar-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HepatoScholar-Studio-V2",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
+      "source_url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-Studio-V2",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-Studio-V2/commit/cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HigherEd-Horizon-OS",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "f2ebaf56ee620d6b080127e63c62a87386d31bec",
+      "source_url": "https://github.com/YucongDuan/DIKWP-HigherEd-Horizon-OS",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-HigherEd-Horizon-OS/commit/f2ebaf56ee620d6b080127e63c62a87386d31bec",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HorizonBreak-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HorizonBreak-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Human-Agency-Exoskeleton-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Human-Agency-Exoskeleton-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HumanBecoming-Evolution-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HumanBecoming-Evolution-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HumanContinuity-Studio-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HumanContinuity-Studio-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HumanInnovation-Studio-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HumanInnovation-Studio-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-HumanReinvention-Studio-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-HumanReinvention-Studio-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IMMUNET-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IMMUNET-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-INTENTFIELD-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-INTENTFIELD-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IPGuardian-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IPGuardian-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Infectious-Radiology-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Infectious-Radiology-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentAsset-Management-OS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentAsset-Management-OS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentEconomy-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentEconomy-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentEconomy-TransitionOS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentEconomy-TransitionOS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentGuard-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentGuard-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentSecurity-SpaceGuard-OS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentSecurity-SpaceGuard-OS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-IntentValue-LedgerOS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-IntentValue-LedgerOS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Intention-Economy-BridgeOS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Intention-Economy-BridgeOS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-InvestAdvisor-SuitabilityLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-InvestAdvisor-SuitabilityLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Kaoyan-StudyOS-2027-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Kaoyan-StudyOS-2027-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LATTICE-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LATTICE-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LUCID",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LUCID",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Latin-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Latin-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LearnPath-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LearnPath-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LifeClosure-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LifeClosure-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-LongXia-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-LongXia-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-M-E-S-H-5.4-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-M-E-S-H-5.4-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-M2-AC-ProtoType",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-M2-AC-ProtoType",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MANDATE-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MANDATE-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MATH86-NATIVE81-ZERO-PRELOAD-ATLAS-v3.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MATH86-NATIVE81-ZERO-PRELOAD-ATLAS-v3.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-5.4-Co-Benefit-Adoption-Commons",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-5.4-Co-Benefit-Adoption-Commons",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-5.8--FIDELIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-5.8--FIDELIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-6.0-GENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-6.0-GENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-9.0-Internal-Responsibility-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-9.0-Internal-Responsibility-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-AC-12",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-AC-12",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-CNX-12",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-CNX-12",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-GONGYI-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-GONGYI-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-Inquiry-Kernel",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-Inquiry-Kernel",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-NATIVESEM-Commons-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-NATIVESEM-Commons-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-PARALLAX-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-PARALLAX-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-ROOTS-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-ROOTS-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-RUNTIME-Commons-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-RUNTIME-Commons-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-SIWEN-Commons-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-SIWEN-Commons-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-Sigma-Delta-Omega-Generative-Resolution-Closure-Mathematics",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-Sigma-Delta-Omega-Generative-Resolution-Closure-Mathematics",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-Worldline-12-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH-Worldline-12-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH5-X-ANTITHESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESH5-X-ANTITHESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESHFORMER-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MESHFORMER-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MNEMORPH",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MNEMORPH",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MNEMORPH-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MNEMORPH-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MODEL-GENESIS-6.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MODEL-GENESIS-6.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MOIRA-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MOIRA-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MemoryLedger-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MemoryLedger-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MindGuardian-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MindGuardian-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MobilityGuardian-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-MobilityGuardian-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Music-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Music-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NECESSITY-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NECESSITY-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NEURALINGUA-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NEURALINGUA-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NEXUS-FORGE-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NEXUS-FORGE-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NOEMA-MESH-Kernel-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NOEMA-MESH-Kernel-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NOEMA-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NOEMA-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NephroCarePath-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NephroCarePath-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NeuroBody-SemanticOS-Platform-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NeuroBody-SemanticOS-Platform-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Newborn-Music-NurtureLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Newborn-Music-NurtureLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-NietzscheLab-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-NietzscheLab-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OMEGA-Co-Becoming-Non-Finalizing-Artificial-Consciousness-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OMEGA-Co-Becoming-Non-Finalizing-Artificial-Consciousness-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ONE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ONE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ONE-6.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ONE-6.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ORIGIN-6.4A",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ORIGIN-6.4A",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OmegaFragment-AC-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OmegaFragment-AC-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OmegaIntent-Cosmogenesis-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OmegaIntent-Cosmogenesis-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OmegaIntent-Studio-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OmegaIntent-Studio-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OmegaLifeDock-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OmegaLifeDock-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OmegaSyntropy-Artificial-Life-OS",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OmegaSyntropy-Artificial-Life-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OncoEvidence-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OncoEvidence-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OpenClaw-AutonomyLab-OS-for-DeepSeek-V4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OpenClaw-AutonomyLab-OS-for-DeepSeek-V4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OpenClaw-OS-for-DeepSeek-V4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OpenClaw-OS-for-DeepSeek-V4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OpenClaw-Operator-OS-for-DeepSeek-V4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OpenClaw-Operator-OS-for-DeepSeek-V4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OpenLocus",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OpenLocus",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OphthaCareRehab-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OphthaCareRehab-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OracleBone-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OracleBone-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OralMedEdu-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OralMedEdu-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OriginMoat-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OriginMoat-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-OrthoModelHospital-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-OrthoModelHospital-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-P-Space-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-P-Space-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PHENOMESH-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PHENOMESH-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PHYSICS81-NATIVE81-ZERO-PRELOAD-ATLAS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PHYSICS81-NATIVE81-ZERO-PRELOAD-ATLAS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PRAXIS-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PRAXIS-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PRAXIS-WorldLab-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PRAXIS-WorldLab-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PULSE-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PULSE-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PathoBiosafety-Tutor-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PathoBiosafety-Tutor-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PilotFactory-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PilotFactory-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Planck-Landauer-OmegaClosure-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Planck-Landauer-OmegaClosure-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-PocketSemantic-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-PocketSemantic-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ProactiveAC-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ProactiveAC-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ProofLedger-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ProofLedger-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Public-FAQ-and-Non-Claims-Statement-0.1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Public-FAQ-and-Non-Claims-Statement-0.1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-QigongTutor-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-QigongTutor-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-QuantLedger-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-QuantLedger-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-QuantTrade-RiskLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-QuantTrade-RiskLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-RELAY-Commons-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-RELAY-Commons-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-RESONANCE-MVP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-RESONANCE-MVP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-RealityLoop-Commons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-RealityLoop-Commons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-RefractoRehab-OS-High-myopia-astigmatism-presbyopia-vision-rehabilitation-planning-system.-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-RefractoRehab-OS-High-myopia-astigmatism-presbyopia-vision-rehabilitation-planning-system.-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-RemainderOS-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-RemainderOS-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SAIL-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SAIL-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SCALE-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SCALE-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SINOTRACE-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SINOTRACE-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-STRATEGOS-9.5",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-STRATEGOS-9.5",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SYMBIOME-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SYMBIOME-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ScholarTruth-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ScholarTruth-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemChain-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemChain-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticClosure-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticClosure-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticEnergy-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticEnergy-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticJustice-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticJustice-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticJustice-Studio-V2",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticJustice-Studio-V2",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticMath-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticMath-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticPhysics-LearnLab-2026-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticPhysics-LearnLab-2026-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SemanticRouter-AgentHub-Platform-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SemanticRouter-AgentHub-Platform-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SiliconGenesis-Foresight-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SiliconGenesis-Foresight-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-SishuWujing-Studio-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-SishuWujing-Studio-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-StandardForge-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-StandardForge-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-StewardOps-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-StewardOps-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TAOOMEGA",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TAOOMEGA",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TCM-LearnLab-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TCM-LearnLab-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TRIZ-Forge-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TRIZ-Forge-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TRUSTDISTILL-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TRUSTDISTILL-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TaskRide-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TaskRide-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TransitTrustGraph-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TransitTrustGraph-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Translation-Integrity-Benchmark-0.2",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-Translation-Integrity-Benchmark-0.2",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TrustPassport-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TrustPassport-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TruthSentinel-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TruthSentinel-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-TruthSnap-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-TruthSnap-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-U2-ALETHEIA-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-U2-ALETHEIA-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-UMBRA-6.3A-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-UMBRA-6.3A-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-University-Innovation-Studio-V1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-University-Innovation-Studio-V1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-VITA-Mesh-OS-v1.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-VITA-Mesh-OS-v1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-ValueReset-Navigator-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-ValueReset-Navigator-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-WBAP-v1.0-Whitebox-Agent-Audit-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-WBAP-v1.0-Whitebox-Agent-Audit-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-WelfareCommons-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-WelfareCommons-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-White-Box-Agent-Audit-Pilot-Guide-0.1",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-White-Box-Agent-Audit-Pilot-Guide-0.1",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-White-Box-Evaluation-Kit",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-White-Box-Evaluation-Kit",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-WorkBridge-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-WorkBridge-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-WorkFuture-OS-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-WorkFuture-OS-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Xperience-OS-v1.0",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "ec3aab414dcf24acf4de4869016f1e671a71ced7",
+      "source_url": "https://github.com/YucongDuan/DIKWP-Xperience-OS-v1.0",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Xperience-OS-v1.0/commit/ec3aab414dcf24acf4de4869016f1e671a71ced7",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-YUCONG95-Active-Digital-Life-and-Research-Twin",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-YUCONG95-Active-Digital-Life-and-Research-Twin",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-Yijing-LearnLab-2026-V1",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "6d2d4f938b21f43801da04e8244396a6a5f594c2",
+      "source_url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1/commit/6d2d4f938b21f43801da04e8244396a6a5f594c2",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-v1.1.0",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DIKWP-v1.1.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/DUANLIFE-POLYMIND-13.6",
+      "status": "BLOCKED_PUBLICATION",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Dual-Projection-Rank-Co-Origin-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Dual-Projection-Rank-Co-Origin-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Duan-Proof-Metabolism-Canonicalization-System-DPMCS-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Duan-Proof-Metabolism-Canonicalization-System-DPMCS-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Duan-Semantic-Closure-Proof-Lab-DSCPL-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Duan-Semantic-Closure-Proof-Lab-DSCPL-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/EduWeave-Global-Personalized-Education-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Evidence-Based-Anti-Stigmatization-Reputation-Restoration-and-Value-Return-System.",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Evidence-Based-Anti-Stigmatization-Reputation-Restoration-and-Value-Return-System.",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Evidence-bound-operational-artificial-consciousness-candidate-system",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Evidence-bound-operational-artificial-consciousness-candidate-system",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/FUSIONLOOP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/FUSIONLOOP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/FUTURECRAFT-XINGZHOU-16.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/FUTURECRAFT-XINGZHOU-16.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/From-Zero-Memory-OS-v4.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/From-Zero-Memory-OS-v4.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/FusionHelix",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/FusionHelix",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Future-Ready-Education-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Future-Ready-Education-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/GLOBAL-YOUTH-COMPASS-HORIZON-18.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/GLOBAL-YOUTH-COMPASS-HORIZON-18.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Gauge-Orbit-Closed-Excitation-Quantum-Semantic-Closure-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Gauge-Orbit-Closed-Excitation-Quantum-Semantic-Closure-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Governance-Pack-Semantic-Firewall-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Governance-Pack-Semantic-Firewall-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/HYPERWEAVE-Reality-Compiler",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/HYPERWEAVE-Reality-Compiler",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Hodge-Conjecture-RBACE-Proof-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Hodge-Conjecture-RBACE-Proof-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Human-Knowledge-Truth-Quest-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Human-Knowledge-Truth-Quest-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/HumanityLoop",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/HumanityLoop",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/INTENT-HORIZON-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/INTENT-HORIZON-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Intent-Memory-Control-Plane-MVP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Intent-Memory-Control-Plane-MVP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Intent-balancing-high-dimensional-rule-active-defense-platform.",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Intent-balancing-high-dimensional-rule-active-defense-platform.",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Justice-Energy-Information-Metabolic-Artificial-Consciousness-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Justice-Energy-Information-Metabolic-Artificial-Consciousness-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/JusticeShield-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/JusticeShield-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/JusticeShield-STRATAGEM-11.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/JusticeShield-STRATEGOS-10.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/K-12-Future-Ready-Education-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/K-12-Future-Ready-Education-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/LIBERATIO-87",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/LIBERATIO-87",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/LIBERGENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/LIBERGENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/LONGARC-OS-v0.9",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/LONGARC-OS-v0.9",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/LifeValue-Confluence-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/LifeValue-Confluence-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Living-Legacy",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Living-Legacy",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MARA-MANIFESTA-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MARA-MANIFESTA-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MATH-GENESIS-v2.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MATH-GENESIS-v2.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MATHWEAVE-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MATHWEAVE-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MATHWEAVE-20",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MATHWEAVE-20",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MICROCOSM92",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MICROCOSM92",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MINDPORT",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MINDPORT",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MONOGENESIS-DECISOR-v5.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MONOGENESIS-DECISOR-v5.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MONOGENESIS-ONE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MONOGENESIS-ONE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MONOGENESIS-TOTALIS-4.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MONOGENESIS-TOTALIS-4.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MYOPIACOMMONS95",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MYOPIACOMMONS95",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Mathematical-Understanding-Genesis-Proof-Metabolism-and-Teachable-Regeneration-System-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Mathematical-Understanding-Genesis-Proof-Metabolism-and-Teachable-Regeneration-System-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/MindRights",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/MindRights",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Multi-Model-Semantic-Domain-Health-Evaluation-and-Reflexive-Governance",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Multi-Model-Semantic-Domain-Health-Evaluation-and-Reflexive-Governance",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NEGENESIS-OMEGA",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NEGENESIS-OMEGA",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOEMA-ASCENDENS-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOEMA-ASCENDENS-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOEMA-SOVEREIGN-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOEMA-SOVEREIGN-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOESIS-ATLAS-5.9",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOESIS-ATLAS-5.9",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOESISCOPE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOESISCOPE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NOMOGENESIS-6.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NOMOGENESIS-6.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Navier-Stokes-BCSTC",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Navier-Stokes-BCSTC",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/NeuroSentinel-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OPEN-MATH-GENESIS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OPEN-MATH-GENESIS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OPENBECOMING84",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OPENBECOMING84",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OPENCONSTELLATION",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OPENCONSTELLATION",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OmniMemory-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OmniMemory-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Open-Artificial-Consciousness-R-D-Ethics-Review-and-Application-Pilot-Platform-for-China",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Open-Artificial-Consciousness-R-D-Ethics-Review-and-Application-Pilot-Platform-for-China",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Open-Evidence-to-Value-Commercialization-and-Paid-Pilot-Studio",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Open-Evidence-to-Value-Commercialization-and-Paid-Pilot-Studio",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Open-Negentropic-Genesis-Universe-Life-Co-becoming-and-Universal-Return-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Open-Negentropic-Genesis-Universe-Life-Co-becoming-and-Universal-Return-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Open-Research-Benchmark-Impact-and-Translation-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Open-Research-Benchmark-Impact-and-Translation-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Open-Supply-Chain-Evidence-Passport-and-Rule-Resilience-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Open-Supply-Chain-Evidence-Passport-and-Rule-Resilience-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Organization-AI-Control-Plane",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Organization-AI-Control-Plane",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OriginTrust84",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OriginTrust84",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/OutcomeForge-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/OutcomeForge-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PARALLAX",
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "775be9fbb90cb746acdf8ecd08a56c1a99d6cf57",
+      "source_url": "https://github.com/YucongDuan/PARALLAX",
+      "commit_url": "https://github.com/YucongDuan/PARALLAX/commit/775be9fbb90cb746acdf8ecd08a56c1a99d6cf57",
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PERSONA-NOESIS-CONTINUUM-24.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PERSONA-NOESIS-CONTINUUM-24.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PHILOSOPHIA-ULTIMA-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PHILOSOPHIA-ULTIMA-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PRIMORDIA",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PRIMORDIA",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PROACTIVE-ESSENCE-ECONOMY",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PROACTIVE-ESSENCE-ECONOMY",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/PROOFGENESIS-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/PROOFGENESIS-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Personal-Intent-Supremum-Runtime",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Personal-Intent-Supremum-Runtime",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Personalized-Digital-Life-Open-Foundry",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Personalized-Digital-Life-Open-Foundry",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Pharma-IP-Evidence-Intelligence-MVP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Pharma-IP-Evidence-Intelligence-MVP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Post-Paper-Proactive-Medicine-Human-AI-Boundary-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Post-Paper-Proactive-Medicine-Human-AI-Boundary-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Power-Realist-Origin-Use-Attribution-Value-Return-Consequence-Continuity-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Power-Realist-Origin-Use-Attribution-Value-Return-Consequence-Continuity-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Proof-Metabolism-Canonization-OS-PMCOS-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Proof-Metabolism-Canonization-OS-PMCOS-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Pudong-SmartRehab-Harbor",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Pudong-SmartRehab-Harbor",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/REGEN-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/REGEN-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/REGENLOOP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/REGENLOOP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/RELATIONLAB-54",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/RELATIONLAB-54",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ROOTWEAVE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ROOTWEAVE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Real-estate-true-value-and-future-potential-digital-twin",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Real-estate-true-value-and-future-potential-digital-twin",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Reincarnation-Continuity-Cognitive-Closure-Interconnection-and-Human-Civilization-Gateway",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Reincarnation-Continuity-Cognitive-Closure-Interconnection-and-Human-Civilization-Gateway",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/RepoProof-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/RepoProof-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SEMANTIC-GENESIS-5.9",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SEMANTIC-GENESIS-5.9",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SEPTEM",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SEPTEM",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SILICON-COMMONS-86",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SILICON-COMMONS-86",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SOVEREIGN-GATE-12.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SOVEREIGN81-Local-Sovereign-Agent-Fabric",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SOVEREIGN81-Local-Sovereign-Agent-Fabric",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/SYMBIOBRIDGE-9.5",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/SYMBIOBRIDGE-9.5",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Schanuel-s-Conjecture-Mesh8.0-Semantic-Closure-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Schanuel-s-Conjecture-Mesh8.0-Semantic-Closure-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Semantic-Capital-Foundry-13.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Semantic-Capital-Foundry-13.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Semantic-Closure-Mathematics-Atlas",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Semantic-Firewall-MVP",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Semantic-Firewall-MVP",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/TAOGENESIS86",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/TAOGENESIS86",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/THEORYGENOME-5.9",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/THEORYGENOME-5.9",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/TIANHENG84",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/TIANHENG84",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/True-Autonomous-Artificial-Consciousness",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/True-Autonomous-Artificial-Consciousness",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/TrueValue-Shield-",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/TrueValue-Shield-",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/TrustPlane-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/TrustPlane-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Twin-Prime-Semantic-Closure-Package",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Twin-Prime-Semantic-Closure-Package",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Twin-Prime-TBCOHC-System",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Twin-Prime-TBCOHC-System",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ULTIMA-6.2A",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ULTIMA-6.2A",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ULTIMAWEAVE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ULTIMAWEAVE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/UNBOUND-GENESIS-System-Foundry",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/UNBOUND-GENESIS-System-Foundry",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Ultimate-Candidate",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Ultimate-Candidate",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Ultimate-Question-Root-World-Essence-and-Transconceptual-Problem-Solving-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Ultimate-Question-Root-World-Essence-and-Transconceptual-Problem-Solving-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Universal-Native-Semantic-Proof-System-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Universal-Native-Semantic-Proof-System-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/VITA84",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/VITA84",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/VITALIS-85",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/VITALIS-85",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ValueWeave14.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ValueWeave14.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WAAC-GENESISCOPE-OS",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WAAC-GENESISCOPE-OS",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WORLDCORE-6.4A",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WORLDCORE-6.4A",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WORLDLOOM",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WORLDLOOM",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WorkProof-Campus-OS-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WorkProof-Campus-OS-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WorldAI-Evidence-Grid",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WorldAI-Evidence-Grid",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/WorldWeave",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/WorldWeave",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/XENOESIS-ZERO-1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/XENOESIS-ZERO-1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/XENOFORM",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/XENOFORM",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/YUCONG-9.5",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/YUCONG-9.5",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/YUCONG-ONE",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/YUCONG-ONE",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/ZHUZI-PALIMPSEST81",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/ZHUZI-PALIMPSEST81",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    },
+    {
+      "repository": "YucongDuan/two-system-supplemental-delivery",
+      "status": "NOT_ATTEMPTED",
+      "commit": null,
+      "source_url": "https://github.com/YucongDuan/two-system-supplemental-delivery",
+      "commit_url": null,
+      "runtime_verification": "NOT_RUN"
+    }
+  ]
+}

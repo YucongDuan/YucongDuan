@@ -1,8 +1,8 @@
 # DIKWP source distribution and reproducibility engineering report
 
-Generated: 2026-09-07T05:36:13.513943+00:00. This report is rendered from publication, execution and delivery receipts.
+Generated: 2026-09-07T09:58:56.292119+00:00. This report is rendered from publication, execution and delivery receipts.
 
-**3 priority projects have recorded public commits; 3 projects have 140 passed checks from executed suites. Bulk-queue publication: 9/441.**
+**3 priority projects have recorded public commits; 3 projects have 140 passed checks from executed suites. Bulk-queue publication: 32/441.**
 
 ## Published projects and executed evidence
 
@@ -28,7 +28,7 @@ These are identified byte snapshots. File counts are not feature counts; test su
 
 ## Portfolio scope and current bulk state
 
-The repository assignment accounts for 480 unique records: 441 bulk repositories + 3 priority repositories + 36 remaining snapshots. Inventory match: True; disjoint groups: True. This is assignment coverage, not proof that a final archive contains every source tree. No final delivery manifest was supplied to this report; full packaging or universal runnability is not claimed.
+The repository assignment accounts for 480 unique records: 441 bulk repositories + 3 priority repositories + 36 remaining snapshots. Inventory match: True; disjoint groups: True. Final delivery manifest records: metadata entries：480; repositories with retained original archives：478; repositories with included source views：479; empty repositories：1; repositories with excluded payloads：0; excluded files：0. Source/archive coverage is distinct from offline runtime verification.
 
 Initial root audit: 2026-09-07T04:21:25.511182+00:00.
 
@@ -40,7 +40,7 @@ Initial root audit: 2026-09-07T04:21:25.511182+00:00.
 | `unverified` | 1 |
 | `zip_only_root` | 443 |
 
-Directory names, missing language statistics and ZIP presence are not software-quality or reproducibility proofs. VerityWeave already had visible source; its principal issue was runtime validation. PACT and MESH² belonged to the original ZIP-only queue. Current individual preparation receipts for the remaining queue are shown below; recorded bulk publication is separately **9/441**.
+Directory names, missing language statistics and ZIP presence are not software-quality or reproducibility proofs. VerityWeave already had visible source; its principal issue was runtime validation. PACT and MESH² belonged to the original ZIP-only queue. Current individual preparation receipts for the remaining queue are shown below; recorded bulk publication is separately **32/441**.
 
 | Individual preparation state | Count |
 | --- | ---: |

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T05:36:13.513943+00:00",
+  "generated_at_utc": "2026-09-07T09:58:56.292119+00:00",
   "inventory_count": 480,
   "inventory_checked_at": "2026-09-07T04:07:21.333882+00:00",
   "initial_root_counts": {
@@ -44,6 +44,28 @@
       "ci_conclusion": "success",
       "ci_url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258"
     },
+    "YucongDuan/-": {
+      "status": "PUBLISHED_DOCUMENTATION_ONLY",
+      "commit": "e816977d8215b43511efc14f2ad069c9779c714d",
+      "commit_url": "https://github.com/YucongDuan/-/commit/e816977d8215b43511efc14f2ad069c9779c714d",
+      "tree_url": "https://github.com/YucongDuan/-/tree/e816977d8215b43511efc14f2ad069c9779c714d",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/-.json",
+      "local_receipt": "publication/bulk/-.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/-C1-C3-": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1d92d8080508a947d0873af6ab14c3d3a708f715",
+      "commit_url": "https://github.com/YucongDuan/-C1-C3-/commit/1d92d8080508a947d0873af6ab14c3d3a708f715",
+      "tree_url": "https://github.com/YucongDuan/-C1-C3-/tree/1d92d8080508a947d0873af6ab14c3d3a708f715",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/-C1-C3-.json",
+      "local_receipt": "publication/bulk/-C1-C3-.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
     "YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System": {
       "status": "PUBLISHED_SOURCE_UNTESTED",
       "commit": "1031b6e77c28d5643e085199eacef3fe0e523b3b",
@@ -63,6 +85,83 @@
       "checked_at": "",
       "receipt_path": "publication/bulk/-DIKWP-NietzscheOverhuman-AC-OS.json",
       "local_receipt": "publication/bulk/-DIKWP-NietzscheOverhuman-AC-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "8183e96f1dfb7a058227fc8118404f3471e9f2a5",
+      "commit_url": "https://github.com/YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package/commit/8183e96f1dfb7a058227fc8118404f3471e9f2a5",
+      "tree_url": "https://github.com/YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package/tree/8183e96f1dfb7a058227fc8118404f3471e9f2a5",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package.json",
+      "local_receipt": "publication/bulk/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/COSMONOESIS9.5": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "0f40e4b730223c6df799bb83a0231ff34761064b",
+      "commit_url": "https://github.com/YucongDuan/COSMONOESIS9.5/commit/0f40e4b730223c6df799bb83a0231ff34761064b",
+      "tree_url": "https://github.com/YucongDuan/COSMONOESIS9.5/tree/0f40e4b730223c6df799bb83a0231ff34761064b",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/COSMONOESIS9.5.json",
+      "local_receipt": "publication/bulk/COSMONOESIS9.5.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "673aa6b1e978b6ce2ca3f922cdef9ac5e51a6d1c",
+      "commit_url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/commit/673aa6b1e978b6ce2ca3f922cdef9ac5e51a6d1c",
+      "tree_url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS/tree/673aa6b1e978b6ce2ca3f922cdef9ac5e51a6d1c",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS.json",
+      "local_receipt": "publication/bulk/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "6195eec094955e195994de5ee73e4fd0e325fb86",
+      "commit_url": "https://github.com/YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel/commit/6195eec094955e195994de5ee73e4fd0e325fb86",
+      "tree_url": "https://github.com/YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel/tree/6195eec094955e195994de5ee73e4fd0e325fb86",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/Core-Semantic-Federation-and-Continuity-Kernel.json",
+      "local_receipt": "publication/bulk/Core-Semantic-Federation-and-Continuity-Kernel.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cd52f6072fc29a0e0af128b606f155217cd137a5",
+      "commit_url": "https://github.com/YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS/commit/cd52f6072fc29a0e0af128b606f155217cd137a5",
+      "tree_url": "https://github.com/YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS/tree/cd52f6072fc29a0e0af128b606f155217cd137a5",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS.json",
+      "local_receipt": "publication/bulk/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP--LIFE-": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "c44f80f05951e0cc477faaf1005685dd8051b3f5",
+      "commit_url": "https://github.com/YucongDuan/DIKWP--LIFE-/commit/c44f80f05951e0cc477faaf1005685dd8051b3f5",
+      "tree_url": "https://github.com/YucongDuan/DIKWP--LIFE-/tree/c44f80f05951e0cc477faaf1005685dd8051b3f5",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP--LIFE-.json",
+      "local_receipt": "publication/bulk/DIKWP--LIFE-.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-10.0-": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "a30544007fb983c86c8c2415392241c2d1a7cf2a",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-10.0-/commit/a30544007fb983c86c8c2415392241c2d1a7cf2a",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-10.0-/tree/a30544007fb983c86c8c2415392241c2d1a7cf2a",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-10.0-.json",
+      "local_receipt": "publication/bulk/DIKWP-10.0-.json",
       "ci_conclusion": null,
       "ci_url": null
     },
@@ -121,6 +220,127 @@
       "ci_conclusion": null,
       "ci_url": null
     },
+    "YucongDuan/DIKWP-ARK": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "b48de0db7bc2afff8d078a31e72bd720208a5554",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ARK/commit/b48de0db7bc2afff8d078a31e72bd720208a5554",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-ARK/tree/b48de0db7bc2afff8d078a31e72bd720208a5554",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-ARK.json",
+      "local_receipt": "publication/bulk/DIKWP-ARK.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-ASIWave-Sentinel-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "1fbb53a9c45c335b589bdbd5631c7f5eb9de1a72",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ASIWave-Sentinel-OS/commit/1fbb53a9c45c335b589bdbd5631c7f5eb9de1a72",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-ASIWave-Sentinel-OS/tree/1fbb53a9c45c335b589bdbd5631c7f5eb9de1a72",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-ASIWave-Sentinel-OS.json",
+      "local_receipt": "publication/bulk/DIKWP-ASIWave-Sentinel-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-ActiveConsciousness-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "0e69769f7bdbbf786a23a52c539953faf93f6731",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-ActiveConsciousness-OS/commit/0e69769f7bdbbf786a23a52c539953faf93f6731",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-ActiveConsciousness-OS/tree/0e69769f7bdbbf786a23a52c539953faf93f6731",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-ActiveConsciousness-OS.json",
+      "local_receipt": "publication/bulk/DIKWP-ActiveConsciousness-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-COMMONBRIDGE-85": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "e7e474bac191d85ed929711e3008a331bb7cf592",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-COMMONBRIDGE-85/commit/e7e474bac191d85ed929711e3008a331bb7cf592",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-COMMONBRIDGE-85/tree/e7e474bac191d85ed929711e3008a331bb7cf592",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-COMMONBRIDGE-85.json",
+      "local_receipt": "publication/bulk/DIKWP-COMMONBRIDGE-85.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-CONTINUUM-": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "fc1da4d31f88d1f96bf1043f63f1673c52e3ac1e",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-/commit/fc1da4d31f88d1f96bf1043f63f1673c52e3ac1e",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-/tree/fc1da4d31f88d1f96bf1043f63f1673c52e3ac1e",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-CONTINUUM-.json",
+      "local_receipt": "publication/bulk/DIKWP-CONTINUUM-.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-COSMOS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "c7dbae26ff71dff1e87ce4bf4822115e585432b7",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-COSMOS/commit/c7dbae26ff71dff1e87ce4bf4822115e585432b7",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-COSMOS/tree/c7dbae26ff71dff1e87ce4bf4822115e585432b7",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-COSMOS.json",
+      "local_receipt": "publication/bulk/DIKWP-COSMOS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-Channel-Guard-System": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "803f47699ec99a9c56482f28ee282512c5ef9ff8",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System/commit/803f47699ec99a9c56482f28ee282512c5ef9ff8",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System/tree/803f47699ec99a9c56482f28ee282512c5ef9ff8",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-Channel-Guard-System.json",
+      "local_receipt": "publication/bulk/DIKWP-Channel-Guard-System.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-Confidential-Exchange-System": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cbf41e0865e4d14999d1dc3edebf055f076f2afe",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System/commit/cbf41e0865e4d14999d1dc3edebf055f076f2afe",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System/tree/cbf41e0865e4d14999d1dc3edebf055f076f2afe",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-Confidential-Exchange-System.json",
+      "local_receipt": "publication/bulk/DIKWP-Confidential-Exchange-System.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-DesireBalance-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "cb29e144a5c6d35f952df2715d880a213e28fc16",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS/commit/cb29e144a5c6d35f952df2715d880a213e28fc16",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS/tree/cb29e144a5c6d35f952df2715d880a213e28fc16",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-DesireBalance-OS.json",
+      "local_receipt": "publication/bulk/DIKWP-DesireBalance-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-EIR-Mesh-v1.0": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "9993bf8ee172b87dd666dece172009bc616b1903",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0/commit/9993bf8ee172b87dd666dece172009bc616b1903",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0/tree/9993bf8ee172b87dd666dece172009bc616b1903",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-EIR-Mesh-v1.0.json",
+      "local_receipt": "publication/bulk/DIKWP-EIR-Mesh-v1.0.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-EcosystemRouter-OS": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "b6f543821546912b138c5c6fc6fadf731a9cec6a",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-EcosystemRouter-OS/commit/b6f543821546912b138c5c6fc6fadf731a9cec6a",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-EcosystemRouter-OS/tree/b6f543821546912b138c5c6fc6fadf731a9cec6a",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-EcosystemRouter-OS.json",
+      "local_receipt": "publication/bulk/DIKWP-EcosystemRouter-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
     "YucongDuan/DIKWP-HepatoScholar-Studio-V2": {
       "status": "PUBLISHED_SOURCE_UNTESTED",
       "commit": "cca8c16ad3d7ade0eba138053e3d0fc3c6553fba",
@@ -140,6 +360,39 @@
       "checked_at": "",
       "receipt_path": "publication/bulk/DIKWP-HigherEd-Horizon-OS.json",
       "local_receipt": "publication/bulk/DIKWP-HigherEd-Horizon-OS.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-Xperience-OS-v1.0": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "ec3aab414dcf24acf4de4869016f1e671a71ced7",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Xperience-OS-v1.0/commit/ec3aab414dcf24acf4de4869016f1e671a71ced7",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-Xperience-OS-v1.0/tree/ec3aab414dcf24acf4de4869016f1e671a71ced7",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-Xperience-OS-v1.0.json",
+      "local_receipt": "publication/bulk/DIKWP-Xperience-OS-v1.0.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/DIKWP-Yijing-LearnLab-2026-V1": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "6d2d4f938b21f43801da04e8244396a6a5f594c2",
+      "commit_url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1/commit/6d2d4f938b21f43801da04e8244396a6a5f594c2",
+      "tree_url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1/tree/6d2d4f938b21f43801da04e8244396a6a5f594c2",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/DIKWP-Yijing-LearnLab-2026-V1.json",
+      "local_receipt": "publication/bulk/DIKWP-Yijing-LearnLab-2026-V1.json",
+      "ci_conclusion": null,
+      "ci_url": null
+    },
+    "YucongDuan/PARALLAX": {
+      "status": "PUBLISHED_SOURCE_UNTESTED",
+      "commit": "775be9fbb90cb746acdf8ecd08a56c1a99d6cf57",
+      "commit_url": "https://github.com/YucongDuan/PARALLAX/commit/775be9fbb90cb746acdf8ecd08a56c1a99d6cf57",
+      "tree_url": "https://github.com/YucongDuan/PARALLAX/tree/775be9fbb90cb746acdf8ecd08a56c1a99d6cf57",
+      "checked_at": "",
+      "receipt_path": "publication/bulk/PARALLAX.json",
+      "local_receipt": "publication/bulk/PARALLAX.json",
       "ci_conclusion": null,
       "ci_url": null
     }
@@ -227,7 +480,7 @@
     "settled_at": "2026-09-07T05:20:19.109696+00:00",
     "repositories": 441
   },
-  "bulk_published": 9,
+  "bulk_published": 32,
   "rest_summary": {
     "schema": "dikwp-nonzip-queue-snapshots/1",
     "updated_at": "2026-09-07T05:10:52.503179+00:00",
@@ -651,10 +904,17 @@
     "disjoint": true,
     "matches_inventory": true
   },
-  "final_manifest_supplied": false,
-  "final_manifest_name": null,
-  "final_manifest_schema": null,
-  "final_coverage": {},
+  "final_manifest_supplied": true,
+  "final_manifest_name": "DELIVERY_COVERAGE.json",
+  "final_manifest_schema": "dikwp-full-offline-delivery/v1",
+  "final_coverage": {
+    "metadata_entries": 480,
+    "repositories_with_original_archives": 478,
+    "repositories_with_source_views": 479,
+    "empty_repositories": 1,
+    "excluded_payload_repositories": 0,
+    "excluded_files": 0
+  },
   "linux_wheel_count": 22,
   "snapshot_hash_verification": {
     "status": "PASS",

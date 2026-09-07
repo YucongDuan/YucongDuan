@@ -167,3 +167,26 @@ These citations help show how research enters new problem areas. They do not mak
 Rerun an experiment, report a failure, improve documentation or test a domain-specific hypothesis. Sustained research needs discussion, maintenance and peers who are willing to identify weaknesses and help improve the work.
 
 [Source and reproducibility](https://yucong-duan-research.dikwp407.chatgpt.site/reproducibility) · [Full citation evidence](https://github.com/YucongDuan/YucongDuan/blob/main/RESEARCH_ENRICHMENT_2026-09-07.md) · [GitHub projects](https://github.com/YucongDuan)
+
+
+## 6. Profile navigation refresh · LinkedIn / WeChat follow-up
+
+### English
+
+I have reorganized my GitHub research homepage around four practical routes: understand the research, inspect and run a project, check an evidence source, and find related work. The profile offers 13 language entry points and a dated directory of 480 public repositories.
+
+VerityWeave, PACT and MESH² now lead the engineering entry, with links to exact revisions and successful CI runs. The broader catalog states each project’s source and verification status. Publications, books, institutional references and patent evidence remain available in organized sections.
+
+A new contribution guide welcomes concrete work: reproduce a command, report a failing case, improve a translation, verify a citation or document an adapter between two projects.
+
+[Explore the GitHub profile](https://github.com/YucongDuan) · [Contribution guide](https://github.com/YucongDuan/YucongDuan/blob/main/CONTRIBUTING.md)
+
+### 中文
+
+我的 GitHub 研究主页已重新整理为四个实用入口：了解研究、查看与运行项目、核查成果证据、寻找相关工作。主页提供 13 语导航和带日期的 480 个公开仓库目录。
+
+VerityWeave、PACT 和 MESH² 的源码、具体版本和通过的持续集成检查已提前展示。其他项目在目录中分别标注源码与验证状态；文献、图书、机构引用和专利材料继续按主题保留。
+
+欢迎从一件具体的工作参与：复现一条命令、报告一个失败案例、改进一段翻译、核对一条引用，或为两个项目编写有输入输出记录的适配器。
+
+[访问 GitHub 主页](https://github.com/YucongDuan) · [参与指南](https://github.com/YucongDuan/YucongDuan/blob/main/CONTRIBUTING.md)
