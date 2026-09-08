@@ -1,4 +1,6 @@
-# Source and verification catalog / 源码与验证目录
+[Chinese guide](README.zh-CN.md)
+
+# Source and verification catalog
 
 [Current 483-repository directory](../REPOSITORY_DIRECTORY.md) · [Machine-readable engineering catalog](CATALOG.json) · [Current status](../CURRENT_STATUS.md)
 
@@ -15,6 +17,5 @@ The three projects published on 8 September 2026 add **182 local passing tests**
 
 All 483 repository IDs and public metadata were rechecked. Historical source audits, local preparation states and test evidence retain their own timestamps. Preparation does not establish successful tests or publication. Related-project links support navigation and do not assert runtime dependencies.
 
-本次三个新项目增加 182 项本地测试；历史三个重点项目保留 140 项验证记录。合计 322 项记录分属六个项目及不同日期，不能理解为所有 483 个仓库均已通过测试。旧源码展开队列继续保留原有状态和日期。
 
-The existing `index.html` remains the dated 7 September offline snapshot. Use this page and `CATALOG.json` for the current 483-repository inventory. 旧离线 HTML 保留原日期快照；当前入口为本页与更新后的 JSON。
+The existing `index.html` remains the dated 7 September offline snapshot. Use this page and `CATALOG.json` for the current 483-repository inventory.

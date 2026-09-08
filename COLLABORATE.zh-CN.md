@@ -1,6 +1,6 @@
-# Collaborate on a concrete research result
+[English version](COLLABORATE.md)
 
-[Chinese reference](COLLABORATE.zh-CN.md)
+# Collaborate on a concrete research result / 从具体成果开始合作
 
 [Profile](README.md) · [First experiment](START_HERE.md) · [Contribution details](CONTRIBUTING.md)
 
@@ -24,3 +24,9 @@ For academic correspondence that should not be public, use [ResearchGate](https:
 ## Help readers discover the work
 
 Link to a specific repository or [this introduction](START_HERE.md) when sharing. Name the question it addresses and the result a reader can reproduce. Use [CITING.md](CITING.md) for attribution and [SHARE.md](SHARE.md) for concise introductory text. A report describing what failed is useful research evidence too.
+
+## 中文参与说明
+
+合作可以从一个小问题开始：一次可复现运行、一个反例、一种基线、一个适配器，或一段保持证据含义一致的翻译。请写明具体仓库、提交版本、环境、最小输入、预期结果与实际输出。
+
+公开研究提案请使用[提案表单](https://github.com/YucongDuan/YucongDuan/issues/new?template=research-proposal.yml)，说明研究问题、已有工作、方法、本人可承担的贡献与预期公开材料，并指出什么结果会削弱假设。适合非公开交流的学术材料可通过 ResearchGate 异步沟通。具体代码问题请提交到项目自身的 issue。

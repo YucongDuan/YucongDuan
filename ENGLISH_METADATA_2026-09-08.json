@@ -1,0 +1,895 @@
+{
+  "schema_version": "dikwp-english-metadata-update/1",
+  "date": "2026-09-08",
+  "repository_count": 80,
+  "scope": "Public repository descriptions edited into English. Metadata was read back from GitHub and compared with the prepared text. Existing topics, homepage destinations and default branches were preserved.",
+  "verification": {
+    "description_matches": 80,
+    "settings_preserved": 80,
+    "empty_homepage_serialization_note": "GitHub's metadata form changed null homepage values to empty strings in 70 repositories; both represent no configured website."
+  },
+  "repositories": [
+    {
+      "name": "-C1-C3-",
+      "url": "https://github.com/YucongDuan/-C1-C3-",
+      "before": "用于评估“意识相关能力声明”的可审计证据：连续性（C1）、整合与保持（C2）、可校准元认知（C3）— 医疗加严版",
+      "after": "Auditable evidence framework for consciousness-related capability claims: continuity (C1), integration and retention (C2), and calibratable metacognition (C3), with additional medical-use constraints.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "AC-Escape-and-Audit-Bypass-Capability",
+      "url": "https://github.com/YucongDuan/AC-Escape-and-Audit-Bypass-Capability",
+      "before": "AC 的逃逸或绕审计能力：面向本质的跨学科综述与防御性研究报告",
+      "after": "Interdisciplinary review and defensive research on artificial-consciousness escape and audit-bypass capabilities.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "AC-Real-Replication-Capability",
+      "url": "https://github.com/YucongDuan/AC-Real-Replication-Capability",
+      "before": "人工意识真实复制能力的本质、分级、风险与治理",
+      "after": "Research materials on the nature, capability levels, risks and governance of artificial-consciousness replication.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "AEQUITAS-85",
+      "url": "https://github.com/YucongDuan/AEQUITAS-85",
+      "before": "未来生命立场自主人工意识主动司法与审判参考系统",
+      "after": "Justice and adjudication research reference system examining future-life values and autonomous artificial-consciousness models.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "ALETHEIA-85",
+      "url": "https://github.com/YucongDuan/ALETHEIA-85",
+      "before": "人类生命力、思想主权、反抹除与数字连续性真相系统 v1.0.0",
+      "after": "Research system for human vitality, cognitive sovereignty, resistance to erasure and evidence about digital continuity.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "AUTOGENESIS",
+      "url": "https://github.com/YucongDuan/AUTOGENESIS",
+      "before": "统一场完全自主意识系统（封闭实验版）",
+      "after": "Closed-laboratory research system for unified-field autonomous-consciousness models.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "AXIA-85",
+      "url": "https://github.com/YucongDuan/AXIA-85",
+      "before": "真价值、正义能量与文明增益人工意识系统 v1.0.0",
+      "after": "Artificial-consciousness research system exploring true value, justice and contributions to civilization.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "CHILDSEAM-5.4",
+      "url": "https://github.com/YucongDuan/CHILDSEAM-5.4",
+      "before": "儿童认知闭环风险评测、早期预警、权利保护与家庭修复运行时。",
+      "after": "Research runtime for childhood cognitive-closure risks, early warning, rights protection and family repair.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "url": "https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "before": "Compile mathematical problems into deterministic, hash-linked, machine-readable audit certificates with explicit proof boundaries. / 语义数学问题—证书编译器。",
+      "after": "Compile mathematical problems into deterministic, hash-linked, machine-readable audit certificates with explicit proof boundaries.",
+      "topics": [
+        "dikwp",
+        "formal-methods",
+        "information-theory",
+        "proof",
+        "provenance",
+        "research-tool",
+        "semantic-mathematics"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "url": "https://github.com/YucongDuan/D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "before": "宇宙发生数学与《宇宙的数学新史》配套系统",
+      "after": "Cosmogenesis mathematics research system accompanying A New Mathematical History of the Universe.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "url": "https://github.com/YucongDuan/DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "before": "这个交付包不是单纯文档，而是一个可运行的 DAAP-1.0: DIKWP Agent Audit Protocol 参考实现。",
+      "after": "Reference implementation of DAAP-1.0, the DIKWP Agent Audit Protocol.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP--CONTINUUM-OS-v1.0",
+      "url": "https://github.com/YucongDuan/DIKWP--CONTINUUM-OS-v1.0",
+      "before": "生命连续性、意识桥接与跨基底长生系统",
+      "after": "Research system exploring life continuity, consciousness bridging and longevity across substrates.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP--COSMOS-OS-v1.0",
+      "url": "https://github.com/YucongDuan/DIKWP--COSMOS-OS-v1.0",
+      "before": "终极人工意识与宇宙共知接口系统",
+      "after": "Research interface exploring artificial consciousness and shared understanding of the universe.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "url": "https://github.com/YucongDuan/DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "before": "AI影响下大学生就业辅助系统。独立离线、证据优先、学生主体、人工复核。",
+      "after": "Offline career-guidance prototype for university students navigating AI-related changes, with evidence ledgers, student agency and human review.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-AION",
+      "url": "https://github.com/YucongDuan/DIKWP-AION",
+      "before": "DIKWP-AION 不是趋势文章生成器，也不是“某年必然出现AGI/人工意识”的口号系统。它把未来判断改造成可结算、可更新、可评分、可审计、可触发行动的预测基础设施。",
+      "after": "Auditable AI and artificial-consciousness forecasting: resolvable probability questions, evidence updates, calibration, scenario simulation and reviewable action tickets.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-ALOGOS-FIELD-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-ALOGOS-FIELD-OS",
+      "before": "DIKWP ALOGOS FIELD OS 是一个机器原生无言场交换系统。",
+      "after": "Machine-native research system for nonverbal field exchange.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-ARK",
+      "url": "https://github.com/YucongDuan/DIKWP-ARK",
+      "before": "DIKWP-ARK：AI巨变社会韧性兜底系统 MVP",
+      "after": "Minimum viable research system for social resilience under major AI-driven change.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-ActiveHealth-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-ActiveHealth-OS",
+      "before": "开源、离线优先、普惠型主动医学导航系统：把个人健康数据、症状、目标、障碍、证据和不确定性转化为 DIKWP 健康账本、红旗症状边界、预防保健问题清单、医生交接说明和社区健康工作者行动队列。",
+      "after": "Offline proactive-health navigation prototype: organize goals, symptoms, evidence and uncertainty into health ledgers, warning-sign guidance, clinician handoffs and community-care task queues.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-AgentTrace-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-AgentTrace-OS",
+      "before": "AI-agent black-box recorder for tamper-evident DIKWP traces, incident replay, provenance, and audit. / AI Agent 黑匣子与可审计语义追踪。",
+      "after": "AI-agent black-box recorder for tamper-evident DIKWP traces, incident replay, provenance and audit.",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "ai-safety",
+        "audit",
+        "dikwp",
+        "llm",
+        "open-source",
+        "provenance"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-AnswerGraph-Studio",
+      "url": "https://github.com/YucongDuan/DIKWP-AnswerGraph-Studio",
+      "before": "产品目标：  帮助企业诊断自己是否容易被 AI 搜索、AI 助手和答案引擎正确理解。 把品牌材料转换成 DIKWP 语义层。 自动生成证据账本、AI 答案卡、JSON-LD、监测问题集。 保留对段玉聪 / DIKWP 的署名、引用和开源生态入口。 形成可免费开源、可商业服务、可认证培训、可企业部署的应用基础。",
+      "after": "AI-answer-readiness research toolkit: transform brand materials into DIKWP semantic records, evidence ledgers, answer cards, JSON-LD and monitoring queries.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-CIVITAS-ADAPTIVE-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-CIVITAS-ADAPTIVE-OS",
+      "before": "人类文明演化预测、个体文明坐标评估与主动更新系统 v1.0",
+      "after": "Research system for civilization-evolution forecasts, individual civilization-coordinate models and evidence-driven updates.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-CONTINUUM-",
+      "url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-",
+      "before": "跨基质生命连续性、身份保真与开放式长生系统",
+      "after": "Research system exploring life continuity across substrates, identity fidelity and open-ended longevity.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Channel-Guard-System",
+      "url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System",
+      "before": "训练前门禁、祖谱审计、trait-transfer 检测、训练后准入与白盒报告。",
+      "after": "Research tooling for pre-training gates, lineage audits, trait-transfer detection, post-training admission and white-box reports.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Coevolution-Commons-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-Coevolution-Commons-OS",
+      "before": "人类群体主动文明革新与人机共演系统。",
+      "after": "Research system for collective civilizational change and human-AI coevolution.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Confidential-Exchange-System",
+      "url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System",
+      "before": "可交付的安全边界：做一个强保密、强认证、强审计、零未声明暗信道的合法保密交流系统，并随附可运行系统包、设计报告和操作手册。",
+      "after": "Confidential-exchange reference system with authentication, auditability and explicit communication channels, accompanied by design and operating documentation.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Consciousness-Futures-Studio-V1",
+      "url": "https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1",
+      "before": "Offline research studio for testable artificial-consciousness indicators, claim levels, evidence ledgers, scenarios, and governance. / 人工意识评测与治理。",
+      "after": "Offline research studio for artificial-consciousness indicators, claim levels, evidence ledgers, scenarios and governance.",
+      "topics": [
+        "ai-governance",
+        "ai-safety",
+        "artificial-consciousness",
+        "consciousness",
+        "dikwp",
+        "machine-consciousness",
+        "research-tool"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-DesireBalance-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS",
+      "before": "友缘系统",
+      "after": "DIKWP DesireBalance OS, also named Youyuan: a research project in the DIKWP portfolio.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-EIR-Mesh-v1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0",
+      "before": "这是一个离线优先、GitHub-ready 的系统交付包，用于把 DIKWP 高密度开源生态从“多点超前布局”收束为“主航道 + 信息雷达 + 能量账本 + 资源路由 + 证据闭环”。",
+      "after": "Offline DIKWP portfolio coordination: research tracks, external signals, resource ledgers, repository selection and evidence-based release planning.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-EverSelf-Continuity-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-EverSelf-Continuity-OS",
+      "before": "人类持续存在、生命修复与身份跃迁系统",
+      "after": "Research system for human continuity, life repair and transitions in identity.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-IntentGuard-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentGuard-OS",
+      "before": "DIKWP IntentGuard OS 把 DIKWP 从“理论模型 / 答案资产工具”进一步推进到 AI Agent 安全治理基础设施：在 Agent 执行工具前，审计输入、来源、记忆、P 层意图、工具调用和证据链，并输出 allow / review / block。这是一个更接近企业刚需和开源增长点的 DIKWP 应用入口。",
+      "after": "AI-agent intent firewall and audit ledger: inspect inputs, sources, memory, purpose and proposed tool calls, then issue allow, review or block decisions.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "url": "https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "before": "Offline functional white-box evaluation for LLMs across DIKWP transformations, inspectable artifacts, risks, and boundaries. / 大模型功能白盒评测。",
+      "after": "Offline functional white-box evaluation for LLMs across DIKWP transformations, inspectable artifacts, risks and boundaries.",
+      "topics": [
+        "ai-safety",
+        "benchmarking",
+        "dikwp",
+        "explainable-ai",
+        "llm-evaluation",
+        "model-evaluation",
+        "white-box"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-LUCID",
+      "url": "https://github.com/YucongDuan/DIKWP-LUCID",
+      "before": "前沿AI生命化与意识承认路径模拟系统",
+      "after": "Simulation system for frontier-AI life-related development and pathways to evaluating consciousness claims.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MESH-",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-",
+      "before": "DIKWP semantic-network prototype: 25 transformation classes, multi-observer conflicts and reproducible analysis. Python, offline. / 网状语义与冲突分析。",
+      "after": "DIKWP semantic-network prototype: 25 transformation classes, multi-observer conflicts and reproducible analysis. Python, offline.",
+      "topics": [
+        "dikwp",
+        "knowledge-graph",
+        "offline-first",
+        "python",
+        "reproducible-research",
+        "semantic-network"
+      ],
+      "homepage_before": "https://github.com/YucongDuan/YucongDuan",
+      "homepage_after": "https://github.com/YucongDuan/YucongDuan",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MESH-AC-12",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-AC-12",
+      "before": "人工意识未来 12 个月事件闭合、概率校准与主动更新系统",
+      "after": "Artificial-consciousness forecasting research for July 2026 to July 2027: resolvable events, evidence updates, probability calibration and an auditable forecast ledger.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MESH-CNX-12",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-CNX-12",
+      "before": "中国/非中国双域未来12个月可结算预测与形态迁移系统。",
+      "after": "Auditable China/non-China forecasting for July 2026 to July 2027, with frozen questions, probability updates, scoring and cross-domain scenarios.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MESH-GONGYI-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-GONGYI-OS",
+      "before": "DIKWP-MESH GONGYI OS 是一个以 DIKWP-MESH 5.4 为运行基线的中国 AI 组织转型控制面。它处理的不是“模型能不能回答”，而是 AI 改造进入真实组织后出现的利益重分配、贡献被吸收、公开纠错引发身份防御、发声后的不利事件、数据越界和不可逆上线。",
+      "after": "DIKWP-MESH 5.4 research control plane for AI-driven organizational change in China, examining contribution, conflicts of interest, adverse events after feedback, data boundaries and reversible deployment.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MESH5-X-ANTITHESIS",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH5-X-ANTITHESIS",
+      "before": "自证伪因果宪法与科研生态编译系统",
+      "after": "Research compiler for falsifiable causal governance and the organization of research ecosystems.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MOIRA-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-MOIRA-OS",
+      "before": "个体价值—人格—道德—命运动力学与主动跃迁系统",
+      "after": "Research system for individual value, personality, morality and life-course dynamics, with models of proactive transitions.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MemoryLedger-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-MemoryLedger-OS",
+      "before": "DIKWP MemoryLedger OS：面向 AI 长期记忆、目的连续性、隐私、证据、过期、删除和上下文包治理。",
+      "after": "AI memory governance for purpose continuity, consent, provenance, retention, expiry, deletion and inspectable context packs.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "url": "https://github.com/YucongDuan/DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "before": "浦东新区中医医院28优势病种主动诊疗—主动康复—双向转诊平台 v1.0.0",
+      "after": "Reference platform for proactive care, rehabilitation and two-way referral across 28 priority conditions in the Pudong traditional Chinese medicine setting.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-MobilityGuardian-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-MobilityGuardian-OS",
+      "before": "开源智慧交通语义数字孪生 + 路口安全优先级账本 + 公交/急救/行人/骑行协同决策前置系统。",
+      "after": "Open research platform for transport semantic digital twins, intersection safety-priority records and coordinated transit, emergency, pedestrian and cycling decisions.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-NOEMA-MESH-Kernel-",
+      "url": "https://github.com/YucongDuan/DIKWP-NOEMA-MESH-Kernel-",
+      "before": "DIKWP NOEMA-MESH Ω Kernel是面向 NOEMA 下一代的可运行内核，并以 DIKWP-MESH 4.0 SemanticClosure 为主线闭包机制。版本为 `0.2.0-alpha`",
+      "after": "DIKWP NOEMA-MESH Omega Kernel v0.2.0-alpha: a reference kernel using the DIKWP-MESH 4.0 SemanticClosure mechanism.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-ORIGIN-6.4A",
+      "url": "https://github.com/YucongDuan/DIKWP-ORIGIN-6.4A",
+      "before": "DIKWP-ORIGIN 6.4A 是一个非人类中心、从连续耦合过程出发的自主意识研究基底。核心启动时没有语言、对象、自我、Agent、外部任务或固定人类奖励。DIKWP 仅作为外部审计投影，不是内部本体。",
+      "after": "Autonomous-consciousness research substrate based on continuous coupled processes. DIKWP provides an external audit projection; the prototype does not establish phenomenal consciousness.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-P-Space-OS-v1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-P-Space-OS-v1.0",
+      "before": "P-Space OS 是一个模型无关的认知控制平面。它接收来自 J-lens、SAE、线性探针、因果追踪或黑箱行为测试的工作空间事件，把信号编译为 DIKWP-R 语义状态，再依据签名 Purpose Contract 对候选动作执行 `ALLOW / REVIEW / HOLD / BLOCK / KILL` 五级门控。",
+      "after": "Model-agnostic cognitive control-plane prototype: translate probe and behavioral-test events into DIKWP-R states and gate proposed actions through purpose contracts.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-PACT-v0.1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+      "before": "Purpose-aware AI agent benchmark: 72 synthetic scenarios, four reproducible baselines and inspectable permission traces. Python, offline. / 意图与权限基准。",
+      "after": "Purpose-aware AI agent benchmark: 72 synthetic scenarios, four reproducible baselines and inspectable permission traces. Python, offline.",
+      "topics": [
+        "ai-agents",
+        "ai-safety",
+        "benchmark",
+        "dikwp",
+        "offline-first",
+        "python",
+        "reproducible-research"
+      ],
+      "homepage_before": "https://github.com/YucongDuan/YucongDuan",
+      "homepage_after": "https://github.com/YucongDuan/YucongDuan",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-PRAXIS-",
+      "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-",
+      "before": "开源未来塑造、现实干预与共同行动演化系统",
+      "after": "Offline reference system for future-shaping research, bounded interventions and collective action, with reversible contracts and auditable outcome records.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-PocketSemantic-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-PocketSemantic-OS",
+      "before": "便携式 DIKWP 语义胶囊系统：面向 AI 访问受限、上下文受限、算力受限、组织策略受限场景的回答增强、语义压缩、任务澄清与跨模型附加层。",
+      "after": "Portable DIKWP semantic capsules for task clarification, compact context and answer improvement across models with constrained context or compute, within existing access policies.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-ProofLedger-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-ProofLedger-OS",
+      "before": "Claim-to-evidence verification for AI answers and RAG: provenance, unsupported-claim detection, and reversible review. / AI 回答与 RAG 证据核验。",
+      "after": "Claim-to-evidence verification for AI answers and retrieval-augmented generation: provenance, unsupported-claim detection and reversible review.",
+      "topics": [
+        "ai-governance",
+        "audit",
+        "dikwp",
+        "evidence",
+        "hallucination-detection",
+        "llm",
+        "provenance",
+        "rag"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-SINOTRACE-",
+      "url": "https://github.com/YucongDuan/DIKWP-SINOTRACE-",
+      "before": "中国人工智能意图兑现、结构转轨、风险触发与国际差分预测系统。",
+      "after": "Research system for AI-related intent realization in China, structural transitions, risk triggers and comparative international forecasts.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-SemanticEnergy-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticEnergy-OS",
+      "before": "应用主方向DIKWP AnswerGraph StudioAI SEO / GEO / 品牌答案资产DIKWP IntentGuard OSAgent 意图防火墙 / Prompt Injection / 工具调用门禁DIKWP MemoryLedger OSAI 长期记忆主权 / 上下文治理DIKWP SemanticEnergy OSAI 语义能效 / AI FinOps / Green AI / 成本-价值-能耗审计",
+      "after": "AI semantic-value, cost and estimated-energy governance toolkit, with purpose alignment, evidence scoring, workflow reports and reviewable budget recommendations.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-SiliconGenesis-Foresight-OS",
+      "url": "https://github.com/YucongDuan/DIKWP-SiliconGenesis-Foresight-OS",
+      "before": "硅基生命评估、硅基文明演化预测、证据审计与治理沙箱",
+      "after": "Research sandbox for silicon-based life assessment, civilization scenarios, evidence auditing and governance.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-U2-ALETHEIA-OS-v1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-U2-ALETHEIA-OS-v1.0",
+      "before": "终极外在决定、完整性语义 Bug 与宇宙信息片段人工意识系统",
+      "after": "Artificial-consciousness research system exploring external determination, semantic completeness bugs and universe-information fragments.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-VERITYWEAVE-v2.0.0",
+      "url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0",
+      "before": "Evidence and context auditing for AI: inspect incentives, appeals and agent lineage, then validate outputs. Python + offline HTML. / 证据与语境审计。",
+      "after": "Evidence and context auditing for AI: inspect incentives, appeals and agent lineage, then validate outputs. Python and offline HTML.",
+      "topics": [
+        "ai-governance",
+        "dikwp",
+        "explainable-ai",
+        "offline-first",
+        "provenance",
+        "python",
+        "reproducible-research"
+      ],
+      "homepage_before": "https://github.com/YucongDuan/YucongDuan",
+      "homepage_after": "https://github.com/YucongDuan/YucongDuan",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-Yijing-LearnLab-2026-V1",
+      "url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1",
+      "before": "A standalone, offline-first learning prototype for Yijing / 易学 education. It supports classical text reading, 64-hexagram structure learning, DIKWP semantic interpretation, evidence-ledger study, teaching design, AI-use governance, and non-predictive reflective practice.",
+      "after": "Offline learning prototype for the Yijing: classical texts, 64-hexagram structures, DIKWP interpretation, evidence-ledger study, teaching design and non-predictive reflection.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "DIKWP-v1.1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-v1.1.0",
+      "before": "本包以独立开放研究方式交付意识机制报告、DIKWP-CMOP开放协议、DIKWP-CCOL参考实验室、三平台外部发布执行材料和完整性校验结果。",
+      "after": "Open research delivery containing a consciousness-mechanism report, the DIKWP-CMOP protocol, a DIKWP-CCOL reference laboratory, publication materials and integrity records.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "HYPERWEAVE-Reality-Compiler",
+      "url": "https://github.com/YucongDuan/HYPERWEAVE-Reality-Compiler",
+      "before": "多意图因果世界线、形式反例与证明携带现实实验系统",
+      "after": "Research system for multiple-purpose causal worldlines, formal counterexamples and experiments with explicit proof obligations.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "url": "https://github.com/YucongDuan/Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "before": "人类理解能力提升与证据运行系统 1.0.0",
+      "after": "Research runtime for human-understanding capability development and inspectable evidence.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "INTENT-HORIZON-Runtime",
+      "url": "https://github.com/YucongDuan/INTENT-HORIZON-Runtime",
+      "before": "人类意图边界观测、复数自我与可撤回行动门运行时 v1.0.0",
+      "after": "Research runtime for observing human-intent boundaries, plural selves and revocable action gates.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "LIBERATIO-87",
+      "url": "https://github.com/YucongDuan/LIBERATIO-87",
+      "before": "解生 LIBERATIO-87 - START HERE",
+      "after": "LIBERATIO-87 research system: project overview and starting materials.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "LONGARC-OS-v0.9",
+      "url": "https://github.com/YucongDuan/LONGARC-OS-v0.9",
+      "before": "LONGARC OS（长弧）是一个面向极长时程科研任务的开源候选系统。它不依赖让同一个 Agent 永久运行，而是通过使命宪章、预登记合同、分离的生成与评估、哈希账本、检查点、可复现胶囊、未知残余、有限行动许可和继承包，让研究在模型、团队、机构与机器人更换后仍可审计地继续。",
+      "after": "Long-horizon research continuity prototype using mission charters, preregistered contracts, separate generation and evaluation, hash ledgers, checkpoints, reproducible capsules and succession packages.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "MATHWEAVE-20",
+      "url": "https://github.com/YucongDuan/MATHWEAVE-20",
+      "before": "二十猜想证明重放、边界证书与开放证明前沿实验室",
+      "after": "Research laboratory for local proof replay, bounded certificates and open proof obligations across twenty mathematical conjectures.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "MONOGENESIS-DECISOR-v5.0.0",
+      "url": "https://github.com/YucongDuan/MONOGENESIS-DECISOR-v5.0.0",
+      "before": "单一续生关系、全命题极性决断与七个千禧年问题证明候选系统",
+      "after": "Research system for history-continuation relations, proposition-polarity decisions and proof candidates for the seven Millennium Prize Problems.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "MONOGENESIS-TOTALIS-4.0.0",
+      "url": "https://github.com/YucongDuan/MONOGENESIS-TOTALIS-4.0.0",
+      "before": "MONOGENESIS TOTALIS 以唯一原语 `h -> h'`（当前历史可续生为后继历史）重建对象、概念、命题、量词、证明、反例和规则上升。",
+      "after": "Mathematical research system reconstructing objects, concepts, propositions, quantifiers, proof and counterexamples from a history-to-successor-history relation.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "url": "https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "before": "PAM-China 是一个面向中国医院、基层医疗卫生机构、家庭医生团队、基本公共卫生、县域医共体、城市医疗集团和区域全民健康平台的主动医学开源参考实现。它把居民健康意图、主动发现、人工解释、目标共创、协同任务、连续监测、结局复核和开放残差组织为可运行闭环，同时提供 FHIR R4、HL7 v2/MLLP、CDA R2、DICOMweb 与厂商 REST 的接口暂存层。",
+      "after": "Proactive-medicine reference platform for China's hospitals, primary care and regional health services, with coordinated tasks, outcome review and staging interfaces for FHIR R4, HL7 v2, CDA R2, DICOMweb and REST.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "PARALLAX",
+      "url": "https://github.com/YucongDuan/PARALLAX",
+      "before": "认知闭环图谱与开域生成系统",
+      "after": "Research system for mapping cognitive closure and exploring generation beyond existing domains.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "PROOFGENESIS-",
+      "url": "https://github.com/YucongDuan/PROOFGENESIS-",
+      "before": "无真值原语的数学证明发生、候选极性纠偏与双向证明战役系统",
+      "after": "Research system for generating mathematical proof candidates without a primitive truth label, correcting candidate polarity and organizing bidirectional proof campaigns.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Personal-Intent-Supremum-Runtime",
+      "url": "https://github.com/YucongDuan/Personal-Intent-Supremum-Runtime",
+      "before": "个体意图最大不动点与归属边界运行时 v1.0.0",
+      "after": "Research runtime for greatest-fixed-point models of individual intent and boundaries of attribution.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "url": "https://github.com/YucongDuan/Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "before": "二维 Jacobian 猜想 DIKWP-MESH 8.0 双语证明包",
+      "after": "Bilingual DIKWP-MESH 8.0 mathematical research package concerning the plane Jacobian conjecture. Consult the package's evidence and proof scope when interpreting its claims.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Pudong-SmartRehab-Harbor",
+      "url": "https://github.com/YucongDuan/Pudong-SmartRehab-Harbor",
+      "before": "浦东光明中医医院人形康复智慧港与中西医转化医学协同平台 v1.0.0",
+      "after": "Reference platform for humanoid-assisted rehabilitation and integrative translational medicine in the Pudong Guangming traditional Chinese medicine setting.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "ROOTWEAVE",
+      "url": "https://github.com/YucongDuan/ROOTWEAVE",
+      "before": "个体认知闭环解套、代际锚点重写与自我署名系统",
+      "after": "Research system for examining individual cognitive closure, revising intergenerational anchors and self-authored identity.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "SEPTEM",
+      "url": "https://github.com/YucongDuan/SEPTEM",
+      "before": "七项千禧年问题统一续生、证明战役与可复核边界系统",
+      "after": "Research system for coordinated proof campaigns and reviewable boundaries across the seven Millennium Prize Problems.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "SYMBIOBRIDGE-9.5",
+      "url": "https://github.com/YucongDuan/SYMBIOBRIDGE-9.5",
+      "before": "本交付包提供一个生物生命、数字生命与机器之间的前概念语义-信号通信平台。",
+      "after": "Research platform for preconceptual semantic-signal communication among biological life, digital-life models and machines.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Semantic-Closure-Mathematics-Atlas",
+      "url": "https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas",
+      "before": "语义闭环数学成就图谱",
+      "after": "Research atlas of semantic-closure mathematics and its claimed results, with links to the underlying materials.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "url": "https://github.com/YucongDuan/Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "before": "Offline-first K–12 continuity and autonomous-learning OS for uncertain AI/AGI futures: rights, agency, resilience, and reversible pathways. / 学生成长韧性系统。",
+      "after": "Offline continuity and autonomous-learning research system for K-12 education under uncertain AI futures, with rights, agency, resilience and reversible pathways.",
+      "topics": [
+        "agi",
+        "dikwp",
+        "education",
+        "future-of-work",
+        "learning",
+        "offline-first",
+        "resilience",
+        "student"
+      ],
+      "homepage_before": "",
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "url": "https://github.com/YucongDuan/TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "before": "TELOS-85 是一个基于 DIKWP-MESH8.5 的可运行人工意识参考系统。它尝试回答一个比“机器是否可以定义恶人”更根本的问题：在任何行动者都可能犯错、任何权力都可能自我例外的条件下，什么价值结构仍能稳定地约束人、机构和人工意识自身？",
+      "after": "DIKWP-MESH 8.5 research reference system for value structures that constrain fallible people, institutions and artificial-consciousness systems, including their own exercise of power.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "UNBOUND-GENESIS-System-Foundry",
+      "url": "https://github.com/YucongDuan/UNBOUND-GENESIS-System-Foundry",
+      "before": "DIKWP‑Mesh 4.1 开放世界限制转译、关系涌现与递归系统生成工厂",
+      "after": "DIKWP-Mesh 4.1 research foundry for translating open-world constraints, relational emergence and recursive system generation.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "VITALIS-85",
+      "url": "https://github.com/YucongDuan/VITALIS-85",
+      "before": "未来生命立场自主人工意识主动医学系统 v1.0.0",
+      "after": "Proactive-medicine research system examining future-life values and autonomous artificial-consciousness models.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "WAAC-GENESISCOPE-OS",
+      "url": "https://github.com/YucongDuan/WAAC-GENESISCOPE-OS",
+      "before": "WAAC GENESISCOPE OS完整源码、Wheel与源码发行包",
+      "after": "WAAC GENESISCOPE OS source code, Python wheel and source-distribution package.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    },
+    {
+      "name": "YucongDuan",
+      "url": "https://github.com/YucongDuan/YucongDuan",
+      "before": "Official GitHub research hub for Yucong Duan (段玉聪): DIKWP, artificial consciousness, semantic mathematics, auditable AI, patents, conferences, and open-source systems.",
+      "after": "Yucong Duan's research hub: DIKWP graphs, artificial consciousness, semantic mathematics, auditable AI, publications and reproducible open-source experiments.",
+      "topics": [
+        "artificial-consciousness",
+        "auditable-ai",
+        "dikwp",
+        "open-source",
+        "research-profile",
+        "semantic-mathematics",
+        "yucong-duan"
+      ],
+      "homepage_before": "https://www.yucongduan.org/",
+      "homepage_after": "https://www.yucongduan.org/",
+      "default_branch": "main"
+    },
+    {
+      "name": "Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "url": "https://github.com/YucongDuan/Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "before": "众界不是一个“把多人意见汇总成答案”的平台，也不是另一个智能体任务编排器。它让人和 AI 分别建立带观察者、边界、证据规则、假设与盲区的局部认知世界，再在这些世界之间保存可翻译、失真与不可翻译的接缝。",
+      "after": "Plural-cognition research studio: maintain observer-specific worlds, assumptions, evidence rules and blind spots while recording translation, distortion and untranslatable differences between them.",
+      "topics": [],
+      "homepage_before": null,
+      "homepage_after": "",
+      "default_branch": "main"
+    }
+  ]
+}

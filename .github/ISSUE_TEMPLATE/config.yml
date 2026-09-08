@@ -1,8 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Academic exchange / 学术交流
-    url: https://www.researchgate.net/profile/Yucong-Duan
-    about: Begin an asynchronous academic conversation through ResearchGate.
-  - name: Find the relevant project / 找到对应项目
-    url: https://github.com/YucongDuan/YucongDuan/blob/main/REPOSITORY_DIRECTORY.md
-    about: Submit project-specific code issues to the relevant repository.
+- name: Academic exchange
+  url: https://www.researchgate.net/profile/Yucong-Duan
+  about: Begin an asynchronous academic conversation through ResearchGate.
+- name: Find the relevant project
+  url: https://github.com/YucongDuan/YucongDuan/blob/main/REPOSITORY_DIRECTORY.md
+  about: Submit project-specific code issues to the relevant repository.
+- name: Contribution guide in Chinese
+  url: https://github.com/YucongDuan/YucongDuan/blob/main/CONTRIBUTING.zh-CN.md
+  about: Chinese-language contribution guidance and research context.

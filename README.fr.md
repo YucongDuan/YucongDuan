@@ -2,7 +2,7 @@
 
 # Yucong Duan · 段玉聪
 
-**[Commencer ici (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [Présentation de la recherche (EN/中文)](RESEARCH_BRIEF.md) · [Collaborer (EN/中文)](COLLABORATE.md)
+**[Commencer ici (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [Présentation de la recherche (English)](RESEARCH_BRIEF.md) · [Collaborer (English)](COLLABORATE.md)
 
 ## Mise à jour du 8 septembre 2026
 

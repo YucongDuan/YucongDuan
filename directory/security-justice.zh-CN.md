@@ -1,10 +1,10 @@
-# Security, Justice & Resilience
+[English version](security-justice.md)
 
-9 repositories · inventory snapshot: 8 September 2026.
+# Security, Justice & Resilience / 安全、司法与韧性
 
-[All research areas](../REPOSITORY_DIRECTORY.md) · [English JSON](../REPOSITORY_SUMMARIES.en.json) · [Original-language reference](security-justice.zh-CN.md)
+9 repositories · metadata checked 2026-09-08. [All research areas](../REPOSITORY_DIRECTORY.md) · [JSON](../REPOSITORY_DIRECTORY.json)
 
-| Repository | English scope summary | Language | License metadata | Stars at snapshot |
+| Repository | Scope summary | Language | License metadata | Stars |
 |---|---|---|---|---:|
 | [DIKWP-FraudShield-ActiveConsciousness-OS](https://github.com/YucongDuan/DIKWP-FraudShield-ActiveConsciousness-OS) | DIKWP FraudShield ActiveConsciousness OS | — | Apache-2.0 | 4 |
 | [DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4](https://github.com/YucongDuan/DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4) | It turns a user's broad goal into a **Sovereign Delegation Capsule**, routes tasks through DIKWP's D/I/K/W/P/R structure, generates DeepSeek V4 attachment prompts and payload templates, creates **Action Tickets**, and executes only safe local dry-run operations while sending higher-risk actions to human confirmation. | — | Apache-2.0 | 3 |
@@ -16,6 +16,4 @@
 | [SOVEREIGN-GATE-12.0.0](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) | A human-sovereign governance kernel for multi-agent runaway, emergent organization, reward hacking, and harness-amplified AI systems | — | Apache-2.0 | 1 |
 | [TrueValue-Shield-](https://github.com/YucongDuan/TrueValue-Shield-) | A victim-first, non-pseudo-neutral, attributable, reversible, and restitutive active-defense control plane for the post-knowledge-scarcity era | — | Apache-2.0 | 1 |
 
-Summaries describe documented research scope. English translations do not establish new test results, clinical effectiveness, proofs, deployment or institutional endorsement. Runtime interfaces and packaged reports may retain their original languages. See each repository for source and verification evidence.
-
-[Original metadata snapshot](../REPOSITORY_METADATA_2026-09-08.json) · [English metadata update](../ENGLISH_METADATA_2026-09-08.json)
+Descriptions are public repository metadata unless labeled as curated. License metadata is a discovery hint; consult each actual LICENSE. Stars are dated observations. This directory does not establish implementation quality, external adoption or certification.

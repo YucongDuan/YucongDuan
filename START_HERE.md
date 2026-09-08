@@ -1,6 +1,6 @@
 # Start here: DIKWP research and a first experiment
 
-[中文](START_HERE.zh-CN.md) · [Profile](README.md) · [Research brief](RESEARCH_BRIEF.md) · [All repositories](REPOSITORY_DIRECTORY.md)
+[Chinese guide](START_HERE.zh-CN.md) · [Profile](README.md) · [Research brief](RESEARCH_BRIEF.md) · [All repositories](REPOSITORY_DIRECTORY.md)
 
 ## Understand DIKWP
 

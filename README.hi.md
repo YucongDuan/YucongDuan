@@ -2,7 +2,7 @@
 
 # Yucong Duan · 段玉聪
 
-**[यहाँ से शुरू करें (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [शोध परिचय (EN/中文)](RESEARCH_BRIEF.md) · [सहयोग (EN/中文)](COLLABORATE.md)
+**[यहाँ से शुरू करें (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [शोध परिचय (English)](RESEARCH_BRIEF.md) · [सहयोग (English)](COLLABORATE.md)
 
 ## 8 सितंबर 2026 का अपडेट
 

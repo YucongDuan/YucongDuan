@@ -1,6 +1,6 @@
-# Cite the work you used
+[English version](CITING.md)
 
-[Chinese reference](CITING.zh-CN.md)
+# Cite the work you used / 引用具体使用的成果
 
 [Research brief](RESEARCH_BRIEF.md) · [Project directory](REPOSITORY_DIRECTORY.md)
 
@@ -16,3 +16,5 @@ For a stable GitHub citation, open the relevant file and use its commit permalin
 The three new projects supply citation files: [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/blob/main/CITATION.cff), [DemandProof](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/blob/main/CITATION.cff) and [LucidEcon](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/blob/main/CITATION.cff). Follow each project's LICENSE and NOTICE for reuse.
 
 Do not infer a DOI from a project name or replace a paper's coauthors with the repository owner's name. A repository URL identifies a software artifact; it does not imply peer review.
+
+中文：引用理论时请找到原始论文并保留完整作者信息；引用软件时注明项目、版本或提交、环境与访问日期；引用外部采用情况时回到原始外部来源。新发布的三个经济项目均提供 CITATION.cff，各仓库的许可证和署名要求分别适用。

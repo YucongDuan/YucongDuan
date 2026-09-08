@@ -1,10 +1,10 @@
-# Contribute to the DIKWP portfolio
+[English version](CONTRIBUTING.md)
 
-[Chinese reference](CONTRIBUTING.zh-CN.md)
+# Contribute to the DIKWP portfolio
 
 **[Choose a first task](COLLABORATE.md)** · [Structured contribution forms](https://github.com/YucongDuan/YucongDuan/issues/new/choose) · [Citation guide](CITING.md)
 
-[Current status](CURRENT_STATUS.md) · [Chinese contribution guide](CONTRIBUTING.zh-CN.md) · [Repository map](REPOSITORY_DIRECTORY.md)
+[Current status](CURRENT_STATUS.md) · [中文](#中文参与指南) · [Repository map](REPOSITORY_DIRECTORY.md)
 
 Start with one research question and one repository. The catalog's related-project links indicate useful reading or comparison routes; they do not imply that two packages can already import or execute each other.
 
@@ -31,10 +31,14 @@ Use each project's documented environment and pinned dependencies. The [engineer
 
 For portfolio coordination, [DIKWP EIR Mesh](https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0) is a research-ecology planning prototype with an atlas, evidence ledger, resource-request structure and maintainer roles. Its historical repository counts describe its own dated design; the [current status](CURRENT_STATUS.md) supplies today's inventory. The prototype does not establish an already staffed support service or funded partnership.
 
+## 中文参与指南
+
+请选择一个具体研究问题和一个仓库开始。最有帮助的贡献包括：可复现的反例、带输入输出的修复、明确两端版本和交换格式的项目适配器、可追溯的一手引用，以及保持证据含义一致的翻译。
+
+提交软件问题时，写明提交版本、环境、命令、预期与实际结果。跨仓库关联是阅读与比较入口，不代表已经建立可运行依赖。引用或机构实践条目请给出原始来源及准确使用方式，便于区分引用、理论采用、技术实现和独立验证。
+
+具体代码请进入目标仓库的 issue 或 PR；主页导航及材料纠错可进入本仓库 issue。参与者可以从小范围、可检查的工作开始，不需要先承担整个系统的维护。
+
 ## New transparent-economy projects · 8 September 2026
 
 Choose [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY), [LucidEcon v2](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS), or [DemandProof](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) using the [tool selection guide](TRANSPARENT_ECONOMY.md). Each provides its own reproducible issue template. Use synthetic inputs and include the source revision when sharing results.
-
-## Language conventions
-
-Use English for default READMEs, navigation, repository summaries and contribution forms. Link a Chinese translation or reference as `README.zh-CN.md` or a corresponding `.zh-CN.md` document. Keep filenames, commands, API identifiers, author lists and evidence scope intact. State explicitly when a packaged interface or report remains in another language.

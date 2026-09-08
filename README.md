@@ -1,6 +1,6 @@
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
 
-# Yucong Duan · 段玉聪
+# Yucong Duan
 
 **Making AI reasoning, purpose and evidence inspectable.**
 
@@ -10,7 +10,7 @@ DIKWP · Artificial consciousness · Semantic mathematics · Auditable AI
 
 My research develops **Data–Information–Knowledge–Wisdom–Purpose (DIKWP)** graphs and open experiments for examining how AI systems use evidence, interpret goals and revise decisions. The current semantic-network work treats D/I/K/W/P as interacting, revisable resource types. It makes alternative interpretations and unresolved conflicts visible.
 
-**[Start here](START_HERE.md)** · **[中文入门](START_HERE.zh-CN.md)** · [Research brief](RESEARCH_BRIEF.md) · [Collaborate](COLLABORATE.md)
+**[Start here](START_HERE.md)** · [Chinese guide](START_HERE.zh-CN.md) · [Research brief](RESEARCH_BRIEF.md) · [Collaborate](COLLABORATE.md) · [International access](INTERNATIONAL_ACCESS.md)
 
 ## One research programme, four questions
 

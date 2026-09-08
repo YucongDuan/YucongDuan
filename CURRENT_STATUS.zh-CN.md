@@ -1,6 +1,6 @@
-# Current portfolio status
+[English version](CURRENT_STATUS.md)
 
-[Chinese reference](CURRENT_STATUS.zh-CN.md)
+# Current portfolio status / 当前状态
 
 Checked **8 September 2026**. [Later profile and discovery improvements on the same date](PROFILE_IMPROVEMENTS_2026-09-08.md). This page distinguishes the current inventory from historical releases and project-specific tests.
 
@@ -35,5 +35,6 @@ Metadata coverage includes all 483 repositories. Code verification in this updat
 
 [Previous status: 7 September 2026](CURRENT_STATUS_2026-09-07.md) · [480-repository snapshot](REPOSITORY_ECOSYSTEM_480.md).
 
+## 中文说明
 
-[English-first international access update](INTERNATIONALIZATION_2026-09-08.md).
+现有 483 个公开仓库全部完成标识与公开元数据核对，并归入十二个研究方向。三个新项目合计 182 项本地测试通过，公开提交的 CI 均通过。13 语种入口指向固定目录，中英文主页突出项目选择、运行和验证入口。历史研究介绍与源码展开队列保留原始记录和日期；全量盘点不等于全量代码审计。
