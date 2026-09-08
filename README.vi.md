@@ -1,3 +1,22 @@
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
+
+# Yucong Duan · 段玉聪
+
+## Cập nhật ngày 8 tháng 9 năm 2026
+
+**483 kho mã công khai · 12 lĩnh vực nghiên cứu**
+
+[Danh mục hiện tại](REPOSITORY_DIRECTORY.md) · [JSON](REPOSITORY_DIRECTORY.json) · [English](README.md) · [中文](README.zh-CN.md)
+
+### Công cụ nghiên cứu mới về kinh tế minh bạch
+
+[ClearPath Transparent Economy](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) · [DemandProof Commons](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) · [LucidEcon OS](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS)
+
+[182 tests · CI · 2026-09-08](GITHUB_PUBLICATION_2026-09-08.md)
+
+<details>
+<summary>Bối cảnh nghiên cứu và các thông báo trước đây</summary>
+
 <div align="center">
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
@@ -171,3 +190,6 @@ Hệ sinh thái nghiên cứu và mã nguồn mở này được dành tặng ch
 
 Lời đề tặng thể hiện ý định của tác giả; quyền tác giả, giấy phép, tác giả đóng góp và nguồn gốc của từng kho mã nguồn vẫn được xác định theo hồ sơ riêng của kho đó.
 
+
+
+</details>

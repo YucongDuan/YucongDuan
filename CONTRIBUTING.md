@@ -1,6 +1,6 @@
 # Contribute to the DIKWP portfolio
 
-[Current status](CURRENT_STATUS.md) · [中文](#中文参与指南) · [Repository map](REPOSITORY_ECOSYSTEM_480.md)
+[Current status](CURRENT_STATUS.md) · [中文](#中文参与指南) · [Repository map](REPOSITORY_DIRECTORY.md)
 
 Start with one research question and one repository. The catalog's related-project links indicate useful reading or comparison routes; they do not imply that two packages can already import or execute each other.
 
@@ -34,3 +34,8 @@ For portfolio coordination, [DIKWP EIR Mesh](https://github.com/YucongDuan/DIKWP
 提交软件问题时，写明提交版本、环境、命令、预期与实际结果。跨仓库关联是阅读与比较入口，不代表已经建立可运行依赖。引用或机构实践条目请给出原始来源及准确使用方式，便于区分引用、理论采用、技术实现和独立验证。
 
 具体代码请进入目标仓库的 issue 或 PR；主页导航及材料纠错可进入本仓库 issue。参与者可以从小范围、可检查的工作开始，不需要先承担整个系统的维护。
+
+## New transparent-economy projects · 8 September 2026
+
+Choose [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY), [LucidEcon v2](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS), or [DemandProof](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) using the [tool selection guide](TRANSPARENT_ECONOMY.md). Each provides its own reproducible issue template. Use synthetic inputs and include the source revision when sharing results.
+

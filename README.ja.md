@@ -1,3 +1,22 @@
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
+
+# Yucong Duan · 段玉聪
+
+## 2026年9月8日 更新
+
+**公開リポジトリ483件・研究分野12分類**
+
+[最新ディレクトリ](REPOSITORY_DIRECTORY.md) · [JSON](REPOSITORY_DIRECTORY.json) · [English](README.md) · [中文](README.zh-CN.md)
+
+### 透明経済の新しい研究ツール
+
+[ClearPath Transparent Economy](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) · [DemandProof Commons](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) · [LucidEcon OS](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS)
+
+[182 tests · CI · 2026-09-08](GITHUB_PUBLICATION_2026-09-08.md)
+
+<details>
+<summary>研究背景と過去のお知らせ</summary>
+
 <div align="center">
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
@@ -137,3 +156,6 @@ The public source-import workflows completed successfully, and the prepared sour
 
 [AgentTrace OS](https://github.com/YucongDuan/DIKWP-AgentTrace-OS) · [ProofLedger OS](https://github.com/YucongDuan/DIKWP-ProofLedger-OS) · [LLM WhiteBox EvalLab](https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1) · [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) · [全リポジトリ](https://github.com/YucongDuan?tab=repositories)
 
+
+
+</details>

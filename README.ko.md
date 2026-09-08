@@ -1,3 +1,22 @@
+**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
+
+# Yucong Duan · 段玉聪
+
+## 2026년 9월 8일 업데이트
+
+**공개 저장소 483개 · 연구 분야 12개**
+
+[최신 디렉터리](REPOSITORY_DIRECTORY.md) · [JSON](REPOSITORY_DIRECTORY.json) · [English](README.md) · [中文](README.zh-CN.md)
+
+### 투명 경제 연구 도구 3종
+
+[ClearPath Transparent Economy](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) · [DemandProof Commons](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) · [LucidEcon OS](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS)
+
+[182 tests · CI · 2026-09-08](GITHUB_PUBLICATION_2026-09-08.md)
+
+<details>
+<summary>연구 배경 및 이전 발표</summary>
+
 <div align="center">
 
 **[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
@@ -142,3 +161,6 @@ The public source-import workflows completed successfully, and the prepared sour
 
 일부 연구 및 공익 프로젝트를 Yucong Duan의 딸 **Duan Dikweipu(段迪克维普)**에게 바칩니다. 이 헌정은 저자, 기여, 라이선스 또는 소유권 기록을 변경하지 않습니다.
 
+
+
+</details>
