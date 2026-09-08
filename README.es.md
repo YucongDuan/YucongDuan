@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[Empieza aquí (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [Guía de investigación (EN/中文)](RESEARCH_BRIEF.md) · [Colabora (EN/中文)](COLLABORATE.md)
+
 ## Actualización del 8 de septiembre de 2026
 
 **483 repositorios públicos · 12 áreas de investigación**

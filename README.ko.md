@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[시작하기 (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [연구 소개 (EN/中文)](RESEARCH_BRIEF.md) · [연구 협력 (EN/中文)](COLLABORATE.md)
+
 ## 2026년 9월 8일 업데이트
 
 **공개 저장소 483개 · 연구 분야 12개**

@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[Bắt đầu tại đây (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [Giới thiệu nghiên cứu (EN/中文)](RESEARCH_BRIEF.md) · [Hợp tác (EN/中文)](COLLABORATE.md)
+
 ## Cập nhật ngày 8 tháng 9 năm 2026
 
 **483 kho mã công khai · 12 lĩnh vực nghiên cứu**

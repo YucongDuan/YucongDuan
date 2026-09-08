@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[はじめに (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [研究概要 (EN/中文)](RESEARCH_BRIEF.md) · [共同研究 (EN/中文)](COLLABORATE.md)
+
 ## 2026年9月8日 更新
 
 **公開リポジトリ483件・研究分野12分類**

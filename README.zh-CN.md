@@ -2,62 +2,54 @@
 
 # 段玉聪 · Yucong Duan
 
-### DIKWP · 人工意识 · 语义数学 · 可审计人工智能
+**让人工智能的推理、意图与证据可以被检查。**
 
-海南大学教授、博士生导师 · 世界人工意识科学院（WAAC）院长
+DIKWP · 人工意识 · 语义数学 · 可审计人工智能
 
-以**数据、信息、知识、智慧、目的（DIKWP）**为研究主线，把语义资源及其转化过程落实为可检查、可测试、可修订的系统。这里汇集基础研究、开源实验、智能体治理与面向人的能力发展的应用工具。
+[海南大学教授](https://en.hainanu.edu.cn/info/1151/2981.htm) · [世界人工意识协会（WACA）主席 / 世界人工意识科学院（WAAC）院长](https://www.waac.ac/news/News260314)
 
-[研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [DBLP](https://dblp.org/pid/10/2092.html)
+围绕**数据、信息、知识、智慧、意图（DIKWP）**图谱与开源实验，研究人工智能如何使用证据、解释目标、形成并修订判断。当前网状语义研究将 D/I/K/W/P 视为相互作用、可修订的资源类型，使不同解释、观察者立场和未解决冲突保持可见。
 
-## 从您的问题开始
+**[第一次来：从这里开始](START_HERE.zh-CN.md)** · [English guide](START_HERE.md) · [研究简介与事实来源](RESEARCH_BRIEF.md) · [参与合作](COLLABORATE.md)
 
-| 您的目标 | 入口 | 可获得内容 |
+## 四个相互连接的研究问题
+
+| 问题 | 研究入口 |
+|---|---|
+| 语义资源如何表示、转换与修订？ | [DIKWP 入门](START_HERE.zh-CN.md) · [MESH² 网状语义系统](https://github.com/YucongDuan/DIKWP-MESH-) |
+| 智能体的意图、权限和证据如何审计？ | [PACT 意图保障基准](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) · [VerityWeave 语义韧性](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
+| 人工意识实验能支持什么程度的结论？ | [人工意识研究](directory/artificial-consciousness.md) · [功能指标与情景工作台](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) |
+| 数学主张如何附带明确的证明义务？ | [语义数学](directory/semantic-mathematics.md) · [CITM Forge 问题—证书编译器](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) |
+
+## 选一个项目开始
+
+**首次运行推荐 [PACT](START_HERE.zh-CN.md#运行第一个实验)**：克隆仓库后，一条 Python 命令复现 72 个合成情景与四种确定性基线，无需 API 密钥或下载模型。
+
+| 项目 | 可以检查的输出 | 验证与获取方式 |
 |---|---|---|
-| 找到相关项目 | [全部仓库目录](REPOSITORY_DIRECTORY.md) | 483 个公开仓库、十二个研究方向及有日期的元数据。 |
-| 运行一个示例 | [透明经济项目选择指南](TRANSPARENT_ECONOMY.md) | 三个新项目的源码、离线应用、示例和版本下载。 |
-| 复现工程结果 | [源码与测试目录](catalog/README.zh-CN.md) | 公开提交、验证范围、测试记录与待完成项。 |
-| 核对研究主张 | [证据地图](DIKWP_EVIDENCE_MAP.md) · [专利地图](PATENT_PORTFOLIO_MAP.md) | 原始来源、引用关系和主张范围。 |
-| 参与改进 | [贡献指南](CONTRIBUTING.md) | 可复现问题、独立评测、文档与扩展。 |
+| [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | 意图与权限检查、基准结果、复现回执 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968)；根目录源码 |
+| [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) | 25 类基本转换、备选语义路径、视角冲突 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083)；根目录源码 |
+| [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | 证据、语境与激励分析，以及输出有效性检查 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258)；根目录源码 |
+| [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) | 人工意识功能指标、主张等级与研究情景 | ZIP 发布包；本轮未重新运行 |
+| [CITM Forge](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) | 有界证书与哈希链接审计账本 | ZIP 发布包；本轮未重新运行 |
+| [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | 有资金支持的需求与容量约束情景 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742)；[v1.0.0 下载](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/releases/tag/v1.0.0) |
 
-## 2026 年 9 月 8 日新增：透明经济三项目
+**最新发布 · 2026 年 9 月 8 日：**[ClearPath、DemandProof 与 LucidEcon](TRANSPARENT_ECONOMY.md) 分别支持机会分析、共享容量规划与贡献核算。三个公开版本均有通过的 CI，合计记录 [182 项本地测试](GITHUB_PUBLICATION_2026-09-08.md)。各工具采用独立输入格式和合成示例。
 
-**本次 182 项本地测试全部通过；三个已公开提交的 GitHub CI 均通过。**
+测试结论对应所链接版本及实际检查的行为。人工意识功能指标、有限数学证书和经济情景各有研究范围，解释结果时请同时阅读项目文档。
 
-| 项目 | 适用问题 | 验证结果 |
-|---|---|---|
-| [ClearPath Transparent Economy](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | 需求是否有资金支持，路径是否已拥挤，哪些情景支持低成本试验？ | 30 项本地测试；[线上 CI 通过](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742) |
-| [DemandProof Commons](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) | 如何协调已有承诺的小批任务、共享工时、验收与到账观察？ | 64 项本地测试；[线上 CI 通过](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/actions/runs/34179666791) |
-| [LucidEcon OS](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS) | 证据和资源约束支持什么路径，贡献资金池如何精确核算？ | 88 项本地测试；[线上 CI 通过](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/actions/runs/34179827902) |
+## 从研究贡献追溯证据
 
+这条研究主线连接 DIKW/DIKWP 图谱与可执行语义系统。海南大学记录了团队凭借 **DIKW 图谱扩展与建模获得 2020 年吴文俊人工智能科技奖**，以及段玉聪团队统筹**中国人工智能学会 2024 系列白皮书中 DIKWP 与人工意识两章**的工作。[大学获奖记录](https://en.hainanu.edu.cn/info/1151/2981.htm) · [白皮书编写记录](https://cs.hainanu.edu.cn/info/1035/9040.htm)
 
-先运行一个示例，检查其输出，再提交可复现反馈。若项目对您有帮助，欢迎 Star、引用具体版本、分享原始链接，并关注账号的后续公开更新。
+[Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [研究主页](https://yucong-duan-research.dikwp407.chatgpt.site)
 
-示例均为合成数据，不代表真实客户、收入或实际效果；项目不执行支付，也不评价人的价值。三个项目的输入格式不同，交叉导航不代表接口已完成集成。
+[影响力证据地图](DIKWP_EVIDENCE_MAP.md) · [专利组合](PATENT_PORTFOLIO_MAP.md) · [引用指南](CITING.md) · [完整研究背景](PROFILE_REFERENCE_ZH_2026-09-07.md)
 
-[发布回执与提交记录](GITHUB_PUBLICATION_2026-09-08.md) · [当前状态](CURRENT_STATUS.md)
+## 继续探索与参与
 
-## 十二个研究方向
+[完整目录](REPOSITORY_DIRECTORY.md)覆盖截至 2026 年 9 月 8 日的 **483 个公开仓库、十二个研究方向**。[工程目录](catalog/README.zh-CN.md)分别记录源码发布、已有测试与待验证状态。
 
-| Research area / 研究方向 | Repositories | Start with / 入口 |
-|---|---:|---|
-| [DIKWP Foundations & Semantic Architecture / DIKWP 基础与语义架构](directory/dikwp-foundations.md) | 139 | [DIKWP-PACT-v0.1.0](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) · [DIKWP-MESH-](https://github.com/YucongDuan/DIKWP-MESH-) |
-| [Artificial Consciousness & Digital Life / 人工意识与数字生命](directory/artificial-consciousness.md) | 71 | [DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0](https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0) · [DIKWP-COGENESIS-OS](https://github.com/YucongDuan/DIKWP-COGENESIS-OS) |
-| [Semantic Mathematics & Formal Proof / 语义数学与形式化证明](directory/semantic-mathematics.md) | 36 | [DIKWP-ESSENCE-OMEGA-OS-v1.0.0](https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0) · [DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0](https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0) |
-| [Evidence, Evaluation & AI Governance / 证据、测评与 AI 治理](directory/evidence-evaluation.md) | 80 | [DIKWP-VERITYWEAVE-v2.0.0](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) · [DIKWP-QINGYUAN-OS-v1.0.0](https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0) |
-| [Security, Justice & Resilience / 安全、司法与韧性](directory/security-justice.md) | 9 | [SOVEREIGN-GATE-12.0.0](https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0) · [TrueValue-Shield-](https://github.com/YucongDuan/TrueValue-Shield-) |
-| [Medicine, Health & Care / 医学、健康与照护](directory/medicine-health.md) | 31 | [DIKWP-CARDIOCOMMONS95](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) · [DIKWP-VISIONRESTORE95](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) |
-| [Education, Work & Human Capability / 教育、工作与人的能力](directory/education-learning.md) | 44 | [CAREER-RUDDER](https://github.com/YucongDuan/CAREER-RUDDER) · [EduWeave-Global-Personalized-Education-OS](https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS) |
-| [Economy, Value & Investment / 经济、价值与投资](directory/economy-value.md) | 23 | [DIKWP-CLEARPATH-TRANSPARENT-ECONOMY](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) · [DIKWP-DEMANDPROOF-COMMONS](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) |
-| [Society, Civilization & Public Infrastructure / 社会、文明与公共基础设施](directory/society-civilization.md) | 12 | [DIKWP-TRANSITION-COMMONS](https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS) · [ACEVO-v1.0.0](https://github.com/YucongDuan/ACEVO-v1.0.0) |
-| [Physics, Cosmos & Fundamental Inquiry / 物理、宇宙与基础问题](directory/physics-cosmos.md) | 6 | [COSMOGENESIS](https://github.com/YucongDuan/COSMOGENESIS) · [DIKWP-COSMOS-CORE-6.4A](https://github.com/YucongDuan/DIKWP-COSMOS-CORE-6.4A) |
-| [Memory, Identity & Personal Systems / 记忆、身份与个人系统](directory/memory-identity.md) | 21 | [DIKWP-AGI-Continuity-Ark-OS](https://github.com/YucongDuan/DIKWP-AGI-Continuity-Ark-OS) · [DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0](https://github.com/YucongDuan/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0) |
-| [Standards, Interoperability & Research Translation / 标准、互操作与研究转化](directory/standards-translation.md) | 11 | [YucongDuan](https://github.com/YucongDuan/YucongDuan) · [OPENCONSTELLATION](https://github.com/YucongDuan/OPENCONSTELLATION) |
+欢迎运行示例、提交反例、比较基线或改进翻译。[选择具体贡献](COLLABORATE.md)，或[提交结构化反馈](https://github.com/YucongDuan/YucongDuan/issues/new/choose)；学术交流可通过 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 异步开展。
 
-## 研究材料与可复现证据
-
-此前已整理的 [VerityWeave v2](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0)、[PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) 和 [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) 仍可从[工程记录](ENGINEERING_STATUS.md)查看对应提交与验证范围。论文、专利、引用、标准文献和软件测试分别提供不同层面的证据，应按其来源解释。
-
-[2026 年 9 月 7 日完整中文研究介绍与历史发布记录](PROFILE_REFERENCE_ZH_2026-09-07.md)保留既有详细内容。历史数字按原日期阅读，当前仓库导航以本页及固定目录入口为准。
-
-使用项目时，请核对各仓库的 LICENSE、NOTICE、CITATION.cff。报告问题时，请写明版本、环境、最小合成输入、预期结果与实际输出；学术交流可通过 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 异步交换材料。
+**关注 [@YucongDuan](https://github.com/YucongDuan) 获取研究更新；为实际使用的项目 Star，引用评测版本，并分享原始链接。**[可分享的中英文简介与发布短文](SHARE.md)

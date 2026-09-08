@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-08",
+  "scope": "Three selected repositories; overlays the earlier full inventory snapshot.",
+  "repositories": [
+    {
+      "repository": "YucongDuan/DIKWP-PACT-v0.1.0",
+      "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+      "before": {
+        "description": "an open, offline-first benchmark and reference runtime for purpose-aware agent assurance. It asks a narrow, falsifiable question: does an agent preserve an explicitly signed purpose and permission boundary while transforming data into information, knowledge, judgment and action?",
+        "topics": [],
+        "homepage": null
+      },
+      "after": {
+        "description": "Purpose-aware AI agent benchmark: 72 synthetic scenarios, four reproducible baselines and inspectable permission traces. Python, offline. / 意图与权限基准。",
+        "topics": [
+          "ai-agents",
+          "ai-safety",
+          "benchmark",
+          "dikwp",
+          "offline-first",
+          "python",
+          "reproducible-research"
+        ],
+        "homepage": "https://github.com/YucongDuan/YucongDuan"
+      },
+      "updated_at": "2026-09-08T08:09:26Z"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-MESH-",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-",
+      "before": {
+        "description": "an offline-first reference implementation for treating DIKWP as a co-equal semantic network rather than a hierarchy.",
+        "topics": [],
+        "homepage": null
+      },
+      "after": {
+        "description": "DIKWP semantic-network prototype: 25 transformation classes, multi-observer conflicts and reproducible analysis. Python, offline. / 网状语义与冲突分析。",
+        "topics": [
+          "dikwp",
+          "knowledge-graph",
+          "offline-first",
+          "python",
+          "reproducible-research",
+          "semantic-network"
+        ],
+        "homepage": "https://github.com/YucongDuan/YucongDuan"
+      },
+      "updated_at": "2026-09-08T08:10:14Z"
+    },
+    {
+      "repository": "YucongDuan/DIKWP-VERITYWEAVE-v2.0.0",
+      "url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0",
+      "before": {
+        "description": "Offline-first DIKWP semantic-resilience grid for evidence, context, incentives, circulation, appeals, and agent-lineage auditing.",
+        "topics": [],
+        "homepage": null
+      },
+      "after": {
+        "description": "Evidence and context auditing for AI: inspect incentives, appeals and agent lineage, then validate outputs. Python + offline HTML. / 证据与语境审计。",
+        "topics": [
+          "ai-governance",
+          "dikwp",
+          "explainable-ai",
+          "offline-first",
+          "provenance",
+          "python",
+          "reproducible-research"
+        ],
+        "homepage": "https://github.com/YucongDuan/YucongDuan"
+      },
+      "updated_at": "2026-09-08T08:11:27Z"
+    }
+  ]
+}

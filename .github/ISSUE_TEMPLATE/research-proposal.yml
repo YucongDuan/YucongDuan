@@ -1,0 +1,34 @@
+name: Research proposal / 研究提案
+description: Propose one question, method and inspectable contribution.
+title: "[Research] "
+body:
+  - type: markdown
+    attributes:
+      value: "Written proposals support asynchronous review. Use the relevant project's tracker for a code bug. / 请围绕一个研究问题与具体成果展开；代码问题请进入对应仓库。"
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question / 研究问题
+      description: What question would this work answer? What prior work should be compared?
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Relevant repository or paper / 相关仓库或论文
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method and possible counterevidence / 方法与可能的反证
+      description: Describe inputs, comparison, evaluation and a result that would weaken the hypothesis.
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Your contribution and intended artifact / 可承担贡献与预期成果
+      placeholder: "For example: a reproducible benchmark comparison, adapter, test set or paper draft."
+    validations:
+      required: true

@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[यहाँ से शुरू करें (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [शोध परिचय (EN/中文)](RESEARCH_BRIEF.md) · [सहयोग (EN/中文)](COLLABORATE.md)
+
 ## 8 सितंबर 2026 का अपडेट
 
 **483 सार्वजनिक रिपॉज़िटरी · 12 शोध क्षेत्र**

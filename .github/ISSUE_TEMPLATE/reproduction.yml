@@ -1,0 +1,34 @@
+name: Reproduction report / 复现报告
+description: Share a result, failure or cross-project reproduction issue.
+title: "[Reproduction] "
+body:
+  - type: markdown
+    attributes:
+      value: "For a bug in one project, prefer that project's issue tracker. Use minimal synthetic examples and remove secrets from logs. / 单项目错误优先提交到对应仓库；请使用最小合成示例。"
+  - type: input
+    id: revision
+    attributes:
+      label: Repository and exact commit / 仓库与提交
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment / 运行环境
+      placeholder: OS, Python or Node version, dependency installation method
+    validations:
+      required: true
+  - type: textarea
+    id: commands
+    attributes:
+      label: Commands and minimal input / 命令与最小输入
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and observed result / 预期与实际结果
+      description: Include exit status and a short output or receipt summary. Negative results are welcome.
+    validations:
+      required: true

@@ -1,0 +1,23 @@
+name: Evidence, navigation or translation / 证据、导航与翻译
+description: Correct a source, broken route, project classification or translation.
+title: "[Correction] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Affected page or repository / 涉及页面或仓库
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Current passage and proposed correction / 当前表述与建议修订
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting source or example / 支持来源或示例
+      description: For a research claim, include the original source, authors, date and exactly what it supports.
+    validations:
+      required: true

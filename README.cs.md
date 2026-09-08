@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[Začněte zde (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [Přehled výzkumu (EN/中文)](RESEARCH_BRIEF.md) · [Spolupráce (EN/中文)](COLLABORATE.md)
+
 ## Aktualizace z 8. září 2026
 
 **483 veřejných repozitářů · 12 výzkumných oblastí**

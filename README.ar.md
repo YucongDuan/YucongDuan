@@ -2,6 +2,8 @@
 
 # Yucong Duan · 段玉聪
 
+**[ابدأ هنا (English)](START_HERE.md)** · [中文](START_HERE.zh-CN.md) · [نبذة عن البحث (EN/中文)](RESEARCH_BRIEF.md) · [التعاون (EN/中文)](COLLABORATE.md)
+
 ## تحديث 8 سبتمبر 2026
 
 **483 مستودعًا عامًا · 12 مجالًا بحثيًا**

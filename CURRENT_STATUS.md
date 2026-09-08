@@ -1,6 +1,6 @@
 # Current portfolio status / 当前状态
 
-Checked **8 September 2026**. This page distinguishes the current inventory from historical releases and project-specific tests.
+Checked **8 September 2026**. [Later profile and discovery improvements on the same date](PROFILE_IMPROVEMENTS_2026-09-08.md). This page distinguishes the current inventory from historical releases and project-specific tests.
 
 | Item | Verified state |
 |---|---|
@@ -8,8 +8,8 @@ Checked **8 September 2026**. This page distinguishes the current inventory from
 | Research areas | **12**; every repository has a primary category and a direct source link |
 | Profile languages | **13** editions have current navigation; detailed historical research text is preserved |
 | Public descriptions | **459 / 483**; curated directory summaries are explicitly labeled |
-| Repositories with topics | **10** at this snapshot; the three new projects each have six relevant topics |
-| Repositories with a homepage URL | **4** at this snapshot, including the three new project links to the research hub |
+| Repositories with topics | **10** in the full inventory snapshot; the later [metadata update](METADATA_UPDATES_2026-09-08.json) adds three previously uncovered repositories |
+| Repositories with a homepage URL | **4** in the full inventory snapshot; the later [metadata update](METADATA_UPDATES_2026-09-08.json) adds three links to the research hub |
 | Visible GitHub stars | **1,318**, a dated observation |
 | New local verification | **182 tests**, with zero failures across the three new projects |
 | New public CI | **All three published revisions passed** their configured Python matrices |
