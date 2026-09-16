@@ -1,27 +1,24 @@
-[English version](SHARE.md)
+# 可直接使用的中文介绍
 
-# Introduce the research / 分享研究入口
+[English](SHARE.md) · [中文主页](README.zh-CN.md) · [学术简介](RESEARCH_BRIEF.zh-CN.md) · [来源](IMPACT.zh-CN.md)
 
-[Profile](README.md) · [Research brief and sources](RESEARCH_BRIEF.md) · [First experiment](START_HERE.md)
+## 一句话介绍
 
-These short introductions link to public artifacts that readers can inspect. Updated 8 September 2026.
+段玉聪以 DIKWP 为原创研究主轴，贯通人工意识、语义数学与开放系统，探索让智能理解意义、让行动服从目的、让价值落到现实的新路径。
 
-## Research introduction
+## 简短介绍
 
-Yucong Duan's DIKWP research asks how AI systems can make their use of evidence, purpose and semantic transformations inspectable. Explore agent-assurance benchmarks, semantic networks, artificial-consciousness research and bounded mathematical audit tools. Start with PACT's reproducible synthetic experiment, then follow the source and evidence for the question that interests you.
+段玉聪围绕“数据—信息—知识—智慧—意图（DIKWP）”开展持续研究，连接类型化语义图谱、人工意识、语义数学、主动医学与意图经济。他的 GitHub 开放版图现有 487 个公开仓库，覆盖 12 个研究领域，并提供 13 种语言入口。从理论、专利和正式著作到可体验的研究系统，这一体系为高校、开发者与企业提供了丰富的合作起点。[研究主页](https://github.com/YucongDuan)
 
-[Start with an experiment](https://github.com/YucongDuan/YucongDuan/blob/main/START_HERE.md) · [Follow the research](https://github.com/YucongDuan)
+## 面向高校与产业的介绍
 
-段玉聪的 DIKWP 开源研究关注：人工智能如何使用证据、表达意图，并使语义转换和判断修订可以被检查。这里汇集智能体保障基准、网状语义系统、人工意识研究与有界数学审计工具。可以从 PACT 的合成实验开始，沿着源码与证据继续探索自己关心的问题。
+当智能系统开始同时面对语义理解、意图解释和现实行动，段玉聪的 DIKWP 研究展现出鲜明的前沿价值。其公开成果已连接国际方法论采用、企业专利文本使用、独立学术研究、正式出版与开放工程。围绕共同技术问题，DIKWP 研究体系为联合论文、课程教学、比较测评、技术互操作和成果转化提供了可以具体展开的合作空间。[研究影响](IMPACT.zh-CN.md) · [产业联系](INDUSTRY_CONNECTIONS.zh-CN.md) · [合作入口](COLLABORATE.zh-CN.md)
 
-[中文入门](https://github.com/YucongDuan/YucongDuan/blob/main/START_HERE.zh-CN.md) · [关注研究更新](https://github.com/YucongDuan)
+## 分享代表项目
 
-## Transparent-economy release · 8 September 2026
+- 目的与授权：[PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0)。
+- 语义转换：[MESH²](https://github.com/YucongDuan/DIKWP-MESH-)。
+- 有界科研迭代：[ASCENT 0.2](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)。
+- 评估与行动连接：[WorldGate 2.0](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0)。
 
-Three DIKWP research tools are now available on GitHub: ClearPath for opportunity scenarios, DemandProof for shared-capacity planning, and LucidEcon for evidence-scoped scenarios and contribution accounting. Their published revisions passed CI, with 182 local tests recorded. Each includes source, synthetic examples and versioned downloads. Choose a tool, inspect its assumptions and contribute a reproducible result.
-
-[Compare the tools and open the releases](https://github.com/YucongDuan/YucongDuan/blob/main/TRANSPARENT_ECONOMY.md)
-
-三个 DIKWP 透明经济研究工具已发布：ClearPath 支持机会情景分析，DemandProof 支持共享容量规划，LucidEcon 支持带证据范围的情景分析与贡献核算。公开版本均有通过的 CI，合计记录 182 项本地测试，并提供源码、合成示例与版本下载。欢迎选择一个工具，检查其假设，提交可复现反馈。
-
-这些是研究原型与合成实验；现实需求、收入和实际效果需要另行验证。[项目选择与下载](https://github.com/YucongDuan/YucongDuan/blob/main/TRANSPARENT_ECONOMY.md)
+仓库数量核对日期：2026 年 9 月 16 日。改写时保留相关来源链接和项目适用范围。

@@ -1,0 +1,13 @@
+{
+  "checked_on": "2026-09-16",
+  "changed_files": 72,
+  "markdown_files": 68,
+  "markdown_links_checked": 3085,
+  "unique_external_urls_referenced": 637,
+  "rendered_tables": 115,
+  "public_repository_identities": 487,
+  "categories": 12,
+  "profile_languages": 13,
+  "failures": [],
+  "scope": "Markdown parse, local paths and anchors, 487 identities, category totals and 13-language counts. External sources were selected for research; not every external URL was live-tested. Banner PNG visually inspected. No portfolio-wide runtime test was performed."
+}

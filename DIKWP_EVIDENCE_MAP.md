@@ -1,11 +1,21 @@
 # DIKWP Impact Evidence Map / DIKWP 影响力证据地图
 
 **Original audit date / 原始核验日期:** 2026-08-25  
-**Selective update / 本次选择性更新:** 2026-09-07  
+**Selective update / 本次选择性更新:** 2026-09-16
 **Maintainer:** Yucong Duan / 段玉聪  
 **Scope:** public, traceable evidence of DIKWP research, standardization, implementation, diffusion, and adjacent structural convergence
 
 [Thirteen-language research homepage / 十三语研究主页](https://yucong-duan-research.dikwp407.chatgpt.site) · [Profile home / GitHub 主页](https://github.com/YucongDuan) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [Inventor patents](https://patents.google.com/?inventor=%E6%AE%B5%E7%8E%89%E8%81%AA&oq=%E6%AE%B5%E7%8E%89%E8%81%AA) · [Live DIKWP patent query](https://patents.google.com/?q=(DIKWP)&oq=DIKWP) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/) · [Official website](https://www.yucongduan.org/)
+
+## 2026-09-16: impact, industry and independent citation update
+
+[Impact overview / 影响概览](IMPACT.md) · [产业联系与共创](INDUSTRY_CONNECTIONS.zh-CN.md) · [Books and publications](PUBLICATIONS.md) · [Source register](research/RESEARCH_SOURCES_2026-09-16.json)
+
+The refresh rechecked the 487-repository identity inventory, the ISO/IEC clauses and bibliography, selected enterprise patent passages, AWS's official PDF, Alibaba Cloud's technical article, Huawei's patent description, LETI's publisher record, TechPolicy.Press, Asia Times and four book records.
+
+**Additional independent citation:** David Noever and Matt Ciolino's *Evaluating AI Vocational Skills Through Professional Testing* lists PeopleTec affiliations and cites Li–Duan and Tang–Duan DIKWP studies as references 35 and 37 (PDF p.13). [arXiv paper](https://arxiv.org/abs/2312.10603) · [PDF](https://arxiv.org/pdf/2312.10603). This is a preprint citation record, not a company partnership.
+
+**Classification correction propagated:** CN121981217A, which uses P as Practice, is removed from the Purpose-DIKWP table below in line with the 7 September exclusion. The earlier count of 13 remains a dated historical observation; it is not the corrected current total. The remaining older records retain their own verification dates.
 
 ## 2026-09-07 selective update / 本次选择性更新
 
@@ -238,7 +248,7 @@ Inclusion requires both:
 | Power-grid security | Guangdong Power Grid; Dongguan Power Supply Bureau | [CN116582360A](https://patents.google.com/patent/CN116582360A/zh) |
 | Power-user classification | Hainan Power Grid Wenchang Bureau | [CN116881772B](https://patents.google.com/patent/CN116881772B/zh) |
 | Supply-chain finance | Shanghai Pudong Development Bank | [CN119917594A](https://patents.google.com/patent/CN119917594A/zh) |
-| Financial document processing | Ping An International Financial Leasing | [CN120688465A](https://patents.google.com/patent/CN120688465A/zh) |
+| Financial document processing | Ping An International Financial Leasing | [CN120688465A, semantic-analysis embodiment](https://patents.google.com/patent/CN120688465A/en) |
 | Stock recommendation | Hainan Gangao Information Industry | [CN118134640A](https://patents.google.com/patent/CN118134640A/zh) |
 | Nutrition and health consultation | Guangzhou Jiefeng Network Technology | [CN117198465B](https://patents.google.com/patent/CN117198465B/zh) |
 | Trusted AI / semantic safety | Anhui Zhuoyue Yijia Information Technology | [CN121615796A](https://patents.google.com/patent/CN121615796A/zh) |
@@ -247,7 +257,6 @@ Inclusion requires both:
 | IoT information management | Sanya Nanhong Technology Development | [CN116170472A](https://patents.google.com/patent/CN116170472A/zh) |
 | Blockchain resource allocation | Hainan Zhouzhen Sifang Technology | [CN116187699A](https://patents.google.com/patent/CN116187699A/zh) |
 | Inter-satellite semantic communication | Shanghai Xiaoyuan Innovation Center | [CN121585225A](https://patents.google.com/patent/CN121585225A/zh) |
-| Multi-agent TRIZ | Guangdong Polytechnic Normal University | [CN121981217A](https://patents.google.com/patent/CN121981217A/zh) |
 
 [Run the live Google Patents query →](https://patents.google.com/?q=(DIKWP)&oq=DIKWP)
 

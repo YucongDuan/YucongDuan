@@ -1,5 +1,14 @@
 [English version](COLLABORATE.md)
 
+## 从共同问题开启联合创新
+
+欢迎高校、研究机构、开发者与企业围绕 **DIKWP 语义计算、人工意识、智能体测评、意图经济和主动医学研究**交换材料。可讨论联合论文、课程案例、开放基线、互操作研究和技术转化。
+
+[产业联系与合作契合点](INDUSTRY_CONNECTIONS.zh-CN.md) · [研究影响](IMPACT.zh-CN.md) · [正式著作与论文](PUBLICATIONS.md)
+
+提出一个明确问题、您已有的材料以及希望共同形成的成果，即可开启书面交流。公开技术问题可使用下方项目入口；不宜公开的学术交流可经 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 联系。
+
+
 # Collaborate on a concrete research result / 从具体成果开始合作
 
 [Profile](README.md) · [First experiment](START_HERE.md) · [Contribution details](CONTRIBUTING.md)

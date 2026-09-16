@@ -1,5 +1,14 @@
 # Collaborate on a concrete research result
 
+## Build a research connection with practical value
+
+Universities, researchers, developers and industry teams are welcome to explore **DIKWP semantic computation, artificial consciousness, agent evaluation, the intention economy and active-medicine research**. Possible outcomes include joint papers, teaching cases, open baselines, interoperability studies and technology-transfer discussions.
+
+[Industry connections and opportunities](INDUSTRY_CONNECTIONS.md) · [Research impact](IMPACT.md) · [Books and publications](PUBLICATIONS.md)
+
+Begin with a clear question, the material you already have and the result you would like to develop together. Use the project channels below for public technical work or [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) for academic correspondence that should remain private. Written proposals support asynchronous review.
+
+
 [Chinese reference](COLLABORATE.zh-CN.md)
 
 [Profile](README.md) · [First experiment](START_HERE.md) · [Contribution details](CONTRIBUTING.md)

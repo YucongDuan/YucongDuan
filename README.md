@@ -1,59 +1,67 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
-# Yucong Duan
+![DIKWP — From meaning to purposeful intelligence](assets/dikwp-research-banner.svg)
 
-Created by Yucong Duan (段玉聪).
+# Yucong Duan · 段玉聪
 
-Making AI reasoning, purpose and evidence inspectable.
+### Advancing purpose-driven AI through DIKWP, semantic mathematics and artificial-consciousness research.
 
-DIKWP · Artificial consciousness · Semantic mathematics · Auditable AI
+[Professor, Hainan University](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA Chair · WAAC President](https://www.waac.ac/news/News260314)
 
-[Professor, Hainan University](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA Chair / WAAC President](https://www.waac.ac/news/News260314)
+**What should intelligence understand, why should it act, and how can we make its decisions accountable?** My research develops **Data–Information–Knowledge–Wisdom–Purpose (DIKWP)** into typed semantic graphs, computational transformations and open research systems. The ambition is to connect machine capability with human purpose—and turn that connection into something people can study, build and use.
 
-My research develops Data–Information–Knowledge–Wisdom–Purpose (DIKWP) graphs and open experiments for examining how AI systems use evidence, interpret goals and revise decisions. The current semantic-network work treats D/I/K/W/P as interacting, revisable resource types. It makes alternative interpretations and unresolved conflicts visible.
+**[Explore the research](RESEARCH_BRIEF.md) · [See the impact](IMPACT.md) · [Run a first experiment](START_HERE.md) · [Discuss collaboration](COLLABORATE.md)**
 
-[Start here](START_HERE.md) · [Chinese guide](START_HERE.zh-CN.md) · [Research brief](RESEARCH_BRIEF.md) · [Collaborate](COLLABORATE.md) · [International access](INTERNATIONAL_ACCESS.md)
+| Open research portfolio | Research areas | Profile languages |
+|:---:|:---:|:---:|
+| **487 public repositories** | **12 interconnected fields** | **13 language editions** |
 
-## One research programme, four questions
+Inventory checked **16 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
-| Question | Explore |
+## A research programme with a growing international footprint
+
+| Where the work connects | Selected evidence |
 |---|---|
-| How can semantic resources be represented and transformed? | [DIKWP foundations](START_HERE.md#understand-dikwp) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| How can an agent's purpose, permissions and evidence be audited? | [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) · [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
-| What can artificial-consciousness experiments establish? | [Consciousness research](directory/artificial-consciousness.md) · [Operational indicators](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) |
-| How can mathematical claims carry explicit proof obligations? | [Semantic mathematics](directory/semantic-mathematics.md) · [CITM Forge](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) |
+| **International standardization** | **ISO/IEC TR 25005-2:2025** uses DIKWPA for smart-city case analysis and the data value chain; its bibliography cites Wu–Duan's DIKWP study. [Document and clause sources](IMPACT.md#international-standardization) |
+| **Banking, finance and energy** | Patent documents from **Shanghai Pudong Development Bank, Ping An International Financial Leasing, Guangdong Power Grid and Hainan Power Grid** explicitly use DIKWP. [Named applicants, patent numbers and technical passages](INDUSTRY_CONNECTIONS.md) |
+| **Academic recognition and professional publication** | The team's **2020 Wu Wenjun AI award** recognizes DIKW graph work; Duan's team coordinated the DIKWP and artificial-consciousness chapters of the **CAAI 2024 white-paper series**. [Institutional records](IMPACT.md#academic-foundations) |
+| **Independent international research** | **LETI** quality-management research builds with DIKWP; **PeopleTec-affiliated authors** cite two Duan coauthored evaluation studies; **TechPolicy.Press** connects Purpose and semantic sovereignty to AI governance. [Read the source trail](IMPACT.md#independent-research-and-public-discussion) |
+| **Books and ideas** | Published books connect **semantic mathematics, artificial consciousness, active medicine and the intention economy**, including titles from **Xidian University Press, Peking University Press and China Science and Technology Press**. [Books, ISBNs and publications](PUBLICATIONS.md) |
 
-## Choose a first experiment
+These connections are made visible through their precise relationship: methodological use, patent-document use, authorship, citation or publication. **Industrial collaboration opportunities** are developed separately below.
 
-New to the code? [Run PACT](START_HERE.md#run-your-first-experiment). One Python command reproduces 72 synthetic scenarios and four deterministic baselines after cloning the repository. No API key or model download is needed.
+## The next frontier: purpose, meaning and accountable action
 
-| Project | Inspectable result | Evidence / access |
+DIKWP offers a research agenda for the agent era: represent what a system treats as data, how it constructs meaning, which knowledge supports a decision, what values it weighs and whose purpose it serves. These resources form an interacting network; Purpose can redirect interpretation and can itself be revised.
+
+The distinctive contribution is the **systematic graph formalization and computation of DIKW/DIKWP resources**, with a public patent lineage extending back to 2017. [Foundations and patent portfolio](PATENT_PORTFOLIO_MAP.md) · [2017 research record](https://dblp.org/rec/conf/sera/DuanSHZZL17)
+
+**AWS, Alibaba Cloud and Huawei** publish architectures or patent descriptions connecting semantic resources, reasoning and action. Their technical overlap with this research creates concrete opportunities for **interoperability, comparative evaluation and joint research**. [Industrial connections and co-creation opportunities →](INDUSTRY_CONNECTIONS.md) The comparison identifies technical convergence; it does not announce a partnership with those companies.
+
+## Build with the portfolio
+
+| Start with | What you can explore | Entry |
 |---|---|---|
-| [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | Purpose and permission checks, benchmark scores and a reproduction receipt | [Recorded CI](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968) · source at root |
-| [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) | 25 primitive transformation classes, alternative routes and perspective conflicts | [Recorded CI](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083) · source at root |
-| [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | Evidence, context and incentive analysis with output-validation checks | [Recorded CI](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258) · source at root |
-| [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) | Operational indicators, claim levels and research scenarios | ZIP package · not rerun in this update |
-| [CITM Forge](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) | Bounded certificates and a hash-linked audit ledger | ZIP package · not rerun in this update |
-| [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | Funded-demand and capacity scenarios for transparent-economy research | [Recorded CI](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742) · [v1.0.0](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/releases/tag/v1.0.0) |
+| **PACT** | Purpose, permission and evidence policies; 72 synthetic scenarios and four deterministic baselines | [Reproduce the experiment](START_HERE.md#run-your-first-experiment) |
+| **MESH²** | All 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and perspective conflicts | [Source and examples](https://github.com/YucongDuan/DIKWP-MESH-) |
+| **VerityWeave** | Evidence, context, incentives and inspectable output checks | [Source and verification](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
+| **ASCENT 0.2** | Bounded numerical research, stronger-reference comparisons, controlled policy adoption and rollback | [Operator console and walkthrough](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) |
+| **PRAXIS WorldGate 2.0** | Connect evaluation to signed authority, observable effects and compensation in a local action kernel | [Run the reference system](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) |
+| **ClearPath · DemandProof · LucidEcon** | Transparent-economy experiments in opportunity, shared capacity and contribution accounting | [Three-project guide](TRANSPARENT_ECONOMY.md) |
 
-Latest release · 8 September 2026: [ClearPath, DemandProof and LucidEcon](TRANSPARENT_ECONOMY.md) connect opportunity analysis, shared-capacity planning and contribution accounting. Their three published revisions passed CI; [182 local tests are recorded](GITHUB_PUBLICATION_2026-09-08.md). Each tool has its own schema and synthetic examples.
+**Also explore:** [Artificial consciousness](directory/artificial-consciousness.md) · [Semantic mathematics](directory/semantic-mathematics.md) · [Education](directory/education-learning.md) · [Health and care](directory/medicine-health.md) · [Security and justice](directory/security-justice.md).
 
-English project pages · 8 September 2026: [Interface and authorship update](INTERFACE_AND_AUTHORSHIP_2026-09-08.md) covers creator credits across 483 repositories, 119 new or rewritten English introductions, and 86 HTML pages in 49 projects. English presentation is available in the current source; original-language references and historical archives remain available.
+Projects are research systems with individual scopes. Version-specific test and reproduction records are available in the [engineering catalog](catalog/README.md); ASCENT's numerical experiments and WorldGate's local adapter are described in their own repositories.
 
-Tests support the behavior checked at the linked revisions. Artificial-consciousness indicators, finite mathematical certificates and economic scenarios each have a bounded research scope; see the project documentation when interpreting a result.
+## Choose your route
 
-## Read the research and its evidence
+| You are here to… | Begin here |
+|---|---|
+| **Research or teach** | [Research brief](RESEARCH_BRIEF.md) · [Publications](PUBLICATIONS.md) · [Citation guide](CITING.md) |
+| **Build and evaluate** | [First experiment](START_HERE.md) · [487-project directory](REPOSITORY_DIRECTORY.md) |
+| **Explore industry collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Written proposal](COLLABORATE.md) |
+| **Write, interview or share** | [Impact overview](IMPACT.md) · [Ready-to-use introductions](SHARE.md) · [Chinese research and essays](CHINESE_RESEARCH.md) |
 
-The programme links typed DIKW/DIKWP graph research with executable semantic systems. Hainan University records the team's 2020 Wu Wenjun AI award for DIKW graph extension and modelling, and Duan's team's coordination of the DIKWP and artificial-consciousness chapters in the CAAI 2024 white-paper series. [University award record](https://en.hainanu.edu.cn/info/1151/2981.htm) · [White-paper authorship](https://cs.hainanu.edu.cn/info/1035/9040.htm)
+[Official website](https://www.yucongduan.org/) · [Research portal](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/)
 
-[Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [Research homepage](https://yucong-duan-research.dikwp407.chatgpt.site)
-
-[Evidence map](DIKWP_EVIDENCE_MAP.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Citation guide](CITING.md) · [Research background](PROFILE_REFERENCE_2026-09-07.md)
-
-## Explore further and take part
-
-The [complete directory](REPOSITORY_DIRECTORY.md) covers 483 public repositories in 12 research areas as of 8 September 2026. Use the [engineering catalog](catalog/README.md) to distinguish published source, recorded tests and pending verification.
-
-Run an example, submit a counterexample, compare a baseline or improve a translation. [Find a concrete contribution](COLLABORATE.md) and [share a reproducible report](https://github.com/YucongDuan/YucongDuan/issues/new/choose). Academic exchange can begin asynchronously through [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan).
-
-Follow [@YucongDuan](https://github.com/YucongDuan) for research updates. Star a project you use, cite the version you evaluate, and share its canonical link. [Short introduction and release notes for sharing](SHARE.md)
+**Follow the research. Run an experiment. Bring a problem worth solving.** Star the projects you find useful, cite the work you build on, and begin collaboration with a written question or proposal.

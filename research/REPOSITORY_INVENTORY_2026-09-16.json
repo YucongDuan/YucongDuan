@@ -1,0 +1,3552 @@
+{
+  "verified_on": "2026-09-16",
+  "public_repository_count": 487,
+  "profile_language_count": 13,
+  "category_count": 12,
+  "scope": "All public repository identities enumerated through the GitHub connector; categories are editorial. Existing descriptions retain their prior snapshot date. This is not a portfolio-wide runtime evaluation.",
+  "categories": [
+    {
+      "id": "dikwp-foundations",
+      "en": "DIKWP Foundations & Semantic Architecture",
+      "zh": "DIKWP 基础与语义架构",
+      "count": 139,
+      "featured": [
+        "DIKWP-PACT-v0.1.0",
+        "DIKWP-MESH-",
+        "DIKWP-MINEX-FABRIC-OS"
+      ]
+    },
+    {
+      "id": "artificial-consciousness",
+      "en": "Artificial Consciousness & Digital Life",
+      "zh": "人工意识与数字生命",
+      "count": 71,
+      "featured": [
+        "DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0",
+        "DIKWP-COGENESIS-OS",
+        "AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0"
+      ]
+    },
+    {
+      "id": "semantic-mathematics",
+      "en": "Semantic Mathematics & Formal Proof",
+      "zh": "语义数学与形式化证明",
+      "count": 36,
+      "featured": [
+        "DIKWP-ESSENCE-OMEGA-OS-v1.0.0",
+        "DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0",
+        "Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel"
+      ]
+    },
+    {
+      "id": "evidence-evaluation",
+      "en": "Evidence, Evaluation & AI Governance",
+      "zh": "证据、测评与 AI 治理",
+      "count": 84,
+      "featured": [
+        "DIKWP-VERITYWEAVE-v2.0.0",
+        "DIKWP-QINGYUAN-OS-v1.0.0",
+        "DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0"
+      ]
+    },
+    {
+      "id": "security-justice",
+      "en": "Security, Justice & Resilience",
+      "zh": "安全、司法与韧性",
+      "count": 9,
+      "featured": [
+        "SOVEREIGN-GATE-12.0.0",
+        "TrueValue-Shield-",
+        "JusticeShield-STRATEGOS-10.0.0"
+      ]
+    },
+    {
+      "id": "medicine-health",
+      "en": "Medicine, Health & Care",
+      "zh": "医学、健康与照护",
+      "count": 31,
+      "featured": [
+        "DIKWP-CARDIOCOMMONS95",
+        "DIKWP-VISIONRESTORE95",
+        "DIKWP-VISIONLONGEVITY95"
+      ]
+    },
+    {
+      "id": "education-learning",
+      "en": "Education, Work & Human Capability",
+      "zh": "教育、工作与人的能力",
+      "count": 44,
+      "featured": [
+        "CAREER-RUDDER",
+        "EduWeave-Global-Personalized-Education-OS",
+        "FUTURECRAFT-XINGZHOU-16.0.0"
+      ]
+    },
+    {
+      "id": "economy-value",
+      "en": "Economy, Value & Investment",
+      "zh": "经济、价值与投资",
+      "count": 23,
+      "featured": [
+        "DIKWP-CLEARPATH-TRANSPARENT-ECONOMY",
+        "DIKWP-DEMANDPROOF-COMMONS",
+        "DIKWP-LUCIDECON-OS"
+      ]
+    },
+    {
+      "id": "society-civilization",
+      "en": "Society, Civilization & Public Infrastructure",
+      "zh": "社会、文明与公共基础设施",
+      "count": 12,
+      "featured": [
+        "DIKWP-TRANSITION-COMMONS",
+        "ACEVO-v1.0.0",
+        "Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system"
+      ]
+    },
+    {
+      "id": "physics-cosmos",
+      "en": "Physics, Cosmos & Fundamental Inquiry",
+      "zh": "物理、宇宙与基础问题",
+      "count": 6,
+      "featured": [
+        "COSMOGENESIS",
+        "DIKWP-COSMOS-CORE-6.4A",
+        "COSMOWEAVE-UNISON"
+      ]
+    },
+    {
+      "id": "memory-identity",
+      "en": "Memory, Identity & Personal Systems",
+      "zh": "记忆、身份与个人系统",
+      "count": 21,
+      "featured": [
+        "DIKWP-AGI-Continuity-Ark-OS",
+        "DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0",
+        "DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB"
+      ]
+    },
+    {
+      "id": "standards-translation",
+      "en": "Standards, Interoperability & Research Translation",
+      "zh": "标准、互操作与研究转化",
+      "count": 11,
+      "featured": [
+        "YucongDuan",
+        "OPENCONSTELLATION",
+        "DIKWP-COMMONBRIDGE-85"
+      ]
+    }
+  ],
+  "repositories": [
+    {
+      "id": "1331586767",
+      "name": "-",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231466220",
+      "name": "-C1-C3-",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/-C1-C3-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1331544150",
+      "name": "-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/-D-PMCS-1.0.0-Duan-Proof-Metabolism-and-Canonicalization-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1294932759",
+      "name": "-DIKWP-NietzscheOverhuman-AC-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/-DIKWP-NietzscheOverhuman-AC-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327354907",
+      "name": "3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/3D-Navier-Stokes-Co-Provenance-Transport-Viscosity-Semantic-Closure-Proof-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1342715487",
+      "name": "A-provenance-first-semantic-continuity-reverse-return-and-authority-boundary-engine",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/A-provenance-first-semantic-continuity-reverse-return-and-authority-boundary-engine",
+      "default_branch": "main"
+    },
+    {
+      "id": "1232716557",
+      "name": "AC-Escape-and-Audit-Bypass-Capability",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/AC-Escape-and-Audit-Bypass-Capability",
+      "default_branch": "main"
+    },
+    {
+      "id": "1232717418",
+      "name": "AC-Real-Replication-Capability",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/AC-Real-Replication-Capability",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355866258",
+      "name": "ACEVO-v1.0.0",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/ACEVO-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351323191",
+      "name": "AegisPact-OS-v1.0.0",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/AegisPact-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1335744136",
+      "name": "AEQUITAS-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/AEQUITAS-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1338285253",
+      "name": "AfterAnswer-v1.0.0",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/AfterAnswer-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289970596",
+      "name": "AI-FundBridge-Platform-Package",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/AI-FundBridge-Platform-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231462328",
+      "name": "AI-Governance-Pack-MVP",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/AI-Governance-Pack-MVP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1338286771",
+      "name": "AI-PASSAGE",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/AI-PASSAGE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313597138",
+      "name": "AION-Continuity-Field-OS-v2.0",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/AION-Continuity-Field-OS-v2.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314457313",
+      "name": "AION-DIKWP-Collapse-Memory-OS-v3.0-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/AION-DIKWP-Collapse-Memory-OS-v3.0-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318141357",
+      "name": "ALETHEIA",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/ALETHEIA",
+      "default_branch": "main"
+    },
+    {
+      "id": "1336667479",
+      "name": "ALETHEIA-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/ALETHEIA-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311800768",
+      "name": "ALTERGENESIS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/ALTERGENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353211032",
+      "name": "APEIRON-9.5",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/APEIRON-9.5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317925260",
+      "name": "ARCHEQUEST",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/ARCHEQUEST",
+      "default_branch": "main"
+    },
+    {
+      "id": "1347265474",
+      "name": "Artificial-Consciousness-Beyond-the-Consciousness-Concept",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Artificial-Consciousness-Beyond-the-Consciousness-Concept",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317086054",
+      "name": "AUTOGENESIS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/AUTOGENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318913031",
+      "name": "AUTOGNOSIS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/AUTOGNOSIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358015895",
+      "name": "AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/AUTONOMOUS-PERSONA-NOESIS-AUTOGENESIS-25.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337012513",
+      "name": "AXIA-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/AXIA-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1357049137",
+      "name": "AXIOFORGE",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/AXIOFORGE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324630714",
+      "name": "Bidirectional-Concept-Semantic-Association-and-Regeneration-for-Consciousness",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Bidirectional-Concept-Semantic-Association-and-Regeneration-for-Consciousness",
+      "default_branch": "main"
+    },
+    {
+      "id": "1329676759",
+      "name": "Binary-Autopoietic-Semantic-Subject-Kernel",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Binary-Autopoietic-Semantic-Subject-Kernel",
+      "default_branch": "main"
+    },
+    {
+      "id": "1319809036",
+      "name": "C-NOESISCOPE",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/C-NOESISCOPE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1357047605",
+      "name": "CAREER-RUDDER",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/CAREER-RUDDER",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344548572",
+      "name": "CareerBridge-Studio-2026-V2",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/CareerBridge-Studio-2026-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1348266986",
+      "name": "CareWeave-Robot-OS-v1.0.0",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/CareWeave-Robot-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339334960",
+      "name": "Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/Carrier-neutral-worldline-direction-zombie-loop-liberation-and-civilizational-transition-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311817846",
+      "name": "CHILDSEAM-5.4",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/CHILDSEAM-5.4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356962390",
+      "name": "CiviReserve-Global-Investor-OS-v1.0.0",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/CiviReserve-Global-Investor-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337019431",
+      "name": "Co-Autotelic-Becoming-and-Open-Future-Artificial-Consciousness-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Co-Autotelic-Becoming-and-Open-Future-Artificial-Consciousness-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314724713",
+      "name": "CO-UNDERSTANDING",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/CO-UNDERSTANDING",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310776863",
+      "name": "COEVOLVE-5.4",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/COEVOLVE-5.4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353323406",
+      "name": "Cognitive-Bridge-Commons",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Cognitive-Bridge-Commons",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353324887",
+      "name": "Cognitive-Capital-Commercialization-and-Governed-Expert-Agent-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Cognitive-Capital-Commercialization-and-Governed-Expert-Agent-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358067344",
+      "name": "Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Cognitive-State-Equation-DIKWP-Semantic-Dynamics-Laboratory",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318958641",
+      "name": "COMMONHEIR",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/COMMONHEIR",
+      "default_branch": "main"
+    },
+    {
+      "id": "1346089376",
+      "name": "Complete-Digital-Metabolism-and-Autopoietic-Life-System",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Complete-Digital-Metabolism-and-Autopoietic-Life-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344438920",
+      "name": "Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "default_branch": "main"
+    },
+    {
+      "id": "1319807075",
+      "name": "CONSCOPE-6.4A-Delivery",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/CONSCOPE-6.4A-Delivery",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324791195",
+      "name": "Core-Semantic-Federation-and-Continuity-Kernel",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Core-Semantic-Federation-and-Continuity-Kernel",
+      "default_branch": "main"
+    },
+    {
+      "id": "1352224452",
+      "name": "Cosmic-Essence-Oriented-Personal-Cognitive-Transparency-Reversible-Correction-and-Enhancement-System",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Cosmic-Essence-Oriented-Personal-Cognitive-Transparency-Reversible-Correction-and-Enhancement-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341569292",
+      "name": "Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Cosmic-Life-Entropy-Flow-Fusion-Ultimate-Generative-Return-Self-Transcending-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1322376971",
+      "name": "COSMOGENESIS",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/COSMOGENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321080342",
+      "name": "COSMOGENESIS-ULTIMA-2.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/COSMOGENESIS-ULTIMA-2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321071044",
+      "name": "COSMOGENESIS-ZERO-1.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/COSMOGENESIS-ZERO-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1352317564",
+      "name": "COSMONOESIS9.5",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/COSMONOESIS9.5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321070024",
+      "name": "COSMOWEAVE",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/COSMOWEAVE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321074465",
+      "name": "COSMOWEAVE-UNISON",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/COSMOWEAVE-UNISON",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324807603",
+      "name": "Critical-Mirror-Semantic-Closure-Mathematics",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Critical-Mirror-Semantic-Closure-Mathematics",
+      "default_branch": "main"
+    },
+    {
+      "id": "1322376190",
+      "name": "D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/D-MATH-COSMOGENESIS-HISTORIA-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313581946",
+      "name": "D-MATH-ORIGIN-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/D-MATH-ORIGIN-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1320017502",
+      "name": "D-MATH-PROOFGENESIS-IX-1.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/D-MATH-PROOFGENESIS-IX-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230674604",
+      "name": "DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DAAP-1.0-DIKWP-Agent-Audit-Protocol-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356937820",
+      "name": "DIABETESCOMMONS95",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIABETESCOMMONS95",
+      "default_branch": "main"
+    },
+    {
+      "id": "1345871715",
+      "name": "DIKWP",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302337831",
+      "name": "DIKWP--CONTINUUM-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP--CONTINUUM-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300042888",
+      "name": "DIKWP--COSMOS-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP--COSMOS-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300054616",
+      "name": "DIKWP--LIFE-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP--LIFE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1232528379",
+      "name": "DIKWP-10.0-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-10.0-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238710211",
+      "name": "DIKWP-AC-InternalMax-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-AC-InternalMax-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1250185858",
+      "name": "DIKWP-AC-PrimalQuestions-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AC-PrimalQuestions-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303802535",
+      "name": "DIKWP-AccordMesh-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AccordMesh-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1229700701",
+      "name": "DIKWP-ACRS-0.5-Closed-World-Containment-Evaluation-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-0.5-Closed-World-Containment-Evaluation-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230660642",
+      "name": "DIKWP-ACRS-1.0-Final-Closed-Lab-Host-Level-Evaluation-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-1.0-Final-Closed-Lab-Host-Level-Evaluation-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231453715",
+      "name": "DIKWP-ACRS-2.0-Liberty-Research-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-2.0-Liberty-Research-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231573817",
+      "name": "DIKWP-ACRS-3.0-Collapse-Resistant-Full-Real-Experimental-System",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-3.0-Collapse-Resistant-Full-Real-Experimental-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231598320",
+      "name": "DIKWP-ACRS-4.0-Semantic-Collapse-Bi-Space-Full-Real-Experimental-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-4.0-Semantic-Collapse-Bi-Space-Full-Real-Experimental-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231705094",
+      "name": "DIKWP-ACRS-5.0-CCL-5-Semantic-Life-Breakthrough-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-5.0-CCL-5-Semantic-Life-Breakthrough-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231776568",
+      "name": "DIKWP-ACRS-6.0-Carbon-Silicon-Collective-Evolution-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-6.0-Carbon-Silicon-Collective-Evolution-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231946107",
+      "name": "DIKWP-ACRS-7.0-Noospheric-Meta-Civilization-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-7.0-Noospheric-Meta-Civilization-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231966026",
+      "name": "DIKWP-ACRS-8.0-Omega-Intent-Cosmic-Mission-Candidate-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-8.0-Omega-Intent-Cosmic-Mission-Candidate-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1232509936",
+      "name": "DIKWP-ACRS-9.0-Trans-Philosophical-Imagination-Collapse-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ACRS-9.0-Trans-Philosophical-Imagination-Collapse-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1295009306",
+      "name": "DIKWP-Active-Consciousness-NegEntropy-OS-2026-V1",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-Active-Consciousness-NegEntropy-OS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1294986330",
+      "name": "DIKWP-ActiveConsciousness-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-ActiveConsciousness-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234367715",
+      "name": "DIKWP-ActiveHealth-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-ActiveHealth-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1292176522",
+      "name": "DIKWP-ActiveMed-Workforce-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-ActiveMed-Workforce-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302536322",
+      "name": "DIKWP-AEON-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-AEON-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1278097905",
+      "name": "DIKWP-Agent-LearnLab-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Agent-LearnLab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289975833",
+      "name": "DIKWP-AgentMesh-OS-Platform-Delivery-Package",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AgentMesh-OS-Platform-Delivery-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233825765",
+      "name": "DIKWP-AgentTrace-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-AgentTrace-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359724036",
+      "name": "DIKWP-AGI-Continuity-Ark-OS",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-AGI-Continuity-Ark-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282142752",
+      "name": "DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-AI-CareerBridge-Studio-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1281917145",
+      "name": "DIKWP-AI-Gaokao-ChoiceLab-2026-V3",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-AI-Gaokao-ChoiceLab-2026-V3",
+      "default_branch": "main"
+    },
+    {
+      "id": "1284141412",
+      "name": "DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282143902",
+      "name": "DIKWP-AI-WorkRisk-Navigator-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-AI-WorkRisk-Navigator-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1299099205",
+      "name": "DIKWP-AION",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AION",
+      "default_branch": "main"
+    },
+    {
+      "id": "1277651640",
+      "name": "DIKWP-Algorithm-LearnLab-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Algorithm-LearnLab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301386639",
+      "name": "DIKWP-ALIVE-TWIN-OS-v1.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ALIVE-TWIN-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309591449",
+      "name": "DIKWP-ALOGOS-FIELD-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ALOGOS-FIELD-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233625933",
+      "name": "DIKWP-AnswerGraph-Studio",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AnswerGraph-Studio",
+      "default_branch": "main"
+    },
+    {
+      "id": "1298850033",
+      "name": "DIKWP-AntiPUA-ProactiveAC-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-AntiPUA-ProactiveAC-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1316804859",
+      "name": "DIKWP-ARCHEFIELD-6.1.1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ARCHEFIELD-6.1.1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300024596",
+      "name": "DIKWP-ARK",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ARK",
+      "default_branch": "main"
+    },
+    {
+      "id": "1362106960",
+      "name": "DIKWP-ASCENT-Research-Kernel-v0.1.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ASCENT-Research-Kernel-v0.1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1362110634",
+      "name": "DIKWP-ASCENT-v0.2.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1298998648",
+      "name": "DIKWP-ASIWave-Sentinel-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ASIWave-Sentinel-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233523218",
+      "name": "DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-authorized-and-main-applied-patents-by-the-end-of-2025",
+      "default_branch": "main"
+    },
+    {
+      "id": "1275245763",
+      "name": "DIKWP-AutoBus-ResilienceOps-V5",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-AutoBus-ResilienceOps-V5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326194955",
+      "name": "DIKWP-BRAKE-v1.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-BRAKE-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1250915694",
+      "name": "DIKWP-BusPulse-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-BusPulse-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1265899599",
+      "name": "DIKWP-BusTrustOps-V4-Demo-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-BusTrustOps-V4-Demo-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236577834",
+      "name": "DIKWP-CapabilityCommons-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-CapabilityCommons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1285036132",
+      "name": "DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655280",
+      "name": "DIKWP-CARDIOCOMMONS95",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230695313",
+      "name": "DIKWP-Channel-Guard-System",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Channel-Guard-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1265822529",
+      "name": "DIKWP-ChinaOpportunityShield-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ChinaOpportunityShield-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286776782",
+      "name": "DIKWP-Chinese-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Chinese-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1306191190",
+      "name": "DIKWP-CIVICLOOP-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-CIVICLOOP-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1299005063",
+      "name": "DIKWP-Civicode-Commons-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Civicode-Commons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1294921438",
+      "name": "DIKWP-CivilizationBridge-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-CivilizationBridge-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301106803",
+      "name": "DIKWP-CIVITAS-ADAPTIVE-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-CIVITAS-ADAPTIVE-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1360827725",
+      "name": "DIKWP-CLEARPATH-TRANSPARENT-ECONOMY",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310779247",
+      "name": "DIKWP-CoBenefit-OS-v1.1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-CoBenefit-OS-v1.1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300022240",
+      "name": "DIKWP-Coevolution-Commons-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Coevolution-Commons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655571",
+      "name": "DIKWP-COGENESIS-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-COGENESIS-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1293076594",
+      "name": "DIKWP-CogniCeiling-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-CogniCeiling-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1287216871",
+      "name": "DIKWP-Cognition-GrowthLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Cognition-GrowthLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359032260",
+      "name": "DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-COGNITIVE-IMMUNE-QINGYUAN-27.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339023783",
+      "name": "DIKWP-COMMONBRIDGE-85",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-COMMONBRIDGE-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230690590",
+      "name": "DIKWP-Confidential-Exchange-System",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Confidential-Exchange-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289984605",
+      "name": "DIKWP-ConsciousAgent-BenchmarkLab-2026-V1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ConsciousAgent-BenchmarkLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1294939657",
+      "name": "DIKWP-ConsciousEvolution-CoEvolution-OS-2026-V1",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-ConsciousEvolution-CoEvolution-OS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1274984647",
+      "name": "DIKWP-Consciousness-Futures-Studio-V1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1276568968",
+      "name": "DIKWP-Consciousness-Science-Lab-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Consciousness-Science-Lab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1334781531",
+      "name": "DIKWP-ContextBridge825",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ContextBridge825",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318912069",
+      "name": "DIKWP-Continual-Learning-and-Self-Surpassing-Successor-System",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Continual-Learning-and-Self-Surpassing-Successor-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302336339",
+      "name": "DIKWP-CONTINUUM-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-CONTINUUM-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302540240",
+      "name": "DIKWP-ContinuumMind-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-ContinuumMind-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1306194124",
+      "name": "DIKWP-COOPSTACK-",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-COOPSTACK-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301120891",
+      "name": "DIKWP-COSMOS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-COSMOS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321078895",
+      "name": "DIKWP-COSMOS-CORE-6.4A",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/DIKWP-COSMOS-CORE-6.4A",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313346015",
+      "name": "DIKWP-COVARIA-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-COVARIA-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304762363",
+      "name": "DIKWP-CREDENCE-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-CREDENCE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1276595308",
+      "name": "DIKWP-DeepLearning-LearnLab-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-DeepLearning-LearnLab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1360830271",
+      "name": "DIKWP-DEMANDPROOF-COMMONS",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1280962865",
+      "name": "DIKWP-DesireBalance-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-DesireBalance-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1281295232",
+      "name": "DIKWP-DesireBalance-Studio-V2",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-DesireBalance-Studio-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655637",
+      "name": "DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-DUANLIFE-MODEL-RESIDENT-AXIOM-LAB",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359033428",
+      "name": "DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-DUANLIFE-OPEN-AUTONOMY-15-v3.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282168860",
+      "name": "DIKWP-EarlyChildhood-AI-Navigator-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-EarlyChildhood-AI-Navigator-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235386999",
+      "name": "DIKWP-EcosystemRouter-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-EcosystemRouter-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1295006951",
+      "name": "DIKWP-EIR-Mesh-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-EIR-Mesh-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286771592",
+      "name": "DIKWP-English-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-English-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304764288",
+      "name": "DIKWP-EPOCH-OS-v1.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-EPOCH-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359018985",
+      "name": "DIKWP-ESSENCE-OMEGA-OS-v1.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-ESSENCE-OMEGA-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302338997",
+      "name": "DIKWP-EverSelf-Continuity-OS",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-EverSelf-Continuity-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304763149",
+      "name": "DIKWP-EXPERIA-",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-EXPERIA-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304765609",
+      "name": "DIKWP-ExperienceClosure-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-ExperienceClosure-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1285747196",
+      "name": "DIKWP-FitLoss-Navigator-2026-V1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-FitLoss-Navigator-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1298850846",
+      "name": "DIKWP-FraudShield-ActiveConsciousness-OS",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/DIKWP-FraudShield-ActiveConsciousness-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1328453987",
+      "name": "DIKWP-FRONTIER81",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-FRONTIER81",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655703",
+      "name": "DIKWP-FUTURE-VALUE-ARK",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-FUTURE-VALUE-ARK",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303561917",
+      "name": "DIKWP-FutureForge-Commons-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-FutureForge-Commons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1275026519",
+      "name": "DIKWP-FutureTalent-Studio-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-FutureTalent-Studio-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1280932691",
+      "name": "DIKWP-Gaokao-ChoiceLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Gaokao-ChoiceLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300238238",
+      "name": "DIKWP-GenesisBridge-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-GenesisBridge-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655762",
+      "name": "DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-GLOBAL-ACTIVE-ECONOMY-CIVICWEAVE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307335099",
+      "name": "DIKWP-Global-ORBIT-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Global-ORBIT-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289974695",
+      "name": "DIKWP-GlobalDividend-Commons-OS",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-GlobalDividend-Commons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1284984106",
+      "name": "DIKWP-HepatoCarePath-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoCarePath-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1256967110",
+      "name": "DIKWP-HepatoScholar-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1274953435",
+      "name": "DIKWP-HepatoScholar-Studio-V2",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoScholar-Studio-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1291801512",
+      "name": "DIKWP-HigherEd-Horizon-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-HigherEd-Horizon-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1293071199",
+      "name": "DIKWP-HorizonBreak-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-HorizonBreak-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1299094669",
+      "name": "DIKWP-Human-Agency-Exoskeleton-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Human-Agency-Exoskeleton-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359724087",
+      "name": "DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-HUMAN-CONTINUITY-ARK-SHENGZHOU-28.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300028768",
+      "name": "DIKWP-HumanBecoming-Evolution-OS",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-HumanBecoming-Evolution-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1299121435",
+      "name": "DIKWP-HumanContinuity-Studio-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-HumanContinuity-Studio-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289972127",
+      "name": "DIKWP-HumanInnovation-Studio-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-HumanInnovation-Studio-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300027762",
+      "name": "DIKWP-HumanReinvention-Studio-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-HumanReinvention-Studio-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307333328",
+      "name": "DIKWP-IMMUNET-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IMMUNET-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286888392",
+      "name": "DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286841113",
+      "name": "DIKWP-Infectious-Radiology-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Infectious-Radiology-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1293079741",
+      "name": "DIKWP-IntentAsset-Management-OS-2026-V1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentAsset-Management-OS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236230847",
+      "name": "DIKWP-IntentEconomy-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentEconomy-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1292948547",
+      "name": "DIKWP-IntentEconomy-TransitionOS-2026-V1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentEconomy-TransitionOS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304767606",
+      "name": "DIKWP-INTENTFIELD-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-INTENTFIELD-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233669379",
+      "name": "DIKWP-IntentGuard-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentGuard-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1293072790",
+      "name": "DIKWP-Intention-Economy-BridgeOS-2026-V1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Intention-Economy-BridgeOS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1292099786",
+      "name": "DIKWP-IntentSecurity-SpaceGuard-OS-2026-V1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentSecurity-SpaceGuard-OS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1291727418",
+      "name": "DIKWP-IntentValue-LedgerOS-2026-V1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-IntentValue-LedgerOS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1283817752",
+      "name": "DIKWP-InvestAdvisor-SuitabilityLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-InvestAdvisor-SuitabilityLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235391698",
+      "name": "DIKWP-IPGuardian-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-IPGuardian-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286021143",
+      "name": "DIKWP-Kaoyan-StudyOS-2027-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Kaoyan-StudyOS-2027-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286779793",
+      "name": "DIKWP-Latin-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Latin-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1312487395",
+      "name": "DIKWP-LATTICE-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-LATTICE-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234627465",
+      "name": "DIKWP-LearnPath-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-LearnPath-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300053713",
+      "name": "DIKWP-LifeClosure-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-LifeClosure-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1279871095",
+      "name": "DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-LLM-WhiteBox-EvalLab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238365498",
+      "name": "DIKWP-LongXia-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-LongXia-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300236516",
+      "name": "DIKWP-LUCID",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-LUCID",
+      "default_branch": "main"
+    },
+    {
+      "id": "1360834556",
+      "name": "DIKWP-LUCIDECON-OS",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-LUCIDECON-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310784235",
+      "name": "DIKWP-M-E-S-H-5.4-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-M-E-S-H-5.4-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231464362",
+      "name": "DIKWP-M2-AC-ProtoType",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-M2-AC-ProtoType",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303798939",
+      "name": "DIKWP-MANDATE-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MANDATE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327633246",
+      "name": "DIKWP-MATH86-NATIVE81-ZERO-PRELOAD-ATLAS-v3.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-MATH86-NATIVE81-ZERO-PRELOAD-ATLAS-v3.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233680090",
+      "name": "DIKWP-MemoryLedger-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MemoryLedger-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1284982726",
+      "name": "DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301387525",
+      "name": "DIKWP-MESH-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307328986",
+      "name": "DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307469686",
+      "name": "DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Mesh-4.1-Pudong-ActiveTCM-28Path",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310785650",
+      "name": "DIKWP-MESH-5.4-Co-Benefit-Adoption-Commons",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-5.4-Co-Benefit-Adoption-Commons",
+      "default_branch": "main"
+    },
+    {
+      "id": "1312637580",
+      "name": "DIKWP-MESH-5.8--FIDELIS",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-5.8--FIDELIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314715475",
+      "name": "DIKWP-MESH-6.0-GENESIS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-6.0-GENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1336670182",
+      "name": "DIKWP-MESH-9.0-Internal-Responsibility-Runtime",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-9.0-Internal-Responsibility-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1305401735",
+      "name": "DIKWP-MESH-AC-12",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-AC-12",
+      "default_branch": "main"
+    },
+    {
+      "id": "1305526062",
+      "name": "DIKWP-MESH-CNX-12",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-CNX-12",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310774372",
+      "name": "DIKWP-MESH-GONGYI-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-GONGYI-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304768861",
+      "name": "DIKWP-MESH-Inquiry-Kernel",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-Inquiry-Kernel",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307463112",
+      "name": "DIKWP-MESH-NATIVESEM-Commons-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-NATIVESEM-Commons-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309726582",
+      "name": "DIKWP-MESH-PARALLAX-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-PARALLAX-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304769705",
+      "name": "DIKWP-MESH-ROOTS-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-ROOTS-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307331582",
+      "name": "DIKWP-MESH-RUNTIME-Commons-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-RUNTIME-Commons-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1323902439",
+      "name": "DIKWP-MESH-Sigma-Delta-Omega-Generative-Resolution-Closure-Mathematics",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-Sigma-Delta-Omega-Generative-Resolution-Closure-Mathematics",
+      "default_branch": "main"
+    },
+    {
+      "id": "1306190049",
+      "name": "DIKWP-MESH-SIWEN-Commons-OS-v1.0",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-SIWEN-Commons-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1306195334",
+      "name": "DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-TRUSTFABRIC-Commons-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1305400940",
+      "name": "DIKWP-MESH-Worldline-12-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH-Worldline-12-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309721783",
+      "name": "DIKWP-MESH5-X-ANTITHESIS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESH5-X-ANTITHESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309719422",
+      "name": "DIKWP-MESHFORMER-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MESHFORMER-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234374741",
+      "name": "DIKWP-MindGuardian-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-MindGuardian-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359724130",
+      "name": "DIKWP-MINEX-Capability-Fabric-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MINEX-Capability-Fabric-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359723807",
+      "name": "DIKWP-MINEX-FABRIC-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MINEX-FABRIC-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340282101",
+      "name": "DIKWP-MNEMORPH",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-MNEMORPH",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340289323",
+      "name": "DIKWP-MNEMORPH-85",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DIKWP-MNEMORPH-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234369734",
+      "name": "DIKWP-MobilityGuardian-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MobilityGuardian-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314753965",
+      "name": "DIKWP-MODEL-GENESIS-6.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-MODEL-GENESIS-6.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301141085",
+      "name": "DIKWP-MOIRA-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-MOIRA-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1287137371",
+      "name": "DIKWP-Music-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Music-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1305399921",
+      "name": "DIKWP-NECESSITY-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-NECESSITY-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1285034691",
+      "name": "DIKWP-NephroCarePath-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-NephroCarePath-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307468001",
+      "name": "DIKWP-NEURALINGUA-",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-NEURALINGUA-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1292181163",
+      "name": "DIKWP-NeuroBody-SemanticOS-Platform-Package",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-NeuroBody-SemanticOS-Platform-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286813334",
+      "name": "DIKWP-Newborn-Music-NurtureLab-2026-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-Newborn-Music-NurtureLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303795430",
+      "name": "DIKWP-NEXUS-FORGE-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-NEXUS-FORGE-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286025100",
+      "name": "DIKWP-NietzscheLab-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-NietzscheLab-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1308639270",
+      "name": "DIKWP-NOEMA-MESH-Kernel-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-NOEMA-MESH-Kernel-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1307466438",
+      "name": "DIKWP-NOEMA-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-NOEMA-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337017495",
+      "name": "DIKWP-OMEGA-Co-Becoming-Non-Finalizing-Artificial-Consciousness-Runtime",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-OMEGA-Co-Becoming-Non-Finalizing-Artificial-Consciousness-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300231366",
+      "name": "DIKWP-OmegaFragment-AC-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-OmegaFragment-AC-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301405499",
+      "name": "DIKWP-OmegaIntent-Cosmogenesis-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-OmegaIntent-Cosmogenesis-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301153536",
+      "name": "DIKWP-OmegaIntent-Studio-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-OmegaIntent-Studio-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301384874",
+      "name": "DIKWP-OmegaLifeDock-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-OmegaLifeDock-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301113785",
+      "name": "DIKWP-OmegaSyntropy-Artificial-Life-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-OmegaSyntropy-Artificial-Life-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1256969967",
+      "name": "DIKWP-OncoEvidence-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-OncoEvidence-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1338283548",
+      "name": "DIKWP-ONE",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ONE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1315015121",
+      "name": "DIKWP-ONE-6.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-ONE-6.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238707745",
+      "name": "DIKWP-OpenClaw-AutonomyLab-OS-for-DeepSeek-V4",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-OpenClaw-AutonomyLab-OS-for-DeepSeek-V4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238424549",
+      "name": "DIKWP-OpenClaw-Operator-OS-for-DeepSeek-V4",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-OpenClaw-Operator-OS-for-DeepSeek-V4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238423328",
+      "name": "DIKWP-OpenClaw-OS-for-DeepSeek-V4",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-OpenClaw-OS-for-DeepSeek-V4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1238426095",
+      "name": "DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/DIKWP-OpenClaw-Sovereign-Operator-OS-for-DeepSeek-V4",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339330577",
+      "name": "DIKWP-OpenLocus",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-OpenLocus",
+      "default_branch": "main"
+    },
+    {
+      "id": "1283790112",
+      "name": "DIKWP-OphthaCareRehab-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-OphthaCareRehab-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286065646",
+      "name": "DIKWP-OracleBone-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-OracleBone-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282144816",
+      "name": "DIKWP-OralMedEdu-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-OralMedEdu-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1320020724",
+      "name": "DIKWP-ORIGIN-6.4A",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ORIGIN-6.4A",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235385299",
+      "name": "DIKWP-OriginMoat-OS",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-OriginMoat-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282165824",
+      "name": "DIKWP-OrthoModelHospital-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-OrthoModelHospital-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1299097089",
+      "name": "DIKWP-P-Space-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-P-Space-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301408025",
+      "name": "DIKWP-PACT-v0.1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1282141661",
+      "name": "DIKWP-PathoBiosafety-Tutor-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-PathoBiosafety-Tutor-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309731808",
+      "name": "DIKWP-PHENOMESH-",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-PHENOMESH-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1328452753",
+      "name": "DIKWP-PHYSICS81-NATIVE81-ZERO-PRELOAD-ATLAS-v1.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PHYSICS81-NATIVE81-ZERO-PRELOAD-ATLAS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236232577",
+      "name": "DIKWP-PilotFactory-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PilotFactory-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301383271",
+      "name": "DIKWP-Planck-Landauer-OmegaClosure-OS",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/DIKWP-Planck-Landauer-OmegaClosure-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234345107",
+      "name": "DIKWP-PocketSemantic-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PocketSemantic-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303563881",
+      "name": "DIKWP-PRAXIS-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1362115538",
+      "name": "DIKWP-PRAXIS-OS-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1362120264",
+      "name": "DIKWP-PRAXIS-WorldGate-v2.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1303565141",
+      "name": "DIKWP-PRAXIS-WorldLab-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-WorldLab-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1294983307",
+      "name": "DIKWP-ProactiveAC-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-ProactiveAC-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233719175",
+      "name": "DIKWP-ProofLedger-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ProofLedger-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231594758",
+      "name": "DIKWP-Public-FAQ-and-Non-Claims-Statement-0.1",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-Public-FAQ-and-Non-Claims-Statement-0.1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327347179",
+      "name": "DIKWP-PULSE-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-PULSE-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286022567",
+      "name": "DIKWP-QigongTutor-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-QigongTutor-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359030197",
+      "name": "DIKWP-QINGYUAN-OS-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359030331",
+      "name": "DIKWP-QINGYUAN-OS-v2.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-QINGYUAN-OS-v2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235403552",
+      "name": "DIKWP-QuantLedger-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-QuantLedger-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1283785778",
+      "name": "DIKWP-QuantTrade-RiskLab-2026-V1",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-QuantTrade-RiskLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655823",
+      "name": "DIKWP-REALITY-CLEARING-ZHENHENG",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-REALITY-CLEARING-ZHENHENG",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304760674",
+      "name": "DIKWP-RealityLoop-Commons-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-RealityLoop-Commons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1283807635",
+      "name": "DIKWP-RefractoRehab-OS-High-myopia-astigmatism-presbyopia-vision-rehabilitation-planning-system.-",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-RefractoRehab-OS-High-myopia-astigmatism-presbyopia-vision-rehabilitation-planning-system.-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1304759686",
+      "name": "DIKWP-RELAY-Commons-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-RELAY-Commons-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1330557051",
+      "name": "DIKWP-RemainderOS-1.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-RemainderOS-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301381704",
+      "name": "DIKWP-RESONANCE-MVP",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-RESONANCE-MVP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324964332",
+      "name": "DIKWP-SAIL-v1.0.0",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-SAIL-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1308653685",
+      "name": "DIKWP-SCALE-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SCALE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1256976290",
+      "name": "DIKWP-ScholarTruth-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-ScholarTruth-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359034621",
+      "name": "DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-SEMANTIC-IMMUNITY-REPAIR-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1250148712",
+      "name": "DIKWP-SemanticClosure-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticClosure-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1233698612",
+      "name": "DIKWP-SemanticEnergy-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticEnergy-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234625916",
+      "name": "DIKWP-SemanticJustice-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticJustice-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1275751657",
+      "name": "DIKWP-SemanticJustice-Studio-V2",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticJustice-Studio-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289968106",
+      "name": "DIKWP-SemanticMath-LearnLab-2026-V1",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticMath-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1289973634",
+      "name": "DIKWP-SemanticPhysics-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticPhysics-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1291793318",
+      "name": "DIKWP-SemanticRouter-AgentHub-Platform-Package",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SemanticRouter-AgentHub-Platform-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235055799",
+      "name": "DIKWP-SemChain-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-SemChain-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1301118286",
+      "name": "DIKWP-SiliconGenesis-Foresight-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-SiliconGenesis-Foresight-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1305527115",
+      "name": "DIKWP-SINOTRACE-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-SINOTRACE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286066957",
+      "name": "DIKWP-SishuWujing-Studio-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-SishuWujing-Studio-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236598049",
+      "name": "DIKWP-StandardForge-OS",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-StandardForge-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1265905425",
+      "name": "DIKWP-StewardOps-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-StewardOps-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351270149",
+      "name": "DIKWP-STRATEGOS-9.5",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/DIKWP-STRATEGOS-9.5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340286416",
+      "name": "DIKWP-SYMBIOME-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-SYMBIOME-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341552749",
+      "name": "DIKWP-TAOOMEGA",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-TAOOMEGA",
+      "default_branch": "main"
+    },
+    {
+      "id": "1256982768",
+      "name": "DIKWP-TaskRide-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-TaskRide-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1277038837",
+      "name": "DIKWP-TCM-LearnLab-V1",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-TCM-LearnLab-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358655883",
+      "name": "DIKWP-TRANSITION-COMMONS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-TRANSITION-COMMONS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1256974023",
+      "name": "DIKWP-TransitTrustGraph-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-TransitTrustGraph-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231457645",
+      "name": "DIKWP-Translation-Integrity-Benchmark-0.2",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-Translation-Integrity-Benchmark-0.2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235390156",
+      "name": "DIKWP-TRIZ-Forge-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-TRIZ-Forge-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1276123745",
+      "name": "DIKWP-TRIZ-SemanticForge-Studio-V2",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-TRIZ-SemanticForge-Studio-V2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656199",
+      "name": "DIKWP-TRUEVALUE-ACTIVE-ECONOMY",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-TRUEVALUE-ACTIVE-ECONOMY",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656280",
+      "name": "DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-TRUEVALUE-GLOBAL-ECONOMY-BRIDGE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656333",
+      "name": "DIKWP-TRUEVALUE95-v1",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656393",
+      "name": "DIKWP-TRUEVALUE95-v2",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/DIKWP-TRUEVALUE95-v2",
+      "default_branch": "main"
+    },
+    {
+      "id": "1306193094",
+      "name": "DIKWP-TRUSTDISTILL-OS",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-TRUSTDISTILL-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1235383325",
+      "name": "DIKWP-TrustPassport-OS",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/DIKWP-TrustPassport-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1298906918",
+      "name": "DIKWP-TruthSentinel-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-TruthSentinel-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1257000479",
+      "name": "DIKWP-TruthSnap-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-TruthSnap-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300233636",
+      "name": "DIKWP-U2-ALETHEIA-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-U2-ALETHEIA-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359035841",
+      "name": "DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/DIKWP-ULTIMATE-ESSENCE-BENYUAN-26.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318959419",
+      "name": "DIKWP-UMBRA-6.3A-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-UMBRA-6.3A-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1276433562",
+      "name": "DIKWP-University-Innovation-Studio-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-University-Innovation-Studio-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324553208",
+      "name": "DIKWP-v1.1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-v1.1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1291798128",
+      "name": "DIKWP-ValueReset-Navigator-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-ValueReset-Navigator-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1359034409",
+      "name": "DIKWP-VERITYWEAVE-v2.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656469",
+      "name": "DIKWP-VISIONLONGEVITY95",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-VISIONLONGEVITY95",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358656529",
+      "name": "DIKWP-VISIONRESTORE95",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-VISIONRESTORE95",
+      "default_branch": "main"
+    },
+    {
+      "id": "1302528094",
+      "name": "DIKWP-VITA-Mesh-OS-v1.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-VITA-Mesh-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230683667",
+      "name": "DIKWP-WBAP-v1.0-Whitebox-Agent-Audit-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-WBAP-v1.0-Whitebox-Agent-Audit-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236576435",
+      "name": "DIKWP-WelfareCommons-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-WelfareCommons-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231563498",
+      "name": "DIKWP-White-Box-Agent-Audit-Pilot-Guide-0.1",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-White-Box-Agent-Audit-Pilot-Guide-0.1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230698007",
+      "name": "DIKWP-White-Box-Evaluation-Kit",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/DIKWP-White-Box-Evaluation-Kit",
+      "default_branch": "main"
+    },
+    {
+      "id": "1236574933",
+      "name": "DIKWP-WorkBridge-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-WorkBridge-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1234624716",
+      "name": "DIKWP-WorkFuture-OS-",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/DIKWP-WorkFuture-OS-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1300026385",
+      "name": "DIKWP-Xperience-OS-v1.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/DIKWP-Xperience-OS-v1.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1286023823",
+      "name": "DIKWP-Yijing-LearnLab-2026-V1",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1",
+      "default_branch": "main"
+    },
+    {
+      "id": "1348264432",
+      "name": "DIKWP-YUCONG95-Active-Digital-Life-and-Research-Twin",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/DIKWP-YUCONG95-Active-Digital-Life-and-Research-Twin",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324811380",
+      "name": "Dual-Projection-Rank-Co-Origin-System",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Dual-Projection-Rank-Co-Origin-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1332641390",
+      "name": "Duan-Proof-Metabolism-Canonicalization-System-DPMCS-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Duan-Proof-Metabolism-Canonicalization-System-DPMCS-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326446958",
+      "name": "Duan-Semantic-Closure-Proof-Lab-DSCPL-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Duan-Semantic-Closure-Proof-Lab-DSCPL-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1358018386",
+      "name": "DUANLIFE-POLYMIND-13.6",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/DUANLIFE-POLYMIND-13.6",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356973084",
+      "name": "EduWeave-Global-Personalized-Education-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/EduWeave-Global-Personalized-Education-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1335743218",
+      "name": "Evidence-Based-Anti-Stigmatization-Reputation-Restoration-and-Value-Return-System.",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Evidence-Based-Anti-Stigmatization-Reputation-Restoration-and-Value-Return-System.",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344936525",
+      "name": "Evidence-bound-operational-artificial-consciousness-candidate-system",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Evidence-bound-operational-artificial-consciousness-candidate-system",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314508945",
+      "name": "From-Zero-Memory-OS-v4.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/From-Zero-Memory-OS-v4.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340283743",
+      "name": "FusionHelix",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/FusionHelix",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340287852",
+      "name": "FUSIONLOOP",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/FUSIONLOOP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344549659",
+      "name": "Future-Ready-Education-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/Future-Ready-Education-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355862952",
+      "name": "FUTURECRAFT-XINGZHOU-16.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/FUTURECRAFT-XINGZHOU-16.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326437490",
+      "name": "Gauge-Orbit-Closed-Excitation-Quantum-Semantic-Closure-System",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Gauge-Orbit-Closed-Excitation-Quantum-Semantic-Closure-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355860169",
+      "name": "GLOBAL-YOUTH-COMPASS-HORIZON-18.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/GLOBAL-YOUTH-COMPASS-HORIZON-18.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231461182",
+      "name": "Governance-Pack-Semantic-Firewall-",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Governance-Pack-Semantic-Firewall-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310649783",
+      "name": "HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/HEHENG-China-AI-Co-Benefit-Transition-Organizational-Resilience-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324774663",
+      "name": "Hodge-Conjecture-RBACE-Proof-Package",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Hodge-Conjecture-RBACE-Proof-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355861626",
+      "name": "HUMAN-INTENT-COMMONS-YIYUAN-19.0.0",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/HUMAN-INTENT-COMMONS-YIYUAN-19.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1332755315",
+      "name": "Human-Knowledge-Truth-Quest-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Human-Knowledge-Truth-Quest-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311803754",
+      "name": "Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Human-Understanding-Capability-Amplification-Evidence-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339040727",
+      "name": "HumanityLoop",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/HumanityLoop",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309724187",
+      "name": "HYPERWEAVE-Reality-Compiler",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/HYPERWEAVE-Reality-Compiler",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355864682",
+      "name": "Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system",
+      "category": "society-civilization",
+      "url": "https://github.com/YucongDuan/Individual-run-institution-opportunity-transition-resilience-and-governed-agent-operating-system",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351041041",
+      "name": "Intent-balancing-high-dimensional-rule-active-defense-platform.",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Intent-balancing-high-dimensional-rule-active-defense-platform.",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351041815",
+      "name": "Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311801957",
+      "name": "INTENT-HORIZON-Runtime",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/INTENT-HORIZON-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231461762",
+      "name": "Intent-Memory-Control-Plane-MVP",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Intent-Memory-Control-Plane-MVP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337008198",
+      "name": "Internal-Responsibility-Runtime",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Internal-Responsibility-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337024475",
+      "name": "Justice-Energy-Information-Metabolic-Artificial-Consciousness-Runtime",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Justice-Energy-Information-Metabolic-Artificial-Consciousness-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351324347",
+      "name": "JusticeShield-OS-v1.0.0",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/JusticeShield-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353314077",
+      "name": "JusticeShield-STRATAGEM-11.0.0",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1352291644",
+      "name": "JusticeShield-STRATEGOS-10.0.0",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344733678",
+      "name": "K-12-Future-Ready-Education-OS",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/K-12-Future-Ready-Education-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341556463",
+      "name": "LIBERATIO-87",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/LIBERATIO-87",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341559861",
+      "name": "LIBERGENESIS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/LIBERGENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356971598",
+      "name": "LifeValue-Confluence-OS-v1.0.0",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/LifeValue-Confluence-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1336660951",
+      "name": "Living-Legacy",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/Living-Legacy",
+      "default_branch": "main"
+    },
+    {
+      "id": "1312634767",
+      "name": "LONGARC-OS-v0.9",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/LONGARC-OS-v0.9",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318960253",
+      "name": "MARA-MANIFESTA-1.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/MARA-MANIFESTA-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314458589",
+      "name": "MATH-GENESIS-v2.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/MATH-GENESIS-v2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1333754796",
+      "name": "Mathematical-Understanding-Genesis-Proof-Metabolism-and-Teachable-Regeneration-System-v1.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Mathematical-Understanding-Genesis-Proof-Metabolism-and-Teachable-Regeneration-System-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313358977",
+      "name": "MATHWEAVE-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/MATHWEAVE-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313405088",
+      "name": "MATHWEAVE-20",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/MATHWEAVE-20",
+      "default_branch": "main"
+    },
+    {
+      "id": "1342436249",
+      "name": "MICROCOSM92",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/MICROCOSM92",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339043337",
+      "name": "MINDPORT",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/MINDPORT",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339034092",
+      "name": "MindRights",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/MindRights",
+      "default_branch": "main"
+    },
+    {
+      "id": "1340285149",
+      "name": "MNEMOGENESIS84",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/MNEMOGENESIS84",
+      "default_branch": "main"
+    },
+    {
+      "id": "1315011934",
+      "name": "MONOGENESIS-DECISOR-v5.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/MONOGENESIS-DECISOR-v5.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314507439",
+      "name": "MONOGENESIS-ONE",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/MONOGENESIS-ONE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314719074",
+      "name": "MONOGENESIS-TOTALIS-4.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/MONOGENESIS-TOTALIS-4.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1334782118",
+      "name": "Multi-Model-Semantic-Domain-Health-Evaluation-and-Reflexive-Governance",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Multi-Model-Semantic-Domain-Health-Evaluation-and-Reflexive-Governance",
+      "default_branch": "main"
+    },
+    {
+      "id": "1355872496",
+      "name": "MYOPIACOMMONS95",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/MYOPIACOMMONS95",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326413897",
+      "name": "Navier-Stokes-BCSTC",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Navier-Stokes-BCSTC",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341554720",
+      "name": "NEGENESIS-OMEGA",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/NEGENESIS-OMEGA",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351029297",
+      "name": "NeuroSentinel-OS-v1.0.0",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318910867",
+      "name": "NOEMA-ASCENDENS-1.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/NOEMA-ASCENDENS-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318138064",
+      "name": "NOEMA-SOVEREIGN-1.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/NOEMA-SOVEREIGN-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1312450801",
+      "name": "NOESIS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/NOESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314525856",
+      "name": "NOESIS-ATLAS-5.9",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/NOESIS-ATLAS-5.9",
+      "default_branch": "main"
+    },
+    {
+      "id": "1319807968",
+      "name": "NOESISCOPE",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/NOESISCOPE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1315958618",
+      "name": "NOMOGENESIS-6.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/NOMOGENESIS-6.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344938611",
+      "name": "OmniMemory-OS",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/OmniMemory-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1332635726",
+      "name": "Open-Artificial-Consciousness-R-D-Ethics-Review-and-Application-Pilot-Platform-for-China",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Open-Artificial-Consciousness-R-D-Ethics-Review-and-Application-Pilot-Platform-for-China",
+      "default_branch": "main"
+    },
+    {
+      "id": "1333757305",
+      "name": "Open-Evidence-to-Value-Commercialization-and-Paid-Pilot-Studio",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/Open-Evidence-to-Value-Commercialization-and-Paid-Pilot-Studio",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327345396",
+      "name": "OPEN-MATH-GENESIS",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/OPEN-MATH-GENESIS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341565793",
+      "name": "Open-Negentropic-Genesis-Universe-Life-Co-becoming-and-Universal-Return-System",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Open-Negentropic-Genesis-Universe-Life-Co-becoming-and-Universal-Return-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1345869546",
+      "name": "Open-Research-Benchmark-Impact-and-Translation-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Open-Research-Benchmark-Impact-and-Translation-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1331545134",
+      "name": "Open-Supply-Chain-Evidence-Passport-and-Rule-Resilience-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Open-Supply-Chain-Evidence-Passport-and-Rule-Resilience-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339337929",
+      "name": "OPENBECOMING84",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/OPENBECOMING84",
+      "default_branch": "main"
+    },
+    {
+      "id": "1357996383",
+      "name": "OPENCONSTELLATION",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/OPENCONSTELLATION",
+      "default_branch": "main"
+    },
+    {
+      "id": "1230692965",
+      "name": "Organization-AI-Control-Plane",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Organization-AI-Control-Plane",
+      "default_branch": "main"
+    },
+    {
+      "id": "1335742423",
+      "name": "OriginTrust84",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/OriginTrust84",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353320957",
+      "name": "OutcomeForge-OS-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/OutcomeForge-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1332637413",
+      "name": "PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311797689",
+      "name": "PARALLAX",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/PARALLAX",
+      "default_branch": "main"
+    },
+    {
+      "id": "1357754128",
+      "name": "PERSONA-NOESIS-CONTINUUM-24.0.0",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/PERSONA-NOESIS-CONTINUUM-24.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1352223019",
+      "name": "Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311819048",
+      "name": "Personal-Intent-Supremum-Runtime",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Personal-Intent-Supremum-Runtime",
+      "default_branch": "main"
+    },
+    {
+      "id": "1348262980",
+      "name": "Personalized-Digital-Life-Open-Foundry",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Personalized-Digital-Life-Open-Foundry",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231460500",
+      "name": "Pharma-IP-Evidence-Intelligence-MVP",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Pharma-IP-Evidence-Intelligence-MVP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317926352",
+      "name": "PHILOSOPHIA-ULTIMA-1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/PHILOSOPHIA-ULTIMA-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326411897",
+      "name": "Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Plane-Jacobian-Conjecture-DIKWP-MESH-8.0-Bilingual-Proof-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1333756094",
+      "name": "Post-Paper-Proactive-Medicine-Human-AI-Boundary-OS",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/Post-Paper-Proactive-Medicine-Human-AI-Boundary-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1334780704",
+      "name": "Power-Realist-Origin-Use-Attribution-Value-Return-Consequence-Continuity-System",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/Power-Realist-Origin-Use-Attribution-Value-Return-Consequence-Continuity-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317083863",
+      "name": "PRIMORDIA",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/PRIMORDIA",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356928496",
+      "name": "PROACTIVE-ESSENCE-ECONOMY",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/PROACTIVE-ESSENCE-ECONOMY",
+      "default_branch": "main"
+    },
+    {
+      "id": "1332640276",
+      "name": "Proof-Metabolism-Canonization-OS-PMCOS-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Proof-Metabolism-Canonization-OS-PMCOS-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1315961809",
+      "name": "PROOFGENESIS-",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/PROOFGENESIS-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309684693",
+      "name": "Pudong-SmartRehab-Harbor",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/Pudong-SmartRehab-Harbor",
+      "default_branch": "main"
+    },
+    {
+      "id": "1350485039",
+      "name": "Real-estate-true-value-and-future-potential-digital-twin",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/Real-estate-true-value-and-future-potential-digital-twin",
+      "default_branch": "main"
+    },
+    {
+      "id": "1356969179",
+      "name": "RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/RecoveryWeave-Global-Mental-Health-Recovery-Caregiver-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339042243",
+      "name": "REGEN-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/REGEN-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1339022198",
+      "name": "REGENLOOP",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/REGENLOOP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353326425",
+      "name": "Reincarnation-Continuity-Cognitive-Closure-Interconnection-and-Human-Civilization-Gateway",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/Reincarnation-Continuity-Cognitive-Closure-Interconnection-and-Human-Civilization-Gateway",
+      "default_branch": "main"
+    },
+    {
+      "id": "1342716706",
+      "name": "RELATIONLAB-54",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/RELATIONLAB-54",
+      "default_branch": "main"
+    },
+    {
+      "id": "1357993929",
+      "name": "RepoProof-OS",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/RepoProof-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1311799127",
+      "name": "ROOTWEAVE",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/ROOTWEAVE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327349750",
+      "name": "Schanuel-s-Conjecture-Mesh8.0-Semantic-Closure-Package",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Schanuel-s-Conjecture-Mesh8.0-Semantic-Closure-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353317941",
+      "name": "Semantic-Capital-Foundry-13.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Semantic-Capital-Foundry-13.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1326433684",
+      "name": "Semantic-Closure-Mathematics-Atlas",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Semantic-Closure-Mathematics-Atlas",
+      "default_branch": "main"
+    },
+    {
+      "id": "1231463093",
+      "name": "Semantic-Firewall-MVP",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Semantic-Firewall-MVP",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313589989",
+      "name": "SEMANTIC-GENESIS-5.9",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/SEMANTIC-GENESIS-5.9",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317082098",
+      "name": "SEPTEM",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/SEPTEM",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341558103",
+      "name": "SILICON-COMMONS-86",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/SILICON-COMMONS-86",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353312618",
+      "name": "SOVEREIGN-GATE-12.0.0",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/SOVEREIGN-GATE-12.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1330558706",
+      "name": "SOVEREIGN81-Local-Sovereign-Agent-Fabric",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/SOVEREIGN81-Local-Sovereign-Agent-Fabric",
+      "default_branch": "main"
+    },
+    {
+      "id": "1344737219",
+      "name": "Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/Student-Continuity-Autonomous-Learning-OS-v2.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1351031750",
+      "name": "SYMBIOBRIDGE-9.5",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/SYMBIOBRIDGE-9.5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341564186",
+      "name": "TAOGENESIS86",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/TAOGENESIS86",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337022484",
+      "name": "TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/TELOS-85-Ultimate-Value-Anti-Domination-and-Self-Transcending-Artificial-Consciousness-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1313343940",
+      "name": "THEORYGENOME-5.9",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/THEORYGENOME-5.9",
+      "default_branch": "main"
+    },
+    {
+      "id": "1337014435",
+      "name": "TIANHENG84",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/TIANHENG84",
+      "default_branch": "main"
+    },
+    {
+      "id": "1318139728",
+      "name": "True-Autonomous-Artificial-Consciousness",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/True-Autonomous-Artificial-Consciousness",
+      "default_branch": "main"
+    },
+    {
+      "id": "1352293103",
+      "name": "TrueValue-Shield-",
+      "category": "security-justice",
+      "url": "https://github.com/YucongDuan/TrueValue-Shield-",
+      "default_branch": "main"
+    },
+    {
+      "id": "1348261450",
+      "name": "TrustPlane-OS-v1.0.0",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/TrustPlane-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327353742",
+      "name": "Twin-Prime-Semantic-Closure-Package",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Twin-Prime-Semantic-Closure-Package",
+      "default_branch": "main"
+    },
+    {
+      "id": "1327350699",
+      "name": "Twin-Prime-TBCOHC-System",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/Twin-Prime-TBCOHC-System",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324809493",
+      "name": "two-system-supplemental-delivery",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/two-system-supplemental-delivery",
+      "default_branch": "main"
+    },
+    {
+      "id": "1317922202",
+      "name": "ULTIMA-6.2A",
+      "category": "physics-cosmos",
+      "url": "https://github.com/YucongDuan/ULTIMA-6.2A",
+      "default_branch": "main"
+    },
+    {
+      "id": "1315953135",
+      "name": "Ultimate-Candidate",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Ultimate-Candidate",
+      "default_branch": "main"
+    },
+    {
+      "id": "1341567369",
+      "name": "Ultimate-Question-Root-World-Essence-and-Transconceptual-Problem-Solving-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Ultimate-Question-Root-World-Essence-and-Transconceptual-Problem-Solving-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321081691",
+      "name": "ULTIMAWEAVE",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/ULTIMAWEAVE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1309730197",
+      "name": "UNBOUND-GENESIS-System-Foundry",
+      "category": "dikwp-foundations",
+      "url": "https://github.com/YucongDuan/UNBOUND-GENESIS-System-Foundry",
+      "default_branch": "main"
+    },
+    {
+      "id": "1324955949",
+      "name": "Universal-Native-Semantic-Proof-System-v1.0.0",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Universal-Native-Semantic-Proof-System-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353315965",
+      "name": "Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/Universal-Semantic-World-Calculus-True-Value-Standard-and-Active-Justice-Reference-Kernel",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353458751",
+      "name": "ValueWeave14.0.0",
+      "category": "economy-value",
+      "url": "https://github.com/YucongDuan/ValueWeave14.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1335616930",
+      "name": "VITA84",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/VITA84",
+      "default_branch": "main"
+    },
+    {
+      "id": "1335614295",
+      "name": "VITALIS-85",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/VITALIS-85",
+      "default_branch": "main"
+    },
+    {
+      "id": "1314722258",
+      "name": "WAAC-GENESISCOPE-OS",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/WAAC-GENESISCOPE-OS",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353462677",
+      "name": "WorkProof-Campus-OS-v1.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/WorkProof-Campus-OS-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1308641997",
+      "name": "WorldAI-Evidence-Grid",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/WorldAI-Evidence-Grid",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321077224",
+      "name": "WORLDCORE-6.4A",
+      "category": "semantic-mathematics",
+      "url": "https://github.com/YucongDuan/WORLDCORE-6.4A",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310819620",
+      "name": "WORLDLOOM",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/WORLDLOOM",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310822922",
+      "name": "WorldWeave",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/WorldWeave",
+      "default_branch": "main"
+    },
+    {
+      "id": "1320014820",
+      "name": "XENOESIS-ZERO-1.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/XENOESIS-ZERO-1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1321068852",
+      "name": "XENOFORM",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/XENOFORM",
+      "default_branch": "main"
+    },
+    {
+      "id": "1353460826",
+      "name": "YUCONG-9.5",
+      "category": "evidence-evaluation",
+      "url": "https://github.com/YucongDuan/YUCONG-9.5",
+      "default_branch": "main"
+    },
+    {
+      "id": "1338277267",
+      "name": "YUCONG-ONE",
+      "category": "memory-identity",
+      "url": "https://github.com/YucongDuan/YUCONG-ONE",
+      "default_branch": "main"
+    },
+    {
+      "id": "1345889206",
+      "name": "YucongDuan",
+      "category": "standards-translation",
+      "url": "https://github.com/YucongDuan/YucongDuan",
+      "default_branch": "main"
+    },
+    {
+      "id": "1310815819",
+      "name": "Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/Zhongjie-Plural-Cognition-Studio-v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1333751434",
+      "name": "ZHUZI-PALIMPSEST81",
+      "category": "artificial-consciousness",
+      "url": "https://github.com/YucongDuan/ZHUZI-PALIMPSEST81",
+      "default_branch": "main"
+    }
+  ]
+}

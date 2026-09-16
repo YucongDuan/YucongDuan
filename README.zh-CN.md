@@ -1,55 +1,65 @@
-**[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)**
+[English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
+
+![DIKWP：从意义走向意图驱动的智能](assets/dikwp-research-banner.svg)
 
 # 段玉聪 · Yucong Duan
 
-**让人工智能的推理、意图与证据可以被检查。**
+### 以 DIKWP 为原创研究主轴，连接人工意识、语义数学与意图驱动的智能未来。
 
-DIKWP · 人工意识 · 语义数学 · 可审计人工智能
+[海南大学教授](https://en.hainanu.edu.cn/info/1151/2981.htm) · [世界人工意识协会 WACA 主席 · 世界人工意识科学院 WAAC 院长](https://www.waac.ac/news/News260314)
 
-[海南大学教授](https://en.hainanu.edu.cn/info/1151/2981.htm) · [世界人工意识协会（WACA）主席 / 世界人工意识科学院（WAAC）院长](https://www.waac.ac/news/News260314)
+**让智能理解意义，让行动服从目的，让价值落到现实。** 段玉聪围绕“数据—信息—知识—智慧—意图（DIKWP）”持续推进类型化图谱、语义计算、人工意识与开放系统研究，形成贯通**原创理论、专利布局、国际学术传播、正式出版与开放工程**的研究体系。
 
-围绕**数据、信息、知识、智慧、意图（DIKWP）**图谱与开源实验，研究人工智能如何使用证据、解释目标、形成并修订判断。当前网状语义研究将 D/I/K/W/P 视为相互作用、可修订的资源类型，使不同解释、观察者立场和未解决冲突保持可见。
+**[了解原创研究](RESEARCH_BRIEF.zh-CN.md) · [查看国际影响](IMPACT.zh-CN.md) · [体验开放系统](START_HERE.zh-CN.md) · [探讨合作](COLLABORATE.zh-CN.md)**
 
-**[第一次来：从这里开始](START_HERE.zh-CN.md)** · [English guide](START_HERE.md) · [研究简介与事实来源](RESEARCH_BRIEF.md) · [参与合作](COLLABORATE.md)
+| 开放研究版图 | 研究方向 | 国际传播 |
+|:---:|:---:|:---:|
+| **487 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
 
-## 四个相互连接的研究问题
+仓库清单核对日期：**2026 年 9 月 16 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
 
-| 问题 | 研究入口 |
+## 原创研究正在连接国际标准、产业技术与学术前沿
+
+| 影响力维度 | 可以直接查验的成果 |
 |---|---|
-| 语义资源如何表示、转换与修订？ | [DIKWP 入门](START_HERE.zh-CN.md) · [MESH² 网状语义系统](https://github.com/YucongDuan/DIKWP-MESH-) |
-| 智能体的意图、权限和证据如何审计？ | [PACT 意图保障基准](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) · [VerityWeave 语义韧性](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
-| 人工意识实验能支持什么程度的结论？ | [人工意识研究](directory/artificial-consciousness.md) · [功能指标与情景工作台](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) |
-| 数学主张如何附带明确的证明义务？ | [语义数学](directory/semantic-mathematics.md) · [CITM Forge 问题—证书编译器](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) |
+| **进入国际标准组织出版物的方法框架** | **ISO/IEC TR 25005-2:2025** 正文将 DIKWPA 用于智慧城市案例分析与数据价值链构建，参考文献明确列入 Wu—Duan 的 DIKWP 研究。[标准正文与来源](IMPACT.zh-CN.md#国际标准化) |
+| **进入金融与能源企业的技术方案** | **浦发银行、平安国际融资租赁、广东电网、海南电网**的公开专利文本直接使用 DIKWP，涉及供应链金融、文本语义处理、网络安全和用电用户分类。[企业、专利号与技术关系](INDUSTRY_CONNECTIONS.zh-CN.md) |
+| **获得学术奖励与专业学会传播** | 团队的 DIKW 图谱研究获得 **2020 年吴文俊人工智能科技奖**；段玉聪带领团队统筹 **CAAI 2024 系列白皮书**中 DIKWP 与人工意识两章。[机构记录](IMPACT.zh-CN.md#学术基础与专业出版) |
+| **形成独立国际研究与公共讨论** | **俄罗斯 LETI** 学者将 DIKWP 用于质量管理；**美国 PeopleTec 任职作者**的论文引用两项段玉聪合著研究；**TechPolicy.Press** 将意图与语义主权用于 AI 治理讨论。[独立研究与媒体](IMPACT.zh-CN.md#独立国际研究与公共讨论) |
+| **形成跨学科正式著作体系** | 语义数学、人工意识、主动医学与意图经济相互贯通，已有**西安电子科技大学出版社、北京大学出版社、中国科学技术出版社**等出版记录。[图书、ISBN 与论文](PUBLICATIONS.md) |
 
-## 选一个项目开始
+这里展示的是各项记录所支持的真实关系：方法采用、专利文本使用、作者贡献、学术引用与正式出版。它们共同构成面向产学研合作的有力基础。
 
-**首次运行推荐 [PACT](START_HERE.zh-CN.md#运行第一个实验)**：克隆仓库后，一条 Python 命令复现 72 个合成情景与四种确定性基线，无需 API 密钥或下载模型。
+## 从“模型能做什么”，走向“智能为何而做”
 
-| 项目 | 可以检查的输出 | 验证与获取方式 |
-|---|---|---|
-| [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) | 意图与权限检查、基准结果、复现回执 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/34084517968)；根目录源码 |
-| [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) | 25 类基本转换、备选语义路径、视角冲突 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/34084402083)；根目录源码 |
-| [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) | 证据、语境与激励分析，以及输出有效性检查 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/34084362258)；根目录源码 |
-| [Consciousness Futures Studio](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1) | 人工意识功能指标、主张等级与研究情景 | ZIP 发布包；本轮未重新运行 |
-| [CITM Forge](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler) | 有界证书与哈希链接审计账本 | ZIP 发布包；本轮未重新运行 |
-| [ClearPath](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | 有资金支持的需求与容量约束情景 | [已有 CI 记录](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742)；[v1.0.0 下载](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/releases/tag/v1.0.0) |
+DIKWP 将目的与意义带入智能系统的核心设计：数据怎样被解释，知识怎样形成，价值怎样参与判断，意图怎样驱动行动，又怎样接受现实反馈。D、I、K、W、P 是相互作用、可以修订的语义资源，形成网状转换结构。
 
-**最新发布 · 2026 年 9 月 8 日：**[ClearPath、DemandProof 与 LucidEcon](TRANSPARENT_ECONOMY.md) 分别支持机会分析、共享容量规划与贡献核算。三个公开版本均有通过的 CI，合计记录 [182 项本地测试](GITHUB_PUBLICATION_2026-09-08.md)。各工具采用独立输入格式和合成示例。
+段玉聪团队的原创贡献集中在**将知识图谱系统性扩展为类型化、可计算的 DIKW／DIKWP 图谱，并推进意图驱动的转换与推理**。公开专利谱系可追溯至 2017 年。[专利布局](PATENT_PORTFOLIO_MAP.md) · [早期论文记录](https://dblp.org/rec/conf/sera/DuanSHZZL17)
 
-测试结论对应所链接版本及实际检查的行为。人工意识功能指标、有限数学证书和经济情景各有研究范围，解释结果时请同时阅读项目文档。
+**AWS、阿里云、华为**的公开架构或专利描述也呈现出语义资源、推理、意图与行动相连接的产业方向。DIKWP 为这些共同问题提供了值得展开**技术对话、互操作研究、联合测评与合作创新**的研究基础。[产业联系与共创机会 →](INDUSTRY_CONNECTIONS.zh-CN.md) 此处呈现技术呼应与合作契合点，具体合作关系以双方公开确认为准。
 
-## 从研究贡献追溯证据
+## 从代表系统进入 487 项开放研究
 
-这条研究主线连接 DIKW/DIKWP 图谱与可执行语义系统。海南大学记录了团队凭借 **DIKW 图谱扩展与建模获得 2020 年吴文俊人工智能科技奖**，以及段玉聪团队统筹**中国人工智能学会 2024 系列白皮书中 DIKWP 与人工意识两章**的工作。[大学获奖记录](https://en.hainanu.edu.cn/info/1151/2981.htm) · [白皮书编写记录](https://cs.hainanu.edu.cn/info/1035/9040.htm)
+| 代表项目 | 研究价值与体验入口 |
+|---|---|
+| **PACT** | 目的、权限与证据策略；通过 [首个复现实验](START_HERE.md#run-your-first-experiment) 查看 72 个合成场景与四种确定性基线。 |
+| **MESH²** | 探索 D/I/K/W/P 全部 25 类有序转换、不同语义路径与视角冲突。[源码与示例](https://github.com/YucongDuan/DIKWP-MESH-) |
+| **VerityWeave** | 将证据、语境和激励因素纳入可检查的判断过程。[项目入口](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
+| **ASCENT 0.2** | 有界数值研究、强参考比较、策略采用、监测与回退。[运行控制台与完整示例](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) |
+| **PRAXIS WorldGate 2.0** | 把评估、签名授权、行动结果见证与补偿连接到本地执行内核。[项目入口](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) |
+| **ClearPath · DemandProof · LucidEcon** | 探索机会识别、共享产能与贡献核算的透明经济研究系统。[三项目导读](TRANSPARENT_ECONOMY.zh-CN.md) |
 
-[Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [研究主页](https://yucong-duan-research.dikwp407.chatgpt.site)
+继续探索：[人工意识](directory/artificial-consciousness.zh-CN.md) · [语义数学](directory/semantic-mathematics.zh-CN.md) · [教育](directory/education-learning.zh-CN.md) · [健康与照护](directory/medicine-health.zh-CN.md) · [安全与正义](directory/security-justice.zh-CN.md)。各项目的实现范围和版本验证记录见项目文档及 [工程目录](catalog/README.zh-CN.md)。
 
-[影响力证据地图](DIKWP_EVIDENCE_MAP.md) · [专利组合](PATENT_PORTFOLIO_MAP.md) · [引用指南](CITING.md) · [完整研究背景](PROFILE_REFERENCE_ZH_2026-09-07.md)
+## 为不同读者准备的入口
 
-## 继续探索与参与
+| 您关注什么 | 推荐入口 |
+|---|---|
+| **高校、科研与教学** | [学术简介](RESEARCH_BRIEF.zh-CN.md) · [著作与论文](PUBLICATIONS.md) · [引用方式](CITING.zh-CN.md) |
+| **开发、测评与技术集成** | [实验导读](START_HERE.zh-CN.md) · [全部项目](REPOSITORY_DIRECTORY.zh-CN.md) |
+| **企业合作与成果转化** | [产业联系](INDUSTRY_CONNECTIONS.zh-CN.md) · [专利布局](PATENT_PORTFOLIO_MAP.md) · [书面合作入口](COLLABORATE.zh-CN.md) |
+| **媒体、讲座与公众传播** | [影响力概览](IMPACT.zh-CN.md) · [可直接使用的介绍](SHARE.zh-CN.md) · [中文研究与知乎文章](CHINESE_RESEARCH.md) |
 
-[完整目录](REPOSITORY_DIRECTORY.md)覆盖截至 2026 年 9 月 8 日的 **483 个公开仓库、十二个研究方向**。[工程目录](catalog/README.zh-CN.md)分别记录源码发布、已有测试与待验证状态。
+[段玉聪官网](https://www.yucongduan.org/) · [多语研究门户](https://yucong-duan-research.dikwp407.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [WAAC](https://waac.ac/)
 
-欢迎运行示例、提交反例、比较基线或改进翻译。[选择具体贡献](COLLABORATE.md)，或[提交结构化反馈](https://github.com/YucongDuan/YucongDuan/issues/new/choose)；学术交流可通过 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 异步开展。
-
-**关注 [@YucongDuan](https://github.com/YucongDuan) 获取研究更新；为实际使用的项目 Star，引用评测版本，并分享原始链接。**[可分享的中英文简介与发布短文](SHARE.md)
+**关注原创研究，体验开放系统，带着重要问题加入合作。** 欢迎收藏有用的项目、引用相关研究，并以书面材料开启学术交流与联合创新。

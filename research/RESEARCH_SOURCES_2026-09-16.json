@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-16",
+  "purpose": "Selected traceable evidence supporting the profile refresh. Technical comparison and co-creation proposals do not assert a partnership.",
+  "records": [
+    {
+      "id": "iso-catalogue",
+      "url": "https://www.iso.org/standard/86195.html",
+      "title": "ISO/IEC TR 25005-2:2025",
+      "relationship": "publication record",
+      "locator": "Edition, document type, committee",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "iso-clauses",
+      "url": "https://standards.iteh.ai/catalog/standards/iso/31c3610b-9085-481b-8081-6f8850ec1dbb/iso-iec-tr-25005-2-2025",
+      "title": "ISO/IEC report text preview",
+      "relationship": "methodological use",
+      "locator": "Clauses 6.2 and 7.1",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "iso-bibliography",
+      "url": "https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec:tr:25005:-2:ed-1:v1:en",
+      "title": "ISO official bibliography",
+      "relationship": "citation",
+      "locator": "Reference 22",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "hainan-award",
+      "url": "https://en.hainanu.edu.cn/info/1151/2981.htm",
+      "title": "Hainan University profile",
+      "relationship": "institutional record",
+      "locator": "2020 award, DIKW graph research",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "caai-authorship",
+      "url": "https://cs.hainanu.edu.cn/info/1035/9040.htm",
+      "title": "CAAI white-paper authorship",
+      "relationship": "source-team contribution",
+      "locator": "First two chapters",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "spdb",
+      "url": "https://patents.google.com/patent/CN119917594A/zh",
+      "title": "Shanghai Pudong Development Bank",
+      "relationship": "patent-document use",
+      "locator": "Abstract and DIKWP resource passages",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "ping-an",
+      "url": "https://patents.google.com/patent/CN120688465A/en",
+      "title": "Ping An International Financial Leasing",
+      "relationship": "patent-document use",
+      "locator": "Description: DIKWP semantic mathematical models",
+      "status": "rechecked; English text contains passage",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "guangdong-grid",
+      "url": "https://patents.google.com/patent/CN116582360A/en",
+      "title": "Guangdong Power Grid / Dongguan",
+      "relationship": "patent-document use",
+      "locator": "Device models and intent resources",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "hainan-grid",
+      "url": "https://patents.google.com/patent/CN116881772B/zh",
+      "title": "Hainan Power Grid Wenchang",
+      "relationship": "patent-document use",
+      "locator": "DIKWP power-user classification",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "huawei",
+      "url": "https://patents.google.com/patent/EP4163831A1/en",
+      "title": "Huawei",
+      "relationship": "DIKW patent context",
+      "locator": "Intelligent information chain / AI framework",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "aws",
+      "url": "https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/semantic-layer-agentic-ai-ontology-reasoning-virtual-knowledge-graph/semantic-layer-agentic-ai-ontology-reasoning-virtual-knowledge-graph.pdf",
+      "title": "AWS Semantic Layer guide",
+      "relationship": "technical comparison",
+      "locator": "Printed pp.5–6, intent orchestration pp.94–101",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "alibaba",
+      "url": "https://developer.aliyun.com/article/1686127",
+      "title": "Alibaba Cloud DMS Data Agent",
+      "relationship": "technical comparison",
+      "locator": "Author byline; semantic understanding; analysis intent",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "leti",
+      "url": "https://s-lib.com/issues/eiu_2026_04_v14_a6/",
+      "title": "Margarita V. Medvedeva, LETI",
+      "relationship": "independent methodological use",
+      "locator": "DOI 10.36871/ek.up.p.r.2026.04.14.006; refs 12,14,16",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "peopletec",
+      "url": "https://arxiv.org/pdf/2312.10603",
+      "title": "David Noever and Matt Ciolino",
+      "relationship": "independent preprint citations",
+      "locator": "PDF p.1 affiliation; p.13 refs 35 and 37",
+      "status": "newly foregrounded and checked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "techpolicy",
+      "url": "https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/",
+      "title": "TechPolicy.Press",
+      "relationship": "independent policy discussion",
+      "locator": "Semantic sovereignty and Purpose source links",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "asiatimes",
+      "url": "https://asiatimes.com/2026/07/compasses-not-maps-china-is-building-a-different-type-of-ai/",
+      "title": "Asia Times / Jan Krikke",
+      "relationship": "independent commentary",
+      "locator": "Names Yucong Duan's DIKWP",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "semantic-math-book",
+      "url": "https://www.cbbr.com.cn/contents/533/108502.html",
+      "title": "Introduction to Semantic Mathematics",
+      "relationship": "publication report",
+      "locator": "Publisher, author, ISBN 9787560678931",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "intention-economy-book",
+      "url": "https://www.sanmin.com.tw/product/index/015559299",
+      "title": "AI重塑经济与需求逻辑",
+      "relationship": "bibliographic record",
+      "locator": "Authors, Peking University Press, ISBN 9787301372913",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "active-medicine-book",
+      "url": "https://www.sanmin.com.tw/product/index/014968228",
+      "title": "主动医学：人工智能赋能人类健康",
+      "relationship": "bibliographic record",
+      "locator": "Authors, publisher, ISBN 9787523615331",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "fundamentals-book",
+      "url": "https://www.foyles.co.uk/book/fundamentals-of-active-medicine/9781917143530",
+      "title": "Fundamentals of Active Medicine",
+      "relationship": "bibliographic record",
+      "locator": "New Classic Press; Chinese; ISBN 9781917143530",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "liangxue",
+      "url": "https://patents.google.com/patent/CN120407920A/en",
+      "title": "Beijing Liangxue Weiye",
+      "relationship": "downstream technical reference",
+      "locator": "Background cites CN118134640A",
+      "status": "rechecked",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "world-window",
+      "url": "https://patents.google.com/patent/CN121148586A/en",
+      "title": "World Window Information",
+      "relationship": "earlier downstream-reference record",
+      "locator": "Earlier DIKWP_EVIDENCE_MAP record; passage not recovered now",
+      "status": "retained from earlier review",
+      "checked_on": null
+    },
+    {
+      "id": "kuhn",
+      "url": "https://doi.org/10.1016/j.pbiomolbio.2023.12.003",
+      "title": "Robert Lawrence Kuhn",
+      "relationship": "earlier independent taxonomy record",
+      "locator": "Section 9.4.8; prior evidence map",
+      "status": "retained from earlier review",
+      "checked_on": null
+    },
+    {
+      "id": "official-site",
+      "url": "https://www.yucongduan.org/",
+      "title": "Official research website",
+      "relationship": "research lead",
+      "locator": "Search index; direct access timed out / 502",
+      "status": "access limitation",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "zhihu-ecosystem",
+      "url": "https://zhuanlan.zhihu.com/p/2040560588821095621",
+      "title": "DIKWP技术生态与共创",
+      "relationship": "author/dissemination link",
+      "locator": "Public-search title; full text unavailable",
+      "status": "indexed link only",
+      "checked_on": "2026-09-16"
+    },
+    {
+      "id": "zhihu-us",
+      "url": "https://zhuanlan.zhihu.com/p/2040560865536123995",
+      "title": "DIKWP美国潜在应用方向",
+      "relationship": "author/dissemination link",
+      "locator": "Public-search title; full text unavailable",
+      "status": "indexed link only",
+      "checked_on": "2026-09-16"
+    }
+  ]
+}

@@ -1,41 +1,27 @@
-# Yucong Duan: research brief
+# Yucong Duan: purpose, meaning and open intelligence
 
-[Chinese reference](RESEARCH_BRIEF.zh-CN.md)
+[中文](RESEARCH_BRIEF.zh-CN.md) · [Profile](README.md) · [Impact](IMPACT.md) · [Publications](PUBLICATIONS.md)
 
-[Profile](README.md) · [Chinese profile](README.zh-CN.md) · [Start here](START_HERE.md) · [Citation guide](CITING.md)
+Yucong Duan is a professor at Hainan University, chair of WACA and president of WAAC. His research advances DIKWP graph formalization, artificial consciousness, semantic mathematics and purpose-driven AI. It connects theoretical models with patents, published books and a portfolio of **487 public GitHub repositories across 12 research areas**, checked on 16 September 2026. [University profile](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA/WAAC record](https://www.waac.ac/news/News260314) · [Current inventory](REPOSITORY_DIRECTORY.md)
 
-Updated 8 September 2026. This page supplies concise introductory wording and direct sources for research, teaching and event materials.
+## A coherent research proposition
 
-## Short biography
+DIKWP makes the relationship between **data, interpretation, knowledge, judgment and purpose** an explicit object of research. Its typed graphs and transformations invite researchers to examine how meanings change across tasks, perspectives and contexts—and how an intended action can be connected to evidence and outcomes.
 
-Yucong Duan is a professor at Hainan University whose research spans DIKWP graphs, artificial consciousness, semantic mathematics and auditable AI. His open research connects semantic resource modelling with experiments that expose evidence, purpose, permissions and revisable judgments. He chairs WACA and serves as president of WAAC. His GitHub portfolio provides research prototypes, source and version-specific reproduction records. [University profile](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA/WAAC role record](https://www.waac.ac/news/News260314) · [Engineering catalog](catalog/README.md)
+This programme reaches across five connected themes:
 
-
-## Selected public records
-
-| Record | What the source establishes | Original source |
+| Theme | Research direction | Entry |
 |---|---|---|
-| 2020 Wu Wenjun AI award | Hainan University reports the team's third prize for DIKW graph extension and modelling | [University article, published 4 November 2023](https://en.hainanu.edu.cn/info/1151/2981.htm) |
-| CAAI 2024 white-paper series | Duan and his team coordinated the first two chapters, covering DIKWP and artificial consciousness | [University authorship report, 6 January 2025](https://cs.hainanu.edu.cn/info/1035/9040.htm) |
-| WACA and WAAC roles | The conference announcement identifies Duan as WACA chair and WAAC president | [Organizer's announcement, 14 March 2026](https://www.waac.ac/news/News260314) |
-| Open engineering results | Six selected projects have recorded CI and local checks at dated revisions | [Catalog](catalog/README.md) · [7 September record](ENGINEERING_STATUS.md) · [8 September record](GITHUB_PUBLICATION_2026-09-08.md) |
+| DIKWP computation | Typed semantic resources, transformations and intent-driven reasoning | [Foundations](directory/dikwp-foundations.md) |
+| Artificial consciousness | Functional models, evaluation and theoretical inquiry | [Research systems](directory/artificial-consciousness.md) |
+| Semantic mathematics | Meaning construction, explicit assumptions and proof obligations | [Mathematics](directory/semantic-mathematics.md) |
+| Purpose and agency | Evaluation, authority, memory and observable action | [Evidence and governance](directory/evidence-evaluation.md) |
+| Human value | Education, active medicine, transparent economy and semantic sovereignty | [Full directory](REPOSITORY_DIRECTORY.md) |
 
-The first three rows are institutional records. The fourth records source-team software verification. The [evidence map](DIKWP_EVIDENCE_MAP.md) separately tracks external scholarly citations, standards references and other forms of public uptake, retaining their sources and audit dates.
+## Why engage with the work
 
-## Reading routes
+The programme combines an identifiable intellectual thread with practical entry points. Its [impact dossier](IMPACT.md) connects international standardization and independent scholarship; the [industry dossier](INDUSTRY_CONNECTIONS.md) identifies enterprise patent use and technical opportunities; the [book and paper guide](PUBLICATIONS.md) supports teaching and deeper study.
 
-| Interest | Begin with |
-|---|---|
-| Typed DIKW graphs | [2017 SERA paper record](https://dblp.org/rec/conf/sera/DuanSHZZL17) · [Institutional research narrative](https://en.hainanu.edu.cn/info/1151/2981.htm) |
-| Artificial-consciousness evaluation | [2023 white-box framework paper record](https://dblp.org/rec/conf/hpcc/TangDWCW23) · [Research repositories](directory/artificial-consciousness.md) |
-| Current semantic-network experiments | [MESH² source and reproduction](https://github.com/YucongDuan/DIKWP-MESH-) |
-| Agent purpose and evidence | [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) · [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
-| Complete publications and research history | [Google Scholar](https://scholar.google.com/citations?user=Px89gSoAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/10/2092.html) · [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) · [Detailed profile reference](PROFILE_REFERENCE_2026-09-07.md) |
+For hands-on work, begin with [PACT](START_HERE.md#run-your-first-experiment), explore semantic transformations with [MESH²](https://github.com/YucongDuan/DIKWP-MESH-), study local numerical research with [ASCENT](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0), or connect evaluation to local action with [WorldGate](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0).
 
-## Using this brief
-
-Use Yucong Duan as the author's English name. Expand DIKWP as Data, Information, Knowledge, Wisdom and Purpose. Cite the relevant paper's complete author list and the exact software version separately.
-
-When describing a result, retain its scope: a functional consciousness indicator is not proof of subjective experience; a finite certificate is not an unrestricted theorem; a scenario is not a measured economic outcome. Cite a source's publication and audit date when repeating changing counts or adoption claims.
-
-For introductions, interviews or academic exchange, send a written research question and proposed artifact through [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan). Repository-specific technical questions belong in the corresponding GitHub issue tracker. [Collaboration guide](COLLABORATE.md)
+For academic or industry exchange, send a written research question, a relevant source and the result you would like to develop together. [Collaboration](COLLABORATE.md) · [Citation guide](CITING.md) · [Full research background](PROFILE_REFERENCE_2026-09-07.md)

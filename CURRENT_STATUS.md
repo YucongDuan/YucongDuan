@@ -1,39 +1,16 @@
-# Current portfolio status
+# Current research portfolio
 
-[Chinese reference](CURRENT_STATUS.zh-CN.md)
+[中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.md) · [Directory](REPOSITORY_DIRECTORY.md)
 
-Checked **8 September 2026**. [Later profile and discovery improvements on the same date](PROFILE_IMPROVEMENTS_2026-09-08.md). This page distinguishes the current inventory from historical releases and project-specific tests.
+**16 September 2026: 487 public repositories, 12 research areas and 13 profile languages.** The GitHub connector inventory contains every previous repository identity plus four additions.
 
-| Item | Verified state |
+| Addition | Research entry |
 |---|---|
-| Public repositories | **483**: all previous 480 repository IDs plus the three newly published projects |
-| Research areas | **12**; every repository has a primary category and a direct source link |
-| Profile languages | **13** editions have current navigation; detailed historical research text is preserved |
-| Public descriptions | **459 / 483**; curated directory summaries are explicitly labeled |
-| Repositories with topics | **10** in the full inventory snapshot; the later [metadata update](METADATA_UPDATES_2026-09-08.json) adds three previously uncovered repositories |
-| Repositories with a homepage URL | **4** in the full inventory snapshot; the later [metadata update](METADATA_UPDATES_2026-09-08.json) adds three links to the research hub |
-| Visible GitHub stars | **1,318**, a dated observation |
-| New local verification | **182 tests**, with zero failures across the three new projects |
-| New public CI | **All three published revisions passed** their configured Python matrices |
-| Older engineering evidence | **140 recorded checks** for three selected projects, retained with their original dates |
+| [ASCENT 0.1](https://github.com/YucongDuan/DIKWP-ASCENT-Research-Kernel-v0.1.0) | Bounded numerical research and policy evolution |
+| [ASCENT 0.2](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) | Strong-reference comparisons, inference, monitoring and rollback |
+| [PRAXIS 1.0](https://github.com/YucongDuan/DIKWP-PRAXIS-OS-v1.0.0) | Evidence-to-outcome agent evaluation |
+| [WorldGate 2.0](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) | A local kernel for authority, outcome witnessing and compensation |
 
-## New projects and verified revisions
+This refresh updates the profile, research materials and directory, and inspects the additions' README files and metadata. Earlier runtime and test evidence retains its original dates.
 
-| Project | Published revision | Local tests | GitHub CI |
-|---|---|---:|---|
-| [ClearPath Transparent Economy](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | [f52df66](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/commit/f52df66196e163580866edeacd9398833c8f9d74) | 30 | [success](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742) |
-| [DemandProof Commons](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) | [06bd3b4](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/commit/06bd3b403a5e3f61102a4ebbd8dc0af2964b4130) | 64 | [success](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/actions/runs/34179666791) |
-| [LucidEcon OS](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS) | [32796b7](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/commit/32796b7c0c1fab629a56f186963589861606d23c) | 88 | [success](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/actions/runs/34179827902) |
-
-[Complete directory](REPOSITORY_DIRECTORY.md) · [Transparent-economy tool guide](TRANSPARENT_ECONOMY.md) · [Publication record](GITHUB_PUBLICATION_2026-09-08.md) · [Engineering catalog](catalog/README.md)
-
-## Scope and historical continuity
-
-The new projects expose source directly at the repository root. Their full original delivery archives, packaged runtimes and checksum files are distributed through versioned releases. Existing licenses and runtime behavior are preserved; ClearPath's abbreviated Apache-2.0 notice is accompanied by the full license text, with the upstream notice retained.
-
-Metadata coverage includes all 483 repositories. Code verification in this update covers the three new projects. It does not certify the functionality or safety of every repository, economic effectiveness or institutional adoption. The previous [source-expansion queue](SOURCE_PUBLICATION_STATUS.md) and [engineering report](ENGINEERING_STATUS.md) retain their own dates; this update does not claim that the entire historical archive queue was expanded.
-
-[Previous status: 7 September 2026](CURRENT_STATUS_2026-09-07.md) · [480-repository snapshot](REPOSITORY_ECOSYSTEM_480.md).
-
-
-[English-first international access update](INTERNATIONALIZATION_2026-09-08.md).
+[Current identity inventory](research/REPOSITORY_INVENTORY_2026-09-16.json) · [8 September status](CURRENT_STATUS_2026-09-08.md) · [Engineering catalog](catalog/README.md) · [Refresh record](PROFILE_REFRESH_2026-09-16.md)
