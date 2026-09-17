@@ -18,6 +18,8 @@
 
 Inventory checked **16 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
+**New release · 17 September 2026 — [DIKWP OpenStudio: China–ASEAN Edition](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)** brings 13-language navigation, 12 complete Chinese/English/Vietnamese learning modules, four interactive semantic labs and a student project studio into one open-source toolkit. [Download the complete source](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip) and open `OpenStudio_Offline.html` to begin. [Automated checks](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions).
+
 ## A research programme with a growing international footprint
 
 | Where the work connects | Selected evidence |
