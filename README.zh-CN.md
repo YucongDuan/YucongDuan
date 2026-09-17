@@ -18,6 +18,8 @@
 
 仓库清单核对日期：**2026 年 9 月 16 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
 
+**新发布 · 2026 年 9 月 17 日｜[DIKWP OpenStudio 中国—东盟版](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)**：以 13 语种导航、中英越三语完整的 12 个学习模块、四类交互式语义实验和学生项目工作台，连接 DIKWP 学习、实验与自主创新。[下载完整源码](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip)，打开 `OpenStudio_Offline.html` 即可开始。[查看自动测试](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions)。
+
 ## 原创研究正在连接国际标准、产业技术与学术前沿
 
 | 影响力维度 | 可以直接查验的成果 |
