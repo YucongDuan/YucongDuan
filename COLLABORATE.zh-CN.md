@@ -1,4 +1,6 @@
-[English version](COLLABORATE.md)
+# 从具体成果开始合作
+
+[English version](COLLABORATE.md) · [主页](README.zh-CN.md) · [实验导读](START_HERE.zh-CN.md) · [贡献指南](CONTRIBUTING.zh-CN.md)
 
 <!-- PORTFOLIO-START -->
 ## 用一页书面材料定义试点
@@ -22,10 +24,6 @@
 
 提出一个明确问题、您已有的材料以及希望共同形成的成果，即可开启书面交流。公开技术问题可使用下方项目入口；不宜公开的学术交流可经 [ResearchGate](https://www.researchgate.net/profile/Yucong-Duan) 联系。
 
-
-# Collaborate on a concrete research result / 从具体成果开始合作
-
-[Profile](README.md) · [First experiment](START_HERE.md) · [Contribution details](CONTRIBUTING.md)
 
 Choose one question, one repository and one artifact another person can inspect. Independent criticism, negative results and small contributions are welcome.
 
