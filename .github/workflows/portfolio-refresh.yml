@@ -1,0 +1,43 @@
+name: Publish research portfolio
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/portfolio-refresh.yml'
+permissions:
+  contents: write
+concurrency:
+  group: portfolio-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Inspect public repository identities and complete trees
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/collect_portfolio.mjs
+      - name: Generate profile and catalog
+        run: node scripts/build_portfolio.mjs --write
+      - name: Check deterministic generation
+        run: node scripts/build_portfolio.mjs --check
+      - name: Validate inventory, navigation and links
+        run: node scripts/validate_portfolio.mjs
+      - name: Publish validated pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README*.md START_HERE*.md COLLABORATE*.md CURRENT_STATUS*.md PROJECT_FINDER*.md REPOSITORY_DIRECTORY* REPOSITORY_SUMMARIES.en.json PROFILE_REFRESH_2026-09-18.md PORTFOLIO_MAINTENANCE.md CITATION.cff projects directory catalog research/PORTFOLIO_SNAPSHOT.json research/FEATURED_VERIFICATION.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Publish the verified 489-project portfolio and multilingual research routes'
+          git push origin HEAD:main
+          git rev-parse HEAD
