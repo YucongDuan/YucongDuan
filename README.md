@@ -10,15 +10,32 @@
 
 **What should intelligence understand, why should it act, and how can we make its decisions accountable?** My research develops **Data–Information–Knowledge–Wisdom–Purpose (DIKWP)** into typed semantic graphs, computational transformations and open research systems. The ambition is to connect machine capability with human purpose—and turn that connection into something people can study, build and use.
 
-**[Explore the research](RESEARCH_BRIEF.md) · [See the impact](IMPACT.md) · [Run a first experiment](START_HERE.md) · [Discuss collaboration](COLLABORATE.md)**
+**[Explore the research](RESEARCH_BRIEF.md) · [See the impact](IMPACT.md) · [Find a project](PROJECT_FINDER.md) · [Discuss collaboration](COLLABORATE.md)**
 
 | Open research portfolio | Research areas | Profile languages |
 |:---:|:---:|:---:|
-| **487 public repositories** | **12 interconnected fields** | **13 language editions** |
+| **489 public repositories** | **12 interconnected fields** | **13 language editions** |
 
-Inventory checked **16 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
+Inventory checked **18 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
 **New release · 17 September 2026 — [DIKWP OpenStudio: China–ASEAN Edition](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)** brings 13-language navigation, 12 complete Chinese/English/Vietnamese learning modules, four interactive semantic labs and a student project studio into one open-source toolkit. [Download the complete source](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip) and open `OpenStudio_Offline.html` to begin. [Automated checks](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions).
+
+<!-- PORTFOLIO-START -->
+## Start with a result you can inspect
+
+| Project | What you can explore |
+|---|---|
+| [**OpenStudio · China–ASEAN**](projects/1373871217.md) | Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project. |
+| [**PACT · Purpose and permission**](projects/1301408025.md) | Reproduce purpose, permission and evidence checks across 72 paired synthetic scenarios and four deterministic baselines. |
+| [**MESH² · Semantic transformations**](projects/1301387525.md) | Explore all 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and observer disagreements. |
+| [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | Study bounded numerical experiments, stronger-reference comparisons, explicit adoption, monitoring and rollback. |
+| [**WorldGate 2.0 · Authority and outcomes**](projects/1362120264.md) | Connect signed authority, atomic state changes, outcome observation and conditional compensation in a local inventory adapter. |
+| [**LucidEcon · Contribution and replay**](projects/1360834556.md) | Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting. |
+
+[Compare all 11 guided starting points](PROJECT_FINDER.md) · [Offline search, source and downloads](catalog/README.md)
+
+Every project has a detail page with its purpose, distribution format, license metadata, instructions and verification links. Archive releases link directly to their named delivery packages.
+<!-- PORTFOLIO-END -->
 
 ## A research programme with a growing international footprint
 
@@ -40,27 +57,12 @@ The distinctive contribution is the **systematic graph formalization and computa
 
 **AWS, Alibaba Cloud and Huawei** publish architectures or patent descriptions connecting semantic resources, reasoning and action. Their technical overlap with this research creates concrete opportunities for **interoperability, comparative evaluation and joint research**. [Industrial connections and co-creation opportunities →](INDUSTRY_CONNECTIONS.md) The comparison identifies technical convergence; it does not announce a partnership with those companies.
 
-## Build with the portfolio
-
-| Start with | What you can explore | Entry |
-|---|---|---|
-| **PACT** | Purpose, permission and evidence policies; 72 synthetic scenarios and four deterministic baselines | [Reproduce the experiment](START_HERE.md#run-your-first-experiment) |
-| **MESH²** | All 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and perspective conflicts | [Source and examples](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **VerityWeave** | Evidence, context, incentives and inspectable output checks | [Source and verification](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
-| **ASCENT 0.2** | Bounded numerical research, stronger-reference comparisons, controlled policy adoption and rollback | [Operator console and walkthrough](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) |
-| **PRAXIS WorldGate 2.0** | Connect evaluation to signed authority, observable effects and compensation in a local action kernel | [Run the reference system](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) |
-| **ClearPath · DemandProof · LucidEcon** | Transparent-economy experiments in opportunity, shared capacity and contribution accounting | [Three-project guide](TRANSPARENT_ECONOMY.md) |
-
-**Also explore:** [Artificial consciousness](directory/artificial-consciousness.md) · [Semantic mathematics](directory/semantic-mathematics.md) · [Education](directory/education-learning.md) · [Health and care](directory/medicine-health.md) · [Security and justice](directory/security-justice.md).
-
-Projects are research systems with individual scopes. Version-specific test and reproduction records are available in the [engineering catalog](catalog/README.md); ASCENT's numerical experiments and WorldGate's local adapter are described in their own repositories.
-
 ## Choose your route
 
 | You are here to… | Begin here |
 |---|---|
 | **Research or teach** | [Research brief](RESEARCH_BRIEF.md) · [Publications](PUBLICATIONS.md) · [Citation guide](CITING.md) |
-| **Build and evaluate** | [First experiment](START_HERE.md) · [487-project directory](REPOSITORY_DIRECTORY.md) |
+| **Build and evaluate** | [First experiment](START_HERE.md) · [489-project directory](REPOSITORY_DIRECTORY.md) |
 | **Explore industry collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Written proposal](COLLABORATE.md) |
 | **Write, interview or share** | [Impact overview](IMPACT.md) · [Ready-to-use introductions](SHARE.md) · [Chinese research and essays](CHINESE_RESEARCH.md) |
 

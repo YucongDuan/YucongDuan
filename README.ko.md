@@ -1,5 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
+<!-- PORTFOLIO-START -->
+**489 · 12 · 13** · 2026-09-18
+
+[프로젝트 선택](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
+<!-- PORTFOLIO-END -->
+
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
 
 # Yucong Duan · 段玉聪
@@ -8,7 +14,7 @@
 
 돤위충(Yucong Duan)은 DIKWP 그래프, 인공의식, 의미 수학, 검토 가능한 AI를 연구합니다. 이 연구 프로그램은 이론, 발명, 출판물과 공개 시스템을 연결합니다.
 
-**487 공개 저장소 · 12 연구 분야 · 13 언어**
+**489 공개 저장소 · 12 연구 분야 · 13 언어**
 
 DIKWP는 데이터, 정보, 지식, 지혜, 목적을 뜻합니다. 이 자원들은 변환의 네트워크를 이루며, 목적은 해석을 이끄는 동시에 그 자체로 수정될 수 있습니다.
 
@@ -19,7 +25,7 @@ DIKWP는 데이터, 정보, 지식, 지혜, 목적을 뜻합니다. 이 자원�
 | **산업과의 기술적 접점 및 협력 기회** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **저서와 논문** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **첫 실험** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **전체 프로젝트 목록** | [487 repositories](REPOSITORY_DIRECTORY.md) |
+| **전체 프로젝트 목록** | [489 repositories](REPOSITORY_DIRECTORY.md) |
 | **협력하기** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)

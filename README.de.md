@@ -1,5 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
+<!-- PORTFOLIO-START -->
+**489 · 12 · 13** · 2026-09-18
+
+[Ein Projekt auswählen](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
+<!-- PORTFOLIO-END -->
+
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
 
 # Yucong Duan · 段玉聪
@@ -8,7 +14,7 @@
 
 Yucong Duan erforscht DIKWP-Graphen, künstliches Bewusstsein, semantische Mathematik und überprüfbare KI. Sein Programm verbindet Theorie, Erfindungen, Publikationen und offene Systeme.
 
-**487 öffentliche Repositories · 12 Forschungsgebiete · 13 Sprachen**
+**489 öffentliche Repositories · 12 Forschungsgebiete · 13 Sprachen**
 
 DIKWP steht für Daten, Information, Wissen, Weisheit und Zweck. Diese Ressourcen bilden ein Netz von Transformationen: Der Zweck lenkt die Interpretation und kann selbst revidiert werden.
 
@@ -19,7 +25,7 @@ DIKWP steht für Daten, Information, Wissen, Weisheit und Zweck. Diese Ressource
 | **Industriebezüge und Kooperationsmöglichkeiten** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **Bücher und Publikationen** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **Erstes Experiment** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **Vollständiges Verzeichnis** | [487 repositories](REPOSITORY_DIRECTORY.md) |
+| **Vollständiges Verzeichnis** | [489 repositories](REPOSITORY_DIRECTORY.md) |
 | **Zusammenarbeiten** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)

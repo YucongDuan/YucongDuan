@@ -10,15 +10,32 @@
 
 **让智能理解意义，让行动服从目的，让价值落到现实。** 段玉聪围绕“数据—信息—知识—智慧—意图（DIKWP）”持续推进类型化图谱、语义计算、人工意识与开放系统研究，形成贯通**原创理论、专利布局、国际学术传播、正式出版与开放工程**的研究体系。
 
-**[了解原创研究](RESEARCH_BRIEF.zh-CN.md) · [查看国际影响](IMPACT.zh-CN.md) · [体验开放系统](START_HERE.zh-CN.md) · [探讨合作](COLLABORATE.zh-CN.md)**
+**[了解原创研究](RESEARCH_BRIEF.zh-CN.md) · [查看国际影响](IMPACT.zh-CN.md) · [选择适合你的项目](PROJECT_FINDER.zh-CN.md) · [探讨合作](COLLABORATE.zh-CN.md)**
 
 | 开放研究版图 | 研究方向 | 国际传播 |
 |:---:|:---:|:---:|
-| **487 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
+| **489 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
 
-仓库清单核对日期：**2026 年 9 月 16 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
+仓库清单核对日期：**2026 年 9 月 18 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
 
 **新发布 · 2026 年 9 月 17 日｜[DIKWP OpenStudio 中国—东盟版](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)**：以 13 语种导航、中英越三语完整的 12 个学习模块、四类交互式语义实验和学生项目工作台，连接 DIKWP 学习、实验与自主创新。[下载完整源码](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip)，打开 `OpenStudio_Offline.html` 即可开始。[查看自动测试](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions)。
+
+<!-- PORTFOLIO-START -->
+## 从可体验、可比较的成果进入研究
+
+| 代表项目 | 可以探索什么 |
+|---|---|
+| [**OpenStudio · China–ASEAN**](projects/1373871217.md) | 通过中英越三语12个模块、四类语义实验和可导出作品学习与创新。 |
+| [**PACT · Purpose and permission**](projects/1301408025.md) | 在72个成对合成场景与四种确定性基线上复现意图、权限和证据检查。 |
+| [**MESH² · Semantic transformations**](projects/1301387525.md) | 探索D/I/K/W/P全部25类有序转换、多条语义路径与观察者分歧。 |
+| [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | 研究有界数值实验、强参考比较、明确采用、监测与回退。 |
+| [**WorldGate 2.0 · Authority and outcomes**](projects/1362120264.md) | 在本地库存适配器中连接签名权限、原子状态变更、结果观测与有条件补偿。 |
+| [**LucidEcon · Contribution and replay**](projects/1360834556.md) | 评估有界机会，重放证据记录，并精确核算约定的贡献池。 |
+
+[比较11个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [离线搜索、源码与下载](catalog/README.zh-CN.md)
+
+每个项目都有独立详情页，提供用途、交付形式、许可元数据、说明文件和验证入口。以压缩包分发的项目直接链接到具名交付包。
+<!-- PORTFOLIO-END -->
 
 ## 原创研究正在连接国际标准、产业技术与学术前沿
 
@@ -39,19 +56,6 @@ DIKWP 将目的与意义带入智能系统的核心设计：数据怎样被解�
 段玉聪团队的原创贡献集中在**将知识图谱系统性扩展为类型化、可计算的 DIKW／DIKWP 图谱，并推进意图驱动的转换与推理**。公开专利谱系可追溯至 2017 年。[专利布局](PATENT_PORTFOLIO_MAP.md) · [早期论文记录](https://dblp.org/rec/conf/sera/DuanSHZZL17)
 
 **AWS、阿里云、华为**的公开架构或专利描述也呈现出语义资源、推理、意图与行动相连接的产业方向。DIKWP 为这些共同问题提供了值得展开**技术对话、互操作研究、联合测评与合作创新**的研究基础。[产业联系与共创机会 →](INDUSTRY_CONNECTIONS.zh-CN.md) 此处呈现技术呼应与合作契合点，具体合作关系以双方公开确认为准。
-
-## 从代表系统进入 487 项开放研究
-
-| 代表项目 | 研究价值与体验入口 |
-|---|---|
-| **PACT** | 目的、权限与证据策略；通过 [首个复现实验](START_HERE.md#run-your-first-experiment) 查看 72 个合成场景与四种确定性基线。 |
-| **MESH²** | 探索 D/I/K/W/P 全部 25 类有序转换、不同语义路径与视角冲突。[源码与示例](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **VerityWeave** | 将证据、语境和激励因素纳入可检查的判断过程。[项目入口](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) |
-| **ASCENT 0.2** | 有界数值研究、强参考比较、策略采用、监测与回退。[运行控制台与完整示例](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) |
-| **PRAXIS WorldGate 2.0** | 把评估、签名授权、行动结果见证与补偿连接到本地执行内核。[项目入口](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) |
-| **ClearPath · DemandProof · LucidEcon** | 探索机会识别、共享产能与贡献核算的透明经济研究系统。[三项目导读](TRANSPARENT_ECONOMY.zh-CN.md) |
-
-继续探索：[人工意识](directory/artificial-consciousness.zh-CN.md) · [语义数学](directory/semantic-mathematics.zh-CN.md) · [教育](directory/education-learning.zh-CN.md) · [健康与照护](directory/medicine-health.zh-CN.md) · [安全与正义](directory/security-justice.zh-CN.md)。各项目的实现范围和版本验证记录见项目文档及 [工程目录](catalog/README.zh-CN.md)。
 
 ## 为不同读者准备的入口
 

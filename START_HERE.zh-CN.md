@@ -1,5 +1,13 @@
 # 从这里开始：理解 DIKWP，运行第一个实验
 
+<!-- PORTFOLIO-START -->
+## 先选择要完成的任务
+
+[11个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [489个项目详情](REPOSITORY_DIRECTORY.zh-CN.md) · [离线搜索与下载](catalog/README.zh-CN.md)
+
+教学与课程从OpenStudio进入；意图和权限实验从PACT进入；语义路径比较从MESH²进入。每个操作导读均链接实际入口文件。
+<!-- PORTFOLIO-END -->
+
 [English](START_HERE.md) · [主页](README.zh-CN.md) · [研究简介](RESEARCH_BRIEF.md) · [全部仓库](REPOSITORY_DIRECTORY.md)
 
 ## 如何理解 DIKWP

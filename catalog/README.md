@@ -1,21 +1,21 @@
-[Chinese guide](README.zh-CN.md)
+# Source, download and verification catalog
 
-# Source and verification catalog
+[English](README.md) · [中文](README.zh-CN.md) · [Full directory](../REPOSITORY_DIRECTORY.md) · [JSON](CATALOG.json)
 
-[Current 483-repository directory](../REPOSITORY_DIRECTORY.md) · [Machine-readable engineering catalog](CATALOG.json) · [Current status](../CURRENT_STATUS.md)
+## Search the complete portfolio offline
 
-The three projects published on 8 September 2026 add **182 local passing tests**, each with successful CI on its published source revision. Earlier records preserve **140 checks** for three selected projects. The combined catalog therefore records **322 checks across six selected projects, at different dated revisions**. This is not coverage of all repositories.
+[Download the project explorer](https://raw.githubusercontent.com/YucongDuan/YucongDuan/main/catalog/index.html), save it as HTML and open it in a browser. Search all 489 projects by keyword, research area and distribution format. Search data is embedded; repository links require internet access.
 
-| Project | What to try | Verification |
-|---|---|---|
-| [ClearPath Transparent Economy 1.0.0](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY) | Check funded demand, saturation and competing opportunity scenarios. | 30 local tests · [CI passed](https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/34179548742) |
-| [DemandProof Commons 1.0.0](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS) | Plan shared capacity and inspect signed task, acceptance and payment-observation records. | 64 local tests · [CI passed](https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/actions/runs/34179666791) |
-| [LucidEcon OS 2.0.0](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS) | Test evidence-scoped opportunities, replay receipts and account for contribution pools. | 88 local tests · [CI passed](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/actions/runs/34179827902) |
+## Choose a practical walkthrough
 
+[11 guided projects / 11个项目操作路线](../PROJECT_FINDER.md)
 
-[New publication evidence](../GITHUB_PUBLICATION_2026-09-08.md) · [Earlier engineering record](../ENGINEERING_STATUS.md) · [Historical source-expansion queue](../SOURCE_PUBLICATION_STATUS.md).
+Extract ZIP-distributed projects before following the inner README. When GitHub displays HTML source, download the project and open the file locally.
 
-All 483 repository IDs and public metadata were rechecked. Historical source audits, local preparation states and test evidence retain their own timestamps. Preparation does not establish successful tests or publication. Related-project links support navigation and do not assert runtime dependencies.
+## Inspect verification evidence
 
+Nine existing featured-project workflows passed on the published guide commits. Each result identifies a revision, date and workflow link; it is not an execution claim for the other projects.
 
-The existing `index.html` remains the dated 7 September offline snapshot. Use this page and `CATALOG.json` for the current 483-repository inventory.
+[Publication commits and workflow results / 提交与验证结果](../PROFILE_REFRESH_2026-09-18.md) · [Earlier engineering records](../ENGINEERING_STATUS.md) · [Inventory method](../PORTFOLIO_MAINTENANCE.md)
+
+SolutionForge currently remains an introduction repository; its complete source package still needs to be imported.

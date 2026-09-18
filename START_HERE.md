@@ -1,5 +1,13 @@
 # Start here: DIKWP research and a first experiment
 
+<!-- PORTFOLIO-START -->
+## Choose the task you want to complete
+
+[11 practical project routes](PROJECT_FINDER.md) · [489 project details](REPOSITORY_DIRECTORY.md) · [Offline search and downloads](catalog/README.md)
+
+Start with OpenStudio for teaching, PACT for purpose and permission experiments, or MESH² for semantic-route comparisons. Each walkthrough links the actual entry files.
+<!-- PORTFOLIO-END -->
+
 [Chinese guide](START_HERE.zh-CN.md) · [Profile](README.md) · [Research brief](RESEARCH_BRIEF.md) · [All repositories](REPOSITORY_DIRECTORY.md)
 
 ## Understand DIKWP

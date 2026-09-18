@@ -1,11 +1,21 @@
-# 源码与验证目录
+# 源码、下载与验证目录
 
-[English](README.md) · [完整目录](../REPOSITORY_DIRECTORY.zh-CN.md) · [工程 JSON](CATALOG.json)
+[English](README.md) · [中文](README.zh-CN.md) · [Full directory](../REPOSITORY_DIRECTORY.zh-CN.md) · [JSON](CATALOG.json)
 
-2026 年 9 月 8 日发布的 ClearPath、DemandProof 和 LucidEcon 三个项目记录了 182 项本地测试，并有对应提交的 CI 通过记录。此前三个重点项目记录了 140 项检查；合计 322 项记录分属六个项目、不同日期与版本，不代表全部仓库均已验证。
+## 离线搜索全部项目
 
-[新项目发布记录](../GITHUB_PUBLICATION_2026-09-08.md) · [此前工程记录](../ENGINEERING_STATUS.md) · [源码展开队列](../SOURCE_PUBLICATION_STATUS.md)
+[下载项目搜索页](https://raw.githubusercontent.com/YucongDuan/YucongDuan/main/catalog/index.html)，保存为HTML文件后用浏览器打开，即可按关键词、领域、交付形式筛选489个项目。搜索数据内置；打开仓库链接需要联网。
 
-目录覆盖 483 个仓库，区分源码可见、本地准备、公开发布和实际测试。相关项目链接用于导航，不代表接口集成或软件依赖。
+## 选择操作路线
 
-`index.html` 保留 9 月 7 日离线快照；当前记录以本页、JSON 和所链接的有日期证据为准。
+[11 guided projects / 11个项目操作路线](../PROJECT_FINDER.zh-CN.md)
+
+ZIP项目先解压，再阅读包内README；GitHub显示HTML源码时，应先下载项目后本地打开。
+
+## 查看验证记录
+
+九个已有工作流的代表项目，本次导读提交均通过自动测试。各结果绑定具体提交、时间和工作流链接；其余项目不据此声称运行通过。
+
+[Publication commits and workflow results / 提交与验证结果](../PROFILE_REFRESH_2026-09-18.md) · [Earlier engineering records](../ENGINEERING_STATUS.md) · [Inventory method](../PORTFOLIO_MAINTENANCE.md)
+
+SolutionForge目前仍为项目介绍仓库，完整源码包尚待导入。

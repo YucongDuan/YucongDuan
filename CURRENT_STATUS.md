@@ -1,16 +1,15 @@
-# Current research portfolio
+# Current open research portfolio
 
-[中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.md) · [Directory](REPOSITORY_DIRECTORY.md)
+[English](CURRENT_STATUS.md) · [中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.md)
 
-**16 September 2026: 487 public repositories, 12 research areas and 13 profile languages.** The GitHub connector inventory contains every previous repository identity plus four additions.
+**2026-09-18 · 489 repositories · 12 research areas · 13 profile languages**
 
-| Addition | Research entry |
-|---|---|
-| [ASCENT 0.1](https://github.com/YucongDuan/DIKWP-ASCENT-Research-Kernel-v0.1.0) | Bounded numerical research and policy evolution |
-| [ASCENT 0.2](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0) | Strong-reference comparisons, inference, monitoring and rollback |
-| [PRAXIS 1.0](https://github.com/YucongDuan/DIKWP-PRAXIS-OS-v1.0.0) | Evidence-to-outcome agent evaluation |
-| [WorldGate 2.0](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0) | A local kernel for authority, outcome witnessing and compensation |
+This refresh covers 489 project detail pages, bilingual directories for 12 fields, navigation in 13 profile languages and practical guides committed to 11 featured repositories.
 
-This refresh updates the profile, research materials and directory, and inspects the additions' README files and metadata. Earlier runtime and test evidence retains its original dates.
+- Source and web files: 67
+- Downloadable archive: 411
+- Documentation and research: 11
 
-[Current identity inventory](research/REPOSITORY_INVENTORY_2026-09-16.json) · [8 September status](CURRENT_STATUS_2026-09-08.md) · [Engineering catalog](catalog/README.md) · [Refresh record](PROFILE_REFRESH_2026-09-16.md)
+OpenStudio is fully published. SolutionForge currently contains its project introduction; import of its original full source package remains pending.
+
+[Project finder](PROJECT_FINDER.md) · [Verification and downloads](catalog/README.md) · [Refresh record](PROFILE_REFRESH_2026-09-18.md) · [Snapshot](research/PORTFOLIO_SNAPSHOT.json)

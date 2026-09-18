@@ -1,5 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
+<!-- PORTFOLIO-START -->
+**489 · 12 · 13** · 2026-09-18
+
+[परियोजना चुनें](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
+<!-- PORTFOLIO-END -->
+
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
 
 # Yucong Duan · 段玉聪
@@ -8,7 +14,7 @@
 
 यूकोंग दुआन DIKWP ग्राफ, कृत्रिम चेतना, अर्थगत गणित और जाँच योग्य AI पर शोध करते हैं। उनका शोध कार्यक्रम सिद्धांत, आविष्कार, प्रकाशन और खुले सिस्टम को जोड़ता है।
 
-**487 सार्वजनिक रिपॉज़िटरी · 12 शोध क्षेत्र · 13 भाषाएँ**
+**489 सार्वजनिक रिपॉज़िटरी · 12 शोध क्षेत्र · 13 भाषाएँ**
 
 DIKWP का अर्थ है डेटा, सूचना, ज्ञान, विवेक और उद्देश्य। ये संसाधन रूपांतरणों का एक नेटवर्क बनाते हैं; उद्देश्य व्याख्या को दिशा देता है और स्वयं भी संशोधित किया जा सकता है।
 
@@ -19,7 +25,7 @@ DIKWP का अर्थ है डेटा, सूचना, ज्ञान,
 | **औद्योगिक संबंध और सहयोग के अवसर** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **पुस्तकें और प्रकाशन** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **पहला प्रयोग** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **पूरी सूची** | [487 repositories](REPOSITORY_DIRECTORY.md) |
+| **पूरी सूची** | [489 repositories](REPOSITORY_DIRECTORY.md) |
 | **सहयोग** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)

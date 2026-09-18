@@ -1,5 +1,19 @@
 # Collaborate on a concrete research result
 
+<!-- PORTFOLIO-START -->
+## Define a pilot in one written page
+
+| Define | Suggested content |
+|---|---|
+| Research question | Choose one project and the concrete question to address. |
+| Inputs and scope | Data sources, permission to use them, sample scope and source revision. |
+| Deliverable | An inspectable experiment, minimal counterexample, lesson or technical report. |
+| Acceptance | Comparison baseline, expected output and failure conditions. |
+| Written next step | Responsible people, dates, license and review arrangements. |
+
+[Choose a project](PROJECT_FINDER.md) · [Industry research connections](INDUSTRY_CONNECTIONS.md)
+<!-- PORTFOLIO-END -->
+
 ## Build a research connection with practical value
 
 Universities, researchers, developers and industry teams are welcome to explore **DIKWP semantic computation, artificial consciousness, agent evaluation, the intention economy and active-medicine research**. Possible outcomes include joint papers, teaching cases, open baselines, interoperability studies and technology-transfer discussions.

@@ -1,5 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
+<!-- PORTFOLIO-START -->
+**489 · 12 · 13** · 2026-09-18
+
+[اختر مشروعًا](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
+<!-- PORTFOLIO-END -->
+
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
 
 # يوكونغ دوان · Yucong Duan · 段玉聪
@@ -8,7 +14,7 @@
 
 يبحث يوكونغ دوان في رسوم DIKWP البيانية والوعي الاصطناعي والرياضيات الدلالية والذكاء الاصطناعي القابل للتدقيق. يربط برنامجه بين النظرية والابتكار والمنشورات والأنظمة المفتوحة.
 
-**487 مستودعاً عاماً · 12 مجالاً بحثياً · 13 لغة**
+**489 مستودعاً عاماً · 12 مجالاً بحثياً · 13 لغة**
 
 يرمز DIKWP إلى البيانات والمعلومات والمعرفة والحكمة والغاية. تشكّل هذه الموارد شبكة من التحولات؛ فالغاية توجّه التفسير، ويمكن مراجعتها أيضاً.
 
@@ -19,7 +25,7 @@
 | **الروابط الصناعية وفرص التعاون** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **الكتب والمنشورات** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **التجربة الأولى** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **الدليل الكامل** | [487 repositories](REPOSITORY_DIRECTORY.md) |
+| **الدليل الكامل** | [489 repositories](REPOSITORY_DIRECTORY.md) |
 | **التعاون** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)
