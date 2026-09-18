@@ -1,0 +1,166 @@
+{
+  "checked_on": "2026-09-18",
+  "repository_count": 489,
+  "additional_repositories": [
+    {
+      "id": "1373871217",
+      "name": "ASEAN_DIKWP_OpenStudio_v1.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1373884558",
+      "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "default_branch": "main"
+    }
+  ],
+  "features": [
+    {
+      "name": "ASEAN_DIKWP_OpenStudio_v1.0.0",
+      "title": "OpenStudio · China–ASEAN",
+      "en": "Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project.",
+      "zh": "通过中英越三语12个模块、四类语义实验和可导出作品学习与创新。",
+      "entry": "OpenStudio_Offline.html",
+      "commit": "2e38584e397a69eda9198ebdc02225ccadebab26",
+      "workflow": {
+        "id": 35266791744,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions/runs/35266791744"
+      }
+    },
+    {
+      "name": "DIKWP-PACT-v0.1.0",
+      "title": "PACT · Purpose and permission",
+      "en": "Reproduce purpose, permission and evidence checks across 72 paired synthetic scenarios and four deterministic baselines.",
+      "zh": "在72个成对合成场景与四种确定性基线上复现意图、权限和证据检查。",
+      "entry": "docs/REPRODUCIBILITY.md",
+      "commit": "3f3c685ac52137e531183c851b8e03d9e607b3c6",
+      "workflow": {
+        "id": 35266816534,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-PACT-v0.1.0/actions/runs/35266816534"
+      }
+    },
+    {
+      "name": "DIKWP-MESH-",
+      "title": "MESH² · Semantic transformations",
+      "en": "Explore all 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and observer disagreements.",
+      "zh": "探索D/I/K/W/P全部25类有序转换、多条语义路径与观察者分歧。",
+      "entry": "docs/REPRODUCIBILITY.md",
+      "commit": "708d86f409aa662dd2f9e29212926cfb33152192",
+      "workflow": {
+        "id": 35266846927,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-MESH-/actions/runs/35266846927"
+      }
+    },
+    {
+      "name": "DIKWP-VERITYWEAVE-v2.0.0",
+      "title": "VerityWeave · Evidence and context",
+      "en": "Inspect evidence, context and incentives in an auditable semantic research system.",
+      "zh": "检查语义研究系统中的证据、语境与激励因素。",
+      "entry": "DIKWP_VERITYWEAVE_SEMANTIC_RESILIENCE_GRID_OS_v2.0.0.html",
+      "commit": "a9675b65bec80bceb7d15700a77e723497837cb8",
+      "workflow": {
+        "id": 35266874809,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0/actions/runs/35266874809"
+      }
+    },
+    {
+      "name": "DIKWP-ASCENT-v0.2.0",
+      "title": "ASCENT 0.2 · Numerical research",
+      "en": "Study bounded numerical experiments, stronger-reference comparisons, explicit adoption, monitoring and rollback.",
+      "zh": "研究有界数值实验、强参考比较、明确采用、监测与回退。",
+      "entry": "docs/QUICKSTART_CN_EN.md",
+      "commit": "88ed6b42fe505f5d45ed541e524f9f059f931719",
+      "workflow": {
+        "id": 35266901508,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0/actions/runs/35266901508"
+      }
+    },
+    {
+      "name": "DIKWP-PRAXIS-WorldGate-v2.0.0",
+      "title": "WorldGate 2.0 · Authority and outcomes",
+      "en": "Connect signed authority, atomic state changes, outcome observation and conditional compensation in a local inventory adapter.",
+      "zh": "在本地库存适配器中连接签名权限、原子状态变更、结果观测与有条件补偿。",
+      "entry": "web/praxis_v2.html",
+      "commit": "b181b730b00e3f52ada94cce8906f27371afb03a",
+      "workflow": {
+        "id": 35266947382,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0/actions/runs/35266947382"
+      }
+    },
+    {
+      "name": "DIKWP-CLEARPATH-TRANSPARENT-ECONOMY",
+      "title": "ClearPath · Opportunity selection",
+      "en": "Compare funded demand, opportunity selection, saturation and competing scenarios.",
+      "zh": "比较有资金支持的需求、机会选择、饱和度与竞争场景。",
+      "entry": "DIKWP_CLEARPATH_TRANSPARENT_ECONOMY_OS_v1.0.0.html",
+      "commit": "549cfec54505bb63ebcac9274d0559252ab345f7",
+      "workflow": {
+        "id": 35266978986,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-CLEARPATH-TRANSPARENT-ECONOMY/actions/runs/35266978986"
+      }
+    },
+    {
+      "name": "DIKWP-DEMANDPROOF-COMMONS",
+      "title": "DemandProof · Shared capacity",
+      "en": "Plan shared capacity and inspect signed task, acceptance and payment-observation records.",
+      "zh": "规划共享产能，检查签名任务、验收与付款观测记录。",
+      "entry": "src/demandproof/resources/app.html",
+      "commit": "f2795f27c71594975ff7afc44274f82321785803",
+      "workflow": {
+        "id": 35267003619,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-DEMANDPROOF-COMMONS/actions/runs/35267003619"
+      }
+    },
+    {
+      "name": "DIKWP-LUCIDECON-OS",
+      "title": "LucidEcon · Contribution and replay",
+      "en": "Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting.",
+      "zh": "评估有界机会，重放证据记录，并精确核算约定的贡献池。",
+      "entry": "lucidecon.html",
+      "commit": "9d105b7cc8cdff1da31c3de1410a253c3d0a744b",
+      "workflow": {
+        "id": 35267281179,
+        "conclusion": "success",
+        "checked_on": "2026-09-17",
+        "url": "https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/actions/runs/35267281179"
+      }
+    },
+    {
+      "name": "Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler",
+      "title": "CITM Forge · Mathematical certificates",
+      "en": "Explore a downloadable mathematics research package and its problem-to-certificate workflow.",
+      "zh": "下载数学研究工具包，探索从问题到证书的处理流程。",
+      "entry": "DIKWP-CITM-Forge-v1.0.0.zip",
+      "commit": "1897307adb8a1a7a604c92cb7af9e278091f938d",
+      "workflow": null
+    },
+    {
+      "name": "DIKWP-Consciousness-Futures-Studio-V1",
+      "title": "Consciousness Futures · Study design",
+      "en": "Use the archived research studio to explore artificial-consciousness questions and study design.",
+      "zh": "使用研究工作台交付包探索人工意识问题与研究设计。",
+      "entry": "dikwp_consciousness_futures_v1_system_package.zip",
+      "commit": "9a00329c48513bdd6b8377cf4e6f43332106092e",
+      "workflow": null
+    }
+  ]
+}
