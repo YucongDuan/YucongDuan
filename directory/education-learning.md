@@ -1,12 +1,13 @@
 # Education, Work & Human Capability
 
-**46 public repositories · 2026-09-27**
+**47 public repositories · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.md) · [English](education-learning.md) · [中文](education-learning.zh-CN.md)
 
 ## Suggested starting points
 
 - [OpenStudio · China–ASEAN](../projects/1373871217.md) — Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project.
+- [VisionWeave · Visual evidence](../projects/1390832083.md) — Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision.
 
 Summaries describe the published project purpose. Detail pages provide downloads, inspected files and verification.
 
@@ -47,6 +48,7 @@ Summaries describe the published project purpose. Detail pages provide downloads
 | [DIKWP-SemanticPhysics-LearnLab-2026-V1](../projects/1289973634.md) · [GitHub](https://github.com/YucongDuan/DIKWP-SemanticPhysics-LearnLab-2026-V1) | A standalone, offline-first learning platform for future AI-oriented physics, scientific machine learning, and semantic physics. | Downloadable archive | Apache-2.0 |
 | [DIKWP-SishuWujing-Studio-OS](../projects/1286066957.md) · [GitHub](https://github.com/YucongDuan/DIKWP-SishuWujing-Studio-OS) | an offline-first learning, teaching, and research system for the Four Books and Five Classics. It turns classical passages into DIKWP concept ledgers, student study plans, teacher lesson packs, misconception maps, theory development matrices, and AI-use boundaries. | Downloadable archive | Apache-2.0 |
 | [DIKWP-University-Innovation-Studio-V1](../projects/1276433562.md) · [GitHub](https://github.com/YucongDuan/DIKWP-University-Innovation-Studio-V1) | A standalone, offline-first reference prototype for transforming Chinese university education from knowledge transmission alone toward knowledge-grounded innovation capability development. | Downloadable archive | Apache-2.0 |
+| [DIKWP-VisionWeave](../projects/1390832083.md) · [GitHub](https://github.com/YucongDuan/DIKWP-VisionWeave) | Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision. | Source and web files | MIT |
 | [DIKWP-WorkBridge-OS](../projects/1236574933.md) · [GitHub](https://github.com/YucongDuan/DIKWP-WorkBridge-OS) | an open-source, offline-first workforce transition system for the AI era. It helps governments, enterprises, schools, unions, and community organizations convert AI-related job disruption into auditable employment guidance, reskilling plans, development-only personnel assessment, and performance reform. | Downloadable archive | Apache-2.0 |
 | [DIKWP-Yijing-LearnLab-2026-V1](../projects/1286023823.md) · [GitHub](https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1) | Offline learning prototype for the Yijing: classical texts, 64-hexagram structures, DIKWP interpretation, evidence-ledger study, teaching design and non-predictive reflection. | Source and web files | Apache-2.0 |
 | [DIKWP_ASEAN_SolutionForge_v1.0.0](../projects/1373884558.md) · [GitHub](https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0) | China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results. | Documentation and research | — |

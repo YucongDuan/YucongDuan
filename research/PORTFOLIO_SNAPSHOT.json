@@ -2,10 +2,10 @@
   "schema_version": 2,
   "checked_on": "2026-09-27",
   "owner": "YucongDuan",
-  "repository_count": 491,
+  "repository_count": 492,
   "profile_language_count": 13,
   "format_counts": {
-    "source": 69,
+    "source": 70,
     "archive": 411,
     "documents": 11
   },
@@ -86,8 +86,9 @@
       "id": "education-learning",
       "en": "Education, Work & Human Capability",
       "zh": "教育、工作与人的能力",
-      "count": 46,
+      "count": 47,
       "featured": [
+        "DIKWP-VisionWeave",
         "ASEAN_DIKWP_OpenStudio_v1.0.0",
         "CAREER-RUDDER",
         "EduWeave-Global-Personalized-Education-OS",
@@ -1516,7 +1517,12 @@
       "pushed_at": "2026-09-17T19:45:44Z",
       "detail_path": "projects/1373871217.md",
       "featured": true,
-      "related": []
+      "related": [
+        {
+          "name": "DIKWP-VisionWeave",
+          "relation": "visual-evidence-and-book-laboratories"
+        }
+      ]
     },
     {
       "id": "1317086054",
@@ -10199,6 +10205,10 @@
         {
           "name": "DIKWP-ProofLedger-OS",
           "relation": "evidence-lineage"
+        },
+        {
+          "name": "DIKWP-VisionWeave",
+          "relation": "visual-evidence-and-book-laboratories"
         }
       ]
     },
@@ -16828,6 +16838,10 @@
             "review",
             "claim"
           ]
+        },
+        {
+          "name": "DIKWP-VisionWeave",
+          "relation": "visual-evidence-and-book-laboratories"
         }
       ]
     },
@@ -20260,6 +20274,72 @@
         {
           "name": "DIKWP-HepatoGenesis-Lab",
           "relation": "book-science-companion"
+        }
+      ]
+    },
+    {
+      "id": "1390832083",
+      "name": "DIKWP-VisionWeave",
+      "url": "https://github.com/YucongDuan/DIKWP-VisionWeave",
+      "homepage": "https://yucongduan.github.io/DIKWP-VisionWeave/",
+      "description": "Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision.",
+      "description_zh": "围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。",
+      "description_source": "curated-from-project-instructions",
+      "category": "education-learning",
+      "category_en": "Education, Work & Human Capability",
+      "category_zh": "教育、工作与人的能力",
+      "default_branch": "main",
+      "language": "Python",
+      "license": "MIT",
+      "license_path": "LICENSE",
+      "format": "source",
+      "file_count": 105,
+      "code_and_web_file_count": 33,
+      "archives": [],
+      "readme_path": "README.md",
+      "guides": [
+        "README.md",
+        "GETTING_STARTED.md",
+        "README.zh-CN.md",
+        "PUBLICATION.md",
+        "docs/TUTORIALS.md",
+        "docs/BOOK_MAP.md"
+      ],
+      "workflows": [
+        ".github/workflows/tests.yml"
+      ],
+      "test_file_count": 5,
+      "topics": [
+        "computer-vision",
+        "dikwp",
+        "education",
+        "python",
+        "reproducible-research",
+        "uncertainty-quantification"
+      ],
+      "tree_sha": "3614a42d922fc916abe0bb506d110c395df2ea92",
+      "tree_truncated": false,
+      "checked_on": "2026-09-27",
+      "pushed_at": "2026-09-27T15:49:17Z",
+      "publication_commit": "5eb8871c6961a9a949c73dfd5624b2655b4eb585",
+      "detail_path": "projects/1390832083.md",
+      "featured": true,
+      "related": [
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "related-research-and-teaching"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "related-research-and-teaching"
+        },
+        {
+          "name": "DIKWP-ProofLedger-OS",
+          "relation": "related-research-and-teaching"
+        },
+        {
+          "name": "ASEAN_DIKWP_OpenStudio_v1.0.0",
+          "relation": "related-research-and-teaching"
         }
       ]
     },
@@ -24115,6 +24195,10 @@
         {
           "name": "DIKWP-ProofLedger-OS",
           "relation": "evidence-lineage"
+        },
+        {
+          "name": "DIKWP-VisionWeave",
+          "relation": "visual-evidence-and-book-laboratories"
         }
       ]
     },

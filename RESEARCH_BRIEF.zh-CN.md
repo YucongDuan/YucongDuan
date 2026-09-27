@@ -2,7 +2,7 @@
 
 [English](RESEARCH_BRIEF.md) · [中文主页](README.zh-CN.md) · [国际影响](IMPACT.zh-CN.md) · [著作与论文](PUBLICATIONS.md)
 
-段玉聪是海南大学教授、世界人工意识协会 WACA 主席、世界人工意识科学院 WAAC 院长，持续推进 DIKWP 图谱化、人工意识、语义数学与意图驱动智能研究。其研究连接理论、专利、正式出版和开放工程；截至 2026 年 9 月 27 日，GitHub 公开版图包含 **491 个仓库、12 个研究方向**。[大学记录](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA／WAAC 记录](https://www.waac.ac/news/News260314) · [全量清单](REPOSITORY_DIRECTORY.zh-CN.md)
+段玉聪是海南大学教授、世界人工意识协会 WACA 主席、世界人工意识科学院 WAAC 院长，持续推进 DIKWP 图谱化、人工意识、语义数学与意图驱动智能研究。其研究连接理论、专利、正式出版和开放工程；截至 2026 年 9 月 27 日，GitHub 公开版图包含 **492 个仓库、12 个研究方向**。[大学记录](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA／WAAC 记录](https://www.waac.ac/news/News260314) · [全量清单](REPOSITORY_DIRECTORY.zh-CN.md)
 
 ## 贯通多领域的研究主张
 

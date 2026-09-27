@@ -2,7 +2,7 @@
 
 [中文](RESEARCH_BRIEF.zh-CN.md) · [Profile](README.md) · [Impact](IMPACT.md) · [Publications](PUBLICATIONS.md)
 
-Yucong Duan is a professor at Hainan University, chair of WACA and president of WAAC. His research advances DIKWP graph formalization, artificial consciousness, semantic mathematics and purpose-driven AI. It connects theoretical models with patents, published books and a portfolio of **491 public GitHub repositories across 12 research areas**, checked on 27 September 2026. [University profile](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA/WAAC record](https://www.waac.ac/news/News260314) · [Current inventory](REPOSITORY_DIRECTORY.md)
+Yucong Duan is a professor at Hainan University, chair of WACA and president of WAAC. His research advances DIKWP graph formalization, artificial consciousness, semantic mathematics and purpose-driven AI. It connects theoretical models with patents, published books and a portfolio of **492 public GitHub repositories across 12 research areas**, checked on 27 September 2026. [University profile](https://en.hainanu.edu.cn/info/1151/2981.htm) · [WACA/WAAC record](https://www.waac.ac/news/News260314) · [Current inventory](REPOSITORY_DIRECTORY.md)
 
 ## A coherent research proposition
 

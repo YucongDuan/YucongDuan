@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "inventory_date": "2026-09-27",
-  "repository_count": 491,
+  "repository_count": 492,
   "categories": [
     {
       "id": "dikwp-foundations",
@@ -79,8 +79,9 @@
       "id": "education-learning",
       "en": "Education, Work & Human Capability",
       "zh": "教育、工作与人的能力",
-      "count": 46,
+      "count": 47,
       "featured": [
+        "DIKWP-VisionWeave",
         "ASEAN_DIKWP_OpenStudio_v1.0.0",
         "CAREER-RUDDER",
         "EduWeave-Global-Personalized-Education-OS",
@@ -2847,6 +2848,14 @@
       "summary": "Local-first system for recoverable-vision decomposition, myopia monitoring, claim auditing and clinician handoff.",
       "summary_source": "retained-directory-summary",
       "detail_path": "projects/1358656529.md"
+    },
+    {
+      "name": "DIKWP-VisionWeave",
+      "url": "https://github.com/YucongDuan/DIKWP-VisionWeave",
+      "category": "education-learning",
+      "summary": "Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision.",
+      "summary_source": "curated-from-project-instructions",
+      "detail_path": "projects/1390832083.md"
     },
     {
       "name": "DIKWP-VITA-Mesh-OS-v1.0",

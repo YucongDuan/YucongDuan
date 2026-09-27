@@ -153,6 +153,19 @@
         "updated_at": "2026-09-27T05:25:50Z",
         "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/actions/runs/36297130976"
       }
+    },
+    {
+      "name": "DIKWP-VisionWeave",
+      "commit": "5eb8871c6961a9a949c73dfd5624b2655b4eb585",
+      "workflow": {
+        "id": 36320903460,
+        "name": "tests",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-09-27T13:00:33Z",
+        "updated_at": "2026-09-27T13:01:14Z",
+        "url": "https://github.com/YucongDuan/DIKWP-VisionWeave/actions/runs/36320903460"
+      }
     }
   ]
 }

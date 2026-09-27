@@ -3,11 +3,11 @@
 <!-- PORTFOLIO-START -->
 ## Choose the task you want to complete
 
-[13 practical project routes](PROJECT_FINDER.md) · [491 project details](REPOSITORY_DIRECTORY.md) · [Project search and downloads](catalog/README.md)
+[14 practical project routes](PROJECT_FINDER.md) · [492 project details](REPOSITORY_DIRECTORY.md) · [Project search and downloads](catalog/README.md)
 
-[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
+[VisionWeave · Visual evidence](projects/1390832083.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 
-Start with the organ-history labs for scientific experiments, OpenStudio for learning, or PACT for purpose and permission checks.
+Start with VisionWeave for visual evidence, the organ-history labs for scientific experiments, OpenStudio for learning, or PACT for purpose and permission checks.
 <!-- PORTFOLIO-END -->
 
 [Chinese guide](START_HERE.zh-CN.md) · [Profile](README.md) · [Research brief](RESEARCH_BRIEF.md) · [All repositories](REPOSITORY_DIRECTORY.md)

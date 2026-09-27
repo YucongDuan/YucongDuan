@@ -1,6 +1,6 @@
 {
   "checked_on": "2026-09-27",
-  "repository_count": 491,
+  "repository_count": 492,
   "additional_repositories": [
     {
       "id": "1373871217",
@@ -28,6 +28,13 @@
       "name": "DIKWP-HepatoGenesis-Lab",
       "category": "medicine-health",
       "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab",
+      "default_branch": "main"
+    },
+    {
+      "id": "1390832083",
+      "name": "DIKWP-VisionWeave",
+      "category": "education-learning",
+      "url": "https://github.com/YucongDuan/DIKWP-VisionWeave",
       "default_branch": "main"
     }
   ],
@@ -202,6 +209,20 @@
         "conclusion": "success",
         "checked_on": "2026-09-27",
         "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/actions/runs/36297130976"
+      }
+    },
+    {
+      "name": "DIKWP-VisionWeave",
+      "title": "VisionWeave · Visual evidence",
+      "en": "Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision.",
+      "zh": "围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。",
+      "entry": "run.py",
+      "commit": "5eb8871c6961a9a949c73dfd5624b2655b4eb585",
+      "workflow": {
+        "id": 36320903460,
+        "conclusion": "success",
+        "checked_on": "2026-09-27",
+        "url": "https://github.com/YucongDuan/DIKWP-VisionWeave/actions/runs/36320903460"
       }
     }
   ]

@@ -19,6 +19,7 @@
 | [Consciousness Futures · Study design](projects/1274984647.md) | 使用研究工作台交付包探索人工意识问题与研究设计。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1/blob/main/GETTING_STARTED.md) |
 | [NEPHROGENESIS · Kidney science](projects/1390118054.md) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
 | [HepatoGenesis · Liver science](projects/1390123090.md) | 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
+| [VisionWeave · Visual evidence](projects/1390832083.md) | 围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-VisionWeave/blob/main/GETTING_STARTED.md) |
 
 ## 带着一个可交付成果开始
 

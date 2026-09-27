@@ -2,13 +2,13 @@
 
 [English](CURRENT_STATUS.md) · [中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.md)
 
-**2026-09-27 · 491 repositories · 12 research areas · 13 profile languages**
+**2026-09-27 · 492 repositories · 12 research areas · 13 profile languages**
 
-[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
+[VisionWeave · Visual evidence](projects/1390832083.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 
-Two complete source laboratories are added. All project detail pages, 12 bilingual area directories, 13 profile-language routes, the project finder and embedded search catalog are updated.
+VisionWeave joins the kidney and liver laboratories with full source, versioned downloads and online results. All project detail pages, 12 bilingual area directories, 13 profile-language routes, the project finder and embedded search catalog are updated.
 
-- source: 69
+- source: 70
 - archive: 411
 - documents: 11
 

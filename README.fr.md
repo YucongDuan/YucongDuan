@@ -1,11 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
 <!-- PORTFOLIO-START -->
-**491 · 12 · 13** · 2026-09-27
+**492 · 12 · 13** · 2026-09-27
 
 [Choisir un projet](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
 
-[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
+[VisionWeave · Visual evidence](projects/1390832083.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 <!-- PORTFOLIO-END -->
 
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
@@ -16,7 +16,7 @@
 
 Yucong Duan étudie les graphes DIKWP, la conscience artificielle, les mathématiques sémantiques et l’IA auditable. Son programme relie théorie, invention, publications et systèmes ouverts.
 
-**491 dépôts publics · 12 domaines de recherche · 13 langues**
+**492 dépôts publics · 12 domaines de recherche · 13 langues**
 
 DIKWP associe données, information, connaissance, sagesse et finalité. Ces ressources forment un réseau de transformations : la finalité oriente l’interprétation et peut elle-même être révisée.
 
@@ -27,7 +27,7 @@ DIKWP associe données, information, connaissance, sagesse et finalité. Ces res
 | **Liens industriels et possibilités de collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **Livres et publications** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **Première expérience** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **Répertoire complet** | [491 repositories](REPOSITORY_DIRECTORY.md) |
+| **Répertoire complet** | [492 repositories](REPOSITORY_DIRECTORY.md) |
 | **Collaborer** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)

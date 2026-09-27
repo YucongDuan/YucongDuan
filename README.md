@@ -14,7 +14,7 @@
 
 | Open research portfolio | Research areas | Profile languages |
 |:---:|:---:|:---:|
-| **491 public repositories** | **12 interconnected fields** | **13 language editions** |
+| **492 public repositories** | **12 interconnected fields** | **13 language editions** |
 
 Inventory checked **27 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
@@ -23,10 +23,11 @@ Inventory checked **27 September 2026**. [Explore every repository →](REPOSITO
 <!-- PORTFOLIO-START -->
 ## Start with a result you can inspect
 
-**Two new book-science laboratories · 2026-09-27**: complete source, English handbooks, Chinese entry guides, versioned downloads and online example reports.
+**Vision, kidney and liver research companions · 2026-09-27**: complete source, English handbooks, Chinese entry guides, versioned downloads and online example reports.
 
 | Project | What you can explore |
 |---|---|
+| [**VisionWeave · Visual evidence**](projects/1390832083.md) | Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision. |
 | [**NEPHROGENESIS · Kidney science**](projects/1390118054.md) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. |
 | [**HepatoGenesis · Liver science**](projects/1390123090.md) | Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver. |
 | [**OpenStudio · China–ASEAN**](projects/1373871217.md) | Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project. |
@@ -34,7 +35,7 @@ Inventory checked **27 September 2026**. [Explore every repository →](REPOSITO
 | [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | Study bounded numerical experiments, stronger-reference comparisons, explicit adoption, monitoring and rollback. |
 | [**LucidEcon · Contribution and replay**](projects/1360834556.md) | Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting. |
 
-[Compare all 13 guided starting points](PROJECT_FINDER.md) · [Project search, source and downloads](catalog/README.md)
+[Compare all 14 guided starting points](PROJECT_FINDER.md) · [Project search, source and downloads](catalog/README.md)
 
 Every project has a detail page with its purpose, distribution format, license, instructions and verification links.
 <!-- PORTFOLIO-END -->
@@ -64,7 +65,7 @@ The distinctive contribution is the **systematic graph formalization and computa
 | You are here to… | Begin here |
 |---|---|
 | **Research or teach** | [Research brief](RESEARCH_BRIEF.md) · [Publications](PUBLICATIONS.md) · [Citation guide](CITING.md) |
-| **Build and evaluate** | [First experiment](START_HERE.md) · [491-project directory](REPOSITORY_DIRECTORY.md) |
+| **Build and evaluate** | [First experiment](START_HERE.md) · [492-project directory](REPOSITORY_DIRECTORY.md) |
 | **Explore industry collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Written proposal](COLLABORATE.md) |
 | **Write, interview or share** | [Impact overview](IMPACT.md) · [Ready-to-use introductions](SHARE.md) · [Chinese research and essays](CHINESE_RESEARCH.md) |
 

@@ -19,6 +19,7 @@ Choose the result you want to inspect, then follow the walkthrough in the corres
 | [Consciousness Futures · Study design](projects/1274984647.md) | Use the archived research studio to explore artificial-consciousness questions and study design. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1/blob/main/GETTING_STARTED.md) |
 | [NEPHROGENESIS · Kidney science](projects/1390118054.md) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
 | [HepatoGenesis · Liver science](projects/1390123090.md) | Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
+| [VisionWeave · Visual evidence](projects/1390832083.md) | Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-VisionWeave/blob/main/GETTING_STARTED.md) |
 
 ## Start with one inspectable artifact
 

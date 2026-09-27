@@ -1,12 +1,13 @@
 # 教育、工作与人的能力
 
-**46 个公开仓库 · 2026-09-27**
+**47 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](education-learning.md) · [中文](education-learning.zh-CN.md)
 
 ## 推荐起点
 
 - [OpenStudio · China–ASEAN](../projects/1373871217.md) — 通过中英越三语12个模块、四类语义实验和可导出作品学习与创新。
+- [VisionWeave · Visual evidence](../projects/1390832083.md) — 围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。
 
 简介概括项目声明的用途。详情页提供下载、文件与验证入口。
 
@@ -47,6 +48,7 @@
 | [DIKWP-SemanticPhysics-LearnLab-2026-V1](../projects/1289973634.md) · [GitHub](https://github.com/YucongDuan/DIKWP-SemanticPhysics-LearnLab-2026-V1) | A standalone, offline-first learning platform for future AI-oriented physics, scientific machine learning, and semantic physics. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-SishuWujing-Studio-OS](../projects/1286066957.md) · [GitHub](https://github.com/YucongDuan/DIKWP-SishuWujing-Studio-OS) | an offline-first learning, teaching, and research system for the Four Books and Five Classics. It turns classical passages into DIKWP concept ledgers, student study plans, teacher lesson packs, misconception maps, theory development matrices, and AI-use boundaries. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-University-Innovation-Studio-V1](../projects/1276433562.md) · [GitHub](https://github.com/YucongDuan/DIKWP-University-Innovation-Studio-V1) | A standalone, offline-first reference prototype for transforming Chinese university education from knowledge transmission alone toward knowledge-grounded innovation capability development. | 压缩包分发 | Apache-2.0 |
+| [DIKWP-VisionWeave](../projects/1390832083.md) · [GitHub](https://github.com/YucongDuan/DIKWP-VisionWeave) | 围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。 | 源码与网页文件 | MIT |
 | [DIKWP-WorkBridge-OS](../projects/1236574933.md) · [GitHub](https://github.com/YucongDuan/DIKWP-WorkBridge-OS) | an open-source, offline-first workforce transition system for the AI era. It helps governments, enterprises, schools, unions, and community organizations convert AI-related job disruption into auditable employment guidance, reskilling plans, development-only personnel assessment, and performance reform. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-Yijing-LearnLab-2026-V1](../projects/1286023823.md) · [GitHub](https://github.com/YucongDuan/DIKWP-Yijing-LearnLab-2026-V1) | Offline learning prototype for the Yijing: classical texts, 64-hexagram structures, DIKWP interpretation, evidence-ledger study, teaching design and non-predictive reflection. | 源码与网页文件 | Apache-2.0 |
 | [DIKWP_ASEAN_SolutionForge_v1.0.0](../projects/1373884558.md) · [GitHub](https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0) | China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results. | 文档与研究材料 | — |
