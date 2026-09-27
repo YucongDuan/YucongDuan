@@ -1,0 +1,128 @@
+name: Prepare verified VisionWeave portfolio refresh
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/visionweave-portfolio-refresh.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  prepare:
+    if: github.repository == 'YucongDuan/YucongDuan'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Restore the prepared publication into the portfolio
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, re, subprocess
+          root = Path(".")
+          def api(path):
+              return json.loads(subprocess.run(["gh","api",path],check=True,text=True,capture_output=True).stdout)
+          def read(path):
+              return json.loads((root/path).read_text(encoding="utf-8"))
+          def write(path,value):
+              (root/path).write_text(json.dumps(value,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
+          s=read("research/PORTFOLIO_SNAPSHOT.json")
+          c=read("research/PORTFOLIO_REFRESH_CONFIG.json")
+          v=read("research/FEATURED_VERIFICATION.json")
+          name="DIKWP-VisionWeave"
+          source="5eb8871c6961a9a949c73dfd5624b2655b4eb585"
+          tree_sha="3614a42d922fc916abe0bb506d110c395df2ea92"
+          repo="YucongDuan/"+name
+          if any(x["name"]==name for x in s["repositories"]):
+              raise SystemExit("VisionWeave is already in the current snapshot; no changes made.")
+          m=api("repos/"+repo)
+          tree=api("repos/"+repo+"/git/trees/"+tree_sha+"?recursive=1")
+          assert not tree["truncated"]
+          run=api("repos/"+repo+"/actions/runs/36320903460")
+          assert run["head_sha"]==source and run["conclusion"]=="success"
+          identities=[]
+          for page in range(1,11):
+              response=api("search/repositories?q=user%3AYucongDuan&per_page=100&page="+str(page))
+              identities.extend(response["items"])
+              if len(response["items"])<100:break
+          cat=next(x for x in s["categories"] if x["id"]=="education-learning")
+          en="Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision."
+          zh="围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。"
+          files=[x["path"] for x in tree["tree"] if x["type"]=="blob"]
+          assert len(files)==105
+          code=[p for p in files if re.search(r"\.(py|js|mjs|cjs|ts|tsx|jsx|html?|css|go|rs|c|cc|cpp|h|hpp|java|sh|rb|php|jl|r)$",p,re.I)]
+          related=["NEPHROGENESIS-Lab","DIKWP-HepatoGenesis-Lab","DIKWP-ProofLedger-OS","ASEAN_DIKWP_OpenStudio_v1.0.0"]
+          row=dict(id=str(m["id"]),name=name,url=m["html_url"],homepage=m["homepage"],description=en,description_zh=zh,description_source="curated-from-project-instructions",category=cat["id"],category_en=cat["en"],category_zh=cat["zh"],default_branch="main",language=m.get("language") or "Python",license="MIT",license_path="LICENSE",format="source",file_count=len(files),code_and_web_file_count=len(code),archives=[],readme_path="README.md",guides=["README.md","GETTING_STARTED.md","README.zh-CN.md","PUBLICATION.md","docs/TUTORIALS.md","docs/BOOK_MAP.md"],workflows=[p for p in files if p.startswith(".github/workflows/")],test_file_count=sum(p.startswith("tests/") for p in files),topics=m["topics"],tree_sha=tree_sha,tree_truncated=False,checked_on="2026-09-27",pushed_at=m.get("pushed_at"),publication_commit=source,detail_path="projects/"+str(m["id"])+".md",featured=True,related=[{"name":n,"relation":"related-research-and-teaching"} for n in related])
+          s["repositories"].append(row)
+          assert {str(x["id"]) for x in s["repositories"]}=={str(x["id"]) for x in identities}, "Public inventory changed"
+          assert len(s["repositories"])==492
+          c["additional_repositories"].append({k:row[k] for k in ("id","name","category","url","default_branch")})
+          f=dict(name=name,title="VisionWeave · Visual evidence",en=en,zh=zh,entry="run.py",commit=source,workflow=dict(id=run["id"],conclusion="success",checked_on="2026-09-27",url=run["html_url"]))
+          c["features"].append(f)
+          record=dict(name=name,commit=source,workflow={k:run.get(k) for k in ["id","name","status","conclusion","created_at","updated_at"]})
+          record["workflow"]["url"]=run["html_url"]
+          v["projects"].append(record)
+          cat["featured"]=[name]+[x for x in cat["featured"] if x!=name]
+          for x in s["repositories"]:
+              if x["name"] in related and name not in [q["name"] for q in x["related"]]:
+                  x["related"].append({"name":name,"relation":"visual-evidence-and-book-laboratories"})
+          s["repositories"].sort(key=lambda x:x["name"].casefold())
+          for x in s["categories"]:
+              x["count"]=sum(q["category"]==x["id"] for q in s["repositories"])
+          s["repository_count"]=len(s["repositories"])
+          s["format_counts"]={f:sum(x["format"]==f for x in s["repositories"]) for f in ("source","archive","documents")}
+          s["checked_on"]="2026-09-27"
+          c["repository_count"]=s["repository_count"]
+          c["checked_on"]=s["checked_on"]
+          v["checked_on"]=s["checked_on"]
+          write("research/PORTFOLIO_SNAPSHOT.json",s)
+          write("research/PORTFOLIO_REFRESH_CONFIG.json",c)
+          write("research/FEATURED_VERIFICATION.json",v)
+          p=root/"scripts/build_portfolio.mjs"
+          t=p.read_text(encoding="utf-8")
+          changes=[
+          ("const names=['NEPHROGENESIS-Lab','DIKWP-HepatoGenesis-Lab'];","const names=['DIKWP-VisionWeave','NEPHROGENESIS-Lab','DIKWP-HepatoGenesis-Lab'];"),
+          ("(?:487|489)","(?:487|489|491)"),
+          ("**新增两套图书科学实验室 · ","**新增视觉、肾脏与肝脏图书科学系统 · "),
+          ("**Two new book-science laboratories · ","**Vision, kidney and liver research companions · "),
+          ("从图书实验室复现实验，从OpenStudio学习课程，从PACT检查意图与权限。","从VisionWeave研究视觉证据，从图书实验室复现实验，从OpenStudio学习课程，从PACT检查意图与权限。"),
+          ("Start with the organ-history labs for scientific experiments, OpenStudio for learning, or PACT for purpose and permission checks.","Start with VisionWeave for visual evidence, the organ-history labs for scientific experiments, OpenStudio for learning, or PACT for purpose and permission checks."),
+          ("新增两个完整源码实验室，更新全部项目详情页","新增VisionWeave视觉系统，与肾脏、肝脏实验室一起提供完整源码、版本下载和在线结果。更新全部项目详情页"),
+          ("Two complete source laboratories are added. All project detail pages","VisionWeave joins the kidney and liver laboratories with full source, versioned downloads and online results. All project detail pages"),
+          ("# Book-science laboratories and portfolio refresh","# Vision, kidney and liver laboratories and portfolio refresh"),
+          ("Two complete source projects are added: NEPHROGENESIS-Lab and DIKWP-HepatoGenesis-Lab.","Three complete source projects are added: DIKWP-VisionWeave, NEPHROGENESIS-Lab and DIKWP-HepatoGenesis-Lab."),
+          ("新增肾脏与肝脏图书科学实验室。","新增VisionWeave视觉系统及肾脏与肝脏图书科学实验室。"),
+          ("Local publication checks: NEPHROGENESIS-Lab, 198 tests; HepatoGenesis Lab, 136 tests. Both rebuilt wheels passed their packaged entry checks.","Local publication checks: VisionWeave, 117 tests and 12 system checks; NEPHROGENESIS-Lab, 198 tests; HepatoGenesis Lab, 136 tests. All three rebuilt wheels passed their packaged entry checks. VisionWeave also passed clean-environment wheel and portable-application demonstrations."),
+          ("Project pages serve precomputed example reports.","Project pages serve precomputed example reports; VisionWeave includes three-seed benchmark filters and all twelve laboratory outputs.")
+          ]
+          for before,after in changes:
+              assert before in t,before
+              t=t.replace(before,after)
+          p.write_text(t,encoding="utf-8")
+          p=root/"scripts/render_portfolio.mjs"
+          t=p.read_text(encoding="utf-8").replace("两个新增图书实验室","三个新增图书科学系统").replace("the two new book-science laboratories","the three new book-science systems").replace("新增两个图书实验室","新增视觉、肾脏与肝脏图书科学系统")
+          p.write_text(t,encoding="utf-8")
+          for pattern in ["RESEARCH_BRIEF*.md","SHARE*.md","COLLABORATE*.md","INTERNATIONAL_ACCESS.md"]:
+              for p in root.glob(pattern):
+                  p.write_text(p.read_text(encoding="utf-8").replace("491","492"),encoding="utf-8")
+          print(json.dumps({"repositories":s["repository_count"],"guided_projects":len(c["features"]),"formats":s["format_counts"]},indent=2))
+          
+          PY
+      - name: Generate and verify every portfolio route
+        run: |
+          node scripts/build_portfolio.mjs --write
+          node scripts/build_portfolio.mjs --check
+          node scripts/validate_portfolio.mjs
+          git diff --check
+      - name: Save the verified changes to a reviewable branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README*.md CURRENT_STATUS*.md START_HERE*.md RESEARCH_BRIEF*.md SHARE*.md PROFILE_REFRESH_2026-09-27.md PORTFOLIO_MAINTENANCE.md PROJECT_FINDER*.md REPOSITORY_DIRECTORY* REPOSITORY_SUMMARIES.en.json catalog directory projects research scripts
+          git commit -m "Add VisionWeave and refresh all 492 project routes and multilingual profile pages"
+          git push origin HEAD:refs/heads/visionweave-refresh-2026-09-27
+          git rev-parse HEAD
