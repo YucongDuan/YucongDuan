@@ -8,7 +8,7 @@ Yucong Duan connects DIKWP, semantic mathematics and artificial-consciousness re
 
 ## Short introduction
 
-Yucong Duan's research asks how intelligence can represent meaning, work toward human purposes and make its decisions accountable. His DIKWP programme connects typed semantic graphs with artificial consciousness, semantic mathematics, active medicine and the intention economy. Explore 487 public GitHub repositories across 12 fields, discover the publication and impact records, and try a first experiment. [Research hub](https://github.com/YucongDuan)
+Yucong Duan's research asks how intelligence can represent meaning, work toward human purposes and make its decisions accountable. His DIKWP programme connects typed semantic graphs with artificial consciousness, semantic mathematics, active medicine and the intention economy. Explore 491 public GitHub repositories across 12 fields, discover the publication and impact records, and try a first experiment. [Research hub](https://github.com/YucongDuan)
 
 ## For research and industry audiences
 
@@ -21,4 +21,4 @@ Purpose, meaning and action are becoming central questions for intelligent syste
 - Bounded research iteration: [ASCENT 0.2](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0).
 - Evaluation-to-action research: [WorldGate 2.0](https://github.com/YucongDuan/DIKWP-PRAXIS-WorldGate-v2.0.0).
 
-Portfolio count checked 16 September 2026. Keep the relevant source link and project scope when adapting these introductions.
+Portfolio count checked 27 September 2026. Keep the relevant source link and project scope when adapting these introductions.

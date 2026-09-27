@@ -14,27 +14,29 @@
 
 | Open research portfolio | Research areas | Profile languages |
 |:---:|:---:|:---:|
-| **489 public repositories** | **12 interconnected fields** | **13 language editions** |
+| **491 public repositories** | **12 interconnected fields** | **13 language editions** |
 
-Inventory checked **18 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
+Inventory checked **27 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
 **New release · 17 September 2026 — [DIKWP OpenStudio: China–ASEAN Edition](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)** brings 13-language navigation, 12 complete Chinese/English/Vietnamese learning modules, four interactive semantic labs and a student project studio into one open-source toolkit. [Download the complete source](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip) and open `OpenStudio_Offline.html` to begin. [Automated checks](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions).
 
 <!-- PORTFOLIO-START -->
 ## Start with a result you can inspect
 
+**Two new book-science laboratories · 2026-09-27**: complete source, English handbooks, Chinese entry guides, versioned downloads and online example reports.
+
 | Project | What you can explore |
 |---|---|
+| [**NEPHROGENESIS · Kidney science**](projects/1390118054.md) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. |
+| [**HepatoGenesis · Liver science**](projects/1390123090.md) | Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver. |
 | [**OpenStudio · China–ASEAN**](projects/1373871217.md) | Learn with 12 Chinese/English/Vietnamese modules, four semantic labs and a portable student project. |
 | [**PACT · Purpose and permission**](projects/1301408025.md) | Reproduce purpose, permission and evidence checks across 72 paired synthetic scenarios and four deterministic baselines. |
-| [**MESH² · Semantic transformations**](projects/1301387525.md) | Explore all 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and observer disagreements. |
 | [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | Study bounded numerical experiments, stronger-reference comparisons, explicit adoption, monitoring and rollback. |
-| [**WorldGate 2.0 · Authority and outcomes**](projects/1362120264.md) | Connect signed authority, atomic state changes, outcome observation and conditional compensation in a local inventory adapter. |
 | [**LucidEcon · Contribution and replay**](projects/1360834556.md) | Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting. |
 
-[Compare all 11 guided starting points](PROJECT_FINDER.md) · [Offline search, source and downloads](catalog/README.md)
+[Compare all 13 guided starting points](PROJECT_FINDER.md) · [Project search, source and downloads](catalog/README.md)
 
-Every project has a detail page with its purpose, distribution format, license metadata, instructions and verification links. Archive releases link directly to their named delivery packages.
+Every project has a detail page with its purpose, distribution format, license, instructions and verification links.
 <!-- PORTFOLIO-END -->
 
 ## A research programme with a growing international footprint
@@ -62,7 +64,7 @@ The distinctive contribution is the **systematic graph formalization and computa
 | You are here to… | Begin here |
 |---|---|
 | **Research or teach** | [Research brief](RESEARCH_BRIEF.md) · [Publications](PUBLICATIONS.md) · [Citation guide](CITING.md) |
-| **Build and evaluate** | [First experiment](START_HERE.md) · [489-project directory](REPOSITORY_DIRECTORY.md) |
+| **Build and evaluate** | [First experiment](START_HERE.md) · [491-project directory](REPOSITORY_DIRECTORY.md) |
 | **Explore industry collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Written proposal](COLLABORATE.md) |
 | **Write, interview or share** | [Impact overview](IMPACT.md) · [Ready-to-use introductions](SHARE.md) · [Chinese research and essays](CHINESE_RESEARCH.md) |
 

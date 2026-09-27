@@ -1,6 +1,6 @@
 # Portfolio inventory and maintenance
 
-The current [snapshot](research/PORTFOLIO_SNAPSHOT.json) records 489 distinct public repository identities, current metadata and complete Git file trees, checked 2026-09-18.
+The current [snapshot](research/PORTFOLIO_SNAPSHOT.json) records 491 distinct public repository identities, published metadata and Git file-tree records. Portfolio navigation updated 2026-09-27.
 
 ## Interpreting the records
 
@@ -27,6 +27,6 @@ Snapshots retain the inspected revision; later edits do not silently change reco
 
 ## 中文说明
 
-本轮清单核对489个公开仓库的身份、元数据与完整文件树，每个项目提供独立详情页。文件形式、测试文件数量与实际运行证据分别记录。目录由已提交的快照生成，可以复现并检查链接。
+当前清单覆盖491个公开仓库，每个项目提供独立详情页并保留其文件核对日期。本轮核对完整仓库名单，新增两个图书实验室；既有项目的文件树记录保持原核对日期。文件形式、测试文件数量与实际运行证据分别记录。目录由已提交的快照生成，可以复现并检查链接。
 
 SolutionForge的原始完整源码导入因工作环境断开而待补齐。该项目按当前公开文件如实标为文档，未声称已发布可运行源码。

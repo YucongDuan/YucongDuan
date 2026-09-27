@@ -1,6 +1,6 @@
 {
-  "checked_on": "2026-09-18",
-  "repository_count": 489,
+  "checked_on": "2026-09-27",
+  "repository_count": 491,
   "additional_repositories": [
     {
       "id": "1373871217",
@@ -14,6 +14,20 @@
       "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
       "category": "education-learning",
       "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "default_branch": "main"
+    },
+    {
+      "id": "1390118054",
+      "name": "NEPHROGENESIS-Lab",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/NEPHROGENESIS-Lab",
+      "default_branch": "main"
+    },
+    {
+      "id": "1390123090",
+      "name": "DIKWP-HepatoGenesis-Lab",
+      "category": "medicine-health",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab",
       "default_branch": "main"
     }
   ],
@@ -161,6 +175,34 @@
       "entry": "dikwp_consciousness_futures_v1_system_package.zip",
       "commit": "9a00329c48513bdd6b8377cf4e6f43332106092e",
       "workflow": null
+    },
+    {
+      "name": "NEPHROGENESIS-Lab",
+      "title": "NEPHROGENESIS · Kidney science",
+      "en": "Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney.",
+      "zh": "通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。",
+      "entry": "nephrogenesis/__main__.py",
+      "commit": "3cdf751cccae39315d631a2ec621bdbf8ce2f83b",
+      "workflow": {
+        "id": 36296642954,
+        "conclusion": "success",
+        "checked_on": "2026-09-27",
+        "url": "https://github.com/YucongDuan/NEPHROGENESIS-Lab/actions/runs/36296642954"
+      }
+    },
+    {
+      "name": "DIKWP-HepatoGenesis-Lab",
+      "title": "HepatoGenesis · Liver science",
+      "en": "Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver.",
+      "zh": "围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。",
+      "entry": "hepatogenesis/__main__.py",
+      "commit": "1a73cb61ef79407aa2292c0a25b5ef98ffe87b92",
+      "workflow": {
+        "id": 36297130976,
+        "conclusion": "success",
+        "checked_on": "2026-09-27",
+        "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/actions/runs/36297130976"
+      }
     }
   ]
 }

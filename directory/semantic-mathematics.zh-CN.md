@@ -1,6 +1,6 @@
 # 语义数学与形式化证明
 
-**36 个公开仓库 · 2026-09-18**
+**36 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](semantic-mathematics.md) · [中文](semantic-mathematics.zh-CN.md)
 

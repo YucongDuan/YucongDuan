@@ -17,6 +17,8 @@ Choose the result you want to inspect, then follow the walkthrough in the corres
 | [LucidEcon · Contribution and replay](projects/1360834556.md) | Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/blob/main/GETTING_STARTED.md) |
 | [CITM Forge · Mathematical certificates](projects/1344438920.md) | Explore a downloadable mathematics research package and its problem-to-certificate workflow. | [Guide / 操作导读](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler/blob/main/GETTING_STARTED.md) |
 | [Consciousness Futures · Study design](projects/1274984647.md) | Use the archived research studio to explore artificial-consciousness questions and study design. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1/blob/main/GETTING_STARTED.md) |
+| [NEPHROGENESIS · Kidney science](projects/1390118054.md) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
+| [HepatoGenesis · Liver science](projects/1390123090.md) | Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
 
 ## Start with one inspectable artifact
 

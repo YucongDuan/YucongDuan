@@ -2,14 +2,18 @@
 
 [English](CURRENT_STATUS.md) · [中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.zh-CN.md)
 
-**2026-09-18 · 489 repositories · 12 research areas · 13 profile languages**
+**2026-09-27 · 491 repositories · 12 research areas · 13 profile languages**
 
-本轮更新覆盖489个项目详情、12个领域的中英文目录、13语种主页导航，以及直接提交到11个代表仓库的操作导读。
+[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 
-- 源码与网页文件: 67
-- 压缩包分发: 411
-- 文档与研究材料: 11
+新增两个完整源码实验室，更新全部项目详情页、12类中英文目录、13语种主页入口、项目选择页和内置数据检索页。
 
-OpenStudio已完整发布。SolutionForge当前包含项目介绍；原始完整源码包仍待导入。
+- source: 69
+- archive: 411
+- documents: 11
 
-[Project finder](PROJECT_FINDER.zh-CN.md) · [Verification and downloads](catalog/README.zh-CN.md) · [Refresh record](PROFILE_REFRESH_2026-09-18.md) · [Snapshot](research/PORTFOLIO_SNAPSHOT.json)
+本轮核对完整公开仓库名单。原有项目的文件核对与测试记录保留原日期；新项目记录本次源文件树和提交级测试结果。
+
+[Publication record / 发布记录](PROFILE_REFRESH_2026-09-27.md) · [Directory](REPOSITORY_DIRECTORY.zh-CN.md) · [Catalog](catalog/README.zh-CN.md)
+
+SolutionForge原始完整源码导入仍按既有记录标为待完成。

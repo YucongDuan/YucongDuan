@@ -1,9 +1,11 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
 <!-- PORTFOLIO-START -->
-**489 · 12 · 13** · 2026-09-18
+**491 · 12 · 13** · 2026-09-27
 
 [Scegli un progetto](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
+
+[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 <!-- PORTFOLIO-END -->
 
 ![DIKWP — Yucong Duan](assets/dikwp-research-banner.svg)
@@ -14,7 +16,7 @@
 
 Yucong Duan studia grafi DIKWP, coscienza artificiale, matematica semantica e IA verificabile. Il suo programma collega teoria, invenzione, pubblicazioni e sistemi aperti.
 
-**489 repository pubblici · 12 aree di ricerca · 13 lingue**
+**491 repository pubblici · 12 aree di ricerca · 13 lingue**
 
 DIKWP comprende dati, informazione, conoscenza, saggezza e scopo. Queste risorse formano una rete di trasformazioni: lo scopo orienta l’interpretazione e può essere a sua volta rivisto.
 
@@ -25,7 +27,7 @@ DIKWP comprende dati, informazione, conoscenza, saggezza e scopo. Queste risorse
 | **Connessioni industriali e opportunità di collaborazione** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **Libri e pubblicazioni** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **Primo esperimento** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **Catalogo completo** | [489 repositories](REPOSITORY_DIRECTORY.md) |
+| **Catalogo completo** | [491 repositories](REPOSITORY_DIRECTORY.md) |
 | **Collaborare** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)

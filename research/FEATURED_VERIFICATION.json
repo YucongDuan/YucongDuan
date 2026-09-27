@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-09-18",
+  "checked_on": "2026-09-27",
   "projects": [
     {
       "name": "ASEAN_DIKWP_OpenStudio_v1.0.0",
@@ -127,6 +127,32 @@
       "name": "DIKWP-Consciousness-Futures-Studio-V1",
       "commit": "9a00329c48513bdd6b8377cf4e6f43332106092e",
       "workflow": null
+    },
+    {
+      "name": "NEPHROGENESIS-Lab",
+      "commit": "3cdf751cccae39315d631a2ec621bdbf8ce2f83b",
+      "workflow": {
+        "id": 36296642954,
+        "name": "Reproducible companion tests",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-09-27T05:14:49Z",
+        "updated_at": "2026-09-27T05:15:02Z",
+        "url": "https://github.com/YucongDuan/NEPHROGENESIS-Lab/actions/runs/36296642954"
+      }
+    },
+    {
+      "name": "DIKWP-HepatoGenesis-Lab",
+      "commit": "1a73cb61ef79407aa2292c0a25b5ef98ffe87b92",
+      "workflow": {
+        "id": 36297130976,
+        "name": "Scientific contracts",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-09-27T05:24:54Z",
+        "updated_at": "2026-09-27T05:25:50Z",
+        "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/actions/runs/36297130976"
+      }
     }
   ]
 }

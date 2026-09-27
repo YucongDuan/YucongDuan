@@ -2,14 +2,18 @@
 
 [English](CURRENT_STATUS.md) · [中文](CURRENT_STATUS.zh-CN.md) · [Profile](README.md)
 
-**2026-09-18 · 489 repositories · 12 research areas · 13 profile languages**
+**2026-09-27 · 491 repositories · 12 research areas · 13 profile languages**
 
-This refresh covers 489 project detail pages, bilingual directories for 12 fields, navigation in 13 profile languages and practical guides committed to 11 featured repositories.
+[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
 
-- Source and web files: 67
-- Downloadable archive: 411
-- Documentation and research: 11
+Two complete source laboratories are added. All project detail pages, 12 bilingual area directories, 13 profile-language routes, the project finder and embedded search catalog are updated.
 
-OpenStudio is fully published. SolutionForge currently contains its project introduction; import of its original full source package remains pending.
+- source: 69
+- archive: 411
+- documents: 11
 
-[Project finder](PROJECT_FINDER.md) · [Verification and downloads](catalog/README.md) · [Refresh record](PROFILE_REFRESH_2026-09-18.md) · [Snapshot](research/PORTFOLIO_SNAPSHOT.json)
+The complete public repository list was checked for this refresh. Existing file inspections and test records retain their original dates; the new projects record their published source trees and commit-specific test results.
+
+[Publication record / 发布记录](PROFILE_REFRESH_2026-09-27.md) · [Directory](REPOSITORY_DIRECTORY.md) · [Catalog](catalog/README.md)
+
+The earlier pending import of SolutionForge original source remains explicitly recorded.

@@ -14,27 +14,29 @@
 
 | 开放研究版图 | 研究方向 | 国际传播 |
 |:---:|:---:|:---:|
-| **489 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
+| **491 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
 
-仓库清单核对日期：**2026 年 9 月 18 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
+仓库清单核对日期：**2026 年 9 月 27 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
 
 **新发布 · 2026 年 9 月 17 日｜[DIKWP OpenStudio 中国—东盟版](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)**：以 13 语种导航、中英越三语完整的 12 个学习模块、四类交互式语义实验和学生项目工作台，连接 DIKWP 学习、实验与自主创新。[下载完整源码](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip)，打开 `OpenStudio_Offline.html` 即可开始。[查看自动测试](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions)。
 
 <!-- PORTFOLIO-START -->
 ## 从可体验、可比较的成果进入研究
 
+**新增两套图书科学实验室 · 2026-09-27**：完整源码、英文手册、中文入口、版本下载与在线示例报告。
+
 | 代表项目 | 可以探索什么 |
 |---|---|
+| [**NEPHROGENESIS · Kidney science**](projects/1390118054.md) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 |
+| [**HepatoGenesis · Liver science**](projects/1390123090.md) | 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。 |
 | [**OpenStudio · China–ASEAN**](projects/1373871217.md) | 通过中英越三语12个模块、四类语义实验和可导出作品学习与创新。 |
 | [**PACT · Purpose and permission**](projects/1301408025.md) | 在72个成对合成场景与四种确定性基线上复现意图、权限和证据检查。 |
-| [**MESH² · Semantic transformations**](projects/1301387525.md) | 探索D/I/K/W/P全部25类有序转换、多条语义路径与观察者分歧。 |
 | [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | 研究有界数值实验、强参考比较、明确采用、监测与回退。 |
-| [**WorldGate 2.0 · Authority and outcomes**](projects/1362120264.md) | 在本地库存适配器中连接签名权限、原子状态变更、结果观测与有条件补偿。 |
 | [**LucidEcon · Contribution and replay**](projects/1360834556.md) | 评估有界机会，重放证据记录，并精确核算约定的贡献池。 |
 
-[比较11个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [离线搜索、源码与下载](catalog/README.zh-CN.md)
+[比较13个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [项目搜索、源码与下载](catalog/README.zh-CN.md)
 
-每个项目都有独立详情页，提供用途、交付形式、许可元数据、说明文件和验证入口。以压缩包分发的项目直接链接到具名交付包。
+每个项目都有独立详情页，提供用途、交付形式、许可、说明文件和验证入口。
 <!-- PORTFOLIO-END -->
 
 ## 原创研究正在连接国际标准、产业技术与学术前沿

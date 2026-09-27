@@ -35,6 +35,8 @@ const data=JSON.parse(html.match(/<script type="application\/json" id="inventory
 assert.deepEqual(data.repositories.map(r=>r.name),rs.map(r=>r.name));
 for(const match of html.matchAll(/<script>([\s\S]*?)<\/script>/g))new vm.Script(match[1]);
 const verification=JSON.parse(read('research/FEATURED_VERIFICATION.json'));
-assert.equal(verification.projects.filter(r=>r.workflow?.conclusion==='success').length,9);
-assert.equal(verification.projects.length,11);
-console.log(JSON.stringify({repositories:rs.length,categories:s.categories.length,languages:locales.length,markdown_files:paths.length,broken_local_links:broken.length,search_records:data.repositories.length,verified_project_workflows:9}));
+const config=JSON.parse(read('research/PORTFOLIO_REFRESH_CONFIG.json'));
+assert.equal(verification.projects.length,config.features.length);
+assert.deepEqual(new Set(verification.projects.map(r=>r.name)),new Set(config.features.map(r=>r.name)));
+for(const f of config.features){const v=verification.projects.find(r=>r.name===f.name);assert.equal(v.commit,f.commit);if(f.workflow){assert.equal(v.workflow.conclusion,'success');assert.equal(v.workflow.id,f.workflow.id);}}
+console.log(JSON.stringify({repositories:rs.length,categories:s.categories.length,languages:locales.length,markdown_files:paths.length,broken_local_links:broken.length,search_records:data.repositories.length,verified_project_workflows:verification.projects.filter(r=>r.workflow?.conclusion==='success').length}));

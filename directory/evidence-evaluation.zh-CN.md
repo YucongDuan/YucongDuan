@@ -1,6 +1,6 @@
 # 证据、测评与 AI 治理
 
-**84 个公开仓库 · 2026-09-18**
+**84 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](evidence-evaluation.md) · [中文](evidence-evaluation.zh-CN.md)
 

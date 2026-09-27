@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "inventory_date": "2026-09-18",
-  "repository_count": 489,
+  "inventory_date": "2026-09-27",
+  "repository_count": 491,
   "categories": [
     {
       "id": "dikwp-foundations",
@@ -66,8 +66,10 @@
       "id": "medicine-health",
       "en": "Medicine, Health & Care",
       "zh": "医学、健康与照护",
-      "count": 31,
+      "count": 33,
       "featured": [
+        "DIKWP-HepatoGenesis-Lab",
+        "NEPHROGENESIS-Lab",
         "DIKWP-CARDIOCOMMONS95",
         "DIKWP-VISIONRESTORE95",
         "DIKWP-VISIONLONGEVITY95"
@@ -653,14 +655,6 @@
       "summary": "Public repository in the connected DIKWP research portfolio.",
       "summary_source": "retained-directory-summary",
       "detail_path": "projects/1345871715.md"
-    },
-    {
-      "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
-      "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
-      "category": "education-learning",
-      "summary": "China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results.",
-      "summary_source": "github-public-description",
-      "detail_path": "projects/1373884558.md"
     },
     {
       "name": "DIKWP--CONTINUUM-OS-v1.0",
@@ -1501,6 +1495,14 @@
       "summary": "DIKWP HepatoCarePath OS is a liver hospital triage, treatment-preparation, rehabilitation and clinical workflow governance system.",
       "summary_source": "github-public-description",
       "detail_path": "projects/1284984106.md"
+    },
+    {
+      "name": "DIKWP-HepatoGenesis-Lab",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab",
+      "category": "medicine-health",
+      "summary": "Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver.",
+      "summary_source": "curated-from-project-instructions",
+      "detail_path": "projects/1390123090.md"
     },
     {
       "name": "DIKWP-HepatoScholar-OS",
@@ -2927,6 +2929,14 @@
       "detail_path": "projects/1348264432.md"
     },
     {
+      "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "category": "education-learning",
+      "summary": "China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results.",
+      "summary_source": "github-public-description",
+      "detail_path": "projects/1373884558.md"
+    },
+    {
       "name": "Dual-Projection-Rank-Co-Origin-System",
       "url": "https://github.com/YucongDuan/Dual-Projection-Rank-Co-Origin-System",
       "category": "artificial-consciousness",
@@ -3357,6 +3367,14 @@
       "summary": "A non-anthropocentric, entropy-accounted runtime for reconstructive memory, carbon-silicon co-adaptation, externality repair and plural future options.",
       "summary_source": "github-public-description",
       "detail_path": "projects/1341554720.md"
+    },
+    {
+      "name": "NEPHROGENESIS-Lab",
+      "url": "https://github.com/YucongDuan/NEPHROGENESIS-Lab",
+      "category": "medicine-health",
+      "summary": "Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney.",
+      "summary_source": "curated-from-project-instructions",
+      "detail_path": "projects/1390118054.md"
     },
     {
       "name": "NeuroSentinel-OS-v1.0.0",

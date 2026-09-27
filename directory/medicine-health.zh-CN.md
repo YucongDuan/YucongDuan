@@ -1,8 +1,13 @@
 # 医学、健康与照护
 
-**31 个公开仓库 · 2026-09-18**
+**33 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](medicine-health.md) · [中文](medicine-health.zh-CN.md)
+
+## 推荐起点
+
+- [HepatoGenesis · Liver science](../projects/1390123090.md) — 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。
+- [NEPHROGENESIS · Kidney science](../projects/1390118054.md) — 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。
 
 简介概括项目声明的用途。详情页提供下载、文件与验证入口。
 
@@ -18,6 +23,7 @@
 | [DIKWP-CARDIOCOMMONS95](../projects/1358655280.md) · [GitHub](https://github.com/YucongDuan/DIKWP-CARDIOCOMMONS95) | Global cardiovascular safety, recovery integrity, secondary-prevention, rehabilitation, access-equity and evidence-accountability operating system. | 源码与网页文件 | NOASSERTION |
 | [DIKWP-EarlyChildhood-AI-Navigator-2026-V1](../projects/1282168860.md) · [GitHub](https://github.com/YucongDuan/DIKWP-EarlyChildhood-AI-Navigator-2026-V1) | A standalone, offline-first prototype for supporting 0–6 year-old child development in the AI era. It is designed for parents, grandparents, caregivers, nursery providers, kindergarten teachers, community child-health staff, and managers. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-HepatoCarePath-OS](../projects/1284984106.md) · [GitHub](https://github.com/YucongDuan/DIKWP-HepatoCarePath-OS) | DIKWP HepatoCarePath OS is a liver hospital triage, treatment-preparation, rehabilitation and clinical workflow governance system. | 压缩包分发 | Apache-2.0 |
+| [DIKWP-HepatoGenesis-Lab](../projects/1390123090.md) · [GitHub](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab) | 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。 | 源码与网页文件 | Apache-2.0 |
 | [DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2](../projects/1286888392.md) · [GitHub](https://github.com/YucongDuan/DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2) | DIKWP Infectious Radiology Global Academy AgentOS 2026 V2 Offline-first open reference prototype for an international teaching-agent platform based on Professor Li Hongjun major infectious-disease radiology discipline. Open index.html locally. Teaching only; no clinical diagnosis, no real patient data, no PACS/RIS, no automatic credentialing. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1](../projects/1284982726.md) · [GitHub](https://github.com/YucongDuan/DIKWP-MentalHealth-TriageCare-RehabOS-2026-V1) | A standalone offline-first reference prototype for mental-health triage preparation, care coordination, and recovery planning. | 压缩包分发 | Apache-2.0 |
 | [DIKWP-Mesh-4.1-ActiveTCM-KneeLoop](../projects/1307328986.md) · [GitHub](https://github.com/YucongDuan/DIKWP-Mesh-4.1-ActiveTCM-KneeLoop) | A directly runnable, offline-first, clinician-in-the-loop engineering pilot for a longitudinal Traditional Chinese Medicine and rehabilitation workflow around knee osteoarthritis / the source expression “knee impediment”. | 压缩包分发 | Apache-2.0 |
@@ -33,6 +39,7 @@
 | [DIKWP-VISIONRESTORE95](../projects/1358656529.md) · [GitHub](https://github.com/YucongDuan/DIKWP-VISIONRESTORE95) | Local-first system for recoverable-vision decomposition, myopia monitoring, claim auditing and clinician handoff. | 源码与网页文件 | NOASSERTION |
 | [JusticeShield-STRATAGEM-11.0.0](../projects/1353314077.md) · [GitHub](https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0) | True-value hard gates · plural attribution worlds · auditable stratagems · synthetic deception · moving defense · restitution · reality-contact revision | 压缩包分发 | Apache-2.0 |
 | [MYOPIACOMMONS95](../projects/1355872496.md) · [GitHub](https://github.com/YucongDuan/MYOPIACOMMONS95) | DIKWP-MYOPIACOMMONS95 is an English-only, local-first, open-source reference system for people with myopia, families, clinicians, researchers, public-health programmes, and other AI or Agent systems. | 压缩包分发 | Apache-2.0 |
+| [NEPHROGENESIS-Lab](../projects/1390118054.md) · [GitHub](https://github.com/YucongDuan/NEPHROGENESIS-Lab) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 | 源码与网页文件 | Apache-2.0 |
 | [NeuroSentinel-OS-v1.0.0](../projects/1351029297.md) · [GitHub](https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0) | NeuroSentinel is an open-source, evidence-bound clinical decision-support and safeguarding platform for neurological red flags, brain injury, cognitive ageing, executive/prospective safety cognition, caregiving risk, environmental barriers, competing causal hypotheses, clinician-reviewable care options and real-outcome calibration. | 压缩包分发 | Apache-2.0 |
 | [PAM-China-Proactive-Medicine-Open-Coordination-System](../projects/1332637413.md) · [GitHub](https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System) | Proactive-medicine reference platform for China's hospitals, primary care and regional health services, with coordinated tasks, outcome review and staging interfaces for FHIR R4, HL7 v2, CDA R2, DICOMweb and REST. | 压缩包分发 | Apache-2.0 |
 | [Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era](../projects/1352223019.md) · [GitHub](https://github.com/YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era) | DIKWP-EIDOS 9.5` is a local-first, owner-governed compiler that transforms a heterogeneous personal corpus—notes, papers, repositories, project records, decisions, failures, revisions, boundaries and purposes—into a portable **Cognitive Essence Intermediate Representation (EIDOS-IR) | 压缩包分发 | Apache-2.0 |

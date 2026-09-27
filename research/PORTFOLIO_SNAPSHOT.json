@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_on": "2026-09-18",
+  "checked_on": "2026-09-27",
   "owner": "YucongDuan",
-  "repository_count": 489,
+  "repository_count": 491,
   "profile_language_count": 13,
   "format_counts": {
-    "source": 67,
+    "source": 69,
     "archive": 411,
     "documents": 11
   },
@@ -73,8 +73,10 @@
       "id": "medicine-health",
       "en": "Medicine, Health & Care",
       "zh": "医学、健康与照护",
-      "count": 31,
+      "count": 33,
       "featured": [
+        "DIKWP-HepatoGenesis-Lab",
+        "NEPHROGENESIS-Lab",
         "DIKWP-CARDIOCOMMONS95",
         "DIKWP-VISIONRESTORE95",
         "DIKWP-VISIONLONGEVITY95"
@@ -148,7 +150,7 @@
       ]
     }
   ],
-  "scope": "Public repository identities, metadata and complete Git file trees inspected. Distribution labels describe files; execution results have independent revisions and dates.",
+  "scope": "Complete public repository identities checked on 2026-09-27. New projects have publication source-tree and test records; prior projects retain their individual inspection dates. Navigation and catalog pages are regenerated for the complete portfolio.",
   "repositories": [
     {
       "id": "1331586767",
@@ -2134,6 +2136,14 @@
           "name": "NeuroSentinel-OS-v1.0.0",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -3785,6 +3795,14 @@
           "name": "MYOPIACOMMONS95",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -3848,39 +3866,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1373884558",
-      "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
-      "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
-      "description": "China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results.",
-      "description_zh": null,
-      "description_source": "github-public-description",
-      "category": "education-learning",
-      "category_en": "Education, Work & Human Capability",
-      "category_zh": "教育、工作与人的能力",
-      "default_branch": "main",
-      "language": null,
-      "license": null,
-      "license_path": null,
-      "format": "documents",
-      "file_count": 1,
-      "code_and_web_file_count": 0,
-      "archives": [],
-      "readme_path": "README.md",
-      "guides": [
-        "README.md"
-      ],
-      "workflows": [],
-      "test_file_count": 0,
-      "topics": [],
-      "tree_sha": "4f1ebf57490973936ba26820325ba141a84d4536",
-      "tree_truncated": false,
-      "checked_on": "2026-09-18",
-      "pushed_at": "2026-09-17T03:32:06Z",
-      "detail_path": "projects/1373884558.md",
-      "featured": false,
-      "related": []
     },
     {
       "id": "1302337831",
@@ -5086,6 +5071,14 @@
           "name": "DIKWP-MindGuardian-OS",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -5145,6 +5138,14 @@
           "name": "DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -5508,6 +5509,14 @@
           "name": "DIKWP-AI-WorkRisk-Navigator-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -5695,6 +5704,14 @@
           "name": "DIKWP-AI-CareerBridge-Studio-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -6711,6 +6728,14 @@
             "treatment",
             "disease"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -6770,6 +6795,14 @@
           "name": "DIKWP-Infectious-Radiology-Global-Academy-AgentOS-2026-V2",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -8907,6 +8940,14 @@
           "name": "DIKWP-OralMedEdu-OS",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -10096,6 +10137,68 @@
           "name": "DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
+        }
+      ]
+    },
+    {
+      "id": "1390123090",
+      "name": "DIKWP-HepatoGenesis-Lab",
+      "url": "https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab",
+      "homepage": "https://yucongduan.github.io/DIKWP-HepatoGenesis-Lab/",
+      "description": "Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver.",
+      "description_zh": "围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。",
+      "description_source": "curated-from-project-instructions",
+      "category": "medicine-health",
+      "category_en": "Medicine, Health & Care",
+      "category_zh": "医学、健康与照护",
+      "default_branch": "main",
+      "language": "HTML",
+      "license": "Apache-2.0",
+      "license_path": "LICENSE",
+      "format": "source",
+      "file_count": 92,
+      "code_and_web_file_count": 22,
+      "archives": [],
+      "readme_path": "README.md",
+      "guides": [
+        "README.md",
+        "GETTING_STARTED.md",
+        "README.zh-CN.md",
+        "PUBLICATION.md",
+        "CONTRIBUTING.md"
+      ],
+      "workflows": [
+        ".github/workflows/tests.yml"
+      ],
+      "test_file_count": 2,
+      "topics": [],
+      "tree_sha": "1596cd7623fe65d31e7b8a3e3d527f3789d84dbd",
+      "tree_truncated": false,
+      "checked_on": "2026-09-27",
+      "pushed_at": "2026-09-27T05:24:52Z",
+      "publication_commit": "1a73cb61ef79407aa2292c0a25b5ef98ffe87b92",
+      "detail_path": "projects/1390123090.md",
+      "featured": true,
+      "related": [
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "organ-history-companion"
+        },
+        {
+          "name": "DIKWP-HepatoScholar-OS",
+          "relation": "related-domain-research"
+        },
+        {
+          "name": "DIKWP-ProofLedger-OS",
+          "relation": "evidence-lineage"
         }
       ]
     },
@@ -10841,6 +10944,14 @@
           "name": "DIKWP-CARDIOCOMMONS95",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -12422,6 +12533,14 @@
             "health",
             "first"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -12556,6 +12675,14 @@
           "name": "Pudong-SmartRehab-Harbor",
           "relation": "domain-peer",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -13684,6 +13811,14 @@
             "personal",
             "notes"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -14272,6 +14407,14 @@
           "name": "DIKWP-Mesh-4.1-ActiveTCM-KneeLoop",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -14449,6 +14592,14 @@
           "name": "DIKWP-Cardiac-TriageCare-RehabOS-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -15552,6 +15703,14 @@
             "offline",
             "first"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -15678,6 +15837,14 @@
           "name": "DIKWP-AI-WorkRisk-Navigator-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -15849,6 +16016,14 @@
           "name": "DIKWP-EarlyChildhood-AI-Navigator-2026-V1",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -17266,6 +17441,14 @@
             "myopia",
             "vision"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -18732,6 +18915,14 @@
           "shared_terms": [
             "synthetic"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -19990,6 +20181,14 @@
           "name": "DIKWP-VISIONRESTORE95",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -20053,6 +20252,14 @@
             "first",
             "local"
           ]
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -20653,6 +20860,39 @@
           "shared_terms": []
         }
       ]
+    },
+    {
+      "id": "1373884558",
+      "name": "DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "url": "https://github.com/YucongDuan/DIKWP_ASEAN_SolutionForge_v1.0.0",
+      "description": "China–ASEAN DIKWP problem-solving and co-creation: reproducible trade, resource allocation and evidence synthesis, with OpenStudio import and portable results.",
+      "description_zh": null,
+      "description_source": "github-public-description",
+      "category": "education-learning",
+      "category_en": "Education, Work & Human Capability",
+      "category_zh": "教育、工作与人的能力",
+      "default_branch": "main",
+      "language": null,
+      "license": null,
+      "license_path": null,
+      "format": "documents",
+      "file_count": 1,
+      "code_and_web_file_count": 0,
+      "archives": [],
+      "readme_path": "README.md",
+      "guides": [
+        "README.md"
+      ],
+      "workflows": [],
+      "test_file_count": 0,
+      "topics": [],
+      "tree_sha": "4f1ebf57490973936ba26820325ba141a84d4536",
+      "tree_truncated": false,
+      "checked_on": "2026-09-18",
+      "pushed_at": "2026-09-17T03:32:06Z",
+      "detail_path": "projects/1373884558.md",
+      "featured": false,
+      "related": []
     },
     {
       "id": "1324811380",
@@ -22466,6 +22706,14 @@
           "name": "PAM-China-Proactive-Medicine-Open-Coordination-System",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -23685,6 +23933,14 @@
           "name": "DIABETESCOMMONS95",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -23802,6 +24058,67 @@
       ]
     },
     {
+      "id": "1390118054",
+      "name": "NEPHROGENESIS-Lab",
+      "url": "https://github.com/YucongDuan/NEPHROGENESIS-Lab",
+      "homepage": "https://yucongduan.github.io/NEPHROGENESIS-Lab/",
+      "description": "Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney.",
+      "description_zh": "通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。",
+      "description_source": "curated-from-project-instructions",
+      "category": "medicine-health",
+      "category_en": "Medicine, Health & Care",
+      "category_zh": "医学、健康与照护",
+      "default_branch": "main",
+      "language": "HTML",
+      "license": "Apache-2.0",
+      "license_path": "LICENSE",
+      "format": "source",
+      "file_count": 112,
+      "code_and_web_file_count": 35,
+      "archives": [],
+      "readme_path": "README.md",
+      "guides": [
+        "README.md",
+        "GETTING_STARTED.md",
+        "README.zh-CN.md",
+        "PUBLICATION.md",
+        "CONTRIBUTING.md"
+      ],
+      "workflows": [
+        ".github/workflows/ci.yml"
+      ],
+      "test_file_count": 7,
+      "topics": [
+        "dikwp",
+        "education",
+        "kidney",
+        "python",
+        "reproducible-research",
+        "scientific-computing"
+      ],
+      "tree_sha": "67aa399c5af2158ed637e14862c94f81cce82214",
+      "tree_truncated": false,
+      "checked_on": "2026-09-27",
+      "pushed_at": "2026-09-27T05:23:31Z",
+      "publication_commit": "3cdf751cccae39315d631a2ec621bdbf8ce2f83b",
+      "detail_path": "projects/1390118054.md",
+      "featured": true,
+      "related": [
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "organ-history-companion"
+        },
+        {
+          "name": "DIKWP-NephroCarePath-OS",
+          "relation": "related-domain-research"
+        },
+        {
+          "name": "DIKWP-ProofLedger-OS",
+          "relation": "evidence-lineage"
+        }
+      ]
+    },
+    {
       "id": "1351029297",
       "name": "NeuroSentinel-OS-v1.0.0",
       "url": "https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0",
@@ -23854,6 +24171,14 @@
           "name": "CareWeave-Robot-OS-v1.0.0",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -24948,6 +25273,14 @@
           "name": "JusticeShield-STRATAGEM-11.0.0",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -25113,6 +25446,14 @@
           "name": "JusticeShield-STRATAGEM-11.0.0",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -25461,6 +25802,14 @@
           "name": "CareWeave-Robot-OS-v1.0.0",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -25815,6 +26164,14 @@
           "name": "DIKWP-ActiveHealth-OS",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },
@@ -25934,6 +26291,14 @@
           "name": "DIABETESCOMMONS95",
           "relation": "portfolio-continuity",
           "shared_terms": []
+        },
+        {
+          "name": "NEPHROGENESIS-Lab",
+          "relation": "book-science-companion"
+        },
+        {
+          "name": "DIKWP-HepatoGenesis-Lab",
+          "relation": "book-science-companion"
         }
       ]
     },

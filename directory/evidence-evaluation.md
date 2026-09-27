@@ -1,6 +1,6 @@
 # Evidence, Evaluation & AI Governance
 
-**84 public repositories · 2026-09-18**
+**84 public repositories · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.md) · [English](evidence-evaluation.md) · [中文](evidence-evaluation.zh-CN.md)
 

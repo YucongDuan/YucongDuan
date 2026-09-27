@@ -1,6 +1,6 @@
 # Security, Justice & Resilience
 
-**9 public repositories · 2026-09-18**
+**9 public repositories · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.md) · [English](security-justice.md) · [中文](security-justice.zh-CN.md)
 

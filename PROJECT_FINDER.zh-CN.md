@@ -17,6 +17,8 @@
 | [LucidEcon · Contribution and replay](projects/1360834556.md) | 评估有界机会，重放证据记录，并精确核算约定的贡献池。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-LUCIDECON-OS/blob/main/GETTING_STARTED.md) |
 | [CITM Forge · Mathematical certificates](projects/1344438920.md) | 下载数学研究工具包，探索从问题到证书的处理流程。 | [Guide / 操作导读](https://github.com/YucongDuan/Complete-Information-Theoretic-Mathematics-Problem-to-Certificate-Compiler/blob/main/GETTING_STARTED.md) |
 | [Consciousness Futures · Study design](projects/1274984647.md) | 使用研究工作台交付包探索人工意识问题与研究设计。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-Consciousness-Futures-Studio-V1/blob/main/GETTING_STARTED.md) |
+| [NEPHROGENESIS · Kidney science](projects/1390118054.md) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
+| [HepatoGenesis · Liver science](projects/1390123090.md) | 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
 
 ## 带着一个可交付成果开始
 

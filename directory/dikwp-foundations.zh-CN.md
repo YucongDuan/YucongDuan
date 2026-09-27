@@ -1,6 +1,6 @@
 # DIKWP 基础与语义架构
 
-**139 个公开仓库 · 2026-09-18**
+**139 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](dikwp-foundations.md) · [中文](dikwp-foundations.zh-CN.md)
 

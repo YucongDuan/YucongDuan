@@ -3,9 +3,11 @@
 <!-- PORTFOLIO-START -->
 ## Choose the task you want to complete
 
-[11 practical project routes](PROJECT_FINDER.md) · [489 project details](REPOSITORY_DIRECTORY.md) · [Offline search and downloads](catalog/README.md)
+[13 practical project routes](PROJECT_FINDER.md) · [491 project details](REPOSITORY_DIRECTORY.md) · [Project search and downloads](catalog/README.md)
 
-Start with OpenStudio for teaching, PACT for purpose and permission experiments, or MESH² for semantic-route comparisons. Each walkthrough links the actual entry files.
+[NEPHROGENESIS · Kidney science](projects/1390118054.md) · [HepatoGenesis · Liver science](projects/1390123090.md)
+
+Start with the organ-history labs for scientific experiments, OpenStudio for learning, or PACT for purpose and permission checks.
 <!-- PORTFOLIO-END -->
 
 [Chinese guide](START_HERE.zh-CN.md) · [Profile](README.md) · [Research brief](RESEARCH_BRIEF.md) · [All repositories](REPOSITORY_DIRECTORY.md)

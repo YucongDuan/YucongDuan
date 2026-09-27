@@ -4,18 +4,18 @@
 
 ## Search the complete portfolio offline
 
-[Download the project explorer](https://raw.githubusercontent.com/YucongDuan/YucongDuan/main/catalog/index.html), save it as HTML and open it in a browser. Search all 489 projects by keyword, research area and distribution format. Search data is embedded; repository links require internet access.
+[Download the project explorer](https://raw.githubusercontent.com/YucongDuan/YucongDuan/main/catalog/index.html), save it as HTML and open it in a browser. Search all 491 projects by keyword, research area and distribution format. Search data is embedded; repository links require internet access.
 
 ## Choose a practical walkthrough
 
-[11 guided projects / 11个项目操作路线](../PROJECT_FINDER.md)
+[13 guided projects / 13个项目操作路线](../PROJECT_FINDER.md)
 
 Extract ZIP-distributed projects before following the inner README. When GitHub displays HTML source, download the project and open the file locally.
 
 ## Inspect verification evidence
 
-Nine existing featured-project workflows passed on the published guide commits. Each result identifies a revision, date and workflow link; it is not an execution claim for the other projects.
+Publication workflow evidence for the two new book-science laboratories is recorded in the current refresh report. The nine earlier successful guide-publication workflows retain their original revisions and dates.
 
-[Publication commits and workflow results / 提交与验证结果](../PROFILE_REFRESH_2026-09-18.md) · [Earlier engineering records](../ENGINEERING_STATUS.md) · [Inventory method](../PORTFOLIO_MAINTENANCE.md)
+[Current publication and workflow results / 本次发布与验证](../PROFILE_REFRESH_2026-09-27.md) · [Earlier guide publications / 既有导读发布](../PROFILE_REFRESH_2026-09-18.md) · [Earlier engineering records](../ENGINEERING_STATUS.md) · [Inventory method](../PORTFOLIO_MAINTENANCE.md)
 
 SolutionForge currently remains an introduction repository; its complete source package still needs to be imported.

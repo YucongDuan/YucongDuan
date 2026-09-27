@@ -1,10 +1,10 @@
-# 489 public repositories: research and applications
+# 491 public repositories: research and applications
 
-**489 · 12 · 13** — public repositories · research areas · profile languages
+**491 · 12 · 13** — public repositories · research areas · profile languages
 
 [English](REPOSITORY_DIRECTORY.md) · [中文](REPOSITORY_DIRECTORY.zh-CN.md) · [Profile](README.md) · [Project finder](PROJECT_FINDER.md) · [JSON](REPOSITORY_DIRECTORY.json)
 
-Repository identities, metadata and complete Git file trees inspected: 2026-09-18.
+Portfolio navigation updated; repository file inspections retain their individual dates: 2026-09-27.
 
 | Research area | Repositories | Starting points |
 |---|---:|---|
@@ -13,7 +13,7 @@ Repository identities, metadata and complete Git file trees inspected: 2026-09-1
 | [Semantic Mathematics & Formal Proof](directory/semantic-mathematics.md) | 36 | [CITM Forge · Mathematical certificates](projects/1344438920.md) · [DIKWP-ESSENCE-OMEGA-OS-v1.0.0](projects/1359018985.md) |
 | [Evidence, Evaluation & AI Governance](directory/evidence-evaluation.md) | 84 | [VerityWeave · Evidence and context](projects/1359034409.md) · [ASCENT 0.2 · Numerical research](projects/1362110634.md) |
 | [Security, Justice & Resilience](directory/security-justice.md) | 9 | [SOVEREIGN-GATE-12.0.0](projects/1353312618.md) · [TrueValue-Shield-](projects/1352293103.md) |
-| [Medicine, Health & Care](directory/medicine-health.md) | 31 | [DIKWP-CARDIOCOMMONS95](projects/1358655280.md) · [DIKWP-VISIONRESTORE95](projects/1358656529.md) |
+| [Medicine, Health & Care](directory/medicine-health.md) | 33 | [HepatoGenesis · Liver science](projects/1390123090.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) |
 | [Education, Work & Human Capability](directory/education-learning.md) | 46 | [OpenStudio · China–ASEAN](projects/1373871217.md) · [CAREER-RUDDER](projects/1357047605.md) |
 | [Economy, Value & Investment](directory/economy-value.md) | 23 | [ClearPath · Opportunity selection](projects/1360827725.md) · [DemandProof · Shared capacity](projects/1360830271.md) |
 | [Society, Civilization & Public Infrastructure](directory/society-civilization.md) | 12 | [DIKWP-TRANSITION-COMMONS](projects/1358655883.md) · [ACEVO-v1.0.0](projects/1355866258.md) |
@@ -25,7 +25,7 @@ Repository identities, metadata and complete Git file trees inspected: 2026-09-1
 
 | Format | Count |
 |---|---:|
-| Source and web files | 67 |
+| Source and web files | 69 |
 | Downloadable archive | 411 |
 | Documentation and research | 11 |
 

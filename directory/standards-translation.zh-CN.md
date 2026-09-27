@@ -1,6 +1,6 @@
 # 标准、互操作与研究转化
 
-**11 个公开仓库 · 2026-09-18**
+**11 个公开仓库 · 2026-09-27**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](standards-translation.md) · [中文](standards-translation.zh-CN.md)
 
