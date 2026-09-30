@@ -1,7 +1,7 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
 <!-- PORTFOLIO-START -->
-**492 · 12 · 13** · 2026-09-27
+**495 · 12 · 13** · 2026-09-30
 
 [Vyberte projekt](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
 
@@ -16,7 +16,7 @@
 
 Yucong Duan zkoumá grafy DIKWP, umělé vědomí, sémantickou matematiku a ověřitelnou AI. Jeho program propojuje teorii, vynálezy, publikace a otevřené systémy.
 
-**492 veřejných repozitářů · 12 výzkumných oblastí · 13 jazyků**
+**495 veřejných repozitářů · 12 výzkumných oblastí · 13 jazyků**
 
 DIKWP zahrnuje data, informace, znalosti, moudrost a účel. Tyto zdroje tvoří síť transformací: účel řídí interpretaci a sám může být přehodnocen.
 
@@ -27,7 +27,7 @@ DIKWP zahrnuje data, informace, znalosti, moudrost a účel. Tyto zdroje tvoří
 | **Průmyslové souvislosti a možnosti spolupráce** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **Knihy a publikace** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **První experiment** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **Úplný přehled** | [492 repositories](REPOSITORY_DIRECTORY.md) |
+| **Úplný přehled** | [495 repositories](REPOSITORY_DIRECTORY.md) |
 | **Spolupráce** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)
