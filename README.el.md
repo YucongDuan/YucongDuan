@@ -1,7 +1,7 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
 <!-- PORTFOLIO-START -->
-**492 · 12 · 13** · 2026-09-27
+**495 · 12 · 13** · 2026-09-30
 
 [Επιλέξτε έργο](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
 
@@ -16,7 +16,7 @@
 
 Ο Yucong Duan ερευνά γράφους DIKWP, τεχνητή συνείδηση, σημασιολογικά μαθηματικά και ελέγξιμη τεχνητή νοημοσύνη. Το πρόγραμμά του συνδέει θεωρία, εφευρέσεις, δημοσιεύσεις και ανοιχτά συστήματα.
 
-**492 δημόσια αποθετήρια · 12 ερευνητικά πεδία · 13 γλώσσες**
+**495 δημόσια αποθετήρια · 12 ερευνητικά πεδία · 13 γλώσσες**
 
 Το DIKWP περιλαμβάνει δεδομένα, πληροφορία, γνώση, σοφία και σκοπό. Οι πόροι αυτοί σχηματίζουν ένα δίκτυο μετασχηματισμών: ο σκοπός καθοδηγεί την ερμηνεία και μπορεί επίσης να αναθεωρηθεί.
 
@@ -27,7 +27,7 @@
 | **Σχέσεις με τη βιομηχανία και ευκαιρίες συνεργασίας** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **Βιβλία και δημοσιεύσεις** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **Πρώτο πείραμα** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **Πλήρης κατάλογος** | [492 repositories](REPOSITORY_DIRECTORY.md) |
+| **Πλήρης κατάλογος** | [495 repositories](REPOSITORY_DIRECTORY.md) |
 | **Συνεργασία** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)
