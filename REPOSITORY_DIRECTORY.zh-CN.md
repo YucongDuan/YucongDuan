@@ -1,10 +1,10 @@
-# 492个公开仓库：研究与应用目录
+# 495个公开仓库：研究与应用目录
 
-**492 · 12 · 13** — 公开仓库 · 研究领域 · 主页语言
+**495 · 12 · 13** — 公开仓库 · 研究领域 · 主页语言
 
 [English](REPOSITORY_DIRECTORY.md) · [中文](REPOSITORY_DIRECTORY.zh-CN.md) · [Profile](README.zh-CN.md) · [Project finder](PROJECT_FINDER.zh-CN.md) · [JSON](REPOSITORY_DIRECTORY.json)
 
-目录导航更新日期（各项目文件核对日期分别保留）：2026-09-27.
+目录导航更新日期（各项目文件核对日期分别保留）：2026-09-30.
 
 | 研究领域 | 仓库数 | 推荐入口 |
 |---|---:|---|
@@ -13,7 +13,7 @@
 | [语义数学与形式化证明](directory/semantic-mathematics.zh-CN.md) | 36 | [CITM Forge · Mathematical certificates](projects/1344438920.md) · [DIKWP-ESSENCE-OMEGA-OS-v1.0.0](projects/1359018985.md) |
 | [证据、测评与 AI 治理](directory/evidence-evaluation.zh-CN.md) | 84 | [VerityWeave · Evidence and context](projects/1359034409.md) · [ASCENT 0.2 · Numerical research](projects/1362110634.md) |
 | [安全、司法与韧性](directory/security-justice.zh-CN.md) | 9 | [SOVEREIGN-GATE-12.0.0](projects/1353312618.md) · [TrueValue-Shield-](projects/1352293103.md) |
-| [医学、健康与照护](directory/medicine-health.zh-CN.md) | 33 | [HepatoGenesis · Liver science](projects/1390123090.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) |
+| [医学、健康与照护](directory/medicine-health.zh-CN.md) | 36 | [HepatoGenesis · Liver science](projects/1390123090.md) · [NEPHROGENESIS · Kidney science](projects/1390118054.md) |
 | [教育、工作与人的能力](directory/education-learning.zh-CN.md) | 47 | [VisionWeave · Visual evidence](projects/1390832083.md) · [OpenStudio · China–ASEAN](projects/1373871217.md) |
 | [经济、价值与投资](directory/economy-value.zh-CN.md) | 23 | [ClearPath · Opportunity selection](projects/1360827725.md) · [DemandProof · Shared capacity](projects/1360830271.md) |
 | [社会、文明与公共基础设施](directory/society-civilization.zh-CN.md) | 12 | [DIKWP-TRANSITION-COMMONS](projects/1358655883.md) · [ACEVO-v1.0.0](projects/1355866258.md) |
@@ -25,9 +25,9 @@
 
 | 形式 | 数量 |
 |---|---:|
-| 源码与网页文件 | 70 |
+| 源码与网页文件 | 72 |
 | 压缩包分发 | 411 |
-| 文档与研究材料 | 11 |
+| 文档与研究材料 | 12 |
 
 交付形式描述实际可见文件，运行结果需查看各项目独立的验证记录。
 
