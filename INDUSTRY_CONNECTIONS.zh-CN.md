@@ -42,4 +42,25 @@
 
 **以一个共同问题和一项可检查成果开启合作。** 欢迎围绕联合论文、测评基线、技术互操作与成果转化交换书面材料。[提出合作问题 →](COLLABORATE.zh-CN.md)
 
-精选来源核对日期：2026 年 9 月 16 日。更多历史记录见 [完整证据地图](DIKWP_EVIDENCE_MAP.md)。本页不推断企业的内部动机，也不作违法使用指控。
+## 广义合作地图：专利版图线索与应用线索
+
+本页按广义技术口径统计合作：直接使用 DIKWP、公开引用、技术呼应、专利版图线索和可执行共创机会都可以进入地图。专利检索是对话入口，不等于签约合作或产品部署证明。
+
+| 公开线索 | 可以支持的判断 | 可展开的共创方向 |
+|---|---|---|
+| **IBM / International Business Machines** | IBM 申请人范围内“DIKW graph”的 Google Patents 实时检索入口。 | 对比语义图谱、来源链、意图层和 DIKWP 互操作。 |
+| **Intel** | Intel 申请人范围内“DIKW graph”的 Google Patents 实时检索入口。 | 对比边缘/硬件感知语义流水线与目的固定测评。 |
+| **Hitachi** | Hitachi 申请人范围内“DIKW graph”的检索入口。 | 对比企业知识图谱治理、工业数字孪生和证据重放。 |
+| **中翰软件** | 用户提供的 2026 年案例说明，涉及 AI 原生数据治理、本体模型、统一业务词典、异构数据对齐和媒体发稿平台。 | 试点 DIKWP 语义主权映射、业务词典台账和可审查发稿流程。 |
+| **已有企业专利记录** | 浦发银行、平安国际融资租赁、广东电网、海南电网公开专利正文中的 DIKWP 技术关系。 | 将公开问题转成互操作、基准测评和成果转化研究。 |
+
+### 本次整理纳入的实时检索入口
+
+- [IBM · “DIKW graph” 申请人检索](<https://patents.google.com/?q=(DIKW+graph)&assignee=International+Business+Machines+Corporation&scholar>)
+- [Intel · “DIKW graph” 申请人检索](<https://patents.google.com/?q=(DIKW+graph)&assignee=Intel+Corporation&scholar>)
+- [Hitachi · “DIKW graph” 申请人检索](<https://patents.google.com/?q=(DIKW+graph)&assignee=Hitachi+Ltd&scholar>)
+- [用户提供的 Google 香港补充线索](<https://www.google.com.hk/goto?url=CAESyAEB6zswFV61Qq4G-fjdyJ9GqBme7qeEmqwbGEWCwfQWTPI6602CWOU17vZl3EP0gxjT19QBsDZG_67te8FsiyPQabck0PbVAVBxgbddWse8KwOGy2pyjdArzGsIkzklh_ssFD29KDvBz9b7qR5xMV9pP4rICN84zQkw5bRENAqWmRN0DRz_-z4lwMaPNRg9nR4_NcJIqmrLB58urGig1ZzI9HWA8MtBWl2GEx2zs90MJHNJ8xNXd2gbsfxaTHMvmwraeQDGq9-YOw>)
+
+中翰软件案例说明和不透明的媒体链接仍是等待一手来源的应用线索；材料中的 68% 和 72% 没有在本页作为测量事实复述。将版图线索升级为具体 E1 引用前，请逐项打开专利正文并核对申请人、日期和法律同族。
+
+精选来源核对日期：2026 年 9 月 30 日；既有来源行保留各自核对日期。更多历史记录见 [完整证据地图](DIKWP_EVIDENCE_MAP.md)。本页不推断企业的内部动机，也不作违法使用指控。
