@@ -42,4 +42,26 @@ The stock-screening case is especially useful: a DIKWP-linked solution becomes a
 
 **A productive proposal begins with one shared problem and one inspectable result.** Joint papers, benchmark comparisons, interoperability studies and technology-transfer discussions can build on this public foundation. [Send a written proposal](COLLABORATE.md)
 
-Selected sources checked 16 September 2026. Broader historical records: [full evidence map](DIKWP_EVIDENCE_MAP.md). This page makes no allegation of unlawful use and does not infer an organization's private motives.
+## Broad cooperation map: patent-landscape signals and application leads
+
+This profile counts cooperation broadly: direct DIKWP use, public citation, technical convergence, patent-landscape signals and actionable co-creation opportunities. A patent search is a lead for dialogue, not evidence of a signed partnership or product deployment.
+
+| Public lead | What it contributes | Practical co-creation angle |
+|---|---|---|
+| **IBM / International Business Machines** | Live Google Patents query for “DIKW graph” within IBM assignee records. | Compare semantic graphs, provenance, intent layers and interoperability against DIKWP resources. |
+| **Intel** | Live Google Patents query for “DIKW graph” within Intel assignee records. | Compare edge or hardware-aware semantic pipelines and purpose-pinned evaluation. |
+| **Hitachi** | Live Google Patents query for “DIKW graph” within Hitachi records. | Compare enterprise knowledge-graph governance, industrial digital twins and evidence replay. |
+| **Zhonghan Software / 中翰软件** | User-supplied 2026 case note describing “Cognitive Semantic Governance”: AI-native data governance, ontology modelling, a shared business vocabulary, heterogeneous-data alignment and a media-publishing application. | Pilot a DIKWP semantic-sovereignty map, a business-vocabulary ledger and a reviewable publishing workflow. |
+| **Existing enterprise patent records** | Public DIKWP passages from Shanghai Pudong Development Bank, Ping An International Financial Leasing, Guangdong Power Grid and Hainan Power Grid. | Turn disclosed problems into reproducible interoperability, benchmark and technology-transfer studies. |
+
+### Live queries supplied for this refresh
+
+- [IBM · “DIKW graph” assignee query](<https://patents.google.com/?q=(DIKW+graph)&assignee=International+Business+Machines+Corporation&scholar>)
+- [Intel · “DIKW graph” assignee query](<https://patents.google.com/?q=(DIKW+graph)&assignee=Intel+Corporation&scholar>)
+- [Hitachi · “DIKW graph” assignee query](<https://patents.google.com/?q=(DIKW+graph)&assignee=Hitachi+Ltd&scholar>)
+- [Supplementary Google HK landscape link supplied by the user](<https://www.google.com.hk/goto?url=CAESyAEB6zswFV61Qq4G-fjdyJ9GqBme7qeEmqwbGEWCwfQWTPI6602CWOU17vZl3EP0gxjT19QBsDZG_67te8FsiyPQabck0PbVAVBxgbddWse8KwOGy2pyjdArzGsIkzklh_ssFD29KDvBz9b7qR5xMV9pP4rICN84zQkw5bRENAqWmRN0DRz_-z4lwMaPNRg9nR4_NcJIqmrLB58urGig1ZzI9HWA8MtBWl2GEx2zs90MJHNJ8xNXd2gbsfxaTHMvmwraeQDGq9-YOw>)
+
+The Zhonghan case note and opaque media references remain application leads pending first-party source retrieval; exact 68% and 72% claims from the supplied material are not reproduced here as measured facts. Inspect each patent record before upgrading a landscape lead to a specific E1 citation.
+
+
+Selected sources checked 30 September 2026; earlier source rows retain their own dates.. Broader historical records: [full evidence map](DIKWP_EVIDENCE_MAP.md). This page makes no allegation of unlawful use and does not infer an organization's private motives.
