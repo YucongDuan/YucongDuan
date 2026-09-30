@@ -14,16 +14,16 @@
 
 | 开放研究版图 | 研究方向 | 国际传播 |
 |:---:|:---:|:---:|
-| **492 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
+| **495 个公开仓库** | **12 个关联领域** | **13 种语言入口** |
 
-仓库清单核对日期：**2026 年 9 月 27 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
+仓库清单核对日期：**2026 年 9 月 30 日**。[进入全量项目目录 →](REPOSITORY_DIRECTORY.zh-CN.md)
 
 **新发布 · 2026 年 9 月 17 日｜[DIKWP OpenStudio 中国—东盟版](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)**：以 13 语种导航、中英越三语完整的 12 个学习模块、四类交互式语义实验和学生项目工作台，连接 DIKWP 学习、实验与自主创新。[下载完整源码](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip)，打开 `OpenStudio_Offline.html` 即可开始。[查看自动测试](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions)。
 
 <!-- PORTFOLIO-START -->
 ## 从可体验、可比较的成果进入研究
 
-**新增视觉、肾脏与肝脏图书科学系统 · 2026-09-27**：完整源码、英文手册、中文入口、版本下载与在线示例报告。
+**新增视觉、肾脏、肝脏与神经科学伴侣系统 · 2026-09-28–30**：完整源码、英文手册、中文入口、版本下载与在线示例报告。
 
 | 代表项目 | 可以探索什么 |
 |---|---|
@@ -34,11 +34,24 @@
 | [**PACT · Purpose and permission**](projects/1301408025.md) | 在72个成对合成场景与四种确定性基线上复现意图、权限和证据检查。 |
 | [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | 研究有界数值实验、强参考比较、明确采用、监测与回退。 |
 | [**LucidEcon · Contribution and replay**](projects/1360834556.md) | 评估有界机会，重放证据记录，并精确核算约定的贡献池。 |
+| [**NeuroWeave · Brain history**](projects/1391985420.md) | 运行18章实验，研究重建记忆与意图固定计划；v1.0.0 已发布，含155项本地检查和仅合成数据边界。 |
+| [**NEUROGENESIS · Nervous-system science**](projects/1391975962.md) | 重算24个实验、18章导读、证据记忆和可重放实验胶囊；v1.0.0 已发布，含235项本地检查。 |
+| [**PancreaScope · publication staging**](projects/1394350094.md) | 明确展示胰腺研究伴侣的发布占位状态；源码和运行时尚未公开。 |
 
-[比较14个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [项目搜索、源码与下载](catalog/README.zh-CN.md)
+[比较16个项目的操作路线](PROJECT_FINDER.zh-CN.md) · [项目搜索、源码与下载](catalog/README.zh-CN.md)
 
 每个项目都有独立详情页，提供用途、交付形式、许可、说明文件和验证入口。
 <!-- PORTFOLIO-END -->
+
+## 语义主权与认知语义治理
+
+**语义主权**是段玉聪于 2025 年提出并持续系统化的概念，强调语言、文化、价值观与知识体系在数字环境中得到准确、完整、公平表达的权利与能力。放入 DIKWP，它把语义权威视为贯穿数据、信息、知识、智慧和意图的可追踪、可修订治理问题，并要求解释始终连接正当的人类目的。
+
+本次更新纳入一条用户提供的 **中翰软件“认知语义治理”案例线索**：AI 原生数据治理方案和平台通过本体模型构建统一业务词典，实现异构数据语义对齐，并面向媒体发稿平台形成数字孪生时代的认知资产治理路径。这是值得展开的 DIKWP 互操作应用线索；所附媒体资料和百分比仍需一手核验，不计作已审计采用或签约合作事实。
+
+这里的**合作**按广义技术联系使用：直接使用 DIKWP、公开引用、专利文本证据、架构趋同、专利版图线索与具体共创机会都可以进入合作地图。IBM、Intel、Hitachi 的专利检索入口是语义图谱互操作与竞争版图分析的合作线索；单次检索不能证明相关企业使用过段玉聪成果。
+
+[语义主权证据与案例线索](SEMANTIC_SOVEREIGNTY.zh-CN.md) · [产业联系与共创](INDUSTRY_CONNECTIONS.zh-CN.md)
 
 ## 原创研究正在连接国际标准、产业技术与学术前沿
 
