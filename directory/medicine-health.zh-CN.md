@@ -1,6 +1,6 @@
 # 医学、健康与照护
 
-**33 个公开仓库 · 2026-09-27**
+**36 个公开仓库 · 2026-09-30**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.zh-CN.md) · [English](medicine-health.md) · [中文](medicine-health.zh-CN.md)
 
@@ -8,6 +8,8 @@
 
 - [HepatoGenesis · Liver science](../projects/1390123090.md) — 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。
 - [NEPHROGENESIS · Kidney science](../projects/1390118054.md) — 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。
+- [NeuroWeave · Brain history](../projects/1391985420.md) — 在离线合成范围内运行18章实验，研究重建记忆、证据评价和意图固定计划。
+- [NEUROGENESIS · Nervous-system science](../projects/1391975962.md) — 重算24个实验、18章导读、证据记忆和可重放实验胶囊。
 
 简介概括项目声明的用途。详情页提供下载、文件与验证入口。
 
@@ -40,6 +42,9 @@
 | [JusticeShield-STRATAGEM-11.0.0](../projects/1353314077.md) · [GitHub](https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0) | True-value hard gates · plural attribution worlds · auditable stratagems · synthetic deception · moving defense · restitution · reality-contact revision | 压缩包分发 | Apache-2.0 |
 | [MYOPIACOMMONS95](../projects/1355872496.md) · [GitHub](https://github.com/YucongDuan/MYOPIACOMMONS95) | DIKWP-MYOPIACOMMONS95 is an English-only, local-first, open-source reference system for people with myopia, families, clinicians, researchers, public-health programmes, and other AI or Agent systems. | 压缩包分发 | Apache-2.0 |
 | [NEPHROGENESIS-Lab](../projects/1390118054.md) · [GitHub](https://github.com/YucongDuan/NEPHROGENESIS-Lab) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 | 源码与网页文件 | Apache-2.0 |
+| [DIKWP-NeuroWeave-Lab](../projects/1391985420.md) · [GitHub](https://github.com/YucongDuan/DIKWP-NeuroWeave-Lab) | 由18章实验、重建记忆和意图固定计划组成的脑科学史研究伴侣。 | 源码与网页文件 | MIT |
+| [DIKWP-PancreaScope-Lab](../projects/1394350094.md) · [GitHub](https://github.com/YucongDuan/DIKWP-PancreaScope-Lab) | 胰腺研究伴侣的发布占位仓库；源码和可运行版本尚未发布。 | 文档与研究材料 | 尚未发布许可 |
+| [NEUROGENESIS-Lab](../projects/1391975962.md) · [GitHub](https://github.com/YucongDuan/NEUROGENESIS-Lab) | 可重算的神经系统研究伴侣，包含24个实验、18章导读和可重放胶囊。 | 源码与网页文件 | Apache-2.0 |
 | [NeuroSentinel-OS-v1.0.0](../projects/1351029297.md) · [GitHub](https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0) | NeuroSentinel is an open-source, evidence-bound clinical decision-support and safeguarding platform for neurological red flags, brain injury, cognitive ageing, executive/prospective safety cognition, caregiving risk, environmental barriers, competing causal hypotheses, clinician-reviewable care options and real-outcome calibration. | 压缩包分发 | Apache-2.0 |
 | [PAM-China-Proactive-Medicine-Open-Coordination-System](../projects/1332637413.md) · [GitHub](https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System) | Proactive-medicine reference platform for China's hospitals, primary care and regional health services, with coordinated tasks, outcome review and staging interfaces for FHIR R4, HL7 v2, CDA R2, DICOMweb and REST. | 压缩包分发 | Apache-2.0 |
 | [Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era](../projects/1352223019.md) · [GitHub](https://github.com/YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era) | DIKWP-EIDOS 9.5` is a local-first, owner-governed compiler that transforms a heterogeneous personal corpus—notes, papers, repositories, project records, decisions, failures, revisions, boundaries and purposes—into a portable **Cognitive Essence Intermediate Representation (EIDOS-IR) | 压缩包分发 | Apache-2.0 |
