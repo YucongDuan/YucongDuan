@@ -1,6 +1,6 @@
 # Medicine, Health & Care
 
-**33 public repositories · 2026-09-27**
+**36 public repositories · 2026-09-30**
 
 [All areas / 全部领域](../REPOSITORY_DIRECTORY.md) · [English](medicine-health.md) · [中文](medicine-health.zh-CN.md)
 
@@ -8,6 +8,8 @@
 
 - [HepatoGenesis · Liver science](../projects/1390123090.md) — Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver.
 - [NEPHROGENESIS · Kidney science](../projects/1390118054.md) — Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney.
+- [NeuroWeave · Brain history](../projects/1391985420.md) — Run 18 chapter labs with reconstructive memory, evidence evaluation and purpose-pinned plans in an offline synthetic scope.
+- [NEUROGENESIS · Nervous-system science](../projects/1391975962.md) — Recompute 24 experiments, 18 chapter labs, evidence memory and replayable run capsules.
 
 Summaries describe the published project purpose. Detail pages provide downloads, inspected files and verification.
 
@@ -40,6 +42,9 @@ Summaries describe the published project purpose. Detail pages provide downloads
 | [JusticeShield-STRATAGEM-11.0.0](../projects/1353314077.md) · [GitHub](https://github.com/YucongDuan/JusticeShield-STRATAGEM-11.0.0) | True-value hard gates · plural attribution worlds · auditable stratagems · synthetic deception · moving defense · restitution · reality-contact revision | Downloadable archive | Apache-2.0 |
 | [MYOPIACOMMONS95](../projects/1355872496.md) · [GitHub](https://github.com/YucongDuan/MYOPIACOMMONS95) | DIKWP-MYOPIACOMMONS95 is an English-only, local-first, open-source reference system for people with myopia, families, clinicians, researchers, public-health programmes, and other AI or Agent systems. | Downloadable archive | Apache-2.0 |
 | [NEPHROGENESIS-Lab](../projects/1390118054.md) · [GitHub](https://github.com/YucongDuan/NEPHROGENESIS-Lab) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. | Source and web files | Apache-2.0 |
+| [DIKWP-NeuroWeave-Lab](../projects/1391985420.md) · [GitHub](https://github.com/YucongDuan/DIKWP-NeuroWeave-Lab) | Executable brain-history companion with 18 chapter labs, reconstructive memory and purpose-pinned plans. | Source and web files | MIT |
+| [DIKWP-PancreaScope-Lab](../projects/1394350094.md) · [GitHub](https://github.com/YucongDuan/DIKWP-PancreaScope-Lab) | Publication-staging placeholder for a pancreatic research companion; source and runnable release are not yet published. | Documentation and research | No license published |
+| [NEUROGENESIS-Lab](../projects/1391975962.md) · [GitHub](https://github.com/YucongDuan/NEUROGENESIS-Lab) | Recomputable nervous-system research companion with 24 experiments, 18 chapter labs and replayable capsules. | Source and web files | Apache-2.0 |
 | [NeuroSentinel-OS-v1.0.0](../projects/1351029297.md) · [GitHub](https://github.com/YucongDuan/NeuroSentinel-OS-v1.0.0) | NeuroSentinel is an open-source, evidence-bound clinical decision-support and safeguarding platform for neurological red flags, brain injury, cognitive ageing, executive/prospective safety cognition, caregiving risk, environmental barriers, competing causal hypotheses, clinician-reviewable care options and real-outcome calibration. | Downloadable archive | Apache-2.0 |
 | [PAM-China-Proactive-Medicine-Open-Coordination-System](../projects/1332637413.md) · [GitHub](https://github.com/YucongDuan/PAM-China-Proactive-Medicine-Open-Coordination-System) | Proactive-medicine reference platform for China's hospitals, primary care and regional health services, with coordinated tasks, outcome review and staging interfaces for FHIR R4, HL7 v2, CDA R2, DICOMweb and REST. | Downloadable archive | Apache-2.0 |
 | [Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era](../projects/1352223019.md) · [GitHub](https://github.com/YucongDuan/Personal-Cognitive-Essence-Compiler-for-the-Post-Knowledge-Equity-Era) | DIKWP-EIDOS 9.5` is a local-first, owner-governed compiler that transforms a heterogeneous personal corpus—notes, papers, repositories, project records, decisions, failures, revisions, boundaries and purposes—into a portable **Cognitive Essence Intermediate Representation (EIDOS-IR) | Downloadable archive | Apache-2.0 |
