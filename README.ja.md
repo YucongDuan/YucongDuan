@@ -1,7 +1,7 @@
 [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [Français](README.fr.md) · [العربية](README.ar.md) · [日本語](README.ja.md) · [हिन्दी](README.hi.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Ελληνικά](README.el.md) · [한국어](README.ko.md) · [Čeština](README.cs.md) · [Tiếng Việt](README.vi.md)
 
 <!-- PORTFOLIO-START -->
-**492 · 12 · 13** · 2026-09-27
+**495 · 12 · 13** · 2026-09-30
 
 [プロジェクトを選ぶ](PROJECT_FINDER.md) · [English directory](REPOSITORY_DIRECTORY.md) · [中文目录](REPOSITORY_DIRECTORY.zh-CN.md)
 
@@ -16,7 +16,7 @@
 
 段玉聪（Yucong Duan）は、DIKWP グラフ、人工意識、意味数学、監査可能な AI を研究しています。理論、発明、出版物、公開システムをつなぐ研究プログラムです。
 
-**492 公開リポジトリ · 12 研究分野 · 13 言語**
+**495 公開リポジトリ · 12 研究分野 · 13 言語**
 
 DIKWP はデータ、情報、知識、知恵、目的を表します。これらは変換のネットワークを形成し、目的が解釈を導くと同時に、目的そのものも見直されます。
 
@@ -27,7 +27,7 @@ DIKWP はデータ、情報、知識、知恵、目的を表します。これ�
 | **産業との技術的接点と協働の可能性** | [Industry connections](INDUSTRY_CONNECTIONS.md) |
 | **著書・論文** | [Books · Papers · ISBN](PUBLICATIONS.md) |
 | **最初の実験** | [PACT](START_HERE.md#run-your-first-experiment) · [MESH²](https://github.com/YucongDuan/DIKWP-MESH-) |
-| **全プロジェクト一覧** | [492 repositories](REPOSITORY_DIRECTORY.md) |
+| **全プロジェクト一覧** | [495 repositories](REPOSITORY_DIRECTORY.md) |
 | **共同研究** | [Written research proposals](COLLABORATE.md) |
 
 **ASCENT 0.2** · [Research console](https://github.com/YucongDuan/DIKWP-ASCENT-v0.2.0)
