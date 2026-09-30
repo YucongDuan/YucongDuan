@@ -20,6 +20,12 @@
 | [NEPHROGENESIS · Kidney science](projects/1390118054.md) | 通过24个实验入口、18章实验导读、显式单位、模型比较和可重放记录，开展《肾脏简史》配套计算研究。 | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
 | [HepatoGenesis · Liver science](projects/1390123090.md) | 围绕《肝脏简史》比较结构历史模型、求解有限隐状态策略、检查物理收支并追溯证据修订。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
 | [VisionWeave · Visual evidence](projects/1390832083.md) | 围绕《视觉简史》探索意图关联的像素证据、校准模型、可修订记忆和12个可执行实验。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-VisionWeave/blob/main/GETTING_STARTED.md) |
+| [NeuroWeave · Brain history](projects/1391985420.md) | 运行18章实验，研究重建记忆与意图固定计划，并保持合成、离线记录边界。 | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-NeuroWeave-Lab/blob/main/GETTING_STARTED.md) |
+| [NEUROGENESIS · Nervous-system science](projects/1391975962.md) | 重算24个实验、18章导读、证据记忆和可重放实验胶囊。 | [Guide / 操作导读](https://github.com/YucongDuan/NEUROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
+
+## 发布观察清单
+
+[PancreaScope · publication staging](projects/1394350094.md) 已进入医学目录，但审阅后的源码、许可和可运行版本仍待发布。
 
 ## 带着一个可交付成果开始
 
