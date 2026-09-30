@@ -20,6 +20,12 @@ Choose the result you want to inspect, then follow the walkthrough in the corres
 | [NEPHROGENESIS · Kidney science](projects/1390118054.md) | Explore 24 experiments, 18 chapter labs, explicit units, model comparisons and replayable DIKWP records for A Brief History of the Kidney. | [Guide / 操作导读](https://github.com/YucongDuan/NEPHROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
 | [HepatoGenesis · Liver science](projects/1390123090.md) | Compare structural-history models, solve finite hidden-state policies, inspect physical ledgers and trace corrections for A Brief History of the Liver. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-HepatoGenesis-Lab/blob/main/GETTING_STARTED.md) |
 | [VisionWeave · Visual evidence](projects/1390832083.md) | Explore purpose-conditioned pixel evidence, calibrated models, revisable memory and twelve executable laboratories for A Brief History of Vision. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-VisionWeave/blob/main/GETTING_STARTED.md) |
+| [NeuroWeave · Brain history](projects/1391985420.md) | Run 18 chapter labs, reconstructive memory and purpose-pinned plans with synthetic, offline records. | [Guide / 操作导读](https://github.com/YucongDuan/DIKWP-NeuroWeave-Lab/blob/main/GETTING_STARTED.md) |
+| [NEUROGENESIS · Nervous-system science](projects/1391975962.md) | Recompute 24 experiments, 18 chapter labs, evidence memory and replayable run capsules. | [Guide / 操作导读](https://github.com/YucongDuan/NEUROGENESIS-Lab/blob/main/GETTING_STARTED.md) |
+
+## Publication watchlist
+
+[PancreaScope · publication staging](projects/1394350094.md) is discoverable in the medicine directory while its reviewed source, license and runnable release remain pending.
 
 ## Start with one inspectable artifact
 
