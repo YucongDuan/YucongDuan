@@ -14,16 +14,16 @@
 
 | Open research portfolio | Research areas | Profile languages |
 |:---:|:---:|:---:|
-| **492 public repositories** | **12 interconnected fields** | **13 language editions** |
+| **495 public repositories** | **12 interconnected fields** | **13 language editions** |
 
-Inventory checked **27 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
+Inventory checked **30 September 2026**. [Explore every repository →](REPOSITORY_DIRECTORY.md)
 
 **New release · 17 September 2026 — [DIKWP OpenStudio: China–ASEAN Edition](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0)** brings 13-language navigation, 12 complete Chinese/English/Vietnamese learning modules, four interactive semantic labs and a student project studio into one open-source toolkit. [Download the complete source](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/archive/refs/heads/main.zip) and open `OpenStudio_Offline.html` to begin. [Automated checks](https://github.com/YucongDuan/ASEAN_DIKWP_OpenStudio_v1.0.0/actions).
 
 <!-- PORTFOLIO-START -->
 ## Start with a result you can inspect
 
-**Vision, kidney and liver research companions · 2026-09-27**: complete source, English handbooks, Chinese entry guides, versioned downloads and online example reports.
+**Vision, kidney, liver and neural research companions · 2026-09-28–30**: complete source, English handbooks, Chinese entry guides, versioned downloads and online example reports.
 
 | Project | What you can explore |
 |---|---|
@@ -34,11 +34,24 @@ Inventory checked **27 September 2026**. [Explore every repository →](REPOSITO
 | [**PACT · Purpose and permission**](projects/1301408025.md) | Reproduce purpose, permission and evidence checks across 72 paired synthetic scenarios and four deterministic baselines. |
 | [**ASCENT 0.2 · Numerical research**](projects/1362110634.md) | Study bounded numerical experiments, stronger-reference comparisons, explicit adoption, monitoring and rollback. |
 | [**LucidEcon · Contribution and replay**](projects/1360834556.md) | Assess bounded opportunities, replay evidence receipts and allocate agreed contribution pools with exact accounting. |
+| [**NeuroWeave · Brain history**](projects/1391985420.md) | Run 18 chapter labs, reconstructive memory and purpose-pinned plans; v1.0.0 release with 155 local checks and synthetic-only boundaries. |
+| [**NEUROGENESIS · Nervous-system science**](projects/1391975962.md) | Recompute 24 experiments, 18 chapter labs, evidence memory and replayable run capsules; v1.0.0 release with 235 local checks. |
+| [**PancreaScope · publication staging**](projects/1394350094.md) | Track the pancreatic companion as an explicit publication placeholder; source/runtime is not yet published. |
 
-[Compare all 14 guided starting points](PROJECT_FINDER.md) · [Project search, source and downloads](catalog/README.md)
+[Compare all 16 guided starting points](PROJECT_FINDER.md) · [Project search, source and downloads](catalog/README.md)
 
 Every project has a detail page with its purpose, distribution format, license, instructions and verification links.
 <!-- PORTFOLIO-END -->
+
+## Semantic sovereignty and cognitive semantic governance
+
+**Semantic sovereignty** is Duan's 2025 concept for protecting the accurate, complete and fair expression of a community's language, culture, values and knowledge in digital systems. Within DIKWP, it treats semantic authority as a full-stack problem: data, information, knowledge, wisdom and purpose must remain traceable, revisable and aligned with legitimate human intent.
+
+A 2026 case lead supplied for this refresh describes **Zhonghan Software / 中翰软件** as positioning “Cognitive Semantic Governance” for a media-publishing platform: an AI-native data-governance solution uses ontology models and a shared business vocabulary to align heterogeneous data. This is a strong application lead and a natural DIKWP interoperability case. The supplied media references and performance percentages are retained as leads for verification, not counted here as independently audited adoption or a signed partnership.
+
+This profile uses **cooperation in the broad technical sense**: direct DIKWP use, public citation, patent-document evidence, architecture convergence, patent-landscape signals and concrete co-creation opportunities. IBM, Intel and Hitachi patent-search trails are therefore listed as collaboration leads for semantic-graph interoperability and competitive landscape analysis; a search result alone does not prove that any company used Duan's work.
+
+[Semantic sovereignty evidence and case leads](SEMANTIC_SOVEREIGNTY.md) · [Industry connections and co-creation](INDUSTRY_CONNECTIONS.md)
 
 ## A research programme with a growing international footprint
 
@@ -65,7 +78,7 @@ The distinctive contribution is the **systematic graph formalization and computa
 | You are here to… | Begin here |
 |---|---|
 | **Research or teach** | [Research brief](RESEARCH_BRIEF.md) · [Publications](PUBLICATIONS.md) · [Citation guide](CITING.md) |
-| **Build and evaluate** | [First experiment](START_HERE.md) · [492-project directory](REPOSITORY_DIRECTORY.md) |
+| **Build and evaluate** | [First experiment](START_HERE.md) · [495-project directory](REPOSITORY_DIRECTORY.md) |
 | **Explore industry collaboration** | [Industry connections](INDUSTRY_CONNECTIONS.md) · [Patent portfolio](PATENT_PORTFOLIO_MAP.md) · [Written proposal](COLLABORATE.md) |
 | **Write, interview or share** | [Impact overview](IMPACT.md) · [Ready-to-use introductions](SHARE.md) · [Chinese research and essays](CHINESE_RESEARCH.md) |
 
